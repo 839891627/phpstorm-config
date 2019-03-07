@@ -302,12 +302,12 @@
         <mark key="." line="22" column="3" />
         <mark key="^" line="25" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/@信用飞/贷超/贷超API表设计0307.md" timestamp="1551948472315">
-        <mark key="'" line="180" column="2" />
-        <mark key="[" line="221" column="0" />
-        <mark key="]" line="221" column="0" />
+      <file name="$USER_HOME$/Documents/@信用飞/贷超/贷超API表设计0307.md" timestamp="1551950160210">
+        <mark key="'" line="181" column="2" />
+        <mark key="[" line="219" column="0" />
+        <mark key="]" line="219" column="0" />
         <mark key="^" line="188" column="15" />
-        <mark key="." line="221" column="0" />
+        <mark key="." line="219" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/loanmarket/outerapi/config/main.php" timestamp="1551839827135">
         <mark key="'" line="40" column="31" />
@@ -383,8 +383,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="105" column="15" filename="$USER_HOME$/Develop/sfy/loanmarket/outerapi/贷超API表设计-精简版.md" />
-      <jump line="55" column="1" filename="$USER_HOME$/Develop/sfy/loanmarket/outerapi/贷超API表设计-精简版.md" />
       <jump line="77" column="0" filename="$USER_HOME$/Develop/sfy/loanmarket/outerapi/贷超API表设计-精简版.md" />
       <jump line="69" column="9" filename="$USER_HOME$/Develop/sfy/loanmarket/outerapi/贷超API表设计-精简版.md" />
       <jump line="91" column="24" filename="$USER_HOME$/Develop/sfy/loanmarket/outerapi/贷超API表设计-精简版.md" />
@@ -457,9 +455,7 @@
       <jump line="173" column="2" filename="$USER_HOME$/Documents/@信用飞/贷超/贷超API表设计0307.md" />
       <jump line="234" column="23" filename="$USER_HOME$/Documents/@信用飞/贷超/贷超API表设计0307.md" />
       <jump line="96" column="2" filename="$USER_HOME$/Documents/@信用飞/贷超/贷超API表设计0307.md" />
-      <jump line="164" column="2" filename="$USER_HOME$/Documents/@信用飞/贷超/贷超API表设计0307.md" />
       <jump line="182" column="2" filename="$USER_HOME$/Documents/@信用飞/贷超/贷超API表设计0307.md" />
-      <jump line="198" column="2" filename="$USER_HOME$/Documents/@信用飞/贷超/贷超API表设计0307.md" />
       <jump line="222" column="37" filename="$USER_HOME$/Documents/@信用飞/贷超/贷超API表设计0307.md" />
       <jump line="15" column="16" filename="$USER_HOME$/Documents/@信用飞/贷超/贷超API表设计0307.md" />
       <jump line="171" column="31" filename="$USER_HOME$/Documents/@信用飞/贷超/贷超API表设计0307.md" />
@@ -483,13 +479,17 @@
       <jump line="212" column="2" filename="$USER_HOME$/Documents/@信用飞/贷超/贷超API表设计0307.md" />
       <jump line="196" column="2" filename="$USER_HOME$/Documents/@信用飞/贷超/贷超API表设计0307.md" />
       <jump line="180" column="2" filename="$USER_HOME$/Documents/@信用飞/贷超/贷超API表设计0307.md" />
+      <jump line="164" column="5" filename="$USER_HOME$/Documents/@信用飞/贷超/贷超API表设计0307.md" />
+      <jump line="220" column="2" filename="$USER_HOME$/Documents/@信用飞/贷超/贷超API表设计0307.md" />
+      <jump line="198" column="2" filename="$USER_HOME$/Documents/@信用飞/贷超/贷超API表设计0307.md" />
+      <jump line="181" column="2" filename="$USER_HOME$/Documents/@信用飞/贷超/贷超API表设计0307.md" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBLRVkgYGxtLnN0YXR1c2AgKGBzdGF0dXNgKQo=</text>
+        <text encoding="base64">ICBVTklRVUUgS0VZIGBsb2FubWFya2V0X2lkYCAoYGxvYW5tYXJrZXRfaWRgKSwK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -501,7 +501,7 @@
         <text encoding="base64">YGNyZWF0ZWRfYXRgIGludCgxMSkgTlVMTCBERUZBVUxUICcnLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBLRVkgYGxtLnN0YXR1c2AgKGBzdGF0dXNgKQo=</text>
+        <text encoding="base64">ICBVTklRVUUgS0VZIGBsb2FubWFya2V0X2lkYCAoYGxvYW5tYXJrZXRfaWRgKSwK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -623,22 +623,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBgY3JlYXRlZF9hdGAgdGltZXN0YW1wIE5VTEwgREVGQVVMVCBOVUxMIENPTU1FTlQgJ+a3u+WKoOiusOW9lScsCg==</text>
+        <text encoding="base64">ICBLRVkgYGxtLnN0YXR1c2AgKGBzdGF0dXNgKQo=</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YGNyZWF0ZWRfYXRgIHRpbWVzdGFtcCBOVUxMIERFRkFVTFQgTlVMTCwK</text>
+        <text encoding="base64">ICBgY3JlYXRlZF9hdGAgdGltZXN0YW1wIE5VTEwgREVGQVVMVCBOVUxMIENPTU1FTlQgJ+a3u+WKoOiusOW9lScsCg==</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YGNyZWF0ZWRfYXRgIHRpbWVzdGFtcCBOVUxMIERFRkFVTFQgTlVMTCwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAK</text>
