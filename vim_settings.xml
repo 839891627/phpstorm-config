@@ -72,6 +72,11 @@
         <mark key="^" line="13" column="17" />
         <mark key="." line="13" column="17" />
       </file>
+      <file name="$USER_HOME$/Develop/sfy/loanmarket/common/models/Product.php" timestamp="1551962043632">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/839891627.github.io/themes/next/_config.yml" timestamp="1551749307644">
         <mark key="'" line="569" column="0" />
         <mark key="[" line="568" column="12" />
@@ -91,6 +96,9 @@
         <mark key="[" line="1025" column="0" />
         <mark key="]" line="1025" column="0" />
         <mark key="." line="1025" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/sfy/loanmarket/common/models/Loanmarket.php" timestamp="1551961998468">
+        <mark key="'" line="94" column="38" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/loanmarket/appapi/controllers/partners/UserController.php" timestamp="1551507089714">
         <mark key="'" line="21" column="31" />
@@ -299,7 +307,7 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="17" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551959663985">
+      <file name="/Dummy.txt" timestamp="1551961729407">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/shoufuyou-notify/lib/Controllers/Traits/UnionLoginTrait.php" timestamp="1551677917424">
@@ -428,7 +436,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Develop/sfy/loanmarket/outerapi/贷超API表设计-精简版.md" />
       <jump line="171" column="3" filename="$USER_HOME$/Develop/sfy/loanmarket/outerapi/贷超API表设计-精简版.md" />
       <jump line="183" column="6" filename="$USER_HOME$/Develop/sfy/loanmarket/outerapi/贷超API表设计-精简版.md" />
       <jump line="201" column="36" filename="$USER_HOME$/Develop/sfy/loanmarket/outerapi/贷超API表设计-精简版.md" />
@@ -528,13 +535,14 @@
       <jump line="131" column="0" filename="$USER_HOME$/Documents/@信用飞/贷超/贷超API表设计0307.md" />
       <jump line="28" column="39" filename="$USER_HOME$/Develop/sfy/loanmarket/outerapi/controllers/v1/ApiController.php" />
       <jump line="10" column="45" filename="$USER_HOME$/Develop/sfy/loanmarket/serviceapi/controllers/ProductController.php" />
+      <jump line="94" column="38" filename="$USER_HOME$/Develop/sfy/loanmarket/common/models/Loanmarket.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZnVuY3Rpb24gdGFibGVOYW1lKCkKICAgIHsKICAgICAgICByZXR1cm4gInt7JWFwaV9wcm9kdWN0IH19IjsKICAgIH0KCiAgICBwdWJsaWMgZnVuY3Rpb24gcnVsZXMoKQogICAgewogICAgICAgIAogICAgfQo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -563,7 +571,7 @@
         <text encoding="base64">ICAgIGNvbnN0IExJTUlUX1NUQVRVU19BTEwgPSAxOyAvL+aJgOacieS6ugogICAgY29uc3QgTElNSVRfU1RBVFVTX1VOTE9HSU4gPSAyOyAvL+acqueZu+W9lQogICAgY29uc3QgTElNSVRfU1RBVFVTX0xPR0lOID0gMzsgLy/lt7LnmbvlvZUKICAgIHB1YmxpYyBzdGF0aWMgJGxpbWl0U3RhdHVzTWFwID0gWwogICAgICAgIHNlbGY6OkxJTUlUX1NUQVRVU19BTEwgPT4gWyduYW1lJyA9PiAn5YWo6YOo5Y+v6KeBJywgJ3N0YXR1cycgPT4gc2VsZjo6TElNSVRfU1RBVFVTX0FMTF0sCiAgICAgICAgLy9zZWxmOjpMSU1JVF9TVEFUVVNfVU5MT0dJTiA9PiBbJ25hbWUnID0+ICfmnKrnmbvlvZXlj6/op4EnLCAnc3RhdHVzJyA9PiBzZWxmOjpMSU1JVF9TVEFUVVNfVU5MT0dJTl0sCiAgICAgICAgLy9zZWxmOjpMSU1JVF9TVEFUVVNfTE9HSU4gPT4gWyduYW1lJyA9PiAn55m75b2V5Y+v6KeBJywgJ3N0YXR1cycgPT4gc2VsZjo6TElNSVRfU1RBVFVTX0xPR0lOXSwKICAgIF07CgogICAgY29uc3QgU1RBVFVTX09GRkxJTkUgPSAwOyAvL+S4i+aetgogICAgY29uc3QgU1RBVFVTX09OTElORSA9IDE7IC8v5LiK5p62CiAgICBwdWJsaWMgc3RhdGljICRzdGF0dXNNYXAgPSBbCiAgICAgICAgc2VsZjo6U1RBVFVTX09GRkxJTkUgPT4gWyduYW1lJyA9PiAn5LiL5p62J10sCiAgICAgICAgc2VsZjo6U1RBVFVTX09OTElORSA9PiBbJ25hbWUnID0+ICfkuIrmnrYnXSwKICAgIF07CgogICAgY29uc3QgVklTSVRfU1RBVFVTX0NPTkZJUk1fTk8gPSAwOyAvL+ehruiupOS4rQogICAgY29uc3QgVklTSVRfU1RBVFVTX0NPTkZJUk1fWUVTID0gMTsgLy/lt7Lnoa7orqQKICAgIHB1YmxpYyBzdGF0aWMgJHZpc2l0U3RhdHVzTWFwID0gWwogICAgICAgIHNlbGY6OlZJU0lUX1NUQVRVU19DT05GSVJNX05PID0+IFsnbmFtZScgPT4gJ+ehruiupOS4rSddLAogICAgICAgIHNlbGY6OlZJU0lUX1NUQVRVU19DT05GSVJNX1lFUyA9PiBbJ25hbWUnID0+ICflt7Lnoa7orqQnXSwKICAgIF07Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZnVuY3Rpb24gdGFibGVOYW1lKCkKICAgIHsKICAgICAgICByZXR1cm4gInt7JWFwaV9wcm9kdWN0IH19IjsKICAgIH0KCiAgICBwdWJsaWMgZnVuY3Rpb24gcnVsZXMoKQogICAgewogICAgICAgIAogICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -685,7 +693,7 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBwYXJlbnQ6OnRhYmxlTmFtZSgpOyAvLyBUT0RPOiBDaGFuZ2UgdGhlIGF1dG9nZW5lcmF0ZWQgc3R1Ygo=</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
@@ -703,10 +711,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGQoMSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBVTklRVUUgS0VZIGBsb2FubWFya2V0X2lkYCAoYGxvYW5tYXJrZXRfaWRgKSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -717,10 +725,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBLRVkgYGxtLnN0YXR1c2AgKGBzdGF0dXNgKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBgY3JlYXRlZF9hdGAgdGltZXN0YW1wIE5VTEwgREVGQVVMVCBOVUxMIENPTU1FTlQgJ+a3u+WKoOiusOW9lScsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>nohls</text>
@@ -772,11 +780,11 @@
         <entry>vs</entry>
         <entry>action NextSplitter</entry>
         <entry>m .-2</entry>
-        <entry>action NextTab</entry>
-        <entry>action PreviousTab</entry>
         <entry>actionList</entry>
         <entry>nohlsnohls</entry>
         <entry>m .+1</entry>
+        <entry>action NextTab</entry>
+        <entry>action PreviousTab</entry>
         <entry>wq</entry>
         <entry>nohls</entry>
       </history-cmd>
