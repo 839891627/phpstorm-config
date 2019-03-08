@@ -284,6 +284,9 @@
         <mark key="]" line="87" column="0" />
         <mark key="." line="87" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/sfy/loanmarket/common/unit/CodeMessage.php" timestamp="1552039619065">
+        <mark key="'" line="111" column="8" />
+      </file>
       <file name="$USER_HOME$/Develop/sfy/loanmarket/outerapi/贷超API表设计-精简版.md" timestamp="1551929366159">
         <mark key="'" line="19" column="15" />
         <mark key="[" line="175" column="14" />
@@ -322,12 +325,11 @@
         <mark key="^" line="10" column="39" />
         <mark key="." line="10" column="39" />
       </file>
-      <file name="$USER_HOME$/Develop/sfy/loanmarket/common/models/ApiOrder.php" timestamp="1552034612391">
+      <file name="$USER_HOME$/Develop/sfy/loanmarket/common/models/ApiOrder.php" timestamp="1552039475807">
         <mark key="'" line="62" column="5" />
-        <mark key="[" line="61" column="40" />
-        <mark key="]" line="61" column="43" />
-        <mark key="^" line="61" column="43" />
-        <mark key="." line="61" column="43" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/loanmarket/common/models/ApiBindCardRecord.php" timestamp="1552038470744">
         <mark key="'" line="44" column="6" />
@@ -427,8 +429,8 @@
         <mark key="." line="79" column="55" />
         <mark key="^" line="79" column="55" />
       </file>
-      <file name="$USER_HOME$/Develop/sfy/loanmarket/common/models/ApiOrderDetail.php" timestamp="1552034622691">
-        <mark key="'" line="66" column="0" />
+      <file name="$USER_HOME$/Develop/sfy/loanmarket/common/models/ApiOrderDetail.php" timestamp="1552039649510">
+        <mark key="'" line="12" column="0" />
         <mark key="[" line="89" column="31" />
         <mark key="]" line="89" column="36" />
         <mark key="." line="89" column="36" />
@@ -453,6 +455,12 @@
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/sfy/loanmarket/outerapi/config/main.php" timestamp="1552023721482">
+        <mark key="'" line="33" column="31" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/loanmarket/demoapi/components/UrlRule.php" timestamp="1551938469277">
         <mark key="'" line="15" column="0" />
@@ -513,8 +521,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="2" filename="$USER_HOME$/Develop/sfy/loanmarket/sql/lm_api.sql" />
-      <jump line="57" column="0" filename="$USER_HOME$/Develop/sfy/loanmarket/sql/lm_api.sql" />
       <jump line="220" column="2" filename="$USER_HOME$/Develop/sfy/loanmarket/sql/lm_api.sql" />
       <jump line="64" column="2" filename="$USER_HOME$/Develop/sfy/loanmarket/sql/lm_api.sql" />
       <jump line="216" column="2" filename="$USER_HOME$/Develop/sfy/loanmarket/sql/lm_api.sql" />
@@ -613,13 +619,15 @@
       <jump line="39" column="4" filename="$USER_HOME$/Develop/sfy/loanmarket/common/models/ApiUserFilterResult.php" />
       <jump line="35" column="28" filename="$USER_HOME$/Develop/sfy/loanmarket/common/models/ApiUserFilterResult.php" />
       <jump line="43" column="10" filename="$USER_HOME$/Develop/sfy/loanmarket/common/models/ApiUserFilterResult.php" />
+      <jump line="111" column="8" filename="$USER_HOME$/Develop/sfy/loanmarket/common/unit/CodeMessage.php" />
+      <jump line="12" column="0" filename="$USER_HOME$/Develop/sfy/loanmarket/common/models/ApiOrderDetail.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>$</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICA7XQo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -648,7 +656,7 @@
         <text>贷款期限单位</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkYXBpUHJvZHVjdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICA7XQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -770,28 +778,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1ldGEgPVsK</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
-      <register name="3" type="8">
-        <text encoding="base64">Y29uc3QgIApjb25zdCAgCmNvbnN0ICAKY29uc3QgIApjb25zdCAgCmNvbnN0ICA=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgkYXBpUHJvZHVjdCk7Cg==</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Ly8gIOWAn+asvuadg+mZkDoyMDAgICAg5Y+v5Lul5YCf5qy+LDMwMeeUqOaIt+W5tOm+hOi/h+Wkp+aIlui/h+Wwjyw0MDHnlKjmiLflnKjmnLrmnoTmnInmnKrlrozmiJDnmoTlgJ/mrL4sCi8vNDAy55So5oi35Zyo5py65p6E5pyJ5LiN6Imv5YCf5qy+6K6w5b2VLDQwM+ivpeeUqOaIt+aYr+W+geS/oeezu+e7n+m7keWQjeWNleeUqOaItyw1MDXlhbbku5bljp/lm6DvvIznpoHmraLnlKjmiLflgJ/mrL7jgILpnIDlnKjlpIfms6jor7Tor7TmmI7ljp/lm6AK</text>
+      <register name="5" type="8">
+        <text encoding="base64">Y29uc3QgIApjb25zdCAgCmNvbnN0ICAKY29uc3QgIApjb25zdCAgCmNvbnN0ICA=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gMTAw6L+Y5qy+55Sz6K+35o+Q5Lqk5oiQ5YqfLCDov5jmrL7miJDlip/lkI7pgJrnn6XlubPlj7A7Ci8vMTAy6L+Y5qy+6ZyA55+t5L+h6aqM6K+B56CB77yM6K+36L6T5YWl5bey5Y+R6YCB55qE6aqM6K+B56CB6YeN5paw6K+35rGCOwovLzIwMOi/mOasvuW3sue7j+aIkOWKnzsKLy80MDHov5jmrL7lpLHotKXvvIzkvZnpop3kuI3otrM7Ci8vNDAy5LuK5pel5Luj5omj5qyh5pWw5bey55So5a6MOwovLzQwM+S7iuaXpeaUr+S7mOmineW6puW3sui+vuS4iumZkDsKLy80MDXpqozor4HnoIHovpPlhaXplJnor687Ci8vNTA15YW25LuW6L+Y5qy+5aSx6LSl5Y6f5Zug77yM6K+35aSH5rOo5YiwZmFpbF9yZWFzb27lrZfmrrXnlKjkuo7liY3nq6/pgI8K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="7" type="8">
-        <text encoding="base64">Y29uc3QgCmNvbnN0IApjb25zdCAKY29uc3QgCmNvbnN0IApjb25zdCAKY29uc3Qg</text>
+      <register name="7" type="2">
+        <text encoding="base64">Ly8gIOWAn+asvuadg+mZkDoyMDAgICAg5Y+v5Lul5YCf5qy+LDMwMeeUqOaIt+W5tOm+hOi/h+Wkp+aIlui/h+Wwjyw0MDHnlKjmiLflnKjmnLrmnoTmnInmnKrlrozmiJDnmoTlgJ/mrL4sCi8vNDAy55So5oi35Zyo5py65p6E5pyJ5LiN6Imv5YCf5qy+6K6w5b2VLDQwM+ivpeeUqOaIt+aYr+W+geS/oeezu+e7n+m7keWQjeWNleeUqOaItyw1MDXlhbbku5bljp/lm6DvvIznpoHmraLnlKjmiLflgJ/mrL7jgILpnIDlnKjlpIfms6jor7Tor7TmmI7ljp/lm6AK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -802,13 +810,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIAo=</text>
+        <text encoding="base64">Ly8gMTAw6L+Y5qy+55Sz6K+35o+Q5Lqk5oiQ5YqfLCDov5jmrL7miJDlip/lkI7pgJrnn6XlubPlj7A7Ci8vMTAy6L+Y5qy+6ZyA55+t5L+h6aqM6K+B56CB77yM6K+36L6T5YWl5bey5Y+R6YCB55qE6aqM6K+B56CB6YeN5paw6K+35rGCOwovLzIwMOi/mOasvuW3sue7j+aIkOWKnzsKLy80MDHov5jmrL7lpLHotKXvvIzkvZnpop3kuI3otrM7Ci8vNDAy5LuK5pel5Luj5omj5qyh5pWw5bey55So5a6MOwovLzQwM+S7iuaXpeaUr+S7mOmineW6puW3sui+vuS4iumZkDsKLy80MDXpqozor4HnoIHovpPlhaXplJnor687Ci8vNTA15YW25LuW6L+Y5qy+5aSx6LSl5Y6f5Zug77yM6K+35aSH5rOo5YiwZmFpbF9yZWFzb27lrZfmrrXnlKjkuo7liY3nq6/pgI8K</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIF07Cg==</text>
+      <register name="9" type="8">
+        <text encoding="base64">Y29uc3QgCmNvbnN0IApjb25zdCAKY29uc3QgCmNvbnN0IApjb25zdCAKY29uc3Qg</text>
       </register>
       <register name=":" type="4">
-        <text>nohls</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -862,8 +870,8 @@
         <entry encoding="base64">JzwsJz5zLz0uKi89PicnLA==</entry>
         <entry>action NextSplitter</entry>
         <entry>action NextTab</entry>
-        <entry>wq</entry>
         <entry>nohls</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
