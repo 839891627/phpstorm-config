@@ -39,11 +39,9 @@
         <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/loanmarket/common/service/ApiOrderService.php" timestamp="1552112288868">
-        <mark key="'" line="48" column="6" />
         <mark key="[" line="62" column="0" />
         <mark key="]" line="62" column="0" />
         <mark key="." line="62" column="0" />
-        <mark key="^" line="49" column="16" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/loanmarket/demoapi/demo.md" timestamp="1551768973577">
         <mark key="'" line="1010" column="24" />
@@ -271,12 +269,12 @@
         <mark key="." line="141" column="35" />
         <mark key="^" line="140" column="9" />
       </file>
-      <file name="$USER_HOME$/Develop/sfy/loanmarket/serviceapi/controllers/ApiRepayController.php" timestamp="1552113407511">
+      <file name="$USER_HOME$/Develop/sfy/loanmarket/serviceapi/controllers/ApiRepayController.php" timestamp="1552121580670">
         <mark key="'" line="34" column="25" />
-        <mark key="[" line="30" column="25" />
-        <mark key="]" line="30" column="27" />
-        <mark key="." line="30" column="27" />
-        <mark key="^" line="30" column="27" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="^" line="42" column="0" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/shoufuyou-notify/lib/Controllers/UnionLogin/XyfController.php" timestamp="1551433723055">
         <mark key="'" line="154" column="4" />
@@ -334,6 +332,11 @@
         <mark key="^" line="13" column="17" />
         <mark key="." line="13" column="17" />
       </file>
+      <file name="$USER_HOME$/Develop/sfy/loanmarket/common/models/Product.php" timestamp="1551962043632">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/839891627.github.io/themes/next/_config.yml" timestamp="1551749307644">
         <mark key="'" line="569" column="0" />
         <mark key="[" line="568" column="12" />
@@ -381,6 +384,9 @@
         <mark key="]" line="23" column="9" />
         <mark key="^" line="23" column="9" />
         <mark key="." line="23" column="9" />
+      </file>
+      <file name="$USER_HOME$/Develop/sfy/loanmarket/common/helper/ApiCodeHelper.php" timestamp="1552121404211">
+        <mark key="'" line="110" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/loanmarket/outerapi/贷超API表设计.md" timestamp="1551928018727">
         <mark key="'" line="129" column="0" />
@@ -542,7 +548,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="4" filename="$USER_HOME$/Develop/sfy/loanmarket/common/models/ApiOrder.php" />
       <jump line="77" column="8" filename="$USER_HOME$/Develop/sfy/loanmarket/common/models/ApiOrder.php" />
       <jump line="5" column="0" filename="$USER_HOME$/Develop/sfy/loanmarket/common/models/ApiOrder.php" />
       <jump line="18" column="21" filename="$USER_HOME$/Develop/sfy/loanmarket/serviceapi/controllers/ApiOrderController.php" />
@@ -642,13 +647,14 @@
       <jump line="34" column="25" filename="$USER_HOME$/Develop/sfy/loanmarket/serviceapi/controllers/ApiRepayController.php" />
       <jump line="80" column="75" filename="$USER_HOME$/Develop/sfy/loanmarket/common/unit/CodeMessage.php" />
       <jump line="40" column="31" filename="$USER_HOME$/Develop/sfy/loanmarket/common/unit/Validate.php" />
+      <jump line="110" column="0" filename="$USER_HOME$/Develop/sfy/loanmarket/common/helper/ApiCodeHelper.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gMi4g5YaN5re75Yqg6L+Y5qy+6K6w5b2VCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBBcGlSZXBheVBsYW5EZXRhaWw6OnVwZGF0ZUFsbChbXSk7Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -668,16 +674,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>required</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwdXNoUGFydG5lclw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gMi4g5YaN5re75Yqg6L+Y5qy+6K6w5b2VCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gMy4g5pyA5ZCO5pu05paw6L+Y5qy+6K6h5YiS6K6w5b2VCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBBcGlSZXBheVBsYW5EZXRhaWw6OnVwZGF0ZUFsbChbXSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -799,28 +805,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkcmV0ID0gUGFydG5lclNlcnZpY2U6OnJlcGF5KCRwYXJhbXMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC0+Cg==</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdyZXBheV90eXBlJyA9PiBbJ25hbWUnID0+ICfov5jmrL7nsbvlnosnLCAndHlwZScgPT4gJ3JlcXVpcmVkJ10sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC0+d2hlcmUoWydvZGVyX3NuJyA9PiAkcGFyYW1zWydvcmRlcl9zbiddXSkK</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
+        <text encoding="base64">ICAgICAgICAkcmV0ID0gUGFydG5lclNlcnZpY2U6OnJlcGF5KCRwYXJhbXMpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IENBTExfSVNfVVNFUl9BQ0NFUFQgPSAnQmluZENhcmQuZ2V0VmFsaWRCYW5rTGlzdCc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdyZXBheV90eXBlJyA9PiBbJ25hbWUnID0+ICfov5jmrL7nsbvlnosnLCAndHlwZScgPT4gJ3JlcXVpcmVkJ10sCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -831,10 +837,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>nohls</text>
