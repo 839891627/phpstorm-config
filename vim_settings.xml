@@ -287,6 +287,9 @@
         <mark key="." line="41" column="6" />
         <mark key="^" line="41" column="6" />
       </file>
+      <file name="$USER_HOME$/Develop/sfy/loanmarket/vendor/guzzlehttp/guzzle/src/Client.php" timestamp="1552563558738">
+        <mark key="'" line="14" column="29" />
+      </file>
       <file name="$USER_HOME$/Develop/sfy/loanmarket/outerapi/贷超API表设计1.md" timestamp="1551863757990">
         <mark key="'" line="37" column="45" />
         <mark key="[" line="29" column="20" />
@@ -549,20 +552,15 @@
         <mark key="." line="41" column="0" />
         <mark key="^" line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/sfy/loanmarket/common/helper/ApiHttpClientHelper.php" timestamp="1552530003414">
-        <mark key="'" line="51" column="0" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/Develop/sfy/loanmarket/common/helper/ApiHttpClientHelper.php" timestamp="1552564185235">
+        <mark key="'" line="48" column="17" />
+        <mark key="[" line="70" column="21" />
+        <mark key="]" line="70" column="30" />
+        <mark key="." line="70" column="30" />
+        <mark key="^" line="70" column="30" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="92" column="52" filename="$USER_HOME$/Develop/sfy/loanmarket/common/service/ApiRepayService.php" />
-      <jump line="78" column="7" filename="$USER_HOME$/Develop/sfy/loanmarket/common/service/ApiRepayService.php" />
-      <jump line="89" column="13" filename="$USER_HOME$/Develop/sfy/loanmarket/common/service/ApiRepayService.php" />
-      <jump line="88" column="0" filename="$USER_HOME$/Develop/sfy/loanmarket/common/service/ApiRepayService.php" />
-      <jump line="79" column="0" filename="$USER_HOME$/Develop/sfy/loanmarket/common/service/ApiRepayService.php" />
-      <jump line="106" column="33" filename="$USER_HOME$/Develop/sfy/loanmarket/common/service/ApiRepayService.php" />
       <jump line="77" column="0" filename="$USER_HOME$/Develop/sfy/loanmarket/common/service/ApiRepayService.php" />
       <jump line="118" column="6" filename="$USER_HOME$/Develop/sfy/loanmarket/common/service/ApiRepayService.php" />
       <jump line="137" column="11" filename="$USER_HOME$/Develop/sfy/loanmarket/common/service/ApiRepayService.php" />
@@ -657,13 +655,19 @@
       <jump line="85" column="73" filename="$USER_HOME$/Develop/sfy/loanmarket/common/service/PartnerCallbackService.php" />
       <jump line="104" column="0" filename="$USER_HOME$/Develop/sfy/loanmarket/common/service/PartnerCallbackService.php" />
       <jump line="39" column="5" filename="$USER_HOME$/Develop/sfy/loanmarket/serviceapi/controllers/LoanmarketController.php" />
+      <jump line="280" column="4" filename="$USER_HOME$/Develop/sfy/loanmarket/vendor/guzzlehttp/guzzle/src/Client.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Develop/sfy/loanmarket/vendor/guzzlehttp/guzzle/src/Client.php" />
+      <jump line="14" column="29" filename="$USER_HOME$/Develop/sfy/loanmarket/vendor/guzzlehttp/guzzle/src/Client.php" />
+      <jump line="67" column="47" filename="$USER_HOME$/Develop/sfy/loanmarket/common/helper/ApiHttpClientHelper.php" />
+      <jump line="73" column="48" filename="$USER_HOME$/Develop/sfy/loanmarket/common/helper/ApiHttpClientHelper.php" />
+      <jump line="48" column="17" filename="$USER_HOME$/Develop/sfy/loanmarket/common/helper/ApiHttpClientHelper.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBcWWlpOjoK</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -683,16 +687,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>，</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>return</text>
+        <text>post</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">6ZSZ6K+v5oOF5Ya1IDLvvJoKYGBgCnsKICAgICJjb2RlIjogIjQwMDAwMSIsCiAgICAibWVzc2FnZSI6ICLmlbDmja7lvILluLg66K+35Yu/6YeN5aSN5o+Q5Lqk6L+Y5qy+55Sz6K+3ISIsIC8vIOivtOaYjui/meS4gOacn+W3sue7j+WPkei1t+i/h+i/mOasvu+8jOW5s+WPsOato+WcqOWkhOeQhuS4rQogICAgImRhdGEiOiB7fQp9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkcGFyYW1zID0gYXJyYXlfbWVyZ2UoWwogICAgICAgICAgICAgICAgICAgICAgICAnanNvbicgPT4gJHBhcmFtcywKICAgICAgICAgICAgICAgICAgICBdLCAkb3B0aW9ucyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBcWWlpOjoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkcGFyYW1zID0gWwogICAgICAgICAgICAgICAgICAgICAgICAnanNvbicgPT4gJHBhcmFtcywKICAgICAgICAgICAgICAgICAgICBdOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -813,26 +817,32 @@
           <key char="103" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkcmV0ID0ganNvbl9kZWNvZGUoJyAKewogICAgInN0YXR1cyI6MSwKICAgICJtZXNzYWdlIjogInN1Y2Nlc3MiLAogICAgInJlc3BvbnNlIjogewogICAgICAgICJyZXBheV9yZXN1bHQiOiAiNTA1IgogICAgfQp9JywgMSk7Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtICR1cmwKICAgICAqIEBwYXJhbSBhcnJheSAkcGFyYW1zCiAgICAgKiBAcGFyYW0gc3RyaW5nICRtZXRob2QKICAgICAqIEByZXR1cm4gbWl4ZWQKICAgICAqLw==</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
-      <register name="3" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBcWWlpOjoK</text>
+      </register>
+      <register name="s" type="4">
+        <text>&quot;</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAkcmV0ID0ganNvbl9kZWNvZGUoJyAKewogICAgInN0YXR1cyI6MSwKICAgICJtZXNzYWdlIjogInN1Y2Nlc3MiLAogICAgInJlc3BvbnNlIjogewogICAgICAgICJyZXBheV9yZXN1bHQiOiAiNTA1IgogICAgfQp9JywgMSk7Cg==</text>
+      </register>
+      <register name="5" type="4">
         <text>{
     &quot;code&quot;: &quot;400001&quot;,
     &quot;message&quot;: &quot;数据异常:请勿重复提交还款申请!&quot;, // 说明这一期已经发起过还款，平台正在处理中
     &quot;data&quot;: {}
 }</text>
       </register>
-      <register name="s" type="4">
-        <text>&quot;</text>
-      </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICAgICAgICAgICAgICAgICRyZXR1cm4gPSBbCiAgICAgICAgICAgICAgICAgICAgPT4n5o+Q5Lqk55qE6L+Y5qy+5pyf5pWw5LiN56ym5ZCI6K6w5b2VJwogICAgICAgICAgICAgICAgXTsKCiAgICAgICAgICAgICAgICByZXR1cm47</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>{
     &quot;code&quot;: &quot;000000&quot;,
     &quot;message&quot;: &quot;操作成功&quot;,
@@ -841,12 +851,6 @@
         &quot;msg&quot;: &quot;验证码输入错误&quot;
     }
 }</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CmBgYAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -857,19 +861,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ewogICAgImNvZGUiOiAiMDAwMDAwIiwKICAgICJtZXNzYWdlIjogIuaTjeS9nOaIkOWKnyIsCiAgICAiZGF0YSI6IHsKICAgICAgICAiY29kZSI6ICI0MDMiLAogICAgICAgICJtc2ciOiAi5LuK5pel5pSv5LuY6aKd5bqm5bey6L6+5LiK6ZmQIgogICAgfQo=</text>
+        <text encoding="base64">CmBgYAo=</text>
       </register>
       <register name=":" type="4">
-        <text>nohls</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search>return</last-search>
+      <last-search>post</last-search>
       <last-offset />
-      <last-pattern>return</last-pattern>
+      <last-pattern>post</last-pattern>
       <last-replace />
       <last-substitute>`</last-substitute>
       <last-dir>1</last-dir>
@@ -877,8 +881,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhbHJlYWR5X3BhaWRcPg==</entry>
-        <entry>附录</entry>
         <entry>font-family</entry>
         <entry encoding="base64">XDx1dWlkXD4=</entry>
         <entry encoding="base64">XDxsbV9hcGlfcHJvZHVjdFw+</entry>
@@ -897,6 +899,8 @@
         <entry>msg</entry>
         <entry encoding="base64">XDxtc2dcPg==</entry>
         <entry>return</entry>
+        <entry encoding="base64">XDxwb3N0XD4=</entry>
+        <entry>post</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLywuKi8sL2c=</entry>
@@ -917,8 +921,8 @@
         <entry>vs</entry>
         <entry>.,.+1nohls</entry>
         <entry>action NextSplitter</entry>
-        <entry>wq</entry>
         <entry>nohls</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
