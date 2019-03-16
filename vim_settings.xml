@@ -47,12 +47,12 @@
         <mark key="." line="8" column="33" />
         <mark key="^" line="8" column="33" />
       </file>
-      <file name="$USER_HOME$/Develop/sfy/loanmarket/serviceapi/controllers/ApiOrderController.php" timestamp="1552649011001">
-        <mark key="'" line="117" column="0" />
-        <mark key="[" line="111" column="65" />
-        <mark key="]" line="111" column="72" />
-        <mark key="." line="111" column="72" />
-        <mark key="^" line="111" column="72" />
+      <file name="$USER_HOME$/Develop/sfy/loanmarket/serviceapi/controllers/ApiOrderController.php" timestamp="1552716441308">
+        <mark key="'" line="109" column="35" />
+        <mark key="[" line="111" column="69" />
+        <mark key="]" line="111" column="69" />
+        <mark key="." line="111" column="69" />
+        <mark key="^" line="111" column="69" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/loanmarket/common/config/test/rabbitmq.php" timestamp="1552703115443" />
       <file name="$USER_HOME$/Develop/sfy/loanmarket/vendor/guzzlehttp/guzzle/src/Client.php" timestamp="1552563558738">
@@ -110,11 +110,12 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/sfy/loanmarket/common/helper/ApiOrderQueueHelper.php" timestamp="1552704515901">
-        <mark key="'" line="261" column="8" />
-        <mark key="[" line="202" column="0" />
-        <mark key="]" line="202" column="0" />
-        <mark key="." line="202" column="0" />
+      <file name="$USER_HOME$/Develop/sfy/loanmarket/common/helper/ApiOrderQueueHelper.php" timestamp="1552716683869">
+        <mark key="'" line="177" column="8" />
+        <mark key="[" line="480" column="0" />
+        <mark key="]" line="480" column="0" />
+        <mark key="." line="480" column="0" />
+        <mark key="^" line="480" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/loanmarket/common/models/ApiRepayPlanOverview.php" timestamp="1552618426750">
         <mark key="'" line="20" column="0" />
@@ -183,11 +184,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="28" filename="$USER_HOME$/Develop/sfy/loanmarket/common/models/ApiPushOrderRecord.php" />
-      <jump line="273" column="31" filename="$USER_HOME$/Develop/sfy/loanmarket/sql/lm_api.sql" />
-      <jump line="193" column="8" filename="$USER_HOME$/Develop/sfy/loanmarket/common/helper/ApiOrderQueueHelper.php" />
-      <jump line="196" column="13" filename="$USER_HOME$/Develop/sfy/loanmarket/common/helper/ApiOrderQueueHelper.php" />
-      <jump line="252" column="11" filename="$USER_HOME$/Develop/sfy/loanmarket/common/helper/ApiOrderQueueHelper.php" />
       <jump line="253" column="9" filename="$USER_HOME$/Develop/sfy/loanmarket/common/helper/ApiOrderQueueHelper.php" />
       <jump line="254" column="18" filename="$USER_HOME$/Develop/sfy/loanmarket/common/helper/ApiOrderQueueHelper.php" />
       <jump line="242" column="4" filename="$USER_HOME$/Develop/sfy/loanmarket/common/helper/ApiOrderQueueHelper.php" />
@@ -214,7 +210,6 @@
       <jump line="172" column="12" filename="$USER_HOME$/Develop/sfy/loanmarket/common/helper/ApiOrderQueueHelper.php" />
       <jump line="115" column="5" filename="$USER_HOME$/Develop/sfy/loanmarket/common/helper/ApiOrderQueueHelper.php" />
       <jump line="204" column="4" filename="$USER_HOME$/Develop/sfy/loanmarket/common/helper/ApiOrderQueueHelper.php" />
-      <jump line="109" column="33" filename="$USER_HOME$/Develop/sfy/loanmarket/serviceapi/controllers/ApiOrderController.php" />
       <jump line="117" column="0" filename="$USER_HOME$/Develop/sfy/loanmarket/serviceapi/controllers/ApiOrderController.php" />
       <jump line="51" column="22" filename="$USER_HOME$/Develop/sfy/loanmarket/common/helper/ApiOrderQueueHelper.php" />
       <jump line="123" column="22" filename="$USER_HOME$/Develop/sfy/loanmarket/common/helper/ApiOrderQueueHelper.php" />
@@ -280,16 +275,22 @@
       <jump line="535" column="6" filename="$USER_HOME$/Develop/sfy/loanmarket/common/helper/ApiOrderQueueHelper.php" />
       <jump line="543" column="8" filename="$USER_HOME$/Develop/sfy/loanmarket/common/helper/ApiOrderQueueHelper.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/sfy/loanmarket/common/helper/ApiOrderQueueHelper.php" />
-      <jump line="177" column="8" filename="$USER_HOME$/Develop/sfy/loanmarket/common/helper/ApiOrderQueueHelper.php" />
       <jump line="202" column="0" filename="$USER_HOME$/Develop/sfy/loanmarket/common/helper/ApiOrderQueueHelper.php" />
       <jump line="261" column="8" filename="$USER_HOME$/Develop/sfy/loanmarket/common/helper/ApiOrderQueueHelper.php" />
+      <jump line="107" column="13" filename="$USER_HOME$/Develop/sfy/loanmarket/serviceapi/controllers/ApiOrderController.php" />
+      <jump line="99" column="37" filename="$USER_HOME$/Develop/sfy/loanmarket/serviceapi/controllers/ApiOrderController.php" />
+      <jump line="109" column="35" filename="$USER_HOME$/Develop/sfy/loanmarket/serviceapi/controllers/ApiOrderController.php" />
+      <jump line="54" column="27" filename="$USER_HOME$/Develop/sfy/loanmarket/common/helper/ApiOrderQueueHelper.php" />
+      <jump line="154" column="8" filename="$USER_HOME$/Develop/sfy/loanmarket/common/helper/ApiOrderQueueHelper.php" />
+      <jump line="177" column="8" filename="$USER_HOME$/Develop/sfy/loanmarket/common/helper/ApiOrderQueueHelper.php" />
+      <jump line="104" column="8" filename="$USER_HOME$/Develop/sfy/loanmarket/common/helper/ApiOrderQueueHelper.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobyAkZS0+Z2V0TWVzc2FnZSgpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>。</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -309,10 +310,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>consoleError</text>
+        <text>。</text>
       </register>
       <register name="/" type="4">
-        <text>echo</text>
+        <text encoding="base64">XDxpbW1lZGlhdGVseVB1c2hcPg==</text>
       </register>
       <register name="0" type="4">
         <text>推单(网络)失败：</text>
@@ -482,9 +483,9 @@
       </register>
     </registers>
     <search>
-      <last-search>echo</last-search>
+      <last-search encoding="base64">XDxpbW1lZGlhdGVseVB1c2hcPg==</last-search>
       <last-offset />
-      <last-pattern>echo</last-pattern>
+      <last-pattern encoding="base64">XDxpbW1lZGlhdGVseVB1c2hcPg==</last-pattern>
       <last-replace>|</last-replace>
       <last-substitute>||</last-substitute>
       <last-dir>1</last-dir>
@@ -494,7 +495,6 @@
       <history-search>
         <entry>||</entry>
         <entry>mater</entry>
-        <entry encoding="base64">XDxpbW1lZGlhdGVseVB1c2hcPg==</entry>
         <entry encoding="base64">XDxpbW1lZGlhdGVseVJlY2VpdmVcPg==</entry>
         <entry encoding="base64">XDxBcGlPcmRlclF1ZXVlSGVscGVyXD4=</entry>
         <entry encoding="base64">XDxkZWxheV9wdXNoX29yZGVyXD4=</entry>
@@ -512,6 +512,7 @@
         <entry encoding="base64">XDxqc29uX2VuY29kZVw+</entry>
         <entry encoding="base64">XDxBcGlSZXBheVBsYW5EZXRhaWxcPg==</entry>
         <entry>echo</entry>
+        <entry encoding="base64">XDxpbW1lZGlhdGVseVB1c2hcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyI6L106L2c=</entry>
