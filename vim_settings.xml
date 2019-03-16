@@ -365,12 +365,12 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/sfy/loanmarket/common/helper/ApiOrderQueueHelper.php" timestamp="1552717700480">
-        <mark key="'" line="10" column="18" />
-        <mark key="[" line="183" column="0" />
-        <mark key="]" line="183" column="0" />
-        <mark key="." line="183" column="0" />
-        <mark key="^" line="178" column="33" />
+      <file name="$USER_HOME$/Develop/sfy/loanmarket/common/helper/ApiOrderQueueHelper.php" timestamp="1552721112535">
+        <mark key="'" line="264" column="43" />
+        <mark key="[" line="175" column="29" />
+        <mark key="]" line="175" column="34" />
+        <mark key="^" line="175" column="34" />
+        <mark key="." line="175" column="34" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/loanmarket/outerapi/贷超API表设计-精简版.md" timestamp="1551929366159">
         <mark key="'" line="19" column="15" />
@@ -579,7 +579,7 @@
         <mark key="." line="47" column="29" />
         <mark key="^" line="47" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1552720371550">
+      <file name="/Dummy.txt" timestamp="1552721160924">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/loanmarket/demoapi/readme.md" timestamp="1551755714430">
@@ -649,10 +649,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="84" filename="$USER_HOME$/Develop/sfy/loanmarket/common/service/ApiRepayService.php" />
-      <jump line="117" column="5" filename="$USER_HOME$/Develop/sfy/loanmarket/common/service/ApiRepayService.php" />
-      <jump line="125" column="84" filename="$USER_HOME$/Develop/sfy/loanmarket/common/service/ApiRepayService.php" />
-      <jump line="134" column="22" filename="$USER_HOME$/Develop/sfy/loanmarket/common/service/ApiRepayService.php" />
       <jump line="36" column="0" filename="$USER_HOME$/Develop/sfy/loanmarket/a.md" />
       <jump line="42" column="0" filename="$USER_HOME$/Develop/sfy/loanmarket/a.md" />
       <jump line="47" column="0" filename="$USER_HOME$/Develop/sfy/loanmarket/a.md" />
@@ -729,11 +725,8 @@
       <jump line="71" column="11" filename="$USER_HOME$/Develop/sfy/loanmarket/log/apiLog/serviceApi-info.log" />
       <jump line="143" column="24" filename="$USER_HOME$/Develop/sfy/loanmarket/vendor/yiisoft/yii2/log/Logger.php" />
       <jump line="528" column="8" filename="$USER_HOME$/Develop/sfy/loanmarket/common/helper/ApiOrderQueueHelper.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Develop/sfy/loanmarket/common/helper/ApiOrderQueueHelper.php" />
-      <jump line="241" column="33" filename="$USER_HOME$/Develop/sfy/loanmarket/common/helper/ApiOrderQueueHelper.php" />
       <jump line="322" column="27" filename="$USER_HOME$/Develop/sfy/loanmarket/common/helper/ApiOrderQueueHelper.php" />
       <jump line="301" column="21" filename="$USER_HOME$/Develop/sfy/loanmarket/common/helper/ApiOrderQueueHelper.php" />
-      <jump line="10" column="18" filename="$USER_HOME$/Develop/sfy/loanmarket/common/helper/ApiOrderQueueHelper.php" />
       <jump line="79" column="8" filename="$USER_HOME$/Develop/sfy/loanmarket/serviceapi/controllers/ApiOrderController.php" />
       <jump line="120" column="17" filename="$USER_HOME$/Develop/sfy/loanmarket/common/config/main.php" />
       <jump line="65" column="15" filename="$USER_HOME$/Develop/sfy/loanmarket/serviceapi/controllers/ApiRepayController.php" />
@@ -749,13 +742,20 @@
       <jump line="60" column="0" filename="$USER_HOME$/Develop/sfy/loanmarket/serviceapi/controllers/ApiRepayController.php" />
       <jump line="181" column="16" filename="$USER_HOME$/Develop/sfy/loanmarket/common/service/ApiRepayService.php" />
       <jump line="39" column="12" filename="$USER_HOME$/Develop/sfy/loanmarket/common/service/ApiRepayService.php" />
+      <jump line="456" column="1" filename="$USER_HOME$/Develop/sfy/loanmarket/common/helper/ApiOrderQueueHelper.php" />
+      <jump line="33" column="4" filename="$USER_HOME$/Develop/sfy/loanmarket/common/helper/ApiOrderQueueHelper.php" />
+      <jump line="165" column="4" filename="$USER_HOME$/Develop/sfy/loanmarket/common/helper/ApiOrderQueueHelper.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Develop/sfy/loanmarket/common/helper/ApiOrderQueueHelper.php" />
+      <jump line="241" column="8" filename="$USER_HOME$/Develop/sfy/loanmarket/common/helper/ApiOrderQueueHelper.php" />
+      <jump line="10" column="0" filename="$USER_HOME$/Develop/sfy/loanmarket/common/helper/ApiOrderQueueHelper.php" />
+      <jump line="264" column="43" filename="$USER_HOME$/Develop/sfy/loanmarket/common/helper/ApiOrderQueueHelper.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9UT0RPIDo6IOWIpOaWreWvueaWueS8oOeahOacn+aVsO+8jOS4juiHquW3seaVsOaNruW6k+mHjOmdouimgei/mOeahOacn+aVsOaYr+WQpuS4gOiHtOOAggo=</text>
+      <register name="&quot;" type="4">
+        <text>Info</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -775,16 +775,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>Info</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvcmRlcl9zblw+</text>
+        <text encoding="base64">XDxBcGlSZXBheVBsYW5PdmVydmlld1w+</text>
       </register>
       <register name="0" type="4">
         <text>['repay_periods']</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9UT0RPIDo6IOWIpOaWreWvueaWueS8oOeahOacn+aVsO+8jOS4juiHquW3seaVsOaNruW6k+mHjOmdouimgei/mOeahOacn+aVsOaYr+WQpuS4gOiHtOOAggo=</text>
+        <text encoding="base64">Ly8gICAgICAgIGVjaG8gJ+esrCAxIOasoeWwneivleaOqOWNlSxvcmRlcl9zbjonIC4gJGRhdGFbJ29yZGVyX3NuJ10gLiBQSFBfRU9MOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -906,28 +906,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRlLT5nZXRDb2RlKCkpOwo=</text>
+        <text encoding="base64">dXNlIGNvbW1vblxtb2RlbHNcQXBpUmVwYXlQbGFuT3ZlcnZpZXc7Cg==</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIGNvbW1vblxtb2RlbHNcQXBpUmVwYXlQbGFuRGV0YWlsOwo=</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIGNvbW1vblxtb2RlbHNcQXBpT3JkZXI7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vVE9ETzo6IOWIpOaWreacieayoeacieesrOS4gOadoeiusOW9lQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGNvdW50KCRwYXJhbXNbJ3JlcGF5X3BlcmlvZHMnXSkgIT0gY291bnQoJGRldGFpbHMpKSB7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9UT0RPIDo6IOWIpOaWreWvueaWueS8oOeahOacn+aVsO+8jOS4juiHquW3seaVsOaNruW6k+mHjOmdouimgei/mOeahOacn+aVsOaYr+WQpuS4gOiHtOOAggo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRlLT5nZXRDb2RlKCkpOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -938,27 +938,26 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IG5ldyBEQkV4Y2VwdGlvbign5o+Q5Lqk55qE6L+Y5qy+5pyf5pWw5ZKM5bey5pyJ6K6w5b2V5LiN56ymJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJGRldGFpbHMtPigpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>nohls</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvcmRlcl9zblw+</last-search>
+      <last-search encoding="base64">XDxBcGlSZXBheVBsYW5PdmVydmlld1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvcmRlcl9zblw+</last-pattern>
+      <last-pattern encoding="base64">XDxBcGlSZXBheVBsYW5PdmVydmlld1w+</last-pattern>
       <last-replace />
       <last-substitute>`</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkZWxheV9wdXNoX29yZGVyXD4=</entry>
         <entry encoding="base64">XDxnZXRJbnN0YW5jZVw+</entry>
         <entry>Log</entry>
         <entry encoding="base64">XDxjb25zb2xlSW5mb1w+</entry>
@@ -971,13 +970,14 @@
         <entry encoding="base64">XDxtcVB1c2hVc2VySW5mb1w+</entry>
         <entry encoding="base64">XDxyZXRcPg==</entry>
         <entry encoding="base64">XDxqc29uX2VuY29kZVw+</entry>
-        <entry encoding="base64">XDxBcGlSZXBheVBsYW5EZXRhaWxcPg==</entry>
         <entry>echo</entry>
         <entry encoding="base64">XDxpbW1lZGlhdGVseVB1c2hcPg==</entry>
         <entry>todo</entry>
         <entry>TODO</entry>
         <entry encoding="base64">XDxBcGlPcmRlclw+</entry>
         <entry encoding="base64">XDxvcmRlcl9zblw+</entry>
+        <entry encoding="base64">XDxBcGlSZXBheVBsYW5EZXRhaWxcPg==</entry>
+        <entry encoding="base64">XDxBcGlSZXBheVBsYW5PdmVydmlld1w+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyI6L106L2c=</entry>
@@ -997,9 +997,9 @@
         <entry>action NextSplitter</entry>
         <entry>m .-2</entry>
         <entry>action PreviousTab</entry>
-        <entry>wq</entry>
         <entry>action NextTab</entry>
         <entry>nohls</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
