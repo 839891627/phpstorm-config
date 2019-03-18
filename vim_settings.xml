@@ -501,9 +501,6 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="17" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1552894950098">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Develop/sfy/loanmarket/outerapi/controllers/OrderController.php" timestamp="1551758271372">
         <mark key="'" line="33" column="0" />
         <mark key="[" line="41" column="0" />
@@ -544,12 +541,12 @@
         <mark key="." line="23" column="9" />
         <mark key="^" line="23" column="9" />
       </file>
-      <file name="$USER_HOME$/Develop/sfy/loanmarket/common/service/ApiRepayService.php" timestamp="1552894858648">
-        <mark key="'" line="111" column="20" />
-        <mark key="[" line="188" column="0" />
-        <mark key="]" line="188" column="0" />
-        <mark key="." line="188" column="0" />
-        <mark key="^" line="290" column="25" />
+      <file name="$USER_HOME$/Develop/sfy/loanmarket/common/service/ApiRepayService.php" timestamp="1552909431111">
+        <mark key="'" line="195" column="72" />
+        <mark key="[" line="196" column="121" />
+        <mark key="]" line="196" column="110" />
+        <mark key="." line="196" column="110" />
+        <mark key="^" line="196" column="110" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/loanmarket/partner/controllers/OrderController.php" timestamp="1551520314633">
         <mark key="'" line="165" column="4" />
@@ -629,11 +626,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="227" column="29" filename="$USER_HOME$/Develop/sfy/loanmarket/common/helper/ApiOrderQueueHelper.php" />
-      <jump line="301" column="18" filename="$USER_HOME$/Develop/sfy/loanmarket/common/helper/ApiOrderQueueHelper.php" />
-      <jump line="293" column="25" filename="$USER_HOME$/Develop/sfy/loanmarket/common/helper/ApiOrderQueueHelper.php" />
-      <jump line="212" column="18" filename="$USER_HOME$/Develop/sfy/loanmarket/common/helper/ApiOrderQueueHelper.php" />
-      <jump line="204" column="40" filename="$USER_HOME$/Develop/sfy/loanmarket/common/helper/ApiOrderQueueHelper.php" />
       <jump line="196" column="27" filename="$USER_HOME$/Develop/sfy/loanmarket/common/helper/ApiOrderQueueHelper.php" />
       <jump line="100" column="16" filename="$USER_HOME$/Develop/sfy/loanmarket/common/models/ApiRepayPlanOverview.php" />
       <jump line="306" column="47" filename="$USER_HOME$/Develop/sfy/loanmarket/common/helper/ApiOrderQueueHelper.php" />
@@ -729,13 +721,18 @@
       <jump line="109" column="33" filename="$USER_HOME$/Develop/sfy/loanmarket/serviceapi/controllers/ApiOrderController.php" />
       <jump line="292" column="27" filename="$USER_HOME$/Develop/sfy/loanmarket/common/helper/ApiOrderQueueHelper.php" />
       <jump line="195" column="27" filename="$USER_HOME$/Develop/sfy/loanmarket/common/helper/ApiOrderQueueHelper.php" />
+      <jump line="221" column="12" filename="$USER_HOME$/Develop/sfy/loanmarket/common/service/ApiRepayService.php" />
+      <jump line="207" column="0" filename="$USER_HOME$/Develop/sfy/loanmarket/common/service/ApiRepayService.php" />
+      <jump line="197" column="0" filename="$USER_HOME$/Develop/sfy/loanmarket/common/service/ApiRepayService.php" />
+      <jump line="208" column="16" filename="$USER_HOME$/Develop/sfy/loanmarket/common/service/ApiRepayService.php" />
+      <jump line="195" column="72" filename="$USER_HOME$/Develop/sfy/loanmarket/common/service/ApiRepayService.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIOWQjOatpei/lOWbniAyMDDvvIwg5qCH6K6w6L+Y5qy+IOKAnOW3suWujOaIkOKAnQogICAgICAgICAgICAgICAgZm9yZWFjaCAoJGRldGFpbHMgYXMgJGRldGFpbCkgewogICAgICAgICAgICAgICAgICAgICRkZXRhaWwtPmJpbGxfc3RhdHVzID0gQXBpUmVwYXlQbGFuRGV0YWlsOjpCSUxMX1NUQVRVU19TRVRUTEVEOwogICAgICAgICAgICAgICAgICAgICRkZXRhaWwtPnVwZGF0ZSgpOwogICAgICAgICAgICAgICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>fail_reason</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -755,16 +752,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>fail_reason</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsYXN0X3B1c2hfdGltZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8g5qOA5rWL6L+Y5qy+5pe26Ze0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRyZWNvcmQtPmZhaWxfcmVhc29uID0gQXBpUmVwYXlQbGFuUmVjb3JkOjpSRVBBWV9SRVNVTFRfTUFQWyRyZXRbJ3Jlc3BvbnNlJ11bJ3JlcGF5X3Jlc3VsdCddXSA/PyAnJzsgLy8g6K6w5b2V5aSx6LSl5Y6f5ZugCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIOWQjOatpei/lOWbniAyMDDvvIwg5qCH6K6w6L+Y5qy+IOKAnOW3suWujOaIkOKAnQogICAgICAgICAgICAgICAgZm9yZWFjaCAoJGRldGFpbHMgYXMgJGRldGFpbCkgewogICAgICAgICAgICAgICAgICAgICRkZXRhaWwtPmJpbGxfc3RhdHVzID0gQXBpUmVwYXlQbGFuRGV0YWlsOjpCSUxMX1NUQVRVU19TRVRUTEVEOwogICAgICAgICAgICAgICAgICAgICRkZXRhaWwtPnVwZGF0ZSgpOwogICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRyZWNvcmQtPnJlcGF5X3Jlc3VsdCA9ICRyZXRbJ3Jlc3BvbnNlJ11bJ3JlcGF5X3Jlc3VsdCddOy8vIOebtOaOpeiusOW9lei/mOasvueahOWFt+S9k+e7k+aenCjmnKzmrKEgcmVjb3JkIOWujOe7kyzkuI3pnIDopoHlm57osIPnrYnlhbbku5blnLDmlrnlpITnkIbkuoYpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -886,28 +883,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIHlpaVxkYlxFeGNlcHRpb247Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHJlY29yZCDlroznu5MKICAgICAgICAgICAgICAgICRyZWNvcmQtPnN0YXR1cyA9IEFwaVJlcGF5UGxhblJlY29yZDo6UkVQQVlfU1RBVFVTX0NMT1NFOwogICAgICAgICAgICAgICAgJHJlY29yZC0+dXBkYXRlKCk7Cg==</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKDIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIOWQjOatpei/lOWbniAyMDDvvIwg5qCH6K6w6L+Y5qy+IOKAnOW3suWujOaIkOKAnQogICAgICAgICAgICAgICAgZm9yZWFjaCAoJGRldGFpbHMgYXMgJGRldGFpbCkgewogICAgICAgICAgICAgICAgICAgICRkZXRhaWwtPmJpbGxfc3RhdHVzID0gQXBpUmVwYXlQbGFuRGV0YWlsOjpCSUxMX1NUQVRVU19TRVRUTEVEOwogICAgICAgICAgICAgICAgICAgICRkZXRhaWwtPnVwZGF0ZSgpOwogICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJG5vdywgJGRldGFpbC0+Y2FuX3BheV90aW1lKTsK</text>
+        <text encoding="base64">dXNlIHlpaVxkYlxFeGNlcHRpb247Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJGRldGFpbCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKDIpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkbm93LCApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJG5vdywgJGRldGFpbC0+Y2FuX3BheV90aW1lKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkZGV0YWlscyxkYXRlKCdZLW0tZCAnLCAxNTAwNzYyNzIxKSApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJGRldGFpbCk7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -918,10 +915,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVjaG8gCg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkbm93LCApCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkZGV0YWlscyxkYXRlKCdZLW0tZCAnLCAxNTAwNzYyNzIxKSApOwo=</text>
       </register>
       <register name=":" type="4">
         <text>nohls</text>
@@ -934,7 +931,7 @@
       <last-replace />
       <last-substitute>`</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -977,8 +974,8 @@
         <entry>m .-2</entry>
         <entry>wq</entry>
         <entry>.nohls</entry>
-        <entry>action PreviousTab</entry>
         <entry>action NextTab</entry>
+        <entry>action PreviousTab</entry>
         <entry>nohls</entry>
       </history-cmd>
       <history-expr />
