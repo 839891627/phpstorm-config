@@ -151,19 +151,9 @@
         <mark key="^" line="24" column="9" />
         <mark key="." line="24" column="9" />
       </file>
-      <file name="$USER_HOME$/Develop/sfy/loanmarket/common/service/PartnerCallbackService.php" timestamp="1552558039112">
-        <mark key="'" line="104" column="0" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="^" line="38" column="12" />
-        <mark key="." line="39" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/sfy/loanmarket/common/models/ApiRepayPlanRecord.php" timestamp="1552881551609">
-        <mark key="'" line="86" column="12" />
-        <mark key="[" line="15" column="28" />
-        <mark key="]" line="15" column="28" />
-        <mark key="." line="15" column="28" />
-        <mark key="^" line="16" column="23" />
+      <file name="$USER_HOME$/Develop/sfy/loanmarket/common/models/ApiRepayPlanRecord.php" timestamp="1552888109695">
+        <mark key="'" line="66" column="4" />
+        <mark key="^" line="9" column="23" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/loanmarket/serviceapi/controllers/ApiOrderController.php" timestamp="1552874733434">
         <mark key="'" line="118" column="6" />
@@ -272,12 +262,11 @@
         <mark key="]" line="57" column="0" />
         <mark key="." line="57" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/sfy/loanmarket/common/service/ApiRepayService.php" timestamp="1552887201553">
-        <mark key="'" line="191" column="47" />
+      <file name="$USER_HOME$/Develop/sfy/loanmarket/common/service/ApiRepayService.php" timestamp="1552888598496">
         <mark key="[" line="199" column="17" />
-        <mark key="]" line="191" column="68" />
-        <mark key="." line="191" column="68" />
-        <mark key="^" line="191" column="68" />
+        <mark key="]" line="200" column="33" />
+        <mark key="^" line="200" column="33" />
+        <mark key="." line="200" column="33" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/loanmarket/partner/controllers/OrderController.php" timestamp="1551520314633">
         <mark key="'" line="165" column="4" />
@@ -569,7 +558,7 @@
         <mark key="." line="47" column="29" />
         <mark key="^" line="47" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1552875554454">
+      <file name="/Dummy.txt" timestamp="1552888627056">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/loanmarket/demoapi/readme.md" timestamp="1551755714430">
@@ -639,10 +628,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="322" column="27" filename="$USER_HOME$/Develop/sfy/loanmarket/common/helper/ApiOrderQueueHelper.php" />
-      <jump line="79" column="8" filename="$USER_HOME$/Develop/sfy/loanmarket/serviceapi/controllers/ApiOrderController.php" />
-      <jump line="120" column="17" filename="$USER_HOME$/Develop/sfy/loanmarket/common/config/main.php" />
-      <jump line="65" column="15" filename="$USER_HOME$/Develop/sfy/loanmarket/serviceapi/controllers/ApiRepayController.php" />
       <jump line="76" column="21" filename="$USER_HOME$/Develop/sfy/loanmarket/serviceapi/controllers/ApiRepayController.php" />
       <jump line="56" column="35" filename="$USER_HOME$/Develop/sfy/loanmarket/serviceapi/controllers/ApiRepayController.php" />
       <jump line="28" column="27" filename="$USER_HOME$/Develop/sfy/loanmarket/common/helper/ApiLogHelper.php" />
@@ -692,7 +677,6 @@
       <jump line="92" column="28" filename="$USER_HOME$/Develop/sfy/loanmarket/common/service/ApiRepayService.php" />
       <jump line="145" column="16" filename="$USER_HOME$/Develop/sfy/loanmarket/common/service/ApiRepayService.php" />
       <jump line="188" column="17" filename="$USER_HOME$/Develop/sfy/loanmarket/common/service/ApiRepayService.php" />
-      <jump line="198" column="0" filename="$USER_HOME$/Develop/sfy/loanmarket/common/service/ApiRepayService.php" />
       <jump line="179" column="30" filename="$USER_HOME$/Develop/sfy/loanmarket/common/service/ApiRepayService.php" />
       <jump line="185" column="11" filename="$USER_HOME$/Develop/sfy/loanmarket/common/service/ApiRepayService.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/sfy/loanmarket/common/service/ApiRepayService.php" />
@@ -739,13 +723,18 @@
       <jump line="188" column="4" filename="$USER_HOME$/Develop/sfy/loanmarket/common/service/PartnerService.php" />
       <jump line="192" column="47" filename="$USER_HOME$/Develop/sfy/loanmarket/common/service/ApiRepayService.php" />
       <jump line="84" column="12" filename="$USER_HOME$/Develop/sfy/loanmarket/common/models/ApiRepayPlanRecord.php" />
+      <jump line="194" column="12" filename="$USER_HOME$/Develop/sfy/loanmarket/common/service/ApiRepayService.php" />
+      <jump line="66" column="4" filename="$USER_HOME$/Develop/sfy/loanmarket/common/models/ApiRepayPlanRecord.php" />
+      <jump line="215" column="0" filename="$USER_HOME$/Develop/sfy/loanmarket/common/service/ApiRepayService.php" />
+      <jump line="170" column="0" filename="$USER_HOME$/Develop/sfy/loanmarket/common/service/ApiRepayService.php" />
+      <jump line="198" column="0" filename="$USER_HOME$/Develop/sfy/loanmarket/common/service/ApiRepayService.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -765,16 +754,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>ApiRepayPlanRecord::REPAY_STATUS_CLOSE;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXF1ZXN0X3VybFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICogQHByb3BlcnR5IHN0cmluZyAkcmVtYXJrIOi/mOasvuWksei0peWOn+WboOaPj+i/sAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHJlY29yZC0+c3RhdHVzID0gQXBpUmVwYXlQbGFuUmVjb3JkOjpSRVBBWV9TVEFUVVNfQ0xPU0U7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -896,28 +885,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIOWFtuS7luebtOaOpei/lOWbnuWksei0peeahO+8jOWImeagh+iusCByZWNvcmQg54q25oCB5Li65YWz6ZetCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8g5YW25LuWIGRldGFpbCDkuI3lpITnkIYgIHJlY29yZCDlroznu5MK</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gdG9kbyDlpoLmnpzlkIzmraXov5Tlm57lpLHotKXvvIzliJnpnIDopoHmoIforrAgcmVjb3JkIOeKtuaAgeS4uuWujOe7k+eKtuaAge+8jGRldGFpbOS4jeWBmuabtOaWsAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRyZWNvcmQtPnJlbWFyayA9IEFwaVJlcGF5UGxhblJlY29yZDo6UkVQQVlfUkVTVUxUX01BUFskcmV0WydyZXNwb25zZSddWydyZXBheV9yZXN1bHQnXV0gPz8gJ+WFtuS7luacquefpeWOn+WboOWksei0pSc7Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8g5YW25LuWIGRldGFpbCDkuI3lpITnkIYgIHJlY29yZCDlroznu5MK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy9UT0RPOjogYWRkIHJlbWFyawo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBBcGlMb2dIZWxwZXI6OnNlcnZpY2VJbmZvKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -928,13 +917,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBEQkV4Y2VwdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8g6LCD55So56ys5LiJ5pa56L+Y5qy+5o6l5Y+j5oiQ5Yqf77yM5YiZ5bCG5a+55bqU55qEIGRldGFpbC5zdGF0dXMg5pu05paw5Li6IOKAnOi/mOasvuS4reKAnQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8g6LCD55So5o6l5Y+j5byC5bi477yMZGV0YWlsIOeKtuaAgemcgOimgei/mOWOnwogICAgICAgICAgICBmb3JlYWNoICgkZGV0YWlscyBhcyAkZGV0YWlsKSB7CiAgICAgICAgICAgICAgICAkZGV0YWlsLT5iaWxsX3N0YXR1cyA9IEFwaVJlcGF5UGxhbkRldGFpbDo6QklMTF9TVEFUVVNfCiAgICAgICAgICAgICAgICAkZGV0YWlsLT51cGRhdGUoKTsKICAgICAgICAgICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRyZWNvcmQtPnVwZGF0ZSgpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>nohls</text>
       </register>
     </registers>
     <search>
@@ -976,7 +965,6 @@
         <entry encoding="base64">JzwsJz5zL1xkXC4vLSBbIF0gL2c=</entry>
         <entry encoding="base64">JzwsJz5zL1xzLy9n</entry>
         <entry encoding="base64">JzwsJz5zL2AvL2c=</entry>
-        <entry>.nohls</entry>
         <entry>.,.+1nohls</entry>
         <entry>Vs</entry>
         <entry>m .+1</entry>
@@ -988,8 +976,9 @@
         <entry>m .-2</entry>
         <entry>action NextTab</entry>
         <entry>action PreviousTab</entry>
-        <entry>nohls</entry>
         <entry>wq</entry>
+        <entry>.nohls</entry>
+        <entry>nohls</entry>
       </history-cmd>
       <history-expr />
       <history-input />
