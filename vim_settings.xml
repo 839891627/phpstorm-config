@@ -499,12 +499,12 @@
         <mark key="." line="15" column="28" />
         <mark key="^" line="15" column="28" />
       </file>
-      <file name="$USER_HOME$/Develop/sfy/loanmarket/common/service/PartnerService.php" timestamp="1552734509960">
-        <mark key="'" line="275" column="10" />
-        <mark key="[" line="262" column="0" />
-        <mark key="]" line="262" column="0" />
-        <mark key="." line="262" column="0" />
-        <mark key="^" line="252" column="61" />
+      <file name="$USER_HOME$/Develop/sfy/loanmarket/common/service/PartnerService.php" timestamp="1552875541769">
+        <mark key="'" line="188" column="4" />
+        <mark key="[" line="222" column="105" />
+        <mark key="]" line="222" column="112" />
+        <mark key="." line="222" column="112" />
+        <mark key="^" line="222" column="112" />
       </file>
       <file name="$USER_HOME$/Develop/839891627.github.io/source/_posts/php加解密之RSA.md" timestamp="1551422482423">
         <mark key="'" line="0" column="0" />
@@ -569,7 +569,7 @@
         <mark key="." line="47" column="29" />
         <mark key="^" line="47" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1552874562416">
+      <file name="/Dummy.txt" timestamp="1552875554454">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/loanmarket/demoapi/readme.md" timestamp="1551755714430">
@@ -639,15 +639,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="161" column="20" filename="$USER_HOME$/Develop/sfy/loanmarket/vendor/yiisoft/yii2/log/Logger.php" />
-      <jump line="1" column="0" filename="$USER_HOME$/Develop/sfy/loanmarket/log/apiLog/serviceApi-info.log" />
-      <jump line="308" column="29" filename="$USER_HOME$/Develop/sfy/loanmarket/vendor/yiisoft/yii2/log/Logger.php" />
-      <jump line="159" column="13" filename="$USER_HOME$/Develop/sfy/loanmarket/vendor/yiisoft/yii2/log/Logger.php" />
-      <jump line="11" column="11" filename="$USER_HOME$/Develop/sfy/loanmarket/log/apiLog/serviceApi-info.log" />
-      <jump line="60" column="0" filename="$USER_HOME$/Develop/sfy/loanmarket/log/apiLog/serviceApi-info.log" />
-      <jump line="0" column="0" filename="$USER_HOME$/Develop/sfy/loanmarket/log/apiLog/serviceApi-info.log" />
-      <jump line="48" column="33" filename="$USER_HOME$/Develop/sfy/loanmarket/log/apiLog/serviceApi-info.log" />
-      <jump line="71" column="11" filename="$USER_HOME$/Develop/sfy/loanmarket/log/apiLog/serviceApi-info.log" />
       <jump line="143" column="24" filename="$USER_HOME$/Develop/sfy/loanmarket/vendor/yiisoft/yii2/log/Logger.php" />
       <jump line="528" column="8" filename="$USER_HOME$/Develop/sfy/loanmarket/common/helper/ApiOrderQueueHelper.php" />
       <jump line="322" column="27" filename="$USER_HOME$/Develop/sfy/loanmarket/common/helper/ApiOrderQueueHelper.php" />
@@ -739,13 +730,22 @@
       <jump line="190" column="27" filename="$USER_HOME$/Develop/sfy/loanmarket/common/service/ApiRepayService.php" />
       <jump line="118" column="6" filename="$USER_HOME$/Develop/sfy/loanmarket/serviceapi/controllers/ApiOrderController.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/sfy/loanmarket/common/unit/ErrorHandler.php" />
+      <jump line="333" column="5" filename="$USER_HOME$/Develop/sfy/loanmarket/common/service/PartnerService.php" />
+      <jump line="137" column="5" filename="$USER_HOME$/Develop/sfy/loanmarket/common/service/PartnerService.php" />
+      <jump line="171" column="57" filename="$USER_HOME$/Develop/sfy/loanmarket/common/service/PartnerService.php" />
+      <jump line="214" column="88" filename="$USER_HOME$/Develop/sfy/loanmarket/common/service/PartnerService.php" />
+      <jump line="247" column="73" filename="$USER_HOME$/Develop/sfy/loanmarket/common/service/PartnerService.php" />
+      <jump line="252" column="53" filename="$USER_HOME$/Develop/sfy/loanmarket/common/service/PartnerService.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Develop/sfy/loanmarket/common/service/PartnerService.php" />
+      <jump line="167" column="73" filename="$USER_HOME$/Develop/sfy/loanmarket/common/service/PartnerService.php" />
+      <jump line="188" column="4" filename="$USER_HOME$/Develop/sfy/loanmarket/common/service/PartnerService.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>DBException</text>
+        <text>data</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -765,16 +765,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>DBException</text>
+        <text>data</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxBcGlQdXNoT3JkZXJPdmVydmlld1w+</text>
+        <text encoding="base64">XDxyZXF1ZXN0X3VybFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8g6LCD55So56ys5LiJ5pa56L+Y5qy+5o6l5Y+j5oiQ5Yqf77yM5YiZ5bCG5a+55bqU55qEIGRldGFpbC5zdGF0dXMg5pu05paw5Li6IOKAnOi/mOasvuS4reKAnQo=</text>
+        <text encoding="base64">ICAgICAgICBBcGlMb2dIZWxwZXI6OnNlcnZpY2VJbmZvKCLov5jmrL7ov5Tlm57nu5PmnpzvvIxVUkw6eyRwcm9kdWN0LT5yZXF1ZXN0X3VybH0scGFyYW1zOiIucHJpbnRfcigkZGF0YSx0cnVlKS4iLHJlc3BvbnNlOiIucHJpbnRfcigkcmV0LHRydWUpLiIuIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8g6LCD55So5o6l5Y+j5byC5bi477yMZGV0YWlsIOeKtuaAgemcgOimgei/mOWOnwogICAgICAgICAgICBmb3JlYWNoICgkZGV0YWlscyBhcyAkZGV0YWlsKSB7CiAgICAgICAgICAgICAgICAkZGV0YWlsLT5iaWxsX3N0YXR1cyA9IEFwaVJlcGF5UGxhbkRldGFpbDo6QklMTF9TVEFUVVNfCiAgICAgICAgICAgICAgICAkZGV0YWlsLT51cGRhdGUoKTsKICAgICAgICAgICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICBBcGlMb2dIZWxwZXI6OnNlcnZpY2VJbmZvKCkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -896,28 +896,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAzLiDlsIblr7nlupTnmoQgZGV0YWlsLnN0YXR1cyDmm7TmlrDkuLog4oCc6L+Y5qy+5Lit4oCdCiAgICAgICAgZm9yZWFjaCAoJGRldGFpbHMgYXMgJGRldGFpbCkgewogICAgICAgICAgICAkZGV0YWlsLT5iaWxsX3N0YXR1cyA9IEFwaVJlcGF5UGxhbkRldGFpbDo6QklMTF9TVEFUVVNfSEFORExJTkc7CiAgICAgICAgICAgICRkZXRhaWwtPnVwZGF0ZSgpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBEQkV4Y2VwdGlvbgo=</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtICRtc2cKICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8g6LCD55So5o6l5Y+j5byC5bi477yMZGV0YWlsIOeKtuaAgemcgOimgei/mOWOnwogICAgICAgICAgICBmb3JlYWNoICgkZGV0YWlscyBhcyAkZGV0YWlsKSB7CiAgICAgICAgICAgICAgICAkZGV0YWlsLT5iaWxsX3N0YXR1cyA9IEFwaVJlcGF5UGxhbkRldGFpbDo6QklMTF9TVEFUVVNfCiAgICAgICAgICAgICAgICAkZGV0YWlsLT51cGRhdGUoKTsKICAgICAgICAgICAgfQoK</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAqIOW7tui/n+aOqOWNleWbnuiwgwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyAzLiDlsIblr7nlupTnmoQgZGV0YWlsLnN0YXR1cyDmm7TmlrDkuLog4oCc6L+Y5qy+5Lit4oCdCiAgICAgICAgZm9yZWFjaCAoJGRldGFpbHMgYXMgJGRldGFpbCkgewogICAgICAgICAgICAkZGV0YWlsLT5iaWxsX3N0YXR1cyA9IEFwaVJlcGF5UGxhbkRldGFpbDo6QklMTF9TVEFUVVNfSEFORExJTkc7CiAgICAgICAgICAgICRkZXRhaWwtPnVwZGF0ZSgpOwogICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtICRtc2cKICAgICAqLwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqIOeri+WNs+aOqOWNleWbnuiwgwo=</text>
+        <text encoding="base64">ICAgICAqIOW7tui/n+aOqOWNleWbnuiwgwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqIEB0aHJvd3MgXFRocm93YWJsZQo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtICRtc2cKICAgICAqLwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -928,19 +928,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4gc3RyaW5nCg==</text>
+        <text encoding="base64">ICAgICAqIOeri+WNs+aOqOWNleWbnuiwgwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqIEB0aHJvd3MgXHlpaVxkYlxTdGFsZU9iamVjdEV4Y2VwdGlvbgogICAgICovCiAgICAvKioKICAgICAqIEBwYXJhbSBhcnJheSAkZGV0YWlscwogICAgICogQHBhcmFtIGFycmF5ICRwYXJhbXMKICAgICAqIEBwYXJhbSBBcGlSZXBheVBsYW5SZWNvcmQgJHJlY29yZAo=</text>
+        <text encoding="base64">ICAgICAqIEB0aHJvd3MgXFRocm93YWJsZQo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>nohls</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxBcGlQdXNoT3JkZXJPdmVydmlld1w+</last-search>
+      <last-search encoding="base64">XDxyZXF1ZXN0X3VybFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxBcGlQdXNoT3JkZXJPdmVydmlld1w+</last-pattern>
+      <last-pattern encoding="base64">XDxyZXF1ZXN0X3VybFw+</last-pattern>
       <last-replace />
       <last-substitute>`</last-substitute>
       <last-dir>1</last-dir>
@@ -948,7 +948,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxFeGNlcHRpb25cPg==</entry>
         <entry>111</entry>
         <entry encoding="base64">XDxzZXJ2aWNlQXBpXD4=</entry>
         <entry encoding="base64">XDxtcVB1c2hVc2VySW5mb1w+</entry>
@@ -968,6 +967,7 @@
         <entry encoding="base64">XDxSRVBBWV9SRVNVTFRfVU5LTk9XXD4=</entry>
         <entry encoding="base64">XDxjb21tb25PcGVyYXRlXD4=</entry>
         <entry encoding="base64">XDxBcGlQdXNoT3JkZXJPdmVydmlld1w+</entry>
+        <entry encoding="base64">XDxyZXF1ZXN0X3VybFw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyI6L106L2c=</entry>
@@ -988,8 +988,8 @@
         <entry>m .-2</entry>
         <entry>action NextTab</entry>
         <entry>action PreviousTab</entry>
-        <entry>nohls</entry>
         <entry>wq</entry>
+        <entry>nohls</entry>
       </history-cmd>
       <history-expr />
       <history-input />
