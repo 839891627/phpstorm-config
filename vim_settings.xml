@@ -19,6 +19,9 @@
         <mark key="." line="69" column="0" />
         <mark key="^" line="69" column="31" />
       </file>
+      <file name="/a.dummy" timestamp="1553132836906">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Downloads/ice-box-setup-command/run.sh" timestamp="1553049963086">
         <mark key="'" line="42" column="2" />
         <mark key="[" line="44" column="0" />
@@ -319,13 +322,11 @@
       <file name="$USER_HOME$/Develop/sfy/loanmarket/vendor/yiisoft/yii2/BaseYii.php" timestamp="1552614517967">
         <mark key="'" line="446" column="29" />
       </file>
-      <file name="$USER_HOME$/Develop/sfy/loanmarket/sql/lm_api.sql" timestamp="1553077644077">
-        <mark key="'" line="309" column="0" />
-        <mark key="z" line="305" column="132" />
-        <mark key="[" line="318" column="35" />
-        <mark key="]" line="318" column="50" />
-        <mark key="^" line="318" column="50" />
-        <mark key="." line="318" column="50" />
+      <file name="$USER_HOME$/Develop/sfy/loanmarket/sql/lm_api.sql" timestamp="1553132916033">
+        <mark key="[" line="133" column="27" />
+        <mark key="]" line="133" column="36" />
+        <mark key="^" line="133" column="36" />
+        <mark key="." line="133" column="36" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/shoufuyou-notify/lib/Controllers/BaoJieController.php" timestamp="1551678673062">
         <mark key="'" line="87" column="8" />
@@ -437,12 +438,12 @@
         <mark key="." line="56" column="30" />
         <mark key="^" line="56" column="30" />
       </file>
-      <file name="$USER_HOME$/Develop/sfy/loanmarket/common/models/ApiOrder.php" timestamp="1553077819764">
+      <file name="$USER_HOME$/Develop/sfy/loanmarket/common/models/ApiOrder.php" timestamp="1553132866588">
         <mark key="'" line="51" column="4" />
-        <mark key="[" line="58" column="43" />
-        <mark key="]" line="58" column="43" />
-        <mark key="." line="58" column="43" />
-        <mark key="^" line="47" column="43" />
+        <mark key="[" line="213" column="23" />
+        <mark key="]" line="213" column="31" />
+        <mark key="." line="213" column="31" />
+        <mark key="^" line="213" column="31" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/loanmarket/common/models/ApiBindCardRecord.php" timestamp="1552038470744">
         <mark key="'" line="44" column="6" />
@@ -583,7 +584,7 @@
         <mark key="^" line="53" column="4" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1553077884444">
+      <file name="/Dummy.txt" timestamp="1553132918037">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/loanmarket/demoapi/readme.md" timestamp="1551755714430">
@@ -592,6 +593,12 @@
         <mark key="]" line="22" column="3" />
         <mark key="." line="22" column="3" />
         <mark key="^" line="25" column="1" />
+      </file>
+      <file name="$USER_HOME$/Develop/sfy/loanmarket/common/models/ApiOrderStatusLog.php" timestamp="1553132875573">
+        <mark key="[" line="25" column="29" />
+        <mark key="]" line="25" column="38" />
+        <mark key="." line="25" column="38" />
+        <mark key="^" line="25" column="38" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/loanmarket/serviceapi/config/params.php" timestamp="1552531795933">
         <mark key="'" line="26" column="4" />
@@ -752,8 +759,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQodGltZSgpLCAkZGV0YWlsLT5jYW5fcGF5X3RpbWUpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>circulation</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -773,7 +780,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>circulation</text>
       </register>
       <register name="/" type="4">
         <text>store</text>
