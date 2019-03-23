@@ -144,8 +144,11 @@
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/sfy/loanmarket/console/controllers/RepaymentPlanController.php" timestamp="1553065073087">
+      <file name="$USER_HOME$/Develop/sfy/loanmarket/console/controllers/RepaymentPlanController.php" timestamp="1553322068958">
         <mark key="'" line="38" column="0" />
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="." line="71" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/loanmarket/serviceapi/web/logs/apiLog/serviceApi-info.log" timestamp="1553250475741">
         <mark key="[" line="1" column="0" />
@@ -161,6 +164,9 @@
       </file>
       <file name="$USER_HOME$/Develop/sfy/loanmarket/vendor/guzzlehttp/guzzle/src/Client.php" timestamp="1552563558738">
         <mark key="'" line="14" column="29" />
+      </file>
+      <file name="$USER_HOME$/Develop/sfy/loanmarket/common/service/OrderStatusChangeService.php" timestamp="1553321855395">
+        <mark key="'" line="115" column="21" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/loanmarket/logs/console/app.log" timestamp="1552700599016">
         <mark key="'" line="77" column="10" />
@@ -277,13 +283,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="65" filename="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Controllers/Api/Lm/RepayController.php" />
-      <jump line="79" column="28" filename="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Controllers/Api/Lm/RepayController.php" />
-      <jump line="105" column="39" filename="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Controllers/Api/Lm/RepayController.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Controllers/Api/Lm/RepayController.php" />
-      <jump line="2" column="0" filename="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Controllers/Api/Lm/RepayController.php" />
-      <jump line="64" column="35" filename="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Controllers/Api/Lm/RepayController.php" />
-      <jump line="69" column="100" filename="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Controllers/Api/Lm/RepayController.php" />
       <jump line="76" column="33" filename="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Controllers/Api/Lm/RepayController.php" />
       <jump line="77" column="28" filename="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Controllers/Api/Lm/RepayController.php" />
       <jump line="78" column="28" filename="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Controllers/Api/Lm/RepayController.php" />
@@ -377,13 +376,20 @@
       <jump line="59" column="17" filename="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Controllers/Api/Lm/RepayController.php" />
       <jump line="60" column="17" filename="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Controllers/Api/Lm/RepayController.php" />
       <jump line="210" column="0" filename="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Controllers/Api/Lm/api.md" />
+      <jump line="321" column="26" filename="$USER_HOME$/Develop/sfy/loanmarket/common/service/OrderStatusChangeService.php" />
+      <jump line="32" column="13" filename="$USER_HOME$/Develop/sfy/loanmarket/common/service/OrderStatusChangeService.php" />
+      <jump line="118" column="15" filename="$USER_HOME$/Develop/sfy/loanmarket/common/service/OrderStatusChangeService.php" />
+      <jump line="287" column="15" filename="$USER_HOME$/Develop/sfy/loanmarket/common/service/OrderStatusChangeService.php" />
+      <jump line="310" column="15" filename="$USER_HOME$/Develop/sfy/loanmarket/common/service/OrderStatusChangeService.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Develop/sfy/loanmarket/common/service/OrderStatusChangeService.php" />
+      <jump line="115" column="21" filename="$USER_HOME$/Develop/sfy/loanmarket/common/service/OrderStatusChangeService.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJG9yZGVyLT5hcHByb3ZlX3N0YXR1cz0gCg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -406,16 +412,16 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZXBheURldGFpbFw+</text>
+        <text encoding="base64">XDxjbGVhblw+</text>
       </register>
-      <register name="0" type="4">
-        <text>$repayDetail</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC0+c2V0T3BlcmF0b3IoT3JkZXJTdGF0dXNDaGFuZ2VTZXJ2aWNlOjpBUElfT1BFUkFUT1IpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVwYXlEZXRhaWxbJ3BlbmRpbmdfYW1vdW50J10gPSAkcmVwYXlEZXRhaWxbJ3RvdGFsX2Ftb3VudCddIC0gJHJlcGF5RGV0YWlsWydhbHJlYWR5X3BhaWQnXTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJG9yZGVyLT5hcHByb3ZlX3N0YXR1cz0gCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -537,25 +543,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkX1NFU1NJT04pO2RpZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJG9yZGVyLT5zdGF0dXMgPSAK</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgxKTtkaWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkcmVwYXlEZXRhaWxbJ3BlbmRpbmdfYW1vdW50J10gPSAkcmVwYXlEZXRhaWxbJ3RvdGFsX2Ftb3VudCddIC0gJHJlcGF5RGV0YWlsWydhbHJlYWR5X3BhaWQnXTsK</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgxKTtkaWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkX1NFU1NJT04pO2RpZTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvIDI7ZGllOwo=</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgxKTtkaWU7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvIDI7ZGllOwo=</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgxKTtkaWU7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBlY2hvIDI7ZGllOwo=</text>
@@ -569,28 +575,26 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlY2hvIDI7ZGllOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCAkaGVhZGVyID0gW107CiAgICBwdWJsaWMgJGNoZWNrQ3NyZiA9IGZhbHNlOwoKICAgIHB1YmxpYyBmdW5jdGlvbiBfX2NvbnN0cnVjdCgkYXBwKQogICAgewogICAgICAgIHBhcmVudDo6X19jb25zdHJ1Y3QoJGFwcCk7CiAgICAgICAgJHRoaXMtPmhlYWRlciA9IFsKICAgICAgICAgICAgJ0NvbnRlbnQtdHlwZTphcHBsaWNhdGlvbi9qc29uJywgLy/pu5jorqTnsbvlnosKICAgICAgICAgICAgJ1ZlcnNpb24tQ29kZTonIC4gRW52OjpnZXRWZXJzaW9uQ29kZSgpLAogICAgICAgICAgICAnb3M6JyAuIEVudjo6Z2V0T3MoKSwgLy/ojrflj5bns7vnu5/nsbvlnosKICAgICAgICAgICAgJ0RldmljZS1JZDonIC4gRW52OjpnZXREZXZpY2VJZCgpLCAvL+iOt+WPluiuvuWkh+aMh+e6uQogICAgICAgICAgICAnQ2hhbm5lbDonIC4gRW52OjpnZXRDaGFubmVsKCksIC8v6I635Y+W5bqU55So5rig6YGTCiAgICAgICAgXTsKICAgICAgICAkb3B0aW9uc1snaWdub3JlZF9hY3Rpb25zJ10gPSBbXTsKCiAgICAgICAgJHRoaXMtPmFkZEJlZm9yZUZpbHRlcihmdW5jdGlvbiAoKSB7CiAgICAgICAgICAgICR0aGlzLT5hdXRoKCk7CiAgICAgICAgfSwgJG9wdGlvbnMpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBlY2hvIDI7ZGllOwo=</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZXBheURldGFpbFw+</last-search>
+      <last-search encoding="base64">XDxjbGVhblw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZXBheURldGFpbFw+</last-pattern>
+      <last-pattern encoding="base64">XDxjbGVhblw+</last-pattern>
       <last-replace encoding="base64">ID0+ICcnLA==</last-replace>
       <last-substitute encoding="base64">ID0gLio=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkZWxcPg==</entry>
-        <entry encoding="base64">XDxjYW5fcmVwYXlfYWxsXD4=</entry>
         <entry encoding="base64">XDxyZXBheV9wZXJpb2RzX25vXD4=</entry>
         <entry encoding="base64">XDxwcm9kdWN0XD4=</entry>
         <entry encoding="base64">XDxjaGVja0NzcmZcPg==</entry>
@@ -609,6 +613,8 @@
         <entry>login</entry>
         <entry>SESSION</entry>
         <entry encoding="base64">XDxyZXBheURldGFpbFw+</entry>
+        <entry encoding="base64">XDxfb3JkZXJfc3RhdHVzX2xvZ1w+</entry>
+        <entry encoding="base64">XDxjbGVhblw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/_SERVER/_SERVER/g</entry>
