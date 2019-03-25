@@ -52,12 +52,11 @@
       <file name="$USER_HOME$/Develop/sfy/loanmarket/serviceapi/controllers/SiteController.php" timestamp="1552991109999">
         <mark key="'" line="40" column="36" />
       </file>
-      <file name="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Controllers/Api/Lm/RepayController.php" timestamp="1553482583607">
-        <mark key="'" line="142" column="0" />
-        <mark key="[" line="125" column="56" />
-        <mark key="]" line="125" column="121" />
-        <mark key="^" line="125" column="121" />
-        <mark key="." line="125" column="121" />
+      <file name="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Controllers/Api/Lm/RepayController.php" timestamp="1553507784501">
+        <mark key="'" line="54" column="10" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/shoufuyou-php-lib/shoufuyou/Util/WebApp.php" timestamp="1553140209659">
         <mark key="'" line="18" column="22" />
@@ -328,10 +327,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="357" column="21" filename="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Router.php" />
-      <jump line="358" column="18" filename="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Router.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Router.php" />
-      <jump line="20" column="22" filename="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Router.php" />
       <jump line="144" column="35" filename="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Models/User.php" />
       <jump line="172" column="19" filename="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Controllers/Api/BaseController.php" />
       <jump line="675" column="21" filename="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Controllers/Api/UserController.php" />
@@ -412,7 +407,6 @@
       <jump line="157" column="14" filename="$USER_HOME$/Develop/sfy/loanmarket/common/models/ApiProduct.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/sfy/loanmarket/common/models/ApiProduct.php" />
       <jump line="63" column="12" filename="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Controllers/Api/Lm/RepayController.php" />
-      <jump line="142" column="0" filename="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Controllers/Api/Lm/RepayController.php" />
       <jump line="21" column="6" filename="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Models/Lm/OrderService.php" />
       <jump line="53" column="36" filename="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Models/Lm/OrderService.php" />
       <jump line="24" column="19" filename="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Models/Lm/ProductService.php" />
@@ -428,13 +422,18 @@
       <jump line="143" column="30" filename="$USER_HOME$/Develop/sfy/loanmarket/common/service/ApiUserService.php" />
       <jump line="35" column="4" filename="$USER_HOME$/Develop/sfy/loanmarket/common/models/ApiBindCardRecord.php" />
       <jump line="155" column="39" filename="$USER_HOME$/Develop/sfy/loanmarket/common/service/ApiUserService.php" />
+      <jump line="139" column="37" filename="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Controllers/Api/Lm/RepayController.php" />
+      <jump line="21" column="6" filename="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Controllers/Api/Lm/RepayController.php" />
+      <jump line="142" column="0" filename="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Controllers/Api/Lm/RepayController.php" />
+      <jump line="69" column="16" filename="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Controllers/Api/Lm/RepayController.php" />
+      <jump line="54" column="10" filename="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Controllers/Api/Lm/RepayController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIFhpbnlvbmdmZWlNb2JpbGVcTW9kZWxzXExtXE9yZGVyU2VydmljZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -466,7 +465,7 @@
         <text encoding="base64">ICAgIC8vIOi/mOasvue7k+aenAogICAgY29uc3QgUkVQQVlfUkVTVUxUX1VOS05PVyA9IDA7CiAgICBjb25zdCBSRVBBWV9SRVNVTFRfQVBQTFkgPSAxMDA7CiAgICBjb25zdCBSRVBBWV9SRVNVTFRfTkVFRF9DT0RFID0gMTAyOwogICAgY29uc3QgUkVQQVlfUkVTVUxUX1NVQ0NFU1MgPSAyMDA7CiAgICBjb25zdCBSRVBBWV9SRVNVTFRfTk9UX0VOT1VHSCA9IDQwMTsKICAgIGNvbnN0IFJFUEFZX1JFU1VMVF9DT1VOVF9FUlIgPSA0MDI7CiAgICBjb25zdCBSRVBBWV9SRVNVTFRfUkFURV9FUlIgPSA0MDM7CiAgICBjb25zdCBSRVBBWV9SRVNVTFRfQ09ERV9FUlIgPSA0MDU7CiAgICBjb25zdCBSRVBBWV9SRVNVTFRfT1RIRVIgPSA1MDU7CiAgICBjb25zdCBSRVBBWV9SRVNVTFRfTUFQID0gWwogICAgICAgIHNlbGY6OlJFUEFZX1JFU1VMVF9BUFBMWSA9PiAn6L+Y5qy+55Sz6K+35o+Q5Lqk5oiQ5YqfLOato+WcqOWkhOeQhuS4rS4uLicsCiAgICAgICAgc2VsZjo6UkVQQVlfUkVTVUxUX05FRURfQ09ERSA9PiAn6L+Y5qy+6ZyA55+t5L+h6aqM6K+B56CB77yM6K+36L6T5YWl5bey5Y+R6YCB55qE6aqM6K+B56CB6YeN5paw6K+35rGCJywKICAgICAgICBzZWxmOjpSRVBBWV9SRVNVTFRfU1VDQ0VTUyA9PiAn6L+Y5qy+5bey57uP5oiQ5YqfJywKICAgICAgICBzZWxmOjpSRVBBWV9SRVNVTFRfTk9UX0VOT1VHSCA9PiAn6L+Y5qy+5aSx6LSl77yM5L2Z6aKd5LiN6LazJywKICAgICAgICBzZWxmOjpSRVBBWV9SRVNVTFRfQ09VTlRfRVJSID0+ICfku4rml6Xku6PmiaPmrKHmlbDlt7LnlKjlrownLAogICAgICAgIHNlbGY6OlJFUEFZX1JFU1VMVF9SQVRFX0VSUiA9PiAn5LuK5pel5pSv5LuY6aKd5bqm5bey6L6+5LiK6ZmQJywKICAgICAgICBzZWxmOjpSRVBBWV9SRVNVTFRfQ09ERV9FUlIgPT4gJ+mqjOivgeeggei+k+WFpemUmeivrycsCiAgICAgICAgc2VsZjo6UkVQQVlfUkVTVUxUX09USEVSID0+ICflhbbku5bov5jmrL7lpLHotKXljp/lm6AnLAogICAgXTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIFhpbnlvbmdmZWlNb2JpbGVcTW9kZWxzXExtXE9yZGVyU2VydmljZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -588,13 +587,13 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAxLiAK</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICDljZXmnJ8v5aSa6LW3Cg==</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
@@ -603,13 +602,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkY29uZmlybVJlc3VsdCA9IE9yZGVyU2VydmljZTo6Y29uZmlybSgkcGFyYW1zLCAkdGhpcy0+aGVhZGVyKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ewogICAgICAgIC8vIOehruiupOaTjeS9nOOAgueUqOaIt+etvue6puehruiupOe7k+aenC4gMjAwOiDmjqXlj5fpop3luqbvvIzlj6/ku6XmlL7mrL47IDQwMzog5ouS57ud6aKd5bqm77yM5pS+5byD5YCf5qy+OwogICAgICAgICRyZXF1aXJlZFBhcmFtcyA9IFsKICAgICAgICAgICAgJ29yZGVyX3NuJyA9PiAnb3JkZXJfc24g5b+F5aGrJywKICAgICAgICAgICAgJ2NvbmZpcm1fcmVzdWx0JyA9PiAnY29uZmlybV9yZXN1bHQg5b+F5aGrJywKICAgICAgICBdOwogICAgICAgICRwYXJhbXNbJ29yZGVyX3NuJ10gPSAkX1BPU1RbJ29yZGVyX3NuJ107CiAgICAgICAgJHBhcmFtc1snY29uZmlybV9yZXN1bHQnXSA9ICRfUE9TVFsnY29uZmlybV9yZXN1bHQnXTsKCiAgICAgICAgJGNoZWNrUGFyYW1zUmVzdWx0ID0gVXRpbDo6Y2hlY2tSZXF1aXJlZFBhcmFtcygkcmVxdWlyZWRQYXJhbXMsICRwYXJhbXMpOwogICAgICAgIGlmICgkY2hlY2tQYXJhbXNSZXN1bHQgIT09IHRydWUpIHsKICAgICAgICAgICAgcmV0dXJuICRjaGVja1BhcmFtc1Jlc3VsdDsKICAgICAgICB9CiAgICAgICAgaWYgKCFpbl9hcnJheSgkcGFyYW1zWydjb25maXJtX3Jlc3VsdCddLCBbMjAwLCA0MDNdKSkgewogICAgICAgICAgICByZXR1cm4gQ29kZU1lc3NhZ2U6OmdldENvZGVNZXNzYWdlMignNTAwMycpOwogICAgICAgIH0KICAgICAgICAkY29uZmlybVJlc3VsdCA9IE9yZGVyU2VydmljZTo6Y29uZmlybSgkcGFyYW1zLCAkdGhpcy0+aGVhZGVyKTsKCgogICAgICAgIHJldHVybiBVdGlsOjpidWlsZFJldHVyblJlc3VsdCgkY29uZmlybVJlc3VsdFsnZGF0YSddKTsKICAgIH0K</text>
+        <text encoding="base64">MS4g5aaC5p6c5b2T5pyf5pys5pyfCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">dXNlIFhpbnlvbmdmZWlNb2JpbGVcTW9kZWxzXExtXE9yZGVyU2VydmljZTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -620,7 +619,7 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkU2Z5V2ViQ2xpZW50ID0gbmV3IFNmeVdlYkNsaWVudCgpOwoKICAgICAgICAkY29uZmlybVJlc3VsdCA9ICRTZnlXZWJDbGllbnQtPnJlcXVlc3RMb2FubWFya2V0KCdwb3N0JywgJ2FwaS1vcmRlci9jb25maXJtLWxvYW4nLCAkcGFyYW1zLCAkdGhpcy0+aGVhZGVyKTsKICAgICAgICAkY29uZmlybVJlc3VsdCA9IGpzb25fZGVjb2RlKCRjb25maXJtUmVzdWx0LCB0cnVlKTsKICAgICAgICBpZiAoJGNvbmZpcm1SZXN1bHRbJ2NvZGUnXSAhPSAnMDAwMDAwJykgewogICAgICAgICAgICByZXR1cm4gQ29kZU1lc3NhZ2U6OmdldENvZGVNZXNzYWdlMignNTAwMycpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -679,8 +678,8 @@
         <entry>vs</entry>
         <entry>action NextTab</entry>
         <entry>action NextSplitter</entry>
-        <entry>wq</entry>
         <entry>action PreviousTab</entry>
+        <entry>wq</entry>
         <entry>nohls</entry>
       </history-cmd>
       <history-expr />
