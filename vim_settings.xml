@@ -55,8 +55,8 @@
       <file name="$USER_HOME$/Develop/sfy/loanmarket/serviceapi/controllers/SiteController.php" timestamp="1552991109999">
         <mark key="'" line="40" column="36" />
       </file>
-      <file name="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Controllers/Api/Lm/RepayController.php" timestamp="1553565979701">
-        <mark key="'" line="37" column="40" />
+      <file name="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Controllers/Api/Lm/RepayController.php" timestamp="1553565995752">
+        <mark key="'" line="39" column="41" />
         <mark key="[" line="85" column="0" />
         <mark key="]" line="85" column="54" />
         <mark key="." line="85" column="0" />
@@ -331,7 +331,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="272" column="8" filename="$USER_HOME$/Develop/sfy/loanmarket/common/service/OrderStatusChangeService.php" />
       <jump line="103" column="16" filename="$USER_HOME$/Develop/sfy/loanmarket/common/service/OrderStatusChangeService.php" />
       <jump line="122" column="4" filename="$USER_HOME$/Develop/sfy/loanmarket/common/service/OrderStatusChangeService.php" />
       <jump line="324" column="0" filename="$USER_HOME$/Develop/sfy/loanmarket/common/service/OrderStatusChangeService.php" />
@@ -431,6 +430,7 @@
       <jump line="348" column="30" filename="$USER_HOME$/Develop/sfy/shoufuyou-php-lib/shoufuyou/Util/SfyWebClient.php" />
       <jump line="317" column="39" filename="$USER_HOME$/Develop/sfy/shoufuyou-php-lib/shoufuyou/Util/SfyWebClient.php" />
       <jump line="37" column="40" filename="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Controllers/Api/Lm/RepayController.php" />
+      <jump line="39" column="41" filename="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Controllers/Api/Lm/RepayController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -629,7 +629,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICRzaG93UGVyaW9kID0gJGRldGFpbDsK</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>action CloseAllEditors</text>
       </register>
     </registers>
     <search>
@@ -675,7 +675,6 @@
         <entry>Action</entry>
         <entry>actionList</entry>
         <entry>actionlist</entry>
-        <entry>action CloseAllEditors</entry>
         <entry>m .+1</entry>
         <entry>m .-2</entry>
         <entry>.nohls</entry>
@@ -685,6 +684,7 @@
         <entry>action NextTab</entry>
         <entry>nohls</entry>
         <entry>wq</entry>
+        <entry>action CloseAllEditors</entry>
       </history-cmd>
       <history-expr />
       <history-input />
