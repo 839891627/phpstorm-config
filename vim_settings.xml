@@ -140,12 +140,12 @@
       <file name="$USER_HOME$/Develop/sfy/loanmarket/common/models/ApiOrder.php" timestamp="1553595341793">
         <mark key="'" line="45" column="10" />
       </file>
-      <file name="$USER_HOME$/Develop/sfy/loanmarket/common/service/ApiProductService.php" timestamp="1553595876794">
-        <mark key="'" line="45" column="20" />
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="0" />
-        <mark key="." line="80" column="0" />
-        <mark key="^" line="81" column="60" />
+      <file name="$USER_HOME$/Develop/sfy/loanmarket/common/service/ApiProductService.php" timestamp="1553655838443">
+        <mark key="'" line="24" column="9" />
+        <mark key="[" line="36" column="56" />
+        <mark key="]" line="36" column="89" />
+        <mark key="." line="36" column="89" />
+        <mark key="^" line="36" column="89" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Controllers/Api/ActivationController.php" timestamp="1553492868771">
         <mark key="'" line="17" column="0" />
@@ -176,11 +176,11 @@
         <mark key="." line="350" column="32" />
         <mark key="^" line="350" column="32" />
       </file>
-      <file name="$USER_HOME$/Develop/sfy/loanmarket/common/config/bootstrap.php" timestamp="1553250295698">
+      <file name="$USER_HOME$/Develop/sfy/loanmarket/common/config/bootstrap.php" timestamp="1553655769493">
         <mark key="'" line="8" column="31" />
-        <mark key="[" line="8" column="33" />
-        <mark key="]" line="8" column="33" />
-        <mark key="." line="8" column="33" />
+        <mark key="[" line="9" column="23" />
+        <mark key="]" line="9" column="23" />
+        <mark key="." line="9" column="23" />
         <mark key="^" line="8" column="32" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Controllers/UserController.php" timestamp="1553579149897">
@@ -301,6 +301,13 @@
       <file name="$USER_HOME$/Develop/sfy/loanmarket/log/apiLog/serviceApi-error.log" timestamp="1552615398801">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/sfy/loanmarket/serviceapi/controllers/LoanmarketController.php" timestamp="1553655255266">
+        <mark key="'" line="59" column="53" />
+        <mark key="[" line="59" column="55" />
+        <mark key="]" line="59" column="61" />
+        <mark key="^" line="59" column="61" />
+        <mark key="." line="59" column="61" />
+      </file>
       <file name="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Controllers/Api/BaseController.php" timestamp="1553651729053">
         <mark key="'" line="172" column="19" />
         <mark key="[" line="129" column="0" />
@@ -360,9 +367,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="36" filename="$USER_HOME$/Develop/sfy/loanmarket/serviceapi/controllers/ApiRepayController.php" />
-      <jump line="33" column="57" filename="$USER_HOME$/Develop/sfy/loanmarket/common/service/ApiRepayService.php" />
-      <jump line="59" column="23" filename="$USER_HOME$/Develop/sfy/loanmarket/common/service/ApiRepayService.php" />
       <jump line="30" column="14" filename="$USER_HOME$/Develop/sfy/loanmarket/common/service/ApiRepayService.php" />
       <jump line="38" column="24" filename="$USER_HOME$/Develop/sfy/loanmarket/common/service/ApiRepayService.php" />
       <jump line="38" column="26" filename="$USER_HOME$/Develop/sfy/loanmarket/serviceapi/controllers/ApiRepayController.php" />
@@ -460,13 +464,16 @@
       <jump line="124" column="24" filename="$USER_HOME$/Develop/sfy/loanmarket/common/service/ApiRepayService.php" />
       <jump line="218" column="35" filename="$USER_HOME$/Develop/sfy/loanmarket/common/service/ApiRepayService.php" />
       <jump line="178" column="80" filename="$USER_HOME$/Develop/sfy/loanmarket/common/service/PartnerService.php" />
+      <jump line="59" column="53" filename="$USER_HOME$/Develop/sfy/loanmarket/serviceapi/controllers/LoanmarketController.php" />
+      <jump line="51" column="17" filename="$USER_HOME$/Develop/sfy/loanmarket/common/service/ApiProductService.php" />
+      <jump line="50" column="9" filename="$USER_HOME$/Develop/sfy/loanmarket/common/service/ApiProductService.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICRyZXBheVJlc3VsdDtkaWU7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -489,7 +496,7 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>REPAY_TYPE_MAP</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb2JpbGVcPg==</text>
@@ -498,7 +505,7 @@
         <text>$response['repay_result'],</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICRyZXBheVJlc3VsdDtkaWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -620,28 +627,54 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcmVzcG9uc2VbJ3JlcGF5X3Jlc3VsdCddLGFycmF5X2tleXMoQXBpUmVwYXlQbGFuUmVjb3JkOjpSRVBBWV9UWVBFX01BUCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcmVwYXlSZXN1bHQpO2RpZTsK</text>
+        <text encoding="base64">ICAgICAgICAkZmllbGRzID0gJHBhcmFtc1snZmllbGRzJ10/PyBbXTsK</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcmVwYXlSZXN1bHQpO2RpZTsK</text>
+        <text encoding="base64">ICAgICAgICBpZighJGZpZWxkcykK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gZGRrawo=</text>
+      <register name="5" type="4">
+        <text>[
+                    'id',
+                    'product_name',
+                    'merchant_id',
+                    'logo_url',
+                    'fastest_loan_time',
+                    'fee_calc_method',
+                    'fee_calc_method_explain',
+                    'overdue_charge_explain',
+                    'upload_credit_sys',
+                    'auto_audit',
+                    'product_property',
+                    'term_unit',
+                    'min_term',
+                    'max_term',
+                    'term_is_recursive',
+                    'term_step',
+                    'min_amount',
+                    'max_amount',
+                    'amount_step',
+                    'avg_day_rate',
+                    'show_rate',
+                    'fee_explain',
+                    'repay_ahead_explain',
+                    'overdue_explain',
+                    'api_bind_position'
+                ]</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaW5fYXJyYXkoJHByb2R1Y3REZXRhaWxbJ3JlcGF5X2FoZWFkX21vZGUnXSwgW1Byb2R1Y3Q6OlJFUEFZX0FIRUFEX01PREVfRlJFRSwgUHJvZHVjdDo6UkVQQVlfQUhFQURfTU9ERV9BTExdKSkgewogICAgICAgICAgICAvLyDlpoLmnpzlj6rlj6/mj5DliY3ov5jlhajmrL7jgIHlj6/ku6Xmj5DliY3ov5jlvZPmnJ/lkozlhajmrL7vvIzliJkg4oCc5YWB6K646L+Y5YWo5qy+4oCdCiAgICAgICAgICAgICRleHRyYVsnYWN0aW9uJ11bJ2Nhbl9yZXBheV9hbGwnXSA9IHRydWU7CiAgICAgICAgfQoKICAgICAgICAgICAgaWYgKGluX2FycmF5KCRwcm9kdWN0RGV0YWlsWydyZXBheV9haGVhZF9tb2RlJ10sIFtQcm9kdWN0OjpSRVBBWV9BSEVBRF9NT0RFX0NVUlJFTlQsIFByb2R1Y3Q6OlJFUEFZX0FIRUFEX01PREVfRlJFRV0pKSB7CiAgICAgICAgICAgICAgICAkZXh0cmFbJ2FjdGlvbiddWydjYW5fcmVwYXlfY3VycmVudCddID0gdHJ1ZTsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICRyZXBheVJlc3VsdDtkaWU7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcmVzcG9uc2VbJ3JlcGF5X3Jlc3VsdCddLGFycmF5X2tleXMoQXBpUmVwYXlQbGFuUmVjb3JkOjpSRVBBWV9UWVBFX01BUCkpOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -652,13 +685,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRjdXJyZW50ID0gJGRldGFpbDsK</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcmVwYXlSZXN1bHQpO2RpZTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRleHRyYVsnYWN0aW9uJ11bJ2Nhbl9yZXBheV9jdXJyZW50J10gPSB0aW1lKCkgPj0gJGN1cnJlbnRbJ2Nhbl9wYXlfdGltZSddOwo=</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcmVwYXlSZXN1bHQpO2RpZTsK</text>
       </register>
       <register name=":" type="4">
-        <text>action PreviousTab</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -710,10 +743,10 @@
         <entry>.nohls</entry>
         <entry>vs</entry>
         <entry>action NextSplitter</entry>
-        <entry>wq</entry>
         <entry>action NextTab</entry>
-        <entry>nohls</entry>
         <entry>action PreviousTab</entry>
+        <entry>nohls</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
