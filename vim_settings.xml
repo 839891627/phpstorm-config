@@ -186,7 +186,7 @@
         <mark key="^" line="350" column="32" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/shoufuyou-sdk/lib/SfyApi.php" timestamp="1553675808383">
-        <mark key="'" line="276" column="28" />
+        <mark key="'" line="275" column="28" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/loanmarket/common/config/bootstrap.php" timestamp="1553655769493">
         <mark key="'" line="8" column="31" />
@@ -223,9 +223,6 @@
       </file>
       <file name="$USER_HOME$/Develop/sfy/loanmarket/vendor/guzzlehttp/guzzle/src/Client.php" timestamp="1552563558738">
         <mark key="'" line="14" column="29" />
-      </file>
-      <file name="$USER_HOME$/Develop/sfy/shoufuyou-sdk/lib/SfyUtil.php" timestamp="1553675830540">
-        <mark key="'" line="49" column="6" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/loanmarket/common/service/OrderStatusChangeService.php" timestamp="1553668349249">
         <mark key="'" line="173" column="4" />
@@ -706,7 +703,7 @@
         <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcmVwYXlSZXN1bHQpO2RpZTsK</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>action CloseAllEditors</text>
       </register>
     </registers>
     <search>
@@ -753,7 +750,6 @@
         <entry>actionlist</entry>
         <entry>m .+1</entry>
         <entry>m .-2</entry>
-        <entry>action CloseAllEditors</entry>
         <entry>.,.+2action NextSplitter</entry>
         <entry>.nohls</entry>
         <entry>vs</entry>
@@ -762,6 +758,7 @@
         <entry>action PreviousTab</entry>
         <entry>nohls</entry>
         <entry>wq</entry>
+        <entry>action CloseAllEditors</entry>
       </history-cmd>
       <history-expr />
       <history-input />
