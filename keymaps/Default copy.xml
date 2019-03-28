@@ -94,6 +94,9 @@
   <action id="NewElementSamePlace" />
   <action id="NewScratchFile" />
   <action id="NextParameter" />
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="ctrl right" />
+  </action>
   <action id="NextTemplateParameter" />
   <action id="NextTemplateVariable">
     <keyboard-shortcut first-keystroke="enter" />
