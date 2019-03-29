@@ -38,8 +38,11 @@
         <mark key="." line="20" column="63" />
         <mark key="^" line="20" column="63" />
       </file>
-      <file name="$USER_HOME$/Develop/sfy/shoufuyou-php-lib/biz-common/Models/CashLoanOrder.php" timestamp="1553845360388">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Develop/sfy/shoufuyou-php-lib/biz-common/Models/CashLoanOrder.php" timestamp="1553849726014">
+        <mark key="'" line="91" column="49" />
+        <mark key="[" line="3804" column="16" />
+        <mark key="]" line="3805" column="0" />
+        <mark key="." line="3803" column="31" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/loanmarket/common/service/User.php" timestamp="1553571296852">
         <mark key="'" line="149" column="15" />
@@ -313,8 +316,10 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/sfy/shoufuyou-task/lib/Subcommands/RequestCashLoanCommand.php" timestamp="1553844654651">
-        <mark key="'" line="41" column="12" />
+      <file name="$USER_HOME$/Develop/sfy/shoufuyou-service/lib/Controllers/XnController.php" timestamp="1553849987807" />
+      <file name="$USER_HOME$/Develop/sfy/shoufuyou-task/lib/Subcommands/RequestCashLoanCommand.php" timestamp="1553850089494">
+        <mark key="'" line="53" column="55" />
+        <mark key="." line="41" column="13" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/shoufuyou-php-lib/hyperframework/hyperframework/lib/Web/App.php" timestamp="1553140370753">
         <mark key="'" line="66" column="17" />
@@ -516,7 +521,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="49" filename="$USER_HOME$/Develop/sfy/shoufuyou-sdk/index.php" />
       <jump line="40" column="0" filename="$USER_HOME$/Develop/sfy/shoufuyou-sdk/index.php" />
       <jump line="11" column="4" filename="$USER_HOME$/Develop/sfy/shoufuyou-sdk/index.php" />
       <jump line="21" column="9" filename="$USER_HOME$/Develop/sfy/shoufuyou-sdk/index.php" />
@@ -595,7 +599,6 @@
       <jump line="3380" column="26" filename="$USER_HOME$/Develop/sfy/shoufuyou-php-lib/biz-common/Models/CashLoanOrder.php" />
       <jump line="23" column="39" filename="$USER_HOME$/Develop/sfy/shoufuyou-task/lib/Subcommands/RequestCashLoanCommand.php" />
       <jump line="48" column="40" filename="$USER_HOME$/Develop/sfy/shoufuyou-task/lib/Subcommands/RequestCashLoanCommand.php" />
-      <jump line="54" column="40" filename="$USER_HOME$/Develop/sfy/shoufuyou-task/lib/Subcommands/RequestCashLoanCommand.php" />
       <jump line="3795" column="37" filename="$USER_HOME$/Develop/sfy/shoufuyou-php-lib/biz-common/Models/CashLoanOrder.php" />
       <jump line="60" column="30" filename="$USER_HOME$/Develop/sfy/shoufuyou-task/lib/Subcommands/RequestCashLoanCommand.php" />
       <jump line="3819" column="34" filename="$USER_HOME$/Develop/sfy/shoufuyou-php-lib/biz-common/Models/CashLoanOrder.php" />
@@ -616,13 +619,15 @@
       <jump line="3825" column="19" filename="$USER_HOME$/Develop/sfy/shoufuyou-php-lib/biz-common/Models/CashLoanOrder.php" />
       <jump line="2914" column="28" filename="$USER_HOME$/Develop/sfy/shoufuyou-php-lib/biz-common/Models/CashLoanOrder.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/sfy/shoufuyou-php-lib/biz-common/Models/CashLoanOrder.php" />
+      <jump line="91" column="49" filename="$USER_HOME$/Develop/sfy/shoufuyou-php-lib/biz-common/Models/CashLoanOrder.php" />
+      <jump line="54" column="55" filename="$USER_HOME$/Develop/sfy/shoufuyou-task/lib/Subcommands/RequestCashLoanCommand.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZWNobyBzZXNzaW9uX2lkKCk7ZGllOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBTeFRkTG9hbk9yZGVyOjpvcmRlckNyZWF0ZSgkdGhpcyk7Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -648,13 +653,13 @@
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>orderCreate</text>
+        <text encoding="base64">XDxvcmRlckNyZWF0ZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">PCEtLSBtb3JlIC0tPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZWNobyBzZXNzaW9uX2lkKCk7ZGllOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBTeFRkTG9hbk9yZGVyOjpvcmRlckNyZWF0ZSgkdGhpcyk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -776,28 +781,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LS0tCg==</text>
+        <text encoding="base64">ZWNobyBzZXNzaW9uX2lkKCk7ZGllOwo=</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LS0tCg==</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YmFzZTY057yW56CB5YmN5ZKM57yW56CB5ZCO5aSn5qaC5pivMzo055qE5q+U5L6LCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y2F0ZWdvcmllczoKdGFnczoK</text>
+        <text encoding="base64">YmFzZTY057yW56CB5YmN5ZKM57yW56CB5ZCO5aSn5qaC5pivMzo055qE5q+U5L6LCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LyoqCiAqIENsYXNzIEltYWdlCiAqLwo=</text>
+        <text encoding="base64">Y2F0ZWdvcmllczoKdGFnczoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LyoqCiAqIOWbvuWDj+WkhOeQhuWFrOeUqOexuwogKiBDcmVhdGVkIGJ5IFBocFN0b3JtLgogKiBVc2VyOiB1c2VyCiAqIERhdGU6IDIwMTkvMS8xNgogKiBUaW1lOiDkuIvljYg0OjIyCiAqLwo=</text>
+        <text encoding="base64">LyoqCiAqIENsYXNzIEltYWdlCiAqLwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -808,19 +813,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bmV3IEltYWdlKCk7Cg==</text>
+        <text encoding="base64">LyoqCiAqIOWbvuWDj+WkhOeQhuWFrOeUqOexuwogKiBDcmVhdGVkIGJ5IFBocFN0b3JtLgogKiBVc2VyOiB1c2VyCiAqIERhdGU6IDIwMTkvMS8xNgogKiBUaW1lOiDkuIvljYg0OjIyCiAqLwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bmV3IEltYWdlKCk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action FindUsages</text>
+        <text>nohls</text>
       </register>
     </registers>
     <search>
-      <last-search>orderCreate</last-search>
+      <last-search encoding="base64">XDxvcmRlckNyZWF0ZVw+</last-search>
       <last-offset />
-      <last-pattern>orderCreate</last-pattern>
+      <last-pattern encoding="base64">XDxvcmRlckNyZWF0ZVw+</last-pattern>
       <last-replace>self</last-replace>
       <last-substitute>static</last-substitute>
       <last-dir>1</last-dir>
@@ -828,7 +833,6 @@
     </search>
     <history>
       <history-search>
-        <entry>method</entry>
         <entry encoding="base64">XDxyZXN1bHRcPg==</entry>
         <entry encoding="base64">XDxwcm9kdWN0X2RldGFpbFw+</entry>
         <entry>up</entry>
@@ -848,6 +852,7 @@
         <entry encoding="base64">XDxwZXJzb25DYXNoSW5mb1w+</entry>
         <entry encoding="base64">XDx0ZXJtSGFuZGxlXD4=</entry>
         <entry>orderCreate</entry>
+        <entry encoding="base64">XDxvcmRlckNyZWF0ZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>action ShowIntentionActions</entry>
@@ -868,8 +873,8 @@
         <entry>action PreviousTab</entry>
         <entry>action NextTab</entry>
         <entry>wq</entry>
-        <entry>nohls</entry>
         <entry>action FindUsages</entry>
+        <entry>nohls</entry>
       </history-cmd>
       <history-expr />
       <history-input />
