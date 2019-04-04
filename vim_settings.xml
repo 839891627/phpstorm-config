@@ -82,8 +82,8 @@
         <mark key="." line="530" column="30" />
         <mark key="^" line="530" column="30" />
       </file>
-      <file name="$USER_HOME$/Develop/sfy/shoufuyou-bill-system/lib/Models/CashBill.php" timestamp="1554348486779">
-        <mark key="'" line="194" column="28" />
+      <file name="$USER_HOME$/Develop/sfy/shoufuyou-bill-system/lib/Models/CashBill.php" timestamp="1554350475142">
+        <mark key="'" line="658" column="28" />
         <mark key="[" line="74" column="31" />
         <mark key="]" line="74" column="44" />
         <mark key="." line="74" column="44" />
@@ -229,8 +229,8 @@
         <mark key="[" line="82" column="0" />
         <mark key="]" line="82" column="100" />
       </file>
-      <file name="$USER_HOME$/Develop/sfy/shoufuyou-bill-system/lib/Controllers/CashBillController.php" timestamp="1554348996694">
-        <mark key="'" line="18" column="31" />
+      <file name="$USER_HOME$/Develop/sfy/shoufuyou-bill-system/lib/Controllers/CashBillController.php" timestamp="1554350311035">
+        <mark key="'" line="120" column="32" />
         <mark key="[" line="105" column="56" />
         <mark key="]" line="101" column="8" />
         <mark key="m" line="102" column="37" />
@@ -382,12 +382,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="36" filename="$USER_HOME$/Develop/sfy/shoufuyou-pay-gateway/lib/Controllers/BaseController.php" />
-      <jump line="51" column="0" filename="$USER_HOME$/.vimrc" />
-      <jump line="34" column="0" filename="$USER_HOME$/.vimrc" />
-      <jump line="0" column="11" filename="$USER_HOME$/Develop/Linux/readme.md" />
-      <jump line="0" column="0" filename="$USER_HOME$/.vimrc" />
-      <jump line="2" column="7" filename="$USER_HOME$/Develop/Linux/test.php" />
       <jump line="25" column="42" filename="$USER_HOME$/Develop/sfy/shoufuyou-fund-system/lib/Models/FundSource/FundSourceManage.php" />
       <jump line="26" column="37" filename="$USER_HOME$/Develop/sfy/shoufuyou-fund-system/lib/Models/FundSource/FundSourceManage.php" />
       <jump line="23" column="36" filename="$USER_HOME$/Develop/sfy/shoufuyou-fund-system/lib/Models/FundSource/FundSourceManage.php" />
@@ -482,6 +476,12 @@
       <jump line="194" column="28" filename="$USER_HOME$/Develop/sfy/shoufuyou-bill-system/lib/Models/CashBill.php" />
       <jump line="174" column="27" filename="$USER_HOME$/Develop/sfy/shoufuyou-bill-system/lib/Controllers/CashBillController.php" />
       <jump line="18" column="31" filename="$USER_HOME$/Develop/sfy/shoufuyou-bill-system/lib/Controllers/CashBillController.php" />
+      <jump line="1241" column="40" filename="$USER_HOME$/Develop/sfy/shoufuyou-bill-system/lib/Models/CashBill.php" />
+      <jump line="655" column="26" filename="$USER_HOME$/Develop/sfy/shoufuyou-bill-system/lib/Models/CashBill.php" />
+      <jump line="120" column="32" filename="$USER_HOME$/Develop/sfy/shoufuyou-bill-system/lib/Controllers/CashBillController.php" />
+      <jump line="671" column="38" filename="$USER_HOME$/Develop/sfy/shoufuyou-bill-system/lib/Models/CashBill.php" />
+      <jump line="3565" column="17" filename="$USER_HOME$/Develop/sfy/shoufuyou-bill-system/lib/Models/CashBill.php" />
+      <jump line="658" column="28" filename="$USER_HOME$/Develop/sfy/shoufuyou-bill-system/lib/Models/CashBill.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -605,7 +605,7 @@
         <text encoding="base64">ICAgICAgICBoZWFkZXIoJ0NvbnRlbnQtdHlwZTphcHBsaWNhdGlvbi9qc29uJyk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action FindUsages</text>
+        <text>action Back</text>
       </register>
     </registers>
     <search>
@@ -615,7 +615,7 @@
       <last-replace>|</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -652,15 +652,15 @@
         <entry>e  ~/.vimrc</entry>
         <entry>action CloseAllEditors</entry>
         <entry>.nohls</entry>
-        <entry>wq</entry>
         <entry>action NextTab</entry>
-        <entry>nohls</entry>
         <entry>action PreviousTab</entry>
         <entry>action KJumpAction.Line</entry>
         <entry>action Forward</entry>
-        <entry>action Back</entry>
-        <entry>action SelectInProjectView</entry>
         <entry>action FindUsages</entry>
+        <entry>wq</entry>
+        <entry>action SelectInProjectView</entry>
+        <entry>nohls</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
