@@ -68,12 +68,12 @@
         <mark key="." line="530" column="30" />
         <mark key="^" line="530" column="30" />
       </file>
-      <file name="$USER_HOME$/Develop/sfy/shoufuyou-bill-system/lib/Models/CashBill.php" timestamp="1554344317852">
-        <mark key="'" line="37" column="20" />
-        <mark key="[" line="74" column="27" />
-        <mark key="]" line="75" column="22" />
-        <mark key="." line="75" column="22" />
-        <mark key="^" line="75" column="22" />
+      <file name="$USER_HOME$/Develop/sfy/shoufuyou-bill-system/lib/Models/CashBill.php" timestamp="1554345024387">
+        <mark key="'" line="93" column="0" />
+        <mark key="[" line="74" column="31" />
+        <mark key="]" line="74" column="44" />
+        <mark key="." line="74" column="44" />
+        <mark key="^" line="74" column="44" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/shoufuyou-sdk/lib/SfyTripleDESCrypt.php" timestamp="1553675264305">
         <mark key="'" line="41" column="8" />
@@ -187,9 +187,8 @@
         <mark key="[" line="82" column="0" />
         <mark key="]" line="82" column="100" />
       </file>
-      <file name="$USER_HOME$/Develop/sfy/shoufuyou-bill-system/lib/Controllers/CashBillController.php" timestamp="1554344283863">
-        <mark key="'" line="108" column="32" />
-        <mark key="[" line="104" column="56" />
+      <file name="$USER_HOME$/Develop/sfy/shoufuyou-bill-system/lib/Controllers/CashBillController.php" timestamp="1554344970528">
+        <mark key="[" line="105" column="56" />
         <mark key="]" line="101" column="8" />
         <mark key="m" line="102" column="37" />
         <mark key="^" line="101" column="8" />
@@ -305,7 +304,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="0" filename="$USER_HOME$/Desktop/vimrc" />
       <jump line="42" column="0" filename="$USER_HOME$/Desktop/vimrc" />
       <jump line="49" column="25" filename="$USER_HOME$/Desktop/vimrc" />
       <jump line="48" column="0" filename="$USER_HOME$/Desktop/vimrc" />
@@ -405,6 +403,7 @@
       <jump line="104" column="35" filename="$USER_HOME$/Develop/sfy/shoufuyou-bill-system/lib/Controllers/CashBillController.php" />
       <jump line="108" column="32" filename="$USER_HOME$/Develop/sfy/shoufuyou-bill-system/lib/Controllers/CashBillController.php" />
       <jump line="37" column="20" filename="$USER_HOME$/Develop/sfy/shoufuyou-bill-system/lib/Models/CashBill.php" />
+      <jump line="93" column="0" filename="$USER_HOME$/Develop/sfy/shoufuyou-bill-system/lib/Models/CashBill.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -528,7 +527,7 @@
         <text encoding="base64">ICAgICAgICBoZWFkZXIoJ0NvbnRlbnQtdHlwZTphcHBsaWNhdGlvbi9qc29uJyk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>action PreviousTab</text>
       </register>
     </registers>
     <search>
@@ -575,15 +574,15 @@
         <entry>e  ~/.vimrc</entry>
         <entry>action CloseAllEditors</entry>
         <entry>.nohls</entry>
-        <entry>action NextTab</entry>
         <entry>action KJumpAction.Line</entry>
         <entry>action FindUsages</entry>
-        <entry>action PreviousTab</entry>
         <entry>action SelectInProjectView</entry>
         <entry>action Forward</entry>
         <entry>action Back</entry>
-        <entry>nohls</entry>
         <entry>wq</entry>
+        <entry>nohls</entry>
+        <entry>action NextTab</entry>
+        <entry>action PreviousTab</entry>
       </history-cmd>
       <history-expr />
       <history-input />
