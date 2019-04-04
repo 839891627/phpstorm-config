@@ -36,6 +36,9 @@
       <file name="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Models/PaydayLoan.php" timestamp="1553146990445">
         <mark key="'" line="1561" column="19" />
       </file>
+      <file name="$USER_HOME$/Develop/Linux/socket/event.php" timestamp="1554376089901">
+        <mark key="'" line="21" column="40" />
+      </file>
       <file name="$USER_HOME$/Develop/sfy/shoufuyou-php-lib/biz-common/Models/CashPool/Dict.php" timestamp="1554116250555">
         <mark key="'" line="146" column="0" />
         <mark key="[" line="149" column="13" />
@@ -382,6 +385,11 @@
       <file name="$USER_HOME$/Develop/sfy/xinyongfei-mobile/log/record/20190322.log" timestamp="1553235498868">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/config.plist" timestamp="1554376247427">
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="82" column="0" />
+        <mark key="." line="82" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/sfy/shoufuyou-console/config/init.php" timestamp="1554172136534">
         <mark key="[" line="4" column="40" />
         <mark key="]" line="4" column="40" />
@@ -418,13 +426,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="38" filename="$USER_HOME$/Develop/sfy/shoufuyou-bill-system/lib/Controllers/CashBillController.php" />
-      <jump line="28" column="58" filename="$USER_HOME$/Develop/sfy/shoufuyou-bill-system/lib/Controllers/CashBillController.php" />
-      <jump line="143" column="36" filename="$USER_HOME$/Develop/sfy/shoufuyou-bill-system/lib/Controllers/CashBillController.php" />
-      <jump line="194" column="28" filename="$USER_HOME$/Develop/sfy/shoufuyou-bill-system/lib/Models/CashBill.php" />
-      <jump line="174" column="27" filename="$USER_HOME$/Develop/sfy/shoufuyou-bill-system/lib/Controllers/CashBillController.php" />
-      <jump line="18" column="31" filename="$USER_HOME$/Develop/sfy/shoufuyou-bill-system/lib/Controllers/CashBillController.php" />
-      <jump line="655" column="26" filename="$USER_HOME$/Develop/sfy/shoufuyou-bill-system/lib/Models/CashBill.php" />
       <jump line="3565" column="17" filename="$USER_HOME$/Develop/sfy/shoufuyou-bill-system/lib/Models/CashBill.php" />
       <jump line="28" column="43" filename="$USER_HOME$/Develop/sfy/shoufuyou-bill-system/lib/Models/CashRepayment.php" />
       <jump line="23" column="35" filename="$USER_HOME$/Develop/sfy/shoufuyou-bill-system/lib/Models/CashRepaymentDetail.php" />
@@ -518,6 +519,13 @@
       <jump line="15" column="1" filename="$USER_HOME$/Develop/Linux/event_chat.php" />
       <jump line="23" column="12" filename="$USER_HOME$/Develop/Linux/event_chat.php" />
       <jump line="48" column="37" filename="$USER_HOME$/Develop/Linux/event_chat.php" />
+      <jump line="172" column="18" filename="$USER_HOME$/Develop/Linux/socket/event.php" />
+      <jump line="18" column="27" filename="$USER_HOME$/Develop/Linux/socket/event.php" />
+      <jump line="21" column="40" filename="$USER_HOME$/Develop/Linux/socket/event.php" />
+      <jump line="107" column="36" filename="$USER_HOME$/Desktop/config.plist" />
+      <jump line="76" column="29" filename="$USER_HOME$/Desktop/config.plist" />
+      <jump line="64" column="21" filename="$USER_HOME$/Desktop/config.plist" />
+      <jump line="82" column="21" filename="$USER_HOME$/Desktop/config.plist" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -549,7 +557,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCTxrZXk+ZnJhbWVidWZmZXItY29uMS1hbGxkYXRhPC9rZXk+CgkJCQk8ZGF0YT5BUVVLQUFBSUFBQ0hBUUFBQWdRS0FBQUlBQUNIQVFBQS93QUFBQUVBQUFBZ0FBQUE8L2RhdGE+CgkJCQk8a2V5PmZyYW1lYnVmZmVyLWNvbjEtZW5hYmxlPC9rZXk+CgkJCQk8ZGF0YT5BUUFBQUE9PTwvZGF0YT4KCQkJCTxrZXk+ZnJhbWVidWZmZXItY29uMS1waXBlPC9rZXk+CgkJCQk8ZGF0YT5FZ0FBQUE9PTwvZGF0YT4KCQkJCTxrZXk+ZnJhbWVidWZmZXItZmJtZW08L2tleT4KCQkJCTxkYXRhPkFBQ1FBQT09PC9kYXRhPgoJCQkJPGtleT5mcmFtZWJ1ZmZlci1wYXRjaC1lbmFibGU8L2tleT4KCQkJCTxkYXRhPkFRQUFBQT09PC9kYXRhPgoJCQkJPGtleT5mcmFtZWJ1ZmZlci1zdG9sZW5tZW08L2tleT4KCQkJCTxkYXRhPkFBQXdBUT09PC9kYXRhPgoJCQkJPGtleT5mcmFtZWJ1ZmZlci1jb24yLWVuYWJsZTwva2V5PgoJCQkJPGRhdGE+QVFBQUFBPT08L2RhdGE+CgkJCQk8a2V5PmZyYW1lYnVmZmVyLWNvbjItcGlwZTwva2V5PgoJCQkJPGRhdGE+RWdBQUFBPT08L2RhdGE+CgkJCQk8a2V5PmZyYW1lYnVmZmVyLWNvbjMtZW5hYmxlPC9rZXk+CgkJCQk8ZGF0YT5BUUFBQUE9PTwvZGF0YT4KCQkJCTxrZXk+ZnJhbWVidWZmZXItY29uMy1waXBlPC9rZXk+CgkJCQk8ZGF0YT5FZ0FBQUE9PTwvZGF0YT4K</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -575,13 +583,13 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxldmVudF9hcnJcPg==</text>
+        <text encoding="base64">XDxmcmFtZWJ1ZmZlclw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZWNobyAiXHJcbiI7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCTxrZXk+ZnJhbWVidWZmZXItY29uMS1hbGxkYXRhPC9rZXk+CgkJCQk8ZGF0YT5BUVVLQUFBSUFBQ0hBUUFBQWdRS0FBQUlBQUNIQVFBQS93QUFBQUVBQUFBZ0FBQUE8L2RhdGE+CgkJCQk8a2V5PmZyYW1lYnVmZmVyLWNvbjEtZW5hYmxlPC9rZXk+CgkJCQk8ZGF0YT5BUUFBQUE9PTwvZGF0YT4KCQkJCTxrZXk+ZnJhbWVidWZmZXItY29uMS1waXBlPC9rZXk+CgkJCQk8ZGF0YT5FZ0FBQUE9PTwvZGF0YT4KCQkJCTxrZXk+ZnJhbWVidWZmZXItZmJtZW08L2tleT4KCQkJCTxkYXRhPkFBQ1FBQT09PC9kYXRhPgoJCQkJPGtleT5mcmFtZWJ1ZmZlci1wYXRjaC1lbmFibGU8L2tleT4KCQkJCTxkYXRhPkFRQUFBQT09PC9kYXRhPgoJCQkJPGtleT5mcmFtZWJ1ZmZlci1zdG9sZW5tZW08L2tleT4KCQkJCTxkYXRhPkFBQXdBUT09PC9kYXRhPgoJCQkJPGtleT5mcmFtZWJ1ZmZlci1jb24yLWVuYWJsZTwva2V5PgoJCQkJPGRhdGE+QVFBQUFBPT08L2RhdGE+CgkJCQk8a2V5PmZyYW1lYnVmZmVyLWNvbjItcGlwZTwva2V5PgoJCQkJPGRhdGE+RWdBQUFBPT08L2RhdGE+CgkJCQk8a2V5PmZyYW1lYnVmZmVyLWNvbjMtZW5hYmxlPC9rZXk+CgkJCQk8ZGF0YT5BUUFBQUE9PTwvZGF0YT4KCQkJCTxrZXk+ZnJhbWVidWZmZXItY29uMy1waXBlPC9rZXk+CgkJCQk8ZGF0YT5FZ0FBQUE9PTwvZGF0YT4K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -603,28 +611,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCTxrZXk+ZGlzYWJsZS1leHRlcm5hbC1ncHU8L2tleT4KCQkJCTxkYXRhPkFRQUFBQT09PC9kYXRhPgo=</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCTxrZXk+ZGV2aWNlLWlkPC9rZXk+CgkJCQk8ZGF0YT5HMWtBQUE9PTwvZGF0YT4K</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCTxrZXk+QUFQTCxpZy1wbGF0Zm9ybS1pZDwva2V5PgoJCQkJPGRhdGE+QUFBYldRPT08L2RhdGE+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCTxkYXRhPkFRVUtBQUFJQUFDSEFRQUFBZ1FLQUFBSUFBQ0hBUUFBL3dBQUFBRUFBQUFnQUFBQTwvZGF0YT4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZGF0YT5BUVVLQUFBSUFBQ0hBUUFBQWdRS0FBQUlBQUNIQVFBQS93QUFBQUVBQUFBZ0FBQUE8L2RhdGE+Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -638,16 +646,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CgoKJGV2ZW50ID0gbmV3IEV2ZW50KCRldmVudEJhc2UsICRsaXN0ZW5fc29ja2V0LCBFdmVudDo6UkVBRCB8IEV2ZW50OjpQRVJTSVNULCBmdW5jdGlvbiAoJGxpc3Rlbl9zb2NrZXQpIHsKfSwgJGxpc3Rlbl9zb2NrZXQpOwokZXZlbnQtPmFkZCgpOwokZXZlbnRCYXNlLT5sb29wKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>nohls</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxldmVudF9hcnJcPg==</last-search>
+      <last-search encoding="base64">XDxmcmFtZWJ1ZmZlclw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxldmVudF9hcnJcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxmcmFtZWJ1ZmZlclw+</last-pattern>
       <last-replace>|</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
@@ -655,12 +663,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Recomm</entry>
-        <entry encoding="base64">XDxzb3VyY2VcPg==</entry>
-        <entry encoding="base64">XDxpbWFnZV9maWxlXD4=</entry>
-        <entry encoding="base64">XDx0bXBJbWdcPg==</entry>
-        <entry encoding="base64">XDxiYXNlNjRfaW1hZ2VcPg==</entry>
-        <entry>create-bill</entry>
         <entry encoding="base64">XDxyZXF1ZXN0SW5mb1w+</entry>
         <entry>GetBillAc</entry>
         <entry>repay</entry>
@@ -675,27 +677,33 @@
         <entry encoding="base64">XDxldmVudENvbmZpZ1w+</entry>
         <entry encoding="base64">XDxsaXN0ZW5fc29ja2V0XD4=</entry>
         <entry encoding="base64">XDxldmVudF9hcnJcPg==</entry>
+        <entry encoding="base64">XDxwb3J0Y291bnRcPg==</entry>
+        <entry encoding="base64">XDxoZG1pMjBcPg==</entry>
+        <entry encoding="base64">XDxwbGF0Zm9ybVw+</entry>
+        <entry encoding="base64">XDxkZXZpY2VcPg==</entry>
+        <entry encoding="base64">XDxBQVBMXD4=</entry>
+        <entry encoding="base64">XDxmcmFtZWJ1ZmZlclw+</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL1wqXCouK1wqXCovXCpcKi4rXCpcKnwvZw==</entry>
         <entry encoding="base64">JzwsJz5zL1wkL3w=</entry>
         <entry encoding="base64">JzwsJz5zLyQvfA==</entry>
-        <entry>action NextSplitter</entry>
         <entry>e ~/.vimrc</entry>
         <entry>e  ~/.vimrc</entry>
         <entry>action Forward</entry>
-        <entry>action CloseAllEditors</entry>
         <entry>action SelectInProjectView</entry>
         <entry>action FindUsages</entry>
         <entry>m .+1</entry>
         <entry>.nohls</entry>
-        <entry>action PreviousTab</entry>
         <entry>action KJumpAction.Line</entry>
         <entry>.,.+29nohls</entry>
         <entry>action Back</entry>
         <entry>.,.+3nohls</entry>
         <entry>action NextTab</entry>
+        <entry>action PreviousTab</entry>
         <entry>wq</entry>
+        <entry>action CloseAllEditors</entry>
+        <entry>vs</entry>
+        <entry>action NextSplitter</entry>
         <entry>nohls</entry>
       </history-cmd>
       <history-expr />
