@@ -11,6 +11,13 @@
       <file name="$USER_HOME$/Develop/demo/vendor/php-di/php-di/src/functions.php" timestamp="1554260136560">
         <mark key="'" line="91" column="19" />
       </file>
+      <file name="$USER_HOME$/Develop/Linux/socket_select.php" timestamp="1554369027778">
+        <mark key="'" line="65" column="28" />
+        <mark key="[" line="35" column="20" />
+        <mark key="]" line="35" column="21" />
+        <mark key="." line="35" column="21" />
+        <mark key="^" line="35" column="21" />
+      </file>
       <file name="$USER_HOME$/Develop/sfy/shoufuyou-fund-system/lib/Models/FundSource/VerifyCashPool.php" timestamp="1554276509592">
         <mark key="'" line="160" column="21" />
       </file>
@@ -122,10 +129,6 @@
         <mark key="]" line="415" column="90" />
         <mark key="." line="415" column="90" />
         <mark key="^" line="415" column="114" />
-      </file>
-      <file name="$USER_HOME$/Develop/sfy/shoufuyou-php-lib/shoufuyou/Util/Image.php" timestamp="1554283476094">
-        <mark key="'" line="1" column="0" />
-        <mark key="^" line="20" column="48" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/loanmarket/vendor/guzzlehttp/guzzle/src/Client.php" timestamp="1552563558738">
         <mark key="'" line="14" column="29" />
@@ -324,6 +327,12 @@
         <mark key="^" line="156" column="100" />
         <mark key="." line="156" column="100" />
       </file>
+      <file name="$USER_HOME$/Develop/Linux/socket.php" timestamp="1554368044796">
+        <mark key="'" line="61" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="6" column="30" />
+        <mark key="." line="48" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/sfy/shoufuyou-php-lib/shoufuyou/Table/BaseTable.php" timestamp="1554342530375">
         <mark key="'" line="83" column="20" />
       </file>
@@ -385,15 +394,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="38" filename="$USER_HOME$/Develop/sfy/shoufuyou-console/lib/Controllers/Api/WithholdController.php" />
-      <jump line="27" column="27" filename="$USER_HOME$/Develop/sfy/shoufuyou-php-lib/shoufuyou/Util/Image.php" />
-      <jump line="59" column="31" filename="$USER_HOME$/Develop/sfy/shoufuyou-php-lib/shoufuyou/Util/Image.php" />
-      <jump line="73" column="48" filename="$USER_HOME$/Develop/sfy/shoufuyou-php-lib/shoufuyou/Util/Image.php" />
-      <jump line="6" column="0" filename="$USER_HOME$/Develop/sfy/shoufuyou-php-lib/shoufuyou/Util/Image.php" />
-      <jump line="16" column="0" filename="$USER_HOME$/Develop/839891627.github.io/source/_posts/使用PHP压缩并base64编码图片.md" />
-      <jump line="87" column="48" filename="$USER_HOME$/Develop/839891627.github.io/source/_posts/使用PHP压缩并base64编码图片.md" />
-      <jump line="68" column="0" filename="$USER_HOME$/Develop/sfy/shoufuyou-php-lib/shoufuyou/Util/Image.php" />
-      <jump line="12" column="45" filename="$USER_HOME$/Develop/sfy/shoufuyou-bill-system/lib/Router.php" />
       <jump line="33" column="31" filename="$USER_HOME$/Develop/sfy/shoufuyou-bill-system/lib/Controllers/CashBillController.php" />
       <jump line="211" column="26" filename="$USER_HOME$/Develop/sfy/shoufuyou-bill-system/lib/Models/CashBill.php" />
       <jump line="223" column="38" filename="$USER_HOME$/Develop/sfy/shoufuyou-bill-system/lib/Models/CashBill.php" />
@@ -485,6 +485,15 @@
       <jump line="239" column="30" filename="$USER_HOME$/Develop/sfy/shoufuyou-bill-system/lib/Models/CashBill.php" />
       <jump line="3783" column="31" filename="$USER_HOME$/Develop/sfy/shoufuyou-bill-system/lib/Models/CashBill.php" />
       <jump line="35" column="33" filename="$USER_HOME$/Develop/sfy/shoufuyou-console/lib/Models/CashBill.php" />
+      <jump line="22" column="0" filename="$USER_HOME$/Develop/Linux/socket.php" />
+      <jump line="34" column="48" filename="$USER_HOME$/Develop/Linux/socket.php" />
+      <jump line="19" column="7" filename="$USER_HOME$/Develop/Linux/socket.php" />
+      <jump line="17" column="0" filename="$USER_HOME$/Develop/Linux/socket.php" />
+      <jump line="10" column="0" filename="$USER_HOME$/Develop/Linux/socket.php" />
+      <jump line="29" column="20" filename="$USER_HOME$/Develop/Linux/socket.php" />
+      <jump line="61" column="0" filename="$USER_HOME$/Develop/Linux/socket.php" />
+      <jump line="1" column="0" filename="$USER_HOME$/Develop/Linux/socket_select.php" />
+      <jump line="10" column="28" filename="$USER_HOME$/Develop/Linux/socket_select.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -515,8 +524,8 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>$</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -539,16 +548,16 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>$</text>
+        <text>item</text>
       </register>
       <register name="/" type="4">
         <text>plan</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">Yi5wYXlfc3RhdHVzIDw+ICJwYXJ0X3BhaWQi</text>
+      <register name="0" type="2">
+        <text encoding="base64">JGhvc3QgPSAnMC4wLjAuMCc7CiRwb3J0ID0gOTk5ODsKCiRsaXN0ZW5fc29ja2V0ID0gc29ja2V0X2NyZWF0ZShBRl9JTkVULCBTT0NLX1NUUkVBTSwgU09MX1RDUCk7CnNvY2tldF9iaW5kKCRsaXN0ZW5fc29ja2V0LCAkaG9zdCwgJHBvcnQpOwpzb2NrZXRfbGlzdGVuKCRsaXN0ZW5fc29ja2V0KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoJGFwcCkgewogICAgICAgICAgICAkY29uZGl0aW9ucyAuPSAiIEFORCBhcHAgPSA6YXBwICI7CiAgICAgICAgICAgICRwYXJhbXNbJzphcHAnXSA9ICRhcHA7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -570,13 +579,13 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGtleT0gYXJhcnlfCg==</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
@@ -585,13 +594,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Zm9yICgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFV0aWw6OnJlc3BvbnNlSW5mbygkdGhpcy0+ZnVuY3Rpb24sICcyMzAxMDAnLCAn5Y2V54usIGlkX2NhcmRfbnVtYmVyIOafpeivouivt+a3u+WKoCBhcHAg5Y+C5pWwIScpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -602,10 +611,12 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoKSB7CiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Ly8gCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkTWlzc2luZ0NvbHVtbiA9IFV0aWw6Om1pc3NpbmdDb2x1bW4oJHJlcXVlc3RJbmZvLCAkY29sdW1ucyk7Cg==</text>
+      <register name="9" type="4">
+        <text>/**
+ * 
+ * */</text>
       </register>
       <register name=":" type="4">
         <text>nohls</text>
@@ -652,17 +663,17 @@
         <entry>action NextSplitter</entry>
         <entry>e ~/.vimrc</entry>
         <entry>e  ~/.vimrc</entry>
-        <entry>action PreviousTab</entry>
-        <entry>action KJumpAction.Line</entry>
         <entry>action Forward</entry>
         <entry>action CloseAllEditors</entry>
         <entry>action SelectInProjectView</entry>
-        <entry>action NextTab</entry>
         <entry>wq</entry>
         <entry>action FindUsages</entry>
         <entry>m .+1</entry>
         <entry>action Back</entry>
         <entry>.nohls</entry>
+        <entry>action KJumpAction.Line</entry>
+        <entry>action PreviousTab</entry>
+        <entry>action NextTab</entry>
         <entry>nohls</entry>
       </history-cmd>
       <history-expr />
