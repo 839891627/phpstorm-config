@@ -164,7 +164,7 @@
       <file name="$USER_HOME$/Develop/sfy/shoufuyou-fund-system/lib/Controller.php" timestamp="1554278367138">
         <mark key="'" line="176" column="27" />
       </file>
-      <file name="$USER_HOME$/Develop/sfy/shoufuyou-bill-system/lib/Router.php" timestamp="1554342056834">
+      <file name="$USER_HOME$/Develop/sfy/shoufuyou-bill-system/lib/Router.php" timestamp="1554346507951">
         <mark key="'" line="12" column="45" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/shoufuyou-console/public/index.php" timestamp="1554285264790">
@@ -527,7 +527,7 @@
         <text encoding="base64">ICAgICAgICBoZWFkZXIoJ0NvbnRlbnQtdHlwZTphcHBsaWNhdGlvbi9qc29uJyk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action PreviousTab</text>
+        <text>action FindUsages</text>
       </register>
     </registers>
     <search>
@@ -575,14 +575,14 @@
         <entry>action CloseAllEditors</entry>
         <entry>.nohls</entry>
         <entry>action KJumpAction.Line</entry>
-        <entry>action FindUsages</entry>
         <entry>action SelectInProjectView</entry>
         <entry>action Forward</entry>
         <entry>action Back</entry>
         <entry>wq</entry>
-        <entry>nohls</entry>
         <entry>action NextTab</entry>
+        <entry>nohls</entry>
         <entry>action PreviousTab</entry>
+        <entry>action FindUsages</entry>
       </history-cmd>
       <history-expr />
       <history-input />
