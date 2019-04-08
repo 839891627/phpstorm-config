@@ -161,6 +161,7 @@
       <file name="$USER_HOME$/Develop/sfy/shoufuyou-php-lib/biz-common/Models/CashPool/CashPoolConfig.php" timestamp="1554276106450">
         <mark key="'" line="67" column="65" />
       </file>
+      <file name="$USER_HOME$/Develop/yuewo/database/migrations/2018_05_04_175844_add_merchant_name_index_to_projects.php" timestamp="1554687369014" />
       <file name="$USER_HOME$/Develop/demo/vendor/php-di/php-di/src/ContainerBuilder.php" timestamp="1554258787372">
         <mark key="'" line="113" column="20" />
       </file>
@@ -247,6 +248,9 @@
         <mark key="^" line="6" column="12" />
         <mark key="." line="6" column="12" />
       </file>
+      <file name="$USER_HOME$/Develop/sfy/shoufuyou-console/lib/Controllers/BaseController.php" timestamp="1554688077735">
+        <mark key="'" line="10" column="6" />
+      </file>
       <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/session/session.php" timestamp="1553838606370">
         <mark key="'" line="63" column="17" />
       </file>
@@ -268,6 +272,13 @@
       </file>
       <file name="$USER_HOME$/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/9718d03a754db8f36c6bf44c877ecdce/Message/MessageTemp/bd5ab5dd5df4d0a77b7d1272301ca287/File/信用飞脚本介绍" timestamp="1554372496811">
         <mark key="'" line="129" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/sfy/shoufuyou-console/lib/Controllers/IndexController.php" timestamp="1554688139698">
+        <mark key="'" line="18" column="72" />
+        <mark key="[" line="18" column="76" />
+        <mark key="]" line="18" column="27" />
+        <mark key="^" line="18" column="27" />
+        <mark key="." line="18" column="27" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/shoufuyou-console/lib/Models/CashPool/CashPoolNew.php" timestamp="1554277249090">
         <mark key="'" line="21" column="30" />
@@ -293,13 +304,6 @@
       </file>
       <file name="$USER_HOME$/Develop/sfy/shoufuyou-sdk/lib/SfyApi.php" timestamp="1553675808383">
         <mark key="'" line="275" column="28" />
-      </file>
-      <file name="$USER_HOME$/Develop/sfy/shoufuyou-console/lib/Models/CashBill.php" timestamp="1554360677323">
-        <mark key="'" line="36" column="33" />
-        <mark key="[" line="36" column="131" />
-        <mark key="]" line="36" column="132" />
-        <mark key="." line="36" column="132" />
-        <mark key="^" line="36" column="132" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/xinyongfei-mobile/assets/js/views/payday/order-index.js" timestamp="1553769714305">
         <mark key="'" line="815" column="19" />
@@ -426,8 +430,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3565" column="17" filename="$USER_HOME$/Develop/sfy/shoufuyou-bill-system/lib/Models/CashBill.php" />
-      <jump line="28" column="43" filename="$USER_HOME$/Develop/sfy/shoufuyou-bill-system/lib/Models/CashRepayment.php" />
       <jump line="23" column="35" filename="$USER_HOME$/Develop/sfy/shoufuyou-bill-system/lib/Models/CashRepaymentDetail.php" />
       <jump line="3" column="34" filename="$USER_HOME$/Develop/sfy/shoufuyou-bill-system/lib/Models/CashRepaymentDetail.php" />
       <jump line="3" column="6" filename="$USER_HOME$/Develop/sfy/shoufuyou-php-lib/shoufuyou/Table/CashRepaymentDetail.php" />
@@ -526,6 +528,8 @@
       <jump line="76" column="29" filename="$USER_HOME$/Desktop/config.plist" />
       <jump line="64" column="21" filename="$USER_HOME$/Desktop/config.plist" />
       <jump line="82" column="21" filename="$USER_HOME$/Desktop/config.plist" />
+      <jump line="18" column="72" filename="$USER_HOME$/Develop/sfy/shoufuyou-console/lib/Controllers/IndexController.php" />
+      <jump line="10" column="6" filename="$USER_HOME$/Develop/sfy/shoufuyou-console/lib/Controllers/BaseController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -556,8 +560,8 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCTxrZXk+ZnJhbWVidWZmZXItY29uMS1hbGxkYXRhPC9rZXk+CgkJCQk8ZGF0YT5BUVVLQUFBSUFBQ0hBUUFBQWdRS0FBQUlBQUNIQVFBQS93QUFBQUVBQUFBZ0FBQUE8L2RhdGE+CgkJCQk8a2V5PmZyYW1lYnVmZmVyLWNvbjEtZW5hYmxlPC9rZXk+CgkJCQk8ZGF0YT5BUUFBQUE9PTwvZGF0YT4KCQkJCTxrZXk+ZnJhbWVidWZmZXItY29uMS1waXBlPC9rZXk+CgkJCQk8ZGF0YT5FZ0FBQUE9PTwvZGF0YT4KCQkJCTxrZXk+ZnJhbWVidWZmZXItZmJtZW08L2tleT4KCQkJCTxkYXRhPkFBQ1FBQT09PC9kYXRhPgoJCQkJPGtleT5mcmFtZWJ1ZmZlci1wYXRjaC1lbmFibGU8L2tleT4KCQkJCTxkYXRhPkFRQUFBQT09PC9kYXRhPgoJCQkJPGtleT5mcmFtZWJ1ZmZlci1zdG9sZW5tZW08L2tleT4KCQkJCTxkYXRhPkFBQXdBUT09PC9kYXRhPgoJCQkJPGtleT5mcmFtZWJ1ZmZlci1jb24yLWVuYWJsZTwva2V5PgoJCQkJPGRhdGE+QVFBQUFBPT08L2RhdGE+CgkJCQk8a2V5PmZyYW1lYnVmZmVyLWNvbjItcGlwZTwva2V5PgoJCQkJPGRhdGE+RWdBQUFBPT08L2RhdGE+CgkJCQk8a2V5PmZyYW1lYnVmZmVyLWNvbjMtZW5hYmxlPC9rZXk+CgkJCQk8ZGF0YT5BUUFBQUE9PTwvZGF0YT4KCQkJCTxrZXk+ZnJhbWVidWZmZXItY29uMy1waXBlPC9rZXk+CgkJCQk8ZGF0YT5FZ0FBQUE9PTwvZGF0YT4K</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -580,13 +584,13 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcmFtZWJ1ZmZlclw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZWNobyAiXHJcbiI7Cg==</text>
+      <register name="0" type="4">
+        <text>Config::getArray('shoufuyou.fas_config')['hidden_mobile'])</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQkJCTxrZXk+ZnJhbWVidWZmZXItY29uMS1hbGxkYXRhPC9rZXk+CgkJCQk8ZGF0YT5BUVVLQUFBSUFBQ0hBUUFBQWdRS0FBQUlBQUNIQVFBQS93QUFBQUVBQUFBZ0FBQUE8L2RhdGE+CgkJCQk8a2V5PmZyYW1lYnVmZmVyLWNvbjEtZW5hYmxlPC9rZXk+CgkJCQk8ZGF0YT5BUUFBQUE9PTwvZGF0YT4KCQkJCTxrZXk+ZnJhbWVidWZmZXItY29uMS1waXBlPC9rZXk+CgkJCQk8ZGF0YT5FZ0FBQUE9PTwvZGF0YT4KCQkJCTxrZXk+ZnJhbWVidWZmZXItZmJtZW08L2tleT4KCQkJCTxkYXRhPkFBQ1FBQT09PC9kYXRhPgoJCQkJPGtleT5mcmFtZWJ1ZmZlci1wYXRjaC1lbmFibGU8L2tleT4KCQkJCTxkYXRhPkFRQUFBQT09PC9kYXRhPgoJCQkJPGtleT5mcmFtZWJ1ZmZlci1zdG9sZW5tZW08L2tleT4KCQkJCTxkYXRhPkFBQXdBUT09PC9kYXRhPgoJCQkJPGtleT5mcmFtZWJ1ZmZlci1jb24yLWVuYWJsZTwva2V5PgoJCQkJPGRhdGE+QVFBQUFBPT08L2RhdGE+CgkJCQk8a2V5PmZyYW1lYnVmZmVyLWNvbjItcGlwZTwva2V5PgoJCQkJPGRhdGE+RWdBQUFBPT08L2RhdGE+CgkJCQk8a2V5PmZyYW1lYnVmZmVyLWNvbjMtZW5hYmxlPC9rZXk+CgkJCQk8ZGF0YT5BUUFBQUE9PTwvZGF0YT4KCQkJCTxrZXk+ZnJhbWVidWZmZXItY29uMy1waXBlPC9rZXk+CgkJCQk8ZGF0YT5FZ0FBQUE9PTwvZGF0YT4K</text>
@@ -696,14 +700,14 @@
         <entry>.nohls</entry>
         <entry>action KJumpAction.Line</entry>
         <entry>.,.+29nohls</entry>
-        <entry>action Back</entry>
         <entry>.,.+3nohls</entry>
-        <entry>action NextTab</entry>
         <entry>action PreviousTab</entry>
-        <entry>wq</entry>
-        <entry>action CloseAllEditors</entry>
         <entry>vs</entry>
         <entry>action NextSplitter</entry>
+        <entry>action CloseAllEditors</entry>
+        <entry>action Back</entry>
+        <entry>wq</entry>
+        <entry>action NextTab</entry>
         <entry>nohls</entry>
       </history-cmd>
       <history-expr />
