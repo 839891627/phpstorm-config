@@ -273,6 +273,7 @@
       <file name="$USER_HOME$/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/9718d03a754db8f36c6bf44c877ecdce/Message/MessageTemp/a231a8ce39d7a82b7ae33cb1a7ae1fa1/OpenData/env 1.php" timestamp="1554691044138">
         <mark key="'" line="125" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/sfy/shoufuyou-php-lib/shoufuyou/Util/Env.php" timestamp="1554692527152" />
       <file name="$USER_HOME$/Develop/sfy/shoufuyou-bill-system/lib/Controllers/BillController.php" timestamp="1554718636217">
         <mark key="'" line="28" column="31" />
       </file>
@@ -471,6 +472,7 @@
         <mark key="." line="5" column="13" />
         <mark key="^" line="5" column="13" />
       </file>
+      <file name="$USER_HOME$/Develop/sfy/shoufuyou-task/lib/Subcommands/CashBillRecreateCommand.php" timestamp="1554802084261" />
     </filemarks>
     <jumps>
       <jump line="45" column="18" filename="$USER_HOME$/Develop/sfy/shoufuyou-php-lib/biz-common/Models/CashLoanOrder.php" />
@@ -696,7 +698,7 @@
         <text encoding="base64">ICAgICAgICB2YXJfZHVtcChhcnJheV9jb2x1bW4oYXJyYXlfbWVyZ2UoRGljdDo6UEFZX0NIQU5ORUxfVFlQRV9NQVBbJ2NvbGxlY3QnXSwgRGljdDo6UEFZX0NIQU5ORUxfVFlQRV9NQVBbJ2FncmVlbWVudCddKSwgJ25hbWUnKSk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Back</text>
+        <text>action CloseAllEditors</text>
       </register>
     </registers>
     <search>
@@ -706,7 +708,7 @@
       <last-replace>|</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -744,14 +746,14 @@
         <entry>vs</entry>
         <entry>action NextSplitter</entry>
         <entry>action SelectInProjectView</entry>
-        <entry>action FindUsages</entry>
-        <entry>action CloseAllEditors</entry>
         <entry>action NextTab</entry>
-        <entry>nohls</entry>
         <entry>action Forward</entry>
-        <entry>wq</entry>
         <entry>action PreviousTab</entry>
         <entry>action Back</entry>
+        <entry>action FindUsages</entry>
+        <entry>wq</entry>
+        <entry>nohls</entry>
+        <entry>action CloseAllEditors</entry>
       </history-cmd>
       <history-expr />
       <history-input />
