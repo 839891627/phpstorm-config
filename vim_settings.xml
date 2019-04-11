@@ -886,7 +886,7 @@
         <text encoding="base64">LmdpdGtlZXAK</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>action SelectInProjectView</text>
       </register>
     </registers>
     <search>
@@ -931,17 +931,17 @@
         <entry>.,.+3nohls</entry>
         <entry>vs</entry>
         <entry>action Forward</entry>
-        <entry>action FindUsages</entry>
         <entry>.nohls</entry>
         <entry>m .+1</entry>
         <entry>action NextSplitter</entry>
         <entry>action Back</entry>
-        <entry>action SelectInProjectView</entry>
         <entry>action CloseAllEditors</entry>
         <entry>nohls</entry>
         <entry>action NextTab</entry>
         <entry>action PreviousTab</entry>
         <entry>wq</entry>
+        <entry>action FindUsages</entry>
+        <entry>action SelectInProjectView</entry>
       </history-cmd>
       <history-expr />
       <history-input />
