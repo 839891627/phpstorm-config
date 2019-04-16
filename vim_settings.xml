@@ -166,6 +166,13 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/design-pattern/strategy/index.php" timestamp="1555396762024">
+        <mark key="'" line="76" column="64" />
+        <mark key="[" line="106" column="13" />
+        <mark key="]" line="106" column="22" />
+        <mark key="." line="106" column="22" />
+        <mark key="^" line="106" column="22" />
+      </file>
       <file name="$USER_HOME$/Develop/sfy/shoufuyou-php-lib/hyperframework/hyperframework/lib/Common/ConfigEngine.php" timestamp="1553151633651">
         <mark key="'" line="31" column="25" />
       </file>
@@ -698,13 +705,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="289" column="58" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Models/PaydayLoan.php" />
-      <jump line="43" column="49" filename="$USER_HOME$/Develop/sfy/shoufuyou-fund-system/lib/Models/FundSource/RecommendLib.php" />
-      <jump line="33" column="4" filename="$USER_HOME$/Develop/sfy/shoufuyou-fund-system/lib/Models/FundSource/RecommendLib.php" />
-      <jump line="35" column="42" filename="$USER_HOME$/Develop/sfy/shoufuyou-fund-system/lib/Models/FundSource/RecommendLib.php" />
-      <jump line="23" column="25" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Controllers/PaydayController.php" />
-      <jump line="276" column="0" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Controllers/PaydayController.php" />
-      <jump line="305" column="27" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Controllers/PaydayController.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Controllers/PaydayController.php" />
       <jump line="268" column="22" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Controllers/PaydayController.php" />
       <jump line="285" column="27" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Controllers/PaydayController.php" />
@@ -798,6 +798,13 @@
       <jump line="88" column="49" filename="$USER_HOME$/Develop/laravel/vendor/overtrue/easy-sms/src/EasySms.php" />
       <jump line="94" column="38" filename="$USER_HOME$/Develop/laravel/vendor/overtrue/easy-sms/src/EasySms.php" />
       <jump line="8" column="26" filename="$USER_HOME$/Develop/framework/app/ctrl/indexCtrl.php" />
+      <jump line="72" column="27" filename="$USER_HOME$/Develop/design-pattern/strategy/index.php" />
+      <jump line="69" column="44" filename="$USER_HOME$/Develop/design-pattern/strategy/index.php" />
+      <jump line="58" column="9" filename="$USER_HOME$/Develop/design-pattern/strategy/index.php" />
+      <jump line="81" column="21" filename="$USER_HOME$/Develop/design-pattern/strategy/index.php" />
+      <jump line="97" column="46" filename="$USER_HOME$/Develop/design-pattern/strategy/index.php" />
+      <jump line="95" column="8" filename="$USER_HOME$/Develop/design-pattern/strategy/index.php" />
+      <jump line="76" column="64" filename="$USER_HOME$/Develop/design-pattern/strategy/index.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -828,8 +835,8 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHB1YmQgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>: CashSuper</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -852,16 +859,16 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>core</text>
+        <text>: CashSuper</text>
       </register>
       <register name="/" type="4">
         <text>updateCou</text>
       </register>
-      <register name="0" type="4">
-        <text>date('Y-m-d H:i:s'),</text>
+      <register name="0" type="2">
+        <text encoding="base64">JGNzdXBlciA9IENhc2hGYWN0b3J5OjpjcmVhdGVDYXNoQWNjZXB0KCR0eXBlLCAxMDApOwokY3N1cGVyCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1YmQgICAgCg==</text>
+        <text encoding="base64">dmFyX2R1bXAoJGNzdXBlcik7ZGllOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -883,28 +890,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c29kaXVtX2NyeXB0b19ib3hfcHVibGlja2V5X2Zyb21fc2VjcmV0a2V5KCkK</text>
+        <text encoding="base64">JGNzdXBlcgo=</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBcWWlpOjppbmZvKCItLS0tLS0tLS0tc3RhciDmiafooYznn63kv6Hlj5HpgIHku7vliqEtLS0tLS0tLS0tLS0tLSIsICdzbXMnKTsKICAgICAgICByZXR1cm4gOwo=</text>
+        <text encoding="base64">ZWNobyAkdHlwZTIgLiAnLS0tLS0tJyAuICRjc3VwZXIyLT5hY2NlcHRDYXNoKDEwMCkgLiBQSFBfRU9MOwo=</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gOwo=</text>
+        <text encoding="base64">ZWNobyAkdHlwZTIgLiAnLS0tLS0tJyAuICRjc3VwZXIyLT5hY2NlcHRDYXNoKDEwMCkgLiBQSFBfRU9MOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkaWU7Cg==</text>
+        <text encoding="base64">JGNzdXBlcjEgPSBDYXNoRmFjdG9yeTo6Y3JlYXRlQ2FzaEFjY2VwdCgkdHlwZTEpOwplY2hvICR0eXBlMSAuICctLS0tLS0nIC4gJGNzdXBlcjEtPmFjY2VwdENhc2goNDUwKSAuIFBIUF9FT0w7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJHNxbCwkcmV0KTsKICAgICAgICAgICAgU21zTmV3VGFza3M6OnVwZGF0ZUFsbENvdW50ZXJzKFsndHJ5X3RpbWVzJyA9PiAxXSwgWydpbicsICdpZCcsICR0YXNrWydpZCddXSk7CgogICAgICAgICAgICBTbXNOZXdUYXNrczo6dXBkYXRlQWxsKFsKICAgICAgICAgICAgICAgIC8vICdzdGF0dXMnID0+IFNtc05ld1Rhc2tzOjpTVEFUVVNfU1VDQ0VTUywKICAgICAgICAgICAgICAgICdzdGF0dXMnID0+IDMsCiAgICAgICAgICAgICAgICAnc2VuZF90aW1lJyA9PiBkYXRlKCdZLW0tZCBIOmk6cycpLAogICAgICAgICAgICBdLCBbJ2lkJyA9PiAkdGFza1snaWQnXV0pOwo=</text>
+        <text encoding="base64">ZWhjbyAkY3MK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJHNxbCk7Cg==</text>
+        <text encoding="base64">ZWNobyAkdHlwZSAuICctLS0tLS0nIC4gJGNzdXBlci0+YWNjZXB0Q2FzaCgxMDApIC4gUEhQX0VPTDsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -915,13 +922,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJHNxbCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICfljp/ku7fvvJonLiQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC4gJyBhbmQgc2VuZF90aW1lPScgLiBkYXRlKCdZLW0tZCBIOmk6cycpIC4gJyB3aGVyZSBpZCBpbiAoJyAuIGltcGxvZGUoJywnLCAkdGFza1snaWQnXSkgLiAnKSc7CiAgICAgICAgICAgIGRkKCRzcWwpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJGNzOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action NextTab</text>
+        <text>nohls</text>
       </register>
     </registers>
     <search>
@@ -963,7 +970,6 @@
         <entry encoding="base64">JzwsJz5zLz0vPT4vZw==</entry>
         <entry>.nohls</entry>
         <entry>action FindUsages</entry>
-        <entry>m .-2</entry>
         <entry>set noic</entry>
         <entry>set ic</entry>
         <entry>vs</entry>
@@ -974,9 +980,10 @@
         <entry>wq</entry>
         <entry>action SelectInProjectView</entry>
         <entry>action CloseAllEditors</entry>
-        <entry>action Back</entry>
-        <entry>nohls</entry>
         <entry>action NextTab</entry>
+        <entry>action Back</entry>
+        <entry>m .-2</entry>
+        <entry>nohls</entry>
       </history-cmd>
       <history-expr />
       <history-input />
