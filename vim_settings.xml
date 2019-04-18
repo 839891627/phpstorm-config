@@ -77,12 +77,11 @@
       <file name="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Controllers/BaseController.php" timestamp="1553138081528">
         <mark key="'" line="82" column="40" />
       </file>
-      <file name="$USER_HOME$/Develop/framework/index.php" timestamp="1555577617536">
-        <mark key="'" line="9" column="23" />
-        <mark key="[" line="73" column="4" />
-        <mark key="]" line="73" column="4" />
-        <mark key="^" line="71" column="3" />
-        <mark key="." line="73" column="4" />
+      <file name="$USER_HOME$/Develop/framework/index.php" timestamp="1555587641379">
+        <mark key="'" line="9" column="74" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/syf-middleware-system/composer.lock" timestamp="1555586154082">
         <mark key="'" line="337" column="17" />
@@ -397,8 +396,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="36" filename="$USER_HOME$/Develop/sfy/shoufuyou-notify/lib/Controllers/ShengbeiController.php" />
-      <jump line="171" column="19" filename="$USER_HOME$/Develop/sfy/shoufuyou-notify/lib/Controllers/ShengbeiController.php" />
       <jump line="50" column="31" filename="$USER_HOME$/Develop/sfy/shoufuyou-notify/lib/Controllers/ShengbeiController.php" />
       <jump line="173" column="0" filename="$USER_HOME$/Develop/sfy/shoufuyou-notify/lib/Controllers/ShengbeiController.php" />
       <jump line="170" column="0" filename="$USER_HOME$/Develop/sfy/shoufuyou-notify/lib/Controllers/ShengbeiController.php" />
@@ -497,6 +494,8 @@
       <jump line="327" column="50" filename="$USER_HOME$/Develop/sfy/syf-middleware-system/composer.lock" />
       <jump line="332" column="60" filename="$USER_HOME$/Develop/sfy/syf-middleware-system/composer.lock" />
       <jump line="337" column="17" filename="$USER_HOME$/Develop/sfy/syf-middleware-system/composer.lock" />
+      <jump line="64" column="0" filename="$USER_HOME$/Develop/framework/index.php" />
+      <jump line="14" column="74" filename="$USER_HOME$/Develop/framework/index.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -527,8 +526,8 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>服务代扣通道配置</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gJGRhdGEgPSAneyJ1c2VybmFtZSI6ImN1c3ROYW1lIiwiY2hhbm5lbElkIjoiU0JfMSIsIm1vYmlsZSI6IjEzNzE3NTY2MDAxIn0nOwovLyAkZGF0YSA9ICd7InVzZXJuYW1lIjoiY3VzdE5hbWUiLCJtb2JpbGUiOiIxMzcxNzU2NjAwMSIsImNoYW5uZWxJZCI6IlNCXzEifSc7Ci8vICRkYXRhID0gJ3sibW9iaWxlIjoiMTM3MTc1NjYwMDEiLCJ1c2VybmFtZSI6ImN1c3ROYW1lIiwiY2hhbm5lbElkIjoiU0JfMSJ9JzsKLy8gJGRhdGEgPSAneyJtb2JpbGUiOiIxMzcxNzU2NjAwMSIsImNoYW5uZWxJZCI6IlNCXzEiLCJ1c2VybmFtZSI6ImN1c3ROYW1lIn0nOwovLyAkZGF0YSA9ICd7ImNoYW5uZWxJZCI6IlNCXzEiLCJtb2JpbGUiOiIxMzcxNzU2NjAwMSIsInVzZXJuYW1lIjoiY3VzdE5hbWUifSc7Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -560,7 +559,7 @@
         <text encoding="base64">ICAgICAgICAkd2hlcmUgPSAibGFzdF9sb2dpbl90aW1lID4gJyRsYXN0TG9naW5UaW1lU3RhcnQnIGFuZCBsYXN0X2xvZ2luX3RpbWUgPD0gJyRsYXN0TG9naW5UaW1lRW5kJyBhbmQgYXBwPSd4eWYnIjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c2hvdWZ1eW91LXBocC1saWIKc2hvdWZ1eW91LWNvbnNvbGUKc2hvdWZ1eW91LWJpbGwtc3lzdGVtCg==</text>
+        <text encoding="base64">Ly8gJGRhdGEgPSAneyJ1c2VybmFtZSI6ImN1c3ROYW1lIiwiY2hhbm5lbElkIjoiU0JfMSIsIm1vYmlsZSI6IjEzNzE3NTY2MDAxIn0nOwovLyAkZGF0YSA9ICd7InVzZXJuYW1lIjoiY3VzdE5hbWUiLCJtb2JpbGUiOiIxMzcxNzU2NjAwMSIsImNoYW5uZWxJZCI6IlNCXzEifSc7Ci8vICRkYXRhID0gJ3sibW9iaWxlIjoiMTM3MTc1NjYwMDEiLCJ1c2VybmFtZSI6ImN1c3ROYW1lIiwiY2hhbm5lbElkIjoiU0JfMSJ9JzsKLy8gJGRhdGEgPSAneyJtb2JpbGUiOiIxMzcxNzU2NjAwMSIsImNoYW5uZWxJZCI6IlNCXzEiLCJ1c2VybmFtZSI6ImN1c3ROYW1lIn0nOwovLyAkZGF0YSA9ICd7ImNoYW5uZWxJZCI6IlNCXzEiLCJtb2JpbGUiOiIxMzcxNzU2NjAwMSIsInVzZXJuYW1lIjoiY3VzdE5hbWUifSc7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -582,28 +581,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c2hvdWZ1eW91LXBocC1saWIKc2hvdWZ1eW91LWNvbnNvbGUKc2hvdWZ1eW91LWJpbGwtc3lzdGVtCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">JGRhdGEgPSAneyJ1c2VybmFtZSI6ImN1c3ROYW1lIiwiY2hhbm5lbElkIjoiU0JfMSIsIm1vYmlsZSI6IjEzNzE3NTY2MDAxIn0nOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZWNobyBzdHJsZW4oJGRhdGEpOwo=</text>
+        <text encoding="base64">CkRlYXIgYWxs77yaCiLlpKfpop3mjqjpgIHlj4rnn63kv6HpgLvovpEiIOW3sue7j+W8gOWPkeWujOaIkO+8jOWPr+S7pei/m+ihjOa1i+ivle+8jOa1i+ivleebuOWFs+ivtOaYjuWmguS4i++8mgoK5YiG5pSvICBmZWF0dXJlLXh5Zi1jYXNoX3Ntcwrpobnnm64gIHN5Zi1taWRkbGV3YXJlLXN5c3RlbQoK6ZyA5rGC5paH5qGjIDpodHRwczovL3d3dy50YXBkLmNuLzM4NzcyNzk5L2RvY3VtZW50cy9maWxlX2xpc3QjIWZvbGRlcklkPTExMzg3NzI3OTkwMDEwMDAzMTkmYWN0aW9uPWFqYXhfZmlsZV9saXN0CgrlvIDlj5Horr7orqHmlofmoaPvvJpodHRwczovL3d3dy50YXBkLmNuLzIwMDkwOTgxL21hcmtkb3duX3dpa2lzL3ZpZXcvIzExMjAwOTA5ODEwMDEwMTY2OTQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">JGxlbiA9IDIwOwo=</text>
+        <text encoding="base64">c2hvdWZ1eW91LXBocC1saWIKc2hvdWZ1eW91LWNvbnNvbGUKc2hvdWZ1eW91LWJpbGwtc3lzdGVtCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2hvdWZ1eW91LXBocC1saWIKc2hvdWZ1eW91LWNvbnNvbGUKc2hvdWZ1eW91LWJpbGwtc3lzdGVtCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">JGRhdGEgPSAneyJ1c2VybmFtZSI6ImN1c3ROYW1lIiwiY2hhbm5lbElkIjoiU0JfMSIsIm1vYmlsZSI6IjEzNzE3NTY2MDAxIn0nOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -614,10 +613,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">5Yqg5a+G5ZCO55qE5pWw5o2u77yaICAgIEY5dFp6R3R3Q1p3bm4vdmxyMms2QXptQmFFZ1NVampKeE02K2FBemc0ZXIzcDczSWkvUE9BSHo0OW9LUU9zOTViM3J4QUhLZ2NnemdkdVk0Z0x5cGdIb0IwdmYya3FOOHdOL1FtNWVIMDhrPQo=</text>
+        <text encoding="base64">ZWNobyBzdHJsZW4oJGRhdGEpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">5Yqg5a+G5ZCO55qE5pWw5o2u77yaICAgIEY5dFp6R3R3Q1p3bm4vdmxyMms2QXptQmFFZ1NVampKeE02K2FBemc0ZXIzcDczSWkvUE9BSHo0OW9LUU9zOTViM3J4QUhLZ2NnemdkdVk0Z0x5cGdIb0IwdmYya3FOOHdOL1FtNWVIMDhrPQo=</text>
+        <text encoding="base64">JGxlbiA9IDIwOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action SelectInProjectView</text>
