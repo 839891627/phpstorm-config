@@ -36,11 +36,12 @@
       <file name="$USER_HOME$/Develop/sfy/shoufuyou-fund-system/lib/Models/FundLogger.php" timestamp="1554964884814">
         <mark key="'" line="57" column="27" />
       </file>
-      <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/services/handleTrait.php" timestamp="1556096633446">
+      <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/services/handleTrait.php" timestamp="1556105472246">
         <mark key="'" line="108" column="8" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+        <mark key="[" line="14" column="40" />
+        <mark key="]" line="14" column="46" />
+        <mark key="." line="14" column="46" />
+        <mark key="^" line="14" column="46" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/syf-middleware-system/common/services/sms/readme.md" timestamp="1555654960044">
         <mark key="'" line="21" column="4" />
@@ -119,12 +120,6 @@
       </file>
       <file name="$USER_HOME$/Develop/sfy/shoufuyou-service/lib/Controllers/JdAgreementPayController.php" timestamp="1553761073333">
         <mark key="'" line="25" column="21" />
-      </file>
-      <file name="$USER_HOME$/Develop/sfy/loanmarket/vendor/yiisoft/yii2/web/Application.php" timestamp="1555671047005">
-        <mark key="'" line="102" column="29" />
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="79" column="0" />
-        <mark key="." line="79" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/services/authVerify.php" timestamp="1556010984677">
         <mark key="[" line="10" column="20" />
@@ -224,12 +219,6 @@
         <mark key="]" line="11" column="75" />
         <mark key="." line="11" column="75" />
         <mark key="^" line="11" column="75" />
-      </file>
-      <file name="$USER_HOME$/Develop/sfy/credit/vendor/yiisoft/yii2/web/Application.php" timestamp="1555899123689">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="102" column="0" />
-        <mark key="]" line="102" column="0" />
-        <mark key="." line="102" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/credit/vendor/yiisoft/yii2-httpclient/src/Request.php" timestamp="1556091505849">
         <mark key="'" line="424" column="30" />
@@ -690,12 +679,6 @@
         <mark key="^" line="1" column="62" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/sfy/credit/vendor/yiisoft/yii2/web/Request.php" timestamp="1556070844443">
-        <mark key="'" line="1139" column="22" />
-        <mark key="[" line="274" column="0" />
-        <mark key="]" line="274" column="0" />
-        <mark key="." line="274" column="0" />
-      </file>
       <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/services/needUploadIdCard.php" timestamp="1556011007629">
         <mark key="[" line="11" column="20" />
         <mark key="]" line="11" column="23" />
@@ -741,12 +724,6 @@
         <mark key="]" line="31" column="0" />
         <mark key="^" line="28" column="9" />
         <mark key="." line="31" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/sfy/credit/common/unit/ErrorHandler.php" timestamp="1555930069885">
-        <mark key="'" line="26" column="50" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/syf-middleware-system/common/services/sms/SmsService.php" timestamp="1556003671554">
         <mark key="'" line="20" column="25" />
@@ -1004,16 +981,15 @@
         <mark key="^" line="8" column="26" />
         <mark key="." line="8" column="26" />
       </file>
-      <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/services/fxdApi.php" timestamp="1556103690532">
-        <mark key="'" line="38" column="28" />
-        <mark key="[" line="76" column="79" />
-        <mark key="]" line="76" column="79" />
-        <mark key="." line="76" column="79" />
-        <mark key="^" line="76" column="79" />
+      <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/services/fxdApi.php" timestamp="1556105428258">
+        <mark key="'" line="55" column="51" />
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="^" line="28" column="8" />
+        <mark key="." line="68" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="40" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/services/AbstractApi.php" />
       <jump line="19" column="0" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/services/fxdApi.php" />
       <jump line="168" column="32" filename="$USER_HOME$/Develop/sfy/syf-middleware-system/console/controllers/XyfSmsTaskController.php" />
       <jump line="164" column="83" filename="$USER_HOME$/Develop/sfy/syf-middleware-system/console/controllers/XyfSmsTaskController.php" />
@@ -1113,6 +1089,7 @@
       <jump line="296" column="105" filename="$USER_HOME$/Develop/sfy/syf-middleware-system/console/controllers/XyfSmsTaskController.php" />
       <jump line="32" column="23" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/services/handleTrait.php" />
       <jump line="107" column="8" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/services/handleTrait.php" />
+      <jump line="55" column="51" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/services/fxdApi.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1144,7 +1121,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>SFY0349400503</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1167,7 +1144,7 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>SFY0349400503</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx4eWZcPg==</text>
@@ -1176,7 +1153,7 @@
         <text encoding="base64">ICAgICAgICAkcmVzcG9uc2UgPSBzZWxmOjpkZWNyeXB0Qml6Qm9keSgkcmVzcG9uc2UpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcGFyYW1zKTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBlY2hvIGpzb25fZW5jb2RlKCRwYXJhbXMsIEpTT05fVU5FU0NBUEVEX1NMQVNIRVMpO2RpZTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1198,28 +1175,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljICRtZXJjaGFudF91c2VyX2lkID0gJ3Rlc3QwMDEnOyAvLyDllYbmiLfnmoTnlKjmiLdpZO+8jOWUr+S4gOagh+ivhuS4gOS4queUqOaItyB0b2RvCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBkZCgkcGFyYW1zKTsK</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAkd2hlcmUgPSAibGFzdF9sb2dpbl90aW1lID4gJyRsYXN0TG9naW5UaW1lU3RhcnQnIGFuZCBsYXN0X2xvZ2luX3RpbWUgPD0gJyRsYXN0TG9naW5UaW1lRW5kJyI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAga2RkZGQK</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAkd2hlcmUgPSAicGFpZF90aW1lID49JyRyZXBheUJlZ2luJyBhbmQgcGFpZF90aW1lIDwgJyRyZXBheUVuZCcgYW5kIHBheV9zdGF0dXMgPSAncGFpZCciOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcGFyYW1zKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAkd2hlcmUgPSAiY3JlYXRlZF90aW1lID49ICckcmVnQmVnaW4nIGFuZCBjcmVhdGVkX3RpbWUgPCAnJHJlZ0VuZCcgYW5kIHBlcnNvbl9pZCA+IDAiOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljICRtZXJjaGFudF91c2VyX2lkID0gJ3Rlc3QwMDEnOyAvLyDllYbmiLfnmoTnlKjmiLdpZO+8jOWUr+S4gOagh+ivhuS4gOS4queUqOaItyB0b2RvCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAkd2hlcmUgPSAiY3JlYXRlZF90aW1lID49ICckcmVnQmVnaW4nIGFuZCBjcmVhdGVkX3RpbWUgPCAnJHJlZ0VuZCcgIGFuZCBwZXJzb25faWQgPSAwIjsK</text>
+        <text encoding="base64">ICAgICAgICAvLyAkd2hlcmUgPSAibGFzdF9sb2dpbl90aW1lID4gJyRsYXN0TG9naW5UaW1lU3RhcnQnIGFuZCBsYXN0X2xvZ2luX3RpbWUgPD0gJyRsYXN0TG9naW5UaW1lRW5kJyI7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAkd2hlcmUgPSAiY3JlYXRlZF90aW1lID49ICckcmVnQmVnaW4nIGFuZCBjcmVhdGVkX3RpbWUgPCAnJHJlZ0VuZCcgIGFuZCBwZXJzb25faWQgPSAwIGFuZCBhcHA9J3h5ZiciOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyAkd2hlcmUgPSAicGFpZF90aW1lID49JyRyZXBheUJlZ2luJyBhbmQgcGFpZF90aW1lIDwgJyRyZXBheUVuZCcgYW5kIHBheV9zdGF0dXMgPSAncGFpZCciOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1230,13 +1207,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkd2hlcmUgPSAiY3JlYXRlZF90aW1lID49ICckcmVnQmVnaW4nIGFuZCBjcmVhdGVkX3RpbWUgPCAnJHJlZ0VuZCcgYW5kIGxhc3RfbG9naW5fdGltZSA8ICckbm93JyBhbmQgcGVyc29uX2lkID0gMCI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyAkd2hlcmUgPSAiY3JlYXRlZF90aW1lID49ICckcmVnQmVnaW4nIGFuZCBjcmVhdGVkX3RpbWUgPCAnJHJlZ0VuZCcgYW5kIHBlcnNvbl9pZCA+IDAiOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJGFwaU9iai0+aGFuZGxlUmVzcG9uc2UoJHJlc3BvbnNlKTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyAkd2hlcmUgPSAiY3JlYXRlZF90aW1lID49ICckcmVnQmVnaW4nIGFuZCBjcmVhdGVkX3RpbWUgPCAnJHJlZ0VuZCcgIGFuZCBwZXJzb25faWQgPSAwIjsK</text>
       </register>
       <register name=":" type="4">
-        <text>action PreviousTab</text>
+        <text>nohls</text>
       </register>
     </registers>
     <search>
@@ -1287,11 +1264,11 @@
         <entry encoding="base64">JzwsJz5tIC4tMg==</entry>
         <entry>m .+1</entry>
         <entry>action Back</entry>
-        <entry>action NextTab</entry>
         <entry>action SelectInProjectView</entry>
         <entry>wq</entry>
-        <entry>nohls</entry>
+        <entry>action NextTab</entry>
         <entry>action PreviousTab</entry>
+        <entry>nohls</entry>
       </history-cmd>
       <history-expr />
       <history-input />
