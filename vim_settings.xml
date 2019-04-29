@@ -40,12 +40,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/sfy/syf-middleware-system/console/controllers/XyfSmsTaskController.php" timestamp="1556534007179">
-        <mark key="'" line="43" column="10" />
-        <mark key="[" line="74" column="60" />
-        <mark key="]" line="75" column="37" />
-        <mark key="^" line="75" column="37" />
-        <mark key="." line="75" column="37" />
+      <file name="$USER_HOME$/Develop/sfy/syf-middleware-system/console/controllers/XyfSmsTaskController.php" timestamp="1556536329646">
+        <mark key="'" line="131" column="8" />
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="102" column="0" />
+        <mark key="." line="102" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/credit/logs/fxd_api/http-request.log" timestamp="1556442110935">
         <mark key="'" line="1" column="0" />
@@ -262,9 +261,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="30" filename="$USER_HOME$/Develop/sfy/shoufuyou-notify/lib/Controllers/ShengbeiController.php" />
-      <jump line="15" column="13" filename="$USER_HOME$/Develop/sfy/shoufuyou-notify/lib/Controllers/ShengbeiController.php" />
-      <jump line="136" column="21" filename="$USER_HOME$/Develop/sfy/shoufuyou-notify/lib/Controllers/ShengbeiController.php" />
       <jump line="53" column="30" filename="$USER_HOME$/Develop/sfy/shoufuyou-notify/lib/Controllers/ShengbeiController.php" />
       <jump line="179" column="41" filename="$USER_HOME$/Develop/sfy/shoufuyou-notify/lib/Controllers/ShengbeiController.php" />
       <jump line="117" column="36" filename="$USER_HOME$/Develop/sfy/shoufuyou-notify/lib/Controllers/ShengbeiController.php" />
@@ -362,6 +358,9 @@
       <jump line="42" column="6" filename="$USER_HOME$/Develop/sfy/syf-middleware-system/console/controllers/XyfSmsTaskController.php" />
       <jump line="53" column="8" filename="$USER_HOME$/Develop/sfy/syf-middleware-system/console/controllers/XyfSmsTaskController.php" />
       <jump line="43" column="10" filename="$USER_HOME$/Develop/sfy/syf-middleware-system/console/controllers/XyfSmsTaskController.php" />
+      <jump line="75" column="37" filename="$USER_HOME$/Develop/sfy/syf-middleware-system/console/controllers/XyfSmsTaskController.php" />
+      <jump line="316" column="6" filename="$USER_HOME$/Develop/sfy/syf-middleware-system/console/controllers/XyfSmsTaskController.php" />
+      <jump line="130" column="8" filename="$USER_HOME$/Develop/sfy/syf-middleware-system/console/controllers/XyfSmsTaskController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -392,8 +391,8 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICYmICRsYXN0TG9naW5bJ2xhc3RfbG9naW5fdGltZSddIDwgJHJlZ0VuZA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgkcXVlcnkpOwo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -416,7 +415,7 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICYmICRsYXN0TG9naW5bJ2xhc3RfbG9naW5fdGltZSddIDwgJHJlZ0VuZA==</text>
+        <text>asArray();</text>
       </register>
       <register name="/" type="4">
         <text>json</text>
@@ -425,34 +424,34 @@
         <text>last_login_time</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCR1c2VyLCAkbGFzdExvZ2luKTsK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcXVlcnkpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhcl9kdW1wKCRsYXN0TG9naW4pOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyAkd2hlcmUgPSAiY3JlYXRlZF90aW1lID49ICckcmVnQmVnaW4nIGFuZCBjcmVhdGVkX3RpbWUgPCAnJHJlZ0VuZCcgIGFuZCBwZXJzb25faWQgPSAwIGFuZCBhcHA9J3h5ZiciOwo=</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQU5EIHVhLj0gJ2NsaWVudCcK</text>
+        <text encoding="base64">CiAgICAgICAgU21zTmV3VGFza3M6OmRlbGV0ZUFsbChbCiAgICAgICAgICAgICdhZGRfZGF0ZScgPT4gJzIwMTktMDQtMjknLAogICAgICAgICAgICAndGFnJyA9PiAn5rOo5YaM5ZCO5pyq55m75b2VJwogICAgICAgIF0pOwo=</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQU5EIHVhLmFwcCA9ICd4eWYnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAtPmNyZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQU5EIHVhLnR5cGUgPSAnbG9naW4nCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCR1c2VyLCAkbGFzdExvZ2luKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAtPmFuZFdoZXJlKFsnPicsICdsYXN0X2xvZ2luX3RpbWUnLCAkcmVnRW5kXSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhcl9kdW1wKCRsYXN0TG9naW4pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQU5EIHVhLj0gJ2NsaWVudCcK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -463,10 +462,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAtPnNlbGVjdCgnbWF4KGBjcmVhdGVkX3RpbWVgKSBhcyBsYXN0X2xvZ2luX3RpbWUnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQU5EIHVhLmFwcCA9ICd4eWYnCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQU5EIHVhLnR5cGUgPSAnbG9naW4nCg==</text>
       </register>
       <register name=":" type="4">
         <text>nohls</text>
