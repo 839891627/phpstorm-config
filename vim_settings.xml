@@ -161,12 +161,12 @@
         <mark key="." line="172" column="0" />
         <mark key="^" line="172" column="23" />
       </file>
-      <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddlesController.php" timestamp="1557384420383">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="320" column="34" />
-        <mark key="]" line="535" column="0" />
-        <mark key="." line="535" column="0" />
-        <mark key="^" line="551" column="32" />
+      <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddlesController.php" timestamp="1557386309888">
+        <mark key="'" line="214" column="19" />
+        <mark key="[" line="362" column="40" />
+        <mark key="]" line="362" column="44" />
+        <mark key="." line="362" column="44" />
+        <mark key="^" line="362" column="44" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/services/jd_api/api40017.php" timestamp="1557230292442">
         <mark key="'" line="2" column="0" />
@@ -328,8 +328,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="217" column="19" filename="$USER_HOME$/Develop/sfy/syf-middleware-system/console/controllers/XyfSmsTaskController.php" />
-      <jump line="289" column="15" filename="$USER_HOME$/Develop/sfy/syf-middleware-system/console/controllers/XyfSmsTaskController.php" />
       <jump line="307" column="15" filename="$USER_HOME$/Develop/sfy/syf-middleware-system/console/controllers/XyfSmsTaskController.php" />
       <jump line="369" column="19" filename="$USER_HOME$/Develop/sfy/syf-middleware-system/console/controllers/XyfSmsTaskController.php" />
       <jump line="453" column="21" filename="$USER_HOME$/Develop/sfy/syf-middleware-system/console/controllers/XyfSmsTaskController.php" />
@@ -428,6 +426,8 @@
       <jump line="538" column="20" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddlesController.php" />
       <jump line="530" column="35" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddlesController.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddlesController.php" />
+      <jump line="277" column="16" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddlesController.php" />
+      <jump line="214" column="19" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddlesController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -458,8 +458,8 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>借款用途</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -485,13 +485,13 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>银行code</text>
+        <text>借款用途</text>
       </register>
       <register name="/" type="4">
         <text>40024</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">fGJhbmtfY29kZSB8IHN0cmluZyB8IOaYryB8IOmTtuihjGNvZGUgfAo=</text>
+      <register name="0" type="4">
+        <text>json_decode($ret['userFeeRate'], true)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
