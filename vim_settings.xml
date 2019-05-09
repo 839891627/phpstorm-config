@@ -67,12 +67,12 @@
         <mark key="]" line="26" column="5" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanFrontController.php" timestamp="1557367836315">
+      <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanFrontController.php" timestamp="1557369521766">
         <mark key="u" line="432" column="81" />
-        <mark key="'" line="223" column="25" />
-        <mark key="[" line="507" column="35" />
-        <mark key="]" line="507" column="52" />
-        <mark key="." line="507" column="35" />
+        <mark key="'" line="581" column="21" />
+        <mark key="[" line="599" column="13" />
+        <mark key="]" line="603" column="40" />
+        <mark key="." line="601" column="0" />
         <mark key="^" line="507" column="34" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/credit/fxd_cb_api/web/index.php" timestamp="1557219375211">
@@ -270,7 +270,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="330" column="68" filename="$USER_HOME$/Develop/sfy/credit/logs/fxd_api/fxd_api_20190508.log" />
       <jump line="344" column="104" filename="$USER_HOME$/Develop/sfy/credit/logs/fxd_api/fxd_api_20190508.log" />
       <jump line="377" column="75" filename="$USER_HOME$/Develop/sfy/credit/logs/fxd_api/fxd_api_20190508.log" />
       <jump line="15" column="75" filename="$USER_HOME$/Develop/sfy/credit/logs/fxd_api/fxd_api_20190508.log" />
@@ -347,12 +346,9 @@
       <jump line="517" column="8" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanFrontController.php" />
       <jump line="510" column="25" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanFrontController.php" />
       <jump line="511" column="44" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanFrontController.php" />
-      <jump line="580" column="35" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanFrontController.php" />
-      <jump line="581" column="21" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanFrontController.php" />
       <jump line="591" column="31" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanFrontController.php" />
       <jump line="630" column="0" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanFrontController.php" />
       <jump line="599" column="43" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanFrontController.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanFrontController.php" />
       <jump line="198" column="18" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanFrontController.php" />
       <jump line="223" column="25" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanFrontController.php" />
       <jump line="308" column="0" filename="$USER_HOME$/Develop/sfy/syf-middleware-system/console/controllers/XyfSmsTaskController.php" />
@@ -370,6 +366,10 @@
       <jump line="65" column="41" filename="$USER_HOME$/Develop/sfy/syf-middleware-system/console/controllers/XyfSmsTaskController.php" />
       <jump line="101" column="40" filename="$USER_HOME$/Develop/sfy/syf-middleware-system/console/controllers/XyfSmsTaskController.php" />
       <jump line="222" column="39" filename="$USER_HOME$/Develop/sfy/syf-middleware-system/console/controllers/XyfSmsTaskController.php" />
+      <jump line="221" column="37" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanFrontController.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanFrontController.php" />
+      <jump line="580" column="35" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanFrontController.php" />
+      <jump line="581" column="21" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanFrontController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -400,8 +400,8 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmZ4ZFVzZXItPmFjdGl2ZV9zdGF0dXMgPSBGeGRVc2VyOjpBQ1RJVkVfU1RBVFVTX1NVQ0NFU1M7CiAgICAgICAgICAgICR0aGlzLT5meGRVc2VyLT5hY3RpdmVfdGltZSA9IGRhdGUoJ1ktbS1kIEg6aTpzJyk7CiAgICAgICAgICAgICR0aGlzLT5meGRVc2VyLT5zYXZlKGZhbHNlKTsK</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -430,40 +430,40 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>【信用飞】您就差一点即可完成认证获取8000元信用额度，现在完成还可享受1000元提额特权，抓紧去完成吧！</text>
+        <text>2107</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmFkZFNtc1Rhc2tzKCRxdWVyeSwgJ+OAkOS/oeeUqOmjnuOAkeaCqOeahOi0puaIt+WGheaciTgwMDDlhYPkv6HnlKjpop3luqblsJrmnKrmv4DmtLvvvIzor7fnmbvlvZXkv6HnlKjpo55BcHDpppbpobXmn6XnnIvjgIInLCAn5rOo5YaM5ZCO5LiJ6KaB57Sg5pyq5aGr5YaZJywgJGJ1ZmZlcik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmFkZFNtc1Rhc2tzKCRxdWVyeSwgJ+OAkOS/oeeUqOmjnuOAkeaCqOeahOi0puaIt+WGheaciTgwMDDlhYPkv6HnlKjpop3luqblsJrmnKrmv4DmtLvvvIzor7fnmbvlvZXkv6HnlKjpo55BcHDpppbpobXmn6XnnIvjgIInLCAn5rOo5YaM5ZCO5LiJ6KaB57Sg5pyq5aGr5YaZJywgJGJ1ZmZlcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmZ4ZFVzZXItPmFjdGl2ZV9zdGF0dXMgPSBGeGRVc2VyOjpBQ1RJVkVfU1RBVFVTX1NVQ0NFU1M7CiAgICAgICAgICAgICR0aGlzLT5meGRVc2VyLT5hY3RpdmVfdGltZSA9IGRhdGUoJ1ktbS1kIEg6aTpzJyk7CiAgICAgICAgICAgICR0aGlzLT5meGRVc2VyLT5zYXZlKGZhbHNlKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmFkZFNtc1Rhc2tzKCRxdWVyeSwgJ+OAkOS/oeeUqOmjnuOAkeaCqOeahOi0puaIt+WGheaciTgwMDDlhYPkv6HnlKjpop3luqblsJrmnKrmv4DmtLvvvIzmiLMgaHR0cHM6Ly9kd3ouY24vcmpBUWlmNEcg5LiL6L295L+h55So6aOeQXBw5Y2z5Y+v5p+l55yL44CCJywgJ+azqOWGjOWQjuacqueZu+W9lScsICRidWZmZXIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmFkZFNtc1Rhc2tzKCRxdWVyeSwgJ+OAkOS/oeeUqOmjnuOAkeaCqOeahOi0puaIt+WGheaciTgwMDDlhYPkv6HnlKjpop3luqblsJrmnKrmv4DmtLvvvIzor7fnmbvlvZXkv6HnlKjpo55BcHDpppbpobXmn6XnnIvjgIInLCAn5rOo5YaM5ZCO5LiJ6KaB57Sg5pyq5aGr5YaZJywgJGJ1ZmZlcik7Cg==</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyB0b2RvICDouqvku73or4Hlj7fpnZ4xOOS9je+8jOmcgOimgeWIoOmZpAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmFkZFNtc1Rhc2tzKCRxdWVyeSwgJ+OAkOS/oeeUqOmjnuOAkeaCqOeahOi0puaIt+WGheaciTgwMDDlhYPkv6HnlKjpop3luqblsJrmnKrmv4DmtLvvvIzmiLMgaHR0cHM6Ly9kd3ouY24vcmpBUWlmNEcg5LiL6L295L+h55So6aOeQXBw5Y2z5Y+v5p+l55yL44CCJywgJ+azqOWGjOWQjuacqueZu+W9lScsICRidWZmZXIpOwo=</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyB0b2RvICDouqvku73or4Hlj7fpnZ4xOOS9je+8jOmcgOimgeWIoOmZpAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -474,19 +474,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICR0aGlzLT5zdWNjZXNzKCRkYXRhKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkZGF0YVsnYXBwbHlObyddID0gJ2FzZGZhc2QnOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICR0aGlzLT5zdWNjZXNzKCRkYXRhKTsK</text>
       </register>
       <register name=":" type="4">
         <text>nohls</text>
       </register>
     </registers>
     <search>
-      <last-search>【信用飞】您就差一点即可完成认证获取8000元信用额度，现在完成还可享受1000元提额特权，抓紧去完成吧！</last-search>
+      <last-search>2107</last-search>
       <last-offset />
-      <last-pattern>【信用飞】您就差一点即可完成认证获取8000元信用额度，现在完成还可享受1000元提额特权，抓紧去完成吧！</last-pattern>
+      <last-pattern>2107</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
@@ -507,13 +507,13 @@
         <entry>requester</entry>
         <entry>2013</entry>
         <entry>2108</entry>
-        <entry>2107</entry>
         <entry>JT_CLOSED</entry>
         <entry>2105</entry>
         <entry encoding="base64">XDxhZGRTbXNUYXNrc1w+</entry>
         <entry>信用飞】恭喜您成功注册信用飞，登录App激活成功即可取现8000元现金，立即取现戳</entry>
         <entry>【信用飞】您的账户内有8000元信用额度已到账，请抓紧登录信用飞App进行激活取现。</entry>
         <entry>【信用飞】您就差一点即可完成认证获取8000元信用额度，现在完成还可享受1000元提额特权，抓紧去完成吧！</entry>
+        <entry>2107</entry>
       </history-search>
       <history-cmd>
         <entry>m .+1</entry>
