@@ -37,7 +37,7 @@
       <file name="$USER_HOME$/Develop/sfy/shoufuyou-service/lib/Router.php" timestamp="1557455078081">
         <mark key="'" line="22" column="38" />
       </file>
-      <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/BaseController.php" timestamp="1557823328161">
+      <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/BaseController.php" timestamp="1557827395405">
         <mark key="'" line="49" column="8" />
         <mark key="[" line="32" column="38" />
         <mark key="]" line="32" column="38" />
@@ -196,15 +196,14 @@
       <file name="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Controllers/BaseController.php" timestamp="1557748290449">
         <mark key="'" line="15" column="40" />
       </file>
-      <file name="$USER_HOME$/Develop/sfy/credit/logs/fxd_api/fxd_api_20190514.log" timestamp="1557823199544">
+      <file name="$USER_HOME$/Develop/sfy/credit/logs/fxd_api/fxd_api_20190514.log" timestamp="1557827562942">
+        <mark key="'" line="57" column="25" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="21" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanFrontController.php" />
-      <jump line="47" column="33" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanFrontController.php" />
       <jump line="15" column="4" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" />
       <jump line="603" column="8" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanFrontController.php" />
       <jump line="480" column="71" filename="$USER_HOME$/Develop/sfy/credit/logs/fxd_api/fxd_api_20190514.log" />
@@ -303,6 +302,8 @@
       <jump line="629" column="0" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanFrontController.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/models/FxdOrder.php" />
       <jump line="130" column="52" filename="$USER_HOME$/Develop/sfy/credit/sql/fxd.sql" />
+      <jump line="16" column="45" filename="$USER_HOME$/Develop/sfy/credit/logs/fxd_api/fxd_api_20190514.log" />
+      <jump line="57" column="25" filename="$USER_HOME$/Develop/sfy/credit/logs/fxd_api/fxd_api_20190514.log" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -419,7 +420,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICR0aGlzLT5zdWNjZXNzKCRkYXRhKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>action PreviousTab</text>
+        <text>nohls</text>
       </register>
     </registers>
     <search>
@@ -473,8 +474,8 @@
         <entry>action SelectInProjectView</entry>
         <entry>action Back</entry>
         <entry>wq</entry>
-        <entry>nohls</entry>
         <entry>action PreviousTab</entry>
+        <entry>nohls</entry>
       </history-cmd>
       <history-expr />
       <history-input />
