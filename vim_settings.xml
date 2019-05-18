@@ -8,6 +8,9 @@
       <file name="$USER_HOME$/Develop/sfy/credit/logs/fxd_cb_api/fxd_cb_api_20190510.log" timestamp="1557473212185">
         <mark key="'" line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/sfy/shoufuyou-php-lib/biz-common/Models/OcrFace/CashOcr.php" timestamp="1558159661326">
+        <mark key="'" line="178" column="35" />
+      </file>
       <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/models/FxdPhoto.php" timestamp="1557833423514">
         <mark key="'" line="1" column="0" />
       </file>
@@ -308,7 +311,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="525" column="0" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" />
       <jump line="510" column="47" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" />
       <jump line="155" column="0" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" />
       <jump line="486" column="27" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" />
@@ -408,6 +410,7 @@
       <jump line="111" column="35" filename="$USER_HOME$/Develop/sfy/credit/fxd_cb_api/controllers/NotifyController.php" />
       <jump line="39" column="26" filename="$USER_HOME$/Develop/sfy/credit/fxd_cb_api/controllers/NotifyController.php" />
       <jump line="210" column="29" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanAfterController.php" />
+      <jump line="178" column="35" filename="$USER_HOME$/Develop/sfy/shoufuyou-php-lib/biz-common/Models/OcrFace/CashOcr.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -524,7 +527,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>nohls</text>
+        <text>action CloseAllEditors</text>
       </register>
     </registers>
     <search>
@@ -560,7 +563,6 @@
         <entry encoding="base64">XDxhY3RpdmVfc3RhdHVzXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL3N0cmluZy9zdHJpbmd85pivL2c=</entry>
         <entry>.,.+540nohls</entry>
         <entry encoding="base64">JzwsJz5zLz0+Lz0vZw==</entry>
         <entry encoding="base64">JzwsJz5zLywvOy9n</entry>
@@ -575,11 +577,12 @@
         <entry>action NextSplitter</entry>
         <entry>.,.+2099nohls</entry>
         <entry>action SelectInProjectView</entry>
-        <entry>action Back</entry>
         <entry>wq</entry>
         <entry>action PreviousTab</entry>
         <entry>action NextTab</entry>
         <entry>nohls</entry>
+        <entry>action Back</entry>
+        <entry>action CloseAllEditors</entry>
       </history-cmd>
       <history-expr />
       <history-input />
