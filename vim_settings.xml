@@ -132,12 +132,12 @@
         <mark key="." line="175" column="105" />
         <mark key="^" line="175" column="105" />
       </file>
-      <file name="$USER_HOME$/Develop/sfy/credit/fxd_cb_api/controllers/NotifyController.php" timestamp="1558081271589">
-        <mark key="'" line="23" column="12" />
-        <mark key="[" line="110" column="124" />
-        <mark key="]" line="111" column="36" />
-        <mark key="." line="111" column="36" />
-        <mark key="^" line="111" column="36" />
+      <file name="$USER_HOME$/Develop/sfy/credit/fxd_cb_api/controllers/NotifyController.php" timestamp="1558157858439">
+        <mark key="'" line="39" column="26" />
+        <mark key="[" line="110" column="22" />
+        <mark key="]" line="111" column="11" />
+        <mark key="." line="111" column="11" />
+        <mark key="^" line="111" column="11" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/credit/common/unit/Sms.php" timestamp="1557974494438">
         <mark key="'" line="27" column="29" />
@@ -204,12 +204,12 @@
       <file name="$USER_HOME$/Develop/sfy/credit/common/models/star/StarAccount.php" timestamp="1557912965326">
         <mark key="'" line="224" column="27" />
       </file>
-      <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/services/JdPayService.php" timestamp="1557885447037">
-        <mark key="'" line="81" column="17" />
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="137" />
-        <mark key="^" line="77" column="32" />
-        <mark key="." line="15" column="27" />
+      <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/services/JdPayService.php" timestamp="1558158341052">
+        <mark key="'" line="77" column="17" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="50" column="28" />
+        <mark key="^" line="50" column="28" />
+        <mark key="." line="50" column="28" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/services/jd_api/api2106.php" timestamp="1557230167992">
         <mark key="'" line="0" column="0" />
@@ -218,12 +218,11 @@
       <file name="$USER_HOME$/Develop/sfy/credit/common/unit/Env.php" timestamp="1557922754666">
         <mark key="'" line="44" column="53" />
       </file>
-      <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanAfterController.php" timestamp="1558080490846">
-        <mark key="'" line="277" column="26" />
-        <mark key="[" line="304" column="0" />
-        <mark key="]" line="304" column="0" />
-        <mark key="." line="304" column="0" />
-        <mark key="^" line="304" column="0" />
+      <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanAfterController.php" timestamp="1558158437259">
+        <mark key="'" line="210" column="29" />
+        <mark key="[" line="212" column="0" />
+        <mark key="]" line="212" column="0" />
+        <mark key="." line="212" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/models/FxdRepayRecord.php" timestamp="1558060910119">
         <mark key="[" line="24" column="39" />
@@ -309,9 +308,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="116" column="0" filename="$USER_HOME$/Develop/sfy/credit/fxd_cb_api/controllers/NotifyController.php" />
-      <jump line="317" column="21" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanAfterController.php" />
-      <jump line="268" column="12" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanAfterController.php" />
       <jump line="525" column="0" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" />
       <jump line="510" column="47" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" />
       <jump line="155" column="0" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" />
@@ -409,6 +405,9 @@
       <jump line="82" column="55" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" />
       <jump line="704" column="18" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Models/CreditUser.php" />
       <jump line="19" column="8" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Controllers/OcrController.php" />
+      <jump line="111" column="35" filename="$USER_HOME$/Develop/sfy/credit/fxd_cb_api/controllers/NotifyController.php" />
+      <jump line="39" column="26" filename="$USER_HOME$/Develop/sfy/credit/fxd_cb_api/controllers/NotifyController.php" />
+      <jump line="210" column="29" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanAfterController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -440,7 +439,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">IOaOpeWPo+iwg+eUqCDlh7rlj4LvvJp7Im1lcmNoYW50Q29kZSI6IjIwMDAzNiIsIm1lcmNoYW50VXNlcklkIjoiMTExMTExMTgwNiIsImpyT3BlbklkIjoiIiwic2lnbiI6IlpPck11SW1rUFJSZkV1b2YzVFwvcjJKY2pHR1JRc01FTG14cUthRWVBSm5na2lDWkZpMGEySjBySVYyS1pPZjNxTVBhazJGWm0rbm5BUElzWmRENmZrRU1uQU16YkVueDdlR2wwOERDcWFUeWFzcEU5OThMQWlqZ09cL1JhRHlsbjJjZ3NWRlJNMFBzMGNMc3Z3eWR0WEtUNFVLeFRUWk1KWlwvTXlzRExHeTZ0QT0iLCJrZXkiOiJaU1N5SWpEaTRWbHlLaU52elFXaFIzZXYrM2tEVnVvUkFlXC9MT1Juc3BFUDN2bmFsTjZ5YVBNQytQc1hsb29QSGlXb0d5SVRlcjQyZ3ZqWm04NXdDMXFWN2hOSXpaZ0xqSFArd3JqVTJuMit6WlVETVlnMExBN2FSVDNlNlFrUHZ6QlpCNUJzUGoweWxKTEtZdzR3RTdsOWRNQVlGM3ZBRXk5OElvZmw3dUZvPSIsImNoYXJzZXQiOiJ1dGYtOCIsImJvZHkiOiJIOFwvSXV2cnJ3aDBtS3hPY3k5Y3JHU1Nyd2NqQzg0akY3RlgwRHQrYzF4Yk1BOUhjS1htR2czMW5yRFVwemR2eVBXd1wvanBoUzI2QzQ3cFp3eWlhRVpzb2hZWCtMblhlK2IrZUVvN09vMHNRWU83WEFONm5OTFwvcHFkemhXcUx5bzIzdk0zT05FMWtoN2sya3N0Smc4bXdlMWszUzhkZnduTVRGK0luV3dJRE1lZVpNMFhGZ3FBZnZlUm5qWjljM0NxNXRlSnhlMmVXZUJlSnFMWmo5czdQbk5CbG5RSzJtWjVPaWJMVGxNZzZITzRhNGFXNFFZZTVtWDcxSTRMODZSIiwidHlwZSI6IjQwMDAxIiwidmVyc2lvbiI6IjEuMCJ9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8K</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -466,16 +465,16 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">CSAgICAgICAgICAgIA==</text>
+        <text>发起还款失败！</text>
       </register>
       <register name="/" type="4">
-        <text>view</text>
+        <text encoding="base64">XDxhY3RpdmVfc3RhdHVzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkc3RhdHVzID0gRnhkUmVwYXlSZWNvcmQ6OlNUQVRVU19GQUlMRUQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICR0aGlzLT5mYWlsZWQoNDAwMDAwLCAn5Y+R6LW36L+Y5qy+5aSx6LSl77yBJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IOaOpeWPo+iwg+eUqCDlh7rlj4LvvJp7Im1lcmNoYW50Q29kZSI6IjIwMDAzNiIsIm1lcmNoYW50VXNlcklkIjoiMTExMTExMTgwNiIsImpyT3BlbklkIjoiIiwic2lnbiI6IlpPck11SW1rUFJSZkV1b2YzVFwvcjJKY2pHR1JRc01FTG14cUthRWVBSm5na2lDWkZpMGEySjBySVYyS1pPZjNxTVBhazJGWm0rbm5BUElzWmRENmZrRU1uQU16YkVueDdlR2wwOERDcWFUeWFzcEU5OThMQWlqZ09cL1JhRHlsbjJjZ3NWRlJNMFBzMGNMc3Z3eWR0WEtUNFVLeFRUWk1KWlwvTXlzRExHeTZ0QT0iLCJrZXkiOiJaU1N5SWpEaTRWbHlLaU52elFXaFIzZXYrM2tEVnVvUkFlXC9MT1Juc3BFUDN2bmFsTjZ5YVBNQytQc1hsb29QSGlXb0d5SVRlcjQyZ3ZqWm04NXdDMXFWN2hOSXpaZ0xqSFArd3JqVTJuMit6WlVETVlnMExBN2FSVDNlNlFrUHZ6QlpCNUJzUGoweWxKTEtZdzR3RTdsOWRNQVlGM3ZBRXk5OElvZmw3dUZvPSIsImNoYXJzZXQiOiJ1dGYtOCIsImJvZHkiOiJIOFwvSXV2cnJ3aDBtS3hPY3k5Y3JHU1Nyd2NqQzg0akY3RlgwRHQrYzF4Yk1BOUhjS1htR2czMW5yRFVwemR2eVBXd1wvanBoUzI2QzQ3cFp3eWlhRVpzb2hZWCtMblhlK2IrZUVvN09vMHNRWU83WEFONm5OTFwvcHFkemhXcUx5bzIzdk0zT05FMWtoN2sya3N0Smc4bXdlMWszUzhkZnduTVRGK0luV3dJRE1lZVpNMFhGZ3FBZnZlUm5qWjljM0NxNXRlSnhlMmVXZUJlSnFMWmo5czdQbk5CbG5RSzJtWjVPaWJMVGxNZzZITzRhNGFXNFFZZTVtWDcxSTRMODZSIiwidHlwZSI6IjQwMDAxIiwidmVyc2lvbiI6IjEuMCJ9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -487,33 +486,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IOWKoOWvhuWQjuWPguaVsO+8mnsibWVyY2hhbnRDb2RlIjoiMjAwMDM2IiwibWVyY2hhbnRVc2VySWQiOjExMTExMTE4MDYsImpyT3BlbklkIjoiIiwic2lnbiI6IlVqbFlpb2gzMmR5RGJQWmIrMkVscVd1SUplWVk4RVkzYjVlZDhON0dMZTBSRFBRM3NvRlM2NHM5eUo1ckhWSGFiaklDNHR1NU93OUwxZVhsVDNhTlQ0WE5mNkR2TzRPcnNpZ2pKc2syaElcLzY2cFlpMzFMRVZKTDVPYXYwbUdCTkZjVmtHTm5TWXJhc0ljSlNBTGttWUJzelpaSklsWDM0TDEwMmFVdHNRTEE9IiwiYm9keSI6IkozVTlQeU5GRWRlVmJDRkVcL3hDdVNLNjJXaEE4Ym55SjhJV21SVzF1QzZWZFBKelVhaWp4M3pnNTRUZ01xRU96MFpoTndPUU9vYXpjWFRWd21lck1FbnNjNHRkejY2VjhpRlNQN1p2SDZIUHNtYkg2eXpyaEVubncxRjZSejNuU2lIbGZDRXRBNTJmejEzN1o4TWxRdFE9PSIsImtleSI6Ik5aVVFhZTVmSWxqSG5FOHZROFwveEVEMHMwXC9wbENMRm1MNmZnS1BhQkgyTkFcL29rZ2dYTUZHdFdCa1VyZjFtYmdpY2FES0NYaGxBTm5GSVBwYXhXaUFhT2Z2dXZ5R1JqVmZUQTc3NElCdlpKVW5tZ21SZTcyOHNmdUJCMXduajl0dmxxQ2dcL1dIazRwTHJ1eCtQaVNRY09XSGZ4V25pRmEzck5ZUUh1Yzg3T0U9IiwidHlwZSI6IjQwMDAxIiwiY2hhcnNldCI6InV0Zi04IiwidmVyc2lvbiI6IjEuMCJ9Cg==</text>
+        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
-      <register name="3" type="8">
-        <text>2019-05-18 12:34:58 [127.0.0.1][-][-][info][fxd_api] [1111111806]
-2019-05-18 12:34:58 [127.0.0.1][-][-][info][fxd_api] [1111111806]
-2019-05-18 12:34:58 [127.0.0.1][-][-][info][fxd_api] [1111111806]
-2019-05-18 12:34:58 [127.0.0.1][-][-][info][fxd_api] [1111111806]
-2019-05-18 12:34:58 [127.0.0.1][-][-][info][fxd_api] [1111111806]
-2019-05-18 12:34:58 [127.0.0.1][-][-][info][fxd_api] [1111111806]</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJHJlcyA9ICRyZXNbJ2RhdGEnXTsK</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">MjAxOS0wNS0xOCAxMjozNDo1OCBbMTI3LjAuMC4xXVstXVstXVtpbmZvXVtmeGRfYXBpXSBbMTExMTExMTgwNl0gYWVzX2tleTo0UUJWazg3NmVUV2R4cU4zCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3VkbyAvc2Z5L2Jpbi9kZXBsb3ktZGV2ZWxvcCB4aW55b25nZmVpLWFwcC1hcGkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICRyZXNwb25zZVsnZGF0YSddOwo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CQkKICAgICAgICAgICAgCSAgICAgICAgICAgIA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCRyZXNwb25zZVsnY29kZSddID09ICcwMDAwMDAnKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gJHJlc3BvbnNlWydkYXRhJ107CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFxFeGNlcHRpb24oJ+aWh+S7tuS4jeWtmOWcqO+8gScpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCRyZXNwb25zZVsnY29kZSddID09ICcwMDAwMDAnKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gJHJlc3BvbnNlWydkYXRhJ107CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -524,7 +518,7 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJHJldCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -534,9 +528,9 @@
       </register>
     </registers>
     <search>
-      <last-search>view</last-search>
+      <last-search encoding="base64">XDxhY3RpdmVfc3RhdHVzXD4=</last-search>
       <last-offset />
-      <last-pattern>view</last-pattern>
+      <last-pattern encoding="base64">XDxhY3RpdmVfc3RhdHVzXD4=</last-pattern>
       <last-replace />
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
@@ -544,7 +538,6 @@
     </search>
     <history>
       <history-search>
-        <entry>1128905542517919744</entry>
         <entry encoding="base64">XDxsb2FuTm9cPg==</entry>
         <entry>dev</entry>
         <entry encoding="base64">XDxkZWNyeXB0Qml6Qm9keVw+</entry>
@@ -564,6 +557,7 @@
         <entry>pay_status</entry>
         <entry>40003</entry>
         <entry>view</entry>
+        <entry encoding="base64">XDxhY3RpdmVfc3RhdHVzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3N0cmluZy9zdHJpbmd85pivL2c=</entry>
@@ -581,10 +575,10 @@
         <entry>action NextSplitter</entry>
         <entry>.,.+2099nohls</entry>
         <entry>action SelectInProjectView</entry>
-        <entry>action NextTab</entry>
-        <entry>action PreviousTab</entry>
         <entry>action Back</entry>
         <entry>wq</entry>
+        <entry>action PreviousTab</entry>
+        <entry>action NextTab</entry>
         <entry>nohls</entry>
       </history-cmd>
       <history-expr />
