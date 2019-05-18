@@ -95,8 +95,10 @@
         <mark key="." line="19" column="39" />
         <mark key="^" line="19" column="39" />
       </file>
-      <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" timestamp="1558170397184">
+      <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" timestamp="1558172276304">
         <mark key="'" line="537" column="27" />
+        <mark key="[" line="57" column="32" />
+        <mark key="]" line="57" column="51" />
       </file>
       <file name="$USER_HOME$/Develop/framework/index.php" timestamp="1557711898757">
         <mark key="'" line="21" column="29" />
@@ -448,7 +450,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>originalAmount</text>
+        <text>$ret['unPaidForAll']</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -479,8 +481,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxvc1w+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkZGF0YVsnYW1vdW50Q291bnQnXSA9ICRyZXRbJ2xvYW5MaXN0J11bMF1bJ29yaWdpbmFsQW1vdW50J107Cg==</text>
+      <register name="0" type="4">
+        <text>$ret['unPaidForAll']</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAkcmVxdWVzdERhdGFbJ2VpZCddID0gJGRldmljZUluZm9bJ2VpZCddID86ICRkZXZpY2VbJ2VpZCddOwo=</text>
