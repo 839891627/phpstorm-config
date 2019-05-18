@@ -185,7 +185,7 @@
       <file name="$USER_HOME$/Develop/sfy/shoufuyou-service/lib/Router.php" timestamp="1557455078081">
         <mark key="'" line="22" column="38" />
       </file>
-      <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/BaseController.php" timestamp="1558089233340">
+      <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/BaseController.php" timestamp="1558154090684">
         <mark key="'" line="49" column="8" />
         <mark key="[" line="40" column="63" />
         <mark key="]" line="40" column="94" />
@@ -280,6 +280,11 @@
       </file>
       <file name="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Controllers/OcrController.php" timestamp="1558089245115">
         <mark key="'" line="19" column="8" />
+      </file>
+      <file name="$USER_HOME$/Develop/sfy/credit/logs/fxd_api/fxd_api_20190518.log" timestamp="1558154123671">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/services/FxdOrderService.php" timestamp="1558056618128">
         <mark key="'" line="34" column="27" />
@@ -435,7 +440,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3VkbyAvc2Z5L2Jpbi9kZXBsb3ktZGV2ZWxvcCB4aW55b25nZmVpLWFwcC1hcGkK</text>
+        <text encoding="base64">IOaOpeWPo+iwg+eUqCDlh7rlj4LvvJp7Im1lcmNoYW50Q29kZSI6IjIwMDAzNiIsIm1lcmNoYW50VXNlcklkIjoiMTExMTExMTgwNiIsImpyT3BlbklkIjoiIiwic2lnbiI6IlpPck11SW1rUFJSZkV1b2YzVFwvcjJKY2pHR1JRc01FTG14cUthRWVBSm5na2lDWkZpMGEySjBySVYyS1pPZjNxTVBhazJGWm0rbm5BUElzWmRENmZrRU1uQU16YkVueDdlR2wwOERDcWFUeWFzcEU5OThMQWlqZ09cL1JhRHlsbjJjZ3NWRlJNMFBzMGNMc3Z3eWR0WEtUNFVLeFRUWk1KWlwvTXlzRExHeTZ0QT0iLCJrZXkiOiJaU1N5SWpEaTRWbHlLaU52elFXaFIzZXYrM2tEVnVvUkFlXC9MT1Juc3BFUDN2bmFsTjZ5YVBNQytQc1hsb29QSGlXb0d5SVRlcjQyZ3ZqWm04NXdDMXFWN2hOSXpaZ0xqSFArd3JqVTJuMit6WlVETVlnMExBN2FSVDNlNlFrUHZ6QlpCNUJzUGoweWxKTEtZdzR3RTdsOWRNQVlGM3ZBRXk5OElvZmw3dUZvPSIsImNoYXJzZXQiOiJ1dGYtOCIsImJvZHkiOiJIOFwvSXV2cnJ3aDBtS3hPY3k5Y3JHU1Nyd2NqQzg0akY3RlgwRHQrYzF4Yk1BOUhjS1htR2czMW5yRFVwemR2eVBXd1wvanBoUzI2QzQ3cFp3eWlhRVpzb2hZWCtMblhlK2IrZUVvN09vMHNRWU83WEFONm5OTFwvcHFkemhXcUx5bzIzdk0zT05FMWtoN2sya3N0Smc4bXdlMWszUzhkZnduTVRGK0luV3dJRE1lZVpNMFhGZ3FBZnZlUm5qWjljM0NxNXRlSnhlMmVXZUJlSnFMWmo5czdQbk5CbG5RSzJtWjVPaWJMVGxNZzZITzRhNGFXNFFZZTVtWDcxSTRMODZSIiwidHlwZSI6IjQwMDAxIiwidmVyc2lvbiI6IjEuMCJ9Cg==</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -470,7 +475,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkc3RhdHVzID0gRnhkUmVwYXlSZWNvcmQ6OlNUQVRVU19GQUlMRUQ7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3VkbyAvc2Z5L2Jpbi9kZXBsb3ktZGV2ZWxvcCB4aW55b25nZmVpLWFwcC1hcGkK</text>
+        <text encoding="base64">IOaOpeWPo+iwg+eUqCDlh7rlj4LvvJp7Im1lcmNoYW50Q29kZSI6IjIwMDAzNiIsIm1lcmNoYW50VXNlcklkIjoiMTExMTExMTgwNiIsImpyT3BlbklkIjoiIiwic2lnbiI6IlpPck11SW1rUFJSZkV1b2YzVFwvcjJKY2pHR1JRc01FTG14cUthRWVBSm5na2lDWkZpMGEySjBySVYyS1pPZjNxTVBhazJGWm0rbm5BUElzWmRENmZrRU1uQU16YkVueDdlR2wwOERDcWFUeWFzcEU5OThMQWlqZ09cL1JhRHlsbjJjZ3NWRlJNMFBzMGNMc3Z3eWR0WEtUNFVLeFRUWk1KWlwvTXlzRExHeTZ0QT0iLCJrZXkiOiJaU1N5SWpEaTRWbHlLaU52elFXaFIzZXYrM2tEVnVvUkFlXC9MT1Juc3BFUDN2bmFsTjZ5YVBNQytQc1hsb29QSGlXb0d5SVRlcjQyZ3ZqWm04NXdDMXFWN2hOSXpaZ0xqSFArd3JqVTJuMit6WlVETVlnMExBN2FSVDNlNlFrUHZ6QlpCNUJzUGoweWxKTEtZdzR3RTdsOWRNQVlGM3ZBRXk5OElvZmw3dUZvPSIsImNoYXJzZXQiOiJ1dGYtOCIsImJvZHkiOiJIOFwvSXV2cnJ3aDBtS3hPY3k5Y3JHU1Nyd2NqQzg0akY3RlgwRHQrYzF4Yk1BOUhjS1htR2czMW5yRFVwemR2eVBXd1wvanBoUzI2QzQ3cFp3eWlhRVpzb2hZWCtMblhlK2IrZUVvN09vMHNRWU83WEFONm5OTFwvcHFkemhXcUx5bzIzdk0zT05FMWtoN2sya3N0Smc4bXdlMWszUzhkZnduTVRGK0luV3dJRE1lZVpNMFhGZ3FBZnZlUm5qWjljM0NxNXRlSnhlMmVXZUJlSnFMWmo5czdQbk5CbG5RSzJtWjVPaWJMVGxNZzZITzRhNGFXNFFZZTVtWDcxSTRMODZSIiwidHlwZSI6IjQwMDAxIiwidmVyc2lvbiI6IjEuMCJ9Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -481,29 +486,34 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CQkKICAgICAgICAgICAgCSAgICAgICAgICAgIA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">IOWKoOWvhuWQjuWPguaVsO+8mnsibWVyY2hhbnRDb2RlIjoiMjAwMDM2IiwibWVyY2hhbnRVc2VySWQiOjExMTExMTE4MDYsImpyT3BlbklkIjoiIiwic2lnbiI6IlVqbFlpb2gzMmR5RGJQWmIrMkVscVd1SUplWVk4RVkzYjVlZDhON0dMZTBSRFBRM3NvRlM2NHM5eUo1ckhWSGFiaklDNHR1NU93OUwxZVhsVDNhTlQ0WE5mNkR2TzRPcnNpZ2pKc2syaElcLzY2cFlpMzFMRVZKTDVPYXYwbUdCTkZjVmtHTm5TWXJhc0ljSlNBTGttWUJzelpaSklsWDM0TDEwMmFVdHNRTEE9IiwiYm9keSI6IkozVTlQeU5GRWRlVmJDRkVcL3hDdVNLNjJXaEE4Ym55SjhJV21SVzF1QzZWZFBKelVhaWp4M3pnNTRUZ01xRU96MFpoTndPUU9vYXpjWFRWd21lck1FbnNjNHRkejY2VjhpRlNQN1p2SDZIUHNtYkg2eXpyaEVubncxRjZSejNuU2lIbGZDRXRBNTJmejEzN1o4TWxRdFE9PSIsImtleSI6Ik5aVVFhZTVmSWxqSG5FOHZROFwveEVEMHMwXC9wbENMRm1MNmZnS1BhQkgyTkFcL29rZ2dYTUZHdFdCa1VyZjFtYmdpY2FES0NYaGxBTm5GSVBwYXhXaUFhT2Z2dXZ5R1JqVmZUQTc3NElCdlpKVW5tZ21SZTcyOHNmdUJCMXduajl0dmxxQ2dcL1dIazRwTHJ1eCtQaVNRY09XSGZ4V25pRmEzck5ZUUh1Yzg3T0U9IiwidHlwZSI6IjQwMDAxIiwiY2hhcnNldCI6InV0Zi04IiwidmVyc2lvbiI6IjEuMCJ9Cg==</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFxFeGNlcHRpb24oJ+aWh+S7tuS4jeWtmOWcqO+8gScpOwo=</text>
+      <register name="3" type="8">
+        <text>2019-05-18 12:34:58 [127.0.0.1][-][-][info][fxd_api] [1111111806]
+2019-05-18 12:34:58 [127.0.0.1][-][-][info][fxd_api] [1111111806]
+2019-05-18 12:34:58 [127.0.0.1][-][-][info][fxd_api] [1111111806]
+2019-05-18 12:34:58 [127.0.0.1][-][-][info][fxd_api] [1111111806]
+2019-05-18 12:34:58 [127.0.0.1][-][-][info][fxd_api] [1111111806]
+2019-05-18 12:34:58 [127.0.0.1][-][-][info][fxd_api] [1111111806]</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJHJldCk7Cg==</text>
+        <text encoding="base64">MjAxOS0wNS0xOCAxMjozNDo1OCBbMTI3LjAuMC4xXVstXVstXVtpbmZvXVtmeGRfYXBpXSBbMTExMTExMTgwNl0gYWVzX2tleTo0UUJWazg3NmVUV2R4cU4zCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3VkbyAvc2Z5L2Jpbi9kZXBsb3ktZGV2ZWxvcCB4aW55b25nZmVpLWFwcC1hcGkK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gdG9kbyDnm67liY3ov5jmrL7pgJrov4fosIPnlKjlv6vmjbfmlK/ku5jmjqXlj6PvvIzov5nph4zmmoLml7bkuI3mm7TmlrDorrDlvZUK</text>
+      <register name="6" type="4">
+        <text encoding="base64">CQkKICAgICAgICAgICAgCSAgICAgICAgICAgIA==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFxFeGNlcHRpb24oJ+aWh+S7tuS4jeWtmOWcqO+8gScpOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -514,7 +524,7 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJHJldCk7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
