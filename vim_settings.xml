@@ -94,8 +94,8 @@
         <mark key="." line="19" column="39" />
         <mark key="^" line="19" column="39" />
       </file>
-      <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" timestamp="1558331994384">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" timestamp="1558333257423">
+        <mark key="'" line="506" column="21" />
         <mark key="[" line="429" column="71" />
         <mark key="]" line="429" column="71" />
         <mark key="." line="429" column="71" />
@@ -313,8 +313,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="530" column="23" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanFrontController.php" />
-      <jump line="531" column="26" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanFrontController.php" />
       <jump line="223" column="23" filename="$USER_HOME$/Develop/sfy/credit/logs/fxd_api/fxd_api_20190517.log" />
       <jump line="234" column="63" filename="$USER_HOME$/Develop/sfy/credit/logs/fxd_api/fxd_api_20190517.log" />
       <jump line="39" column="4" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/UserController.php" />
@@ -411,8 +409,10 @@
       <jump line="204" column="0" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" />
       <jump line="206" column="50" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" />
       <jump line="428" column="103" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" />
       <jump line="2303" column="4" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Models/CreditUser.php" />
+      <jump line="580" column="8" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" />
+      <jump line="506" column="21" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -473,7 +473,7 @@
         <text>\</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxGeGRCYW5rQ2FyZFw+</text>
+        <text>40014</text>
       </register>
       <register name="0" type="4">
         <text>['result']</text>
@@ -523,21 +523,20 @@
         <text encoding="base64">ICAgICAgICBpZiAoaXNzZXQoJHJldFsndG9rZW4nXSkpIHsKICAgICAgICAgICAgJGRhdGEgPSBbJ2Z4ZF91c2VyX2lkJyA9PiAkdGhpcy0+ZnhkVXNlci0+aWQsICd0b2tlbicgPT4gJHJldFsndG9rZW4nXV07CiAgICAgICAgICAgIEZ4ZFJpc2tKdWRnZVNlcnZpY2U6OnNhdmUoJGRhdGEpOwoKICAgICAgICAgICAgcmV0dXJuICR0aGlzLT5zdWNjZXNzKFsnc3RhdHVzJyA9PiAxMDBdKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>nohls</text>
+        <text>.,.+40012nohls</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxGeGRCYW5rQ2FyZFw+</last-search>
+      <last-search>40014</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxGeGRCYW5rQ2FyZFw+</last-pattern>
+      <last-pattern>40014</last-pattern>
       <last-replace />
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>2100</entry>
         <entry>msg</entry>
         <entry>pay_status</entry>
         <entry>40003</entry>
@@ -550,16 +549,16 @@
         <entry>,</entry>
         <entry>\\</entry>
         <entry encoding="base64">XDxzZGtEZXZpY2VJbmZvXD4=</entry>
-        <entry>40014</entry>
         <entry>2107</entry>
         <entry>40017</entry>
         <entry>2016</entry>
         <entry>2106</entry>
         <entry>40023</entry>
         <entry encoding="base64">XDxGeGRCYW5rQ2FyZFw+</entry>
+        <entry>40013</entry>
+        <entry>40014</entry>
       </history-search>
       <history-cmd>
-        <entry>.,.+2013nohls</entry>
         <entry>action KJumpAction.Line</entry>
         <entry>action Forward</entry>
         <entry encoding="base64">JzwsJz5zL2Rldi90ZXN0L2c=</entry>
@@ -579,6 +578,7 @@
         <entry>action Back</entry>
         <entry>wq</entry>
         <entry>nohls</entry>
+        <entry>.,.+40012nohls</entry>
       </history-cmd>
       <history-expr />
       <history-input />
