@@ -217,12 +217,12 @@
       <file name="$USER_HOME$/Develop/sfy/credit/common/unit/Env.php" timestamp="1557922754666">
         <mark key="'" line="44" column="53" />
       </file>
-      <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanAfterController.php" timestamp="1558426698005">
-        <mark key="'" line="221" column="8" />
-        <mark key="[" line="202" column="0" />
-        <mark key="]" line="202" column="0" />
-        <mark key="^" line="247" column="56" />
-        <mark key="." line="202" column="0" />
+      <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanAfterController.php" timestamp="1558431935151">
+        <mark key="'" line="302" column="35" />
+        <mark key="[" line="308" column="0" />
+        <mark key="]" line="309" column="426" />
+        <mark key="^" line="309" column="426" />
+        <mark key="." line="309" column="426" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Models/CreditUser.php" timestamp="1558423711873">
         <mark key="'" line="1579" column="64" />
@@ -294,11 +294,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="287" column="0" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/services/FxdHelper.php" />
-      <jump line="270" column="0" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/services/FxdHelper.php" />
-      <jump line="253" column="0" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/services/FxdHelper.php" />
-      <jump line="236" column="0" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/services/FxdHelper.php" />
-      <jump line="219" column="8" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/services/FxdHelper.php" />
       <jump line="241" column="0" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/services/FxdHelper.php" />
       <jump line="288" column="0" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/services/FxdHelper.php" />
       <jump line="254" column="0" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/services/FxdHelper.php" />
@@ -394,6 +389,11 @@
       <jump line="300" column="22" filename="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Controllers/Api/CreditController.php" />
       <jump line="308" column="48" filename="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Controllers/Api/CreditController.php" />
       <jump line="34" column="23" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" />
+      <jump line="308" column="0" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanAfterController.php" />
+      <jump line="323" column="59" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanAfterController.php" />
+      <jump line="357" column="15" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanAfterController.php" />
+      <jump line="348" column="51" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanAfterController.php" />
+      <jump line="302" column="35" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanAfterController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -454,7 +454,7 @@
         <text>'提交失败，请稍后重试'</text>
       </register>
       <register name="/" type="4">
-        <text>40023</text>
+        <text encoding="base64">XDxyZXBheW1lbnRfcGF5X2lkXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPnN1Y2Nlc3MoWwogICAgICAgICAgICAnc3RhdHVzJyA9PiAxMDAsCiAgICAgICAgICAgICdtZXNzYWdlJyA9PiAn5Y+R6YCB6aqM6K+B56CB5oiQ5YqfJwogICAgICAgIF0pOwo=</text>
@@ -526,13 +526,13 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICR0aGlzLT5mYWlsZWQoNDAwMDAwLCApOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>nohls</text>
       </register>
     </registers>
     <search>
-      <last-search>40023</last-search>
+      <last-search encoding="base64">XDxyZXBheW1lbnRfcGF5X2lkXD4=</last-search>
       <last-offset />
-      <last-pattern>40023</last-pattern>
+      <last-pattern encoding="base64">XDxyZXBheW1lbnRfcGF5X2lkXD4=</last-pattern>
       <last-replace>','</last-replace>
       <last-substitute>、</last-substitute>
       <last-dir>1</last-dir>
@@ -540,8 +540,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxiYW5rQ29kZVw+</entry>
-        <entry encoding="base64">XDxjYXJkQ29kZVw+</entry>
         <entry>2107</entry>
         <entry encoding="base64">XDxkZXZpY2VcPg==</entry>
         <entry encoding="base64">XDxDYXNoUmVkaXNcPg==</entry>
@@ -560,6 +558,8 @@
         <entry>line</entry>
         <entry>applyline</entry>
         <entry>40023</entry>
+        <entry>pay_status</entry>
+        <entry encoding="base64">XDxyZXBheW1lbnRfcGF5X2lkXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>.,.+2099nohls</entry>
@@ -577,11 +577,11 @@
         <entry encoding="base64">JzwsJz5zL+OAgS8nLCcvZw==</entry>
         <entry>vs</entry>
         <entry>action PreviousTab</entry>
-        <entry>action Back</entry>
         <entry>action NextTab</entry>
-        <entry>nohls</entry>
         <entry>action NextSplitter</entry>
         <entry>wq</entry>
+        <entry>action Back</entry>
+        <entry>nohls</entry>
       </history-cmd>
       <history-expr />
       <history-input />
