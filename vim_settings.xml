@@ -21,6 +21,9 @@
         <mark key="^" line="704" column="53" />
         <mark key="." line="704" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/sfy/xinyongfei-app-api/config/env.php" timestamp="1558505581545">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/sfy/syf-middleware-system/common/services/sms/TongLianSms.php" timestamp="1557816243869">
         <mark key="'" line="13" column="22" />
       </file>
@@ -134,8 +137,8 @@
       <file name="$USER_HOME$/Develop/sfy/credit/common/models/User.php" timestamp="1557915179495">
         <mark key="'" line="119" column="27" />
       </file>
-      <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/services/FxdHelper.php" timestamp="1558496552439">
-        <mark key="'" line="146" column="27" />
+      <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/services/FxdHelper.php" timestamp="1558505494771">
+        <mark key="'" line="173" column="22" />
         <mark key="[" line="161" column="0" />
         <mark key="]" line="161" column="0" />
         <mark key="." line="161" column="0" />
@@ -305,8 +308,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2295" column="4" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Models/CreditUser.php" />
-      <jump line="704" column="18" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Models/CreditUser.php" />
       <jump line="2281" column="13" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Models/CreditUser.php" />
       <jump line="2280" column="63" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Models/CreditUser.php" />
       <jump line="2293" column="8" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Models/CreditUser.php" />
@@ -395,7 +396,6 @@
       <jump line="12" column="47" filename="$USER_HOME$/Develop/sfy/credit/logs/fxd_cb_api/fxd_cb_api_20190522.log" />
       <jump line="135" column="24" filename="$USER_HOME$/Develop/sfy/credit/fxd_cb_api/controllers/NotifyController.php" />
       <jump line="134" column="35" filename="$USER_HOME$/Develop/sfy/credit/fxd_cb_api/controllers/NotifyController.php" />
-      <jump line="173" column="22" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/services/FxdHelper.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/services/FxdHelper.php" />
       <jump line="40" column="33" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/services/FxdHelper.php" />
       <jump line="68" column="46" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/services/FxdHelper.php" />
@@ -405,6 +405,9 @@
       <jump line="178" column="0" filename="$USER_HOME$/Develop/sfy/shoufuyou-notify/lib/Controllers/ShengbeiController.php" />
       <jump line="90" column="25" filename="$USER_HOME$/Develop/sfy/shoufuyou-notify/lib/Controllers/ShengbeiController.php" />
       <jump line="162" column="19" filename="$USER_HOME$/Develop/sfy/shoufuyou-notify/lib/Controllers/ShengbeiController.php" />
+      <jump line="173" column="22" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/services/FxdHelper.php" />
+      <jump line="53" column="29" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/config/env.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/config/env.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -465,7 +468,7 @@
         <text>Env</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzaWduXD4=</text>
+        <text>redis</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJGRhdGEgPSAkamRDb25mWydtZXJjaGFudF9jb2RlJ10gLiAkbWVyY2hhbnRVc2VySWQgLiAkamRDb25mWydqcl9vcGVuX2lkJ10gLiAkamRDb25mWydjaGFyc2V0J10gLiAkdHlwZSAuICRqZENvbmZbJ3ZlcnNpb24nXSAuICRkYXRhOwo=</text>
@@ -537,21 +540,20 @@
         <text encoding="base64">ICAgICAgICBkZCgkZGF0YSk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>nohls</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzaWduXD4=</last-search>
+      <last-search>redis</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzaWduXD4=</last-pattern>
+      <last-pattern>redis</last-pattern>
       <last-replace>','</last-replace>
       <last-substitute>、</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>40029</entry>
         <entry>、</entry>
         <entry>ocr</entry>
         <entry>401014</entry>
@@ -571,6 +573,7 @@
         <entry encoding="base64">XDx0b3RhbFVucGFpZFw+</entry>
         <entry encoding="base64">XDxyZXNwb25zZURhdGFcPg==</entry>
         <entry encoding="base64">XDxzaWduXD4=</entry>
+        <entry>redis</entry>
       </history-search>
       <history-cmd>
         <entry>.,.+2099nohls</entry>
@@ -591,8 +594,8 @@
         <entry>action NextTab</entry>
         <entry>action Back</entry>
         <entry>action PreviousTab</entry>
-        <entry>wq</entry>
         <entry>nohls</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
