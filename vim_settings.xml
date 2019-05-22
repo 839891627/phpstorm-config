@@ -83,6 +83,11 @@
       <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/services/jd_api/api2013.php" timestamp="1558174148477">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/sfy/credit/common/ssh-key/prod/xyf_public_key.pem" timestamp="1558510008627">
+        <mark key="[" line="1" column="192" />
+        <mark key="]" line="1" column="192" />
+        <mark key="." line="1" column="192" />
+      </file>
       <file name="$USER_HOME$/Develop/framework/core/common/function.php" timestamp="1557714648368">
         <mark key="'" line="61" column="0" />
         <mark key="[" line="45" column="0" />
@@ -90,12 +95,11 @@
         <mark key="." line="19" column="39" />
         <mark key="^" line="19" column="39" />
       </file>
-      <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" timestamp="1558429532581">
-        <mark key="'" line="34" column="23" />
-        <mark key="[" line="461" column="30" />
-        <mark key="]" line="461" column="37" />
-        <mark key="." line="461" column="37" />
-        <mark key="^" line="461" column="37" />
+      <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" timestamp="1558509491342">
+        <mark key="'" line="767" column="0" />
+        <mark key="[" line="768" column="0" />
+        <mark key="]" line="768" column="0" />
+        <mark key="." line="768" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/framework/index.php" timestamp="1557711898757">
         <mark key="'" line="21" column="29" />
@@ -281,6 +285,7 @@
       <file name="$USER_HOME$/Develop/sfy/credit/logs/fxd_api/fxd_api_20190522.log" timestamp="1558490976294">
         <mark key="'" line="75" column="11769" />
       </file>
+      <file name="$USER_HOME$/Develop/sfy/credit/common/ssh-key/jt_public_key.pem" timestamp="1558509991670" />
       <file name="$USER_HOME$/Develop/sfy/shoufuyou-notify/lib/Controllers/ShengbeiController.php" timestamp="1558504504446">
         <mark key="'" line="162" column="19" />
         <mark key="[" line="162" column="17" />
@@ -317,9 +322,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="683" column="33" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Models/CreditUser.php" />
-      <jump line="559" column="4" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" />
-      <jump line="84" column="30" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" />
       <jump line="122" column="30" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" />
       <jump line="162" column="37" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" />
       <jump line="176" column="33" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" />
@@ -331,7 +333,6 @@
       <jump line="455" column="18" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" />
       <jump line="363" column="0" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" />
-      <jump line="767" column="0" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" />
       <jump line="1578" column="64" filename="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Models/CreditUser.php" />
       <jump line="46" column="0" filename="$USER_HOME$/Develop/sfy/shoufuyou-php-lib/biz-common/Models/CreditUser.php" />
       <jump line="1123" column="31" filename="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Controllers/Api/UserController.php" />
@@ -417,6 +418,10 @@
       <jump line="17" column="53" filename="$USER_HOME$/Develop/sfy/credit/common/config/local/params.php" />
       <jump line="20" column="5" filename="$USER_HOME$/Develop/sfy/credit/common/config/prod/params.php" />
       <jump line="137" column="26" filename="$USER_HOME$/Develop/sfy/credit/common/config/prod/params.php" />
+      <jump line="202" column="9" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" />
+      <jump line="783" column="0" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" />
+      <jump line="769" column="0" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" />
+      <jump line="767" column="0" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -447,8 +452,8 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="8">
-        <text>fxd-cb-api.xinyongfei.cn</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -474,7 +479,7 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>fxd-cb-api.xinyongfei.cn</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>redis</text>
@@ -482,8 +487,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJGRhdGEgPSAkamRDb25mWydtZXJjaGFudF9jb2RlJ10gLiAkbWVyY2hhbnRVc2VySWQgLiAkamRDb25mWydqcl9vcGVuX2lkJ10gLiAkamRDb25mWydjaGFyc2V0J10gLiAkdHlwZSAuICRqZENvbmZbJ3ZlcnNpb24nXSAuICRkYXRhOwo=</text>
       </register>
-      <register name="1" type="8">
-        <text>fxd-cb-api.xinyongfei.cn</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -510,31 +515,29 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="8">
-        <text>fxd-cb-api.xinyongfei.cn</text>
+      <register name="2" type="2">
+        <text encoding="base64">CjEuIFJTQSDlhazpkqUKLS0tLS1CRUdJTiBQVUJMSUMgS0VZLS0tLS0KTUlHZk1BMEdDU3FHU0liM0RRRUJBUVVBQTRHTkFEQ0JpUUtCZ1FDNXpaa3IzUnRiVnhPemlob0Zibm9rcVhyQgo2NGhpSFZvRjhNSUwwbHFoSXU0NVVhU04zbTg4VXBPS0lZYU5NdVBKNDlRc3NIYWlyTHV4Z093OUg5Wlh2M3pyCjl4SFRHSko4cmZSUkpnclIybnEzakhETE1BRk5vVWtZd3BWQkJTU1M4Mng5YXZWWjdQdmJvOXZBUTVhaWN5amwKSmtpbnBmcXlBaFV0TzFpamNRSURBUUFCCi0tLS0tRU5EIFBVQkxJQyBLRVktLS0tLQoKMi4g5pyN5Yqh5ZmoIElQIOeZveWQjeWNlQogICAgMzkuOTcuNC4xMzcKCjMuIOato+W8j+eOr+Wig+Wbnuiwg+WcsOWdgAogICAg5r+A5rS757uT5p6c6YCa55+l77yaaHR0cHM6Ly9meGQtY2ItYXBpLnhpbnlvbmdmZWkuY24vbm90aWZ5L2FjdGl2YXRlCiAgICDotLfmrL7nu5PmnpzpgJrnn6XvvJpodHRwczovL2Z4ZC1jYi1hcGkueGlueW9uZ2ZlaS5jbi9ub3RpZnkvbG9hbgogICAg6L+Y5qy+57uT5p6c6YCa55+l77yaaHR0cHM6Ly9meGQtY2ItYXBpLnhpbnlvbmdmZWkuY24vbm90aWZ5L3JlcGF5CgoK</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
-      <register name="3" type="8">
-        <text>fxd-cb-api.xinyongfei.cn</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
-      <register name="4" type="8">
-        <text>test-
-test-
-test-</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkZGRjYykK</text>
+        <text encoding="base64">LSAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkZWNjKQo=</text>
+        <text encoding="base64">LSAgICAg5q2j5byP546v5aKD77yaCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkZGF0YSk7Cg==</text>
+      <register name="7" type="8">
+        <text>fxd-cb-api.xinyongfei.cn</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -544,11 +547,11 @@ test-</text>
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkYSA9IEZ4ZEhlbHBlcjo6ZGVjcnlwdEJpekJvZHkoJHJlc3BvbnNlRGF0YSwgJycsICRjcmVkaXRVc2VySWQsIGZhbHNlKTsK</text>
+      <register name="8" type="8">
+        <text>fxd-cb-api.xinyongfei.cn</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkYSk7Cg==</text>
+      <register name="9" type="8">
+        <text>fxd-cb-api.xinyongfei.cn</text>
       </register>
       <register name=":" type="4">
         <text>nohls</text>
@@ -601,11 +604,11 @@ test-</text>
         <entry>vs</entry>
         <entry>action NextSplitter</entry>
         <entry>action SelectInProjectView</entry>
-        <entry>action NextTab</entry>
         <entry>action Back</entry>
         <entry>action PreviousTab</entry>
-        <entry>wq</entry>
         <entry>action CloseAllEditors</entry>
+        <entry>action NextTab</entry>
+        <entry>wq</entry>
         <entry>nohls</entry>
       </history-cmd>
       <history-expr />
