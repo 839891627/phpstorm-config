@@ -55,12 +55,10 @@
         <mark key="." line="95" column="31" />
         <mark key="^" line="95" column="31" />
       </file>
-      <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanFrontController.php" timestamp="1558518379229">
-        <mark key="'" line="705" column="4" />
-        <mark key="[" line="54" column="27" />
-        <mark key="]" line="54" column="35" />
-        <mark key="." line="54" column="35" />
-        <mark key="^" line="54" column="35" />
+      <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanFrontController.php" timestamp="1558522109962">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Controllers/Api/CreditController.php" timestamp="1558428844134">
         <mark key="'" line="308" column="48" />
@@ -225,6 +223,11 @@
         <mark key="^" line="50" column="28" />
         <mark key="." line="50" column="28" />
       </file>
+      <file name="$USER_HOME$/Develop/sfy/credit/logs/fxd_cb_api/fxd_cb_api_20190522.log" timestamp="1558496088199">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/services/jd_api/api2106.php" timestamp="1557230167992">
         <mark key="'" line="0" column="0" />
       </file>
@@ -352,7 +355,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="111" column="20" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Router.php" />
       <jump line="112" column="24" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Router.php" />
       <jump line="144" column="24" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Router.php" />
       <jump line="145" column="20" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Router.php" />
@@ -452,6 +454,7 @@
       <jump line="1181" column="34" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Models/App.php" />
       <jump line="0" column="243" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/config/s.html" />
       <jump line="1260" column="27" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Models/App.php" />
+      <jump line="40" column="0" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanFrontController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -482,8 +485,8 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Jg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -518,7 +521,7 @@
         <text>$data[$key]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHJvd1snaXNfbG9naW4nXSA9IGJvb2x2YWwoJHJvd1snaXNfbG9naW4nXSk7CiAgICAgICAgICAgICRyb3dbJ2ltYWdlX3VybCddID0gVXJsSGVscGVyOjpnZXRTZnlJbWFnZVVybCgneHlmLWFwcC1hZCcsICRyb3dbJ2lkJ10pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -546,28 +549,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRkZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHVuc2V0KCRkYXRhWydiYW5uZXJzJ11bJGtleV0pOwo=</text>
+        <text encoding="base64">CiAgICAgICAgJGRhdGEgPSBbCiAgICAgICAgICAgICdiYW5uZXJzJyA9PlsKICAgICAgICAgICAgICAgIFsKICAgICAgICAgICAgICAgICAgICAnYWN0aW9uX3ZhbHVlJyA9PiAxCiAgICAgICAgICAgICAgICBdCiAgICAgICAgICAgIF0KICAgICAgICBdOwoKICAgICAgICAkbW9iaWxlID0gbnVsbDsKICAgICAgICAkZnhkV2hpdGVMaXN0ID0gWycxMzA2Mjc2NTE3NSddOwogICAgICAgIGZvcmVhY2ggKCRkYXRhWydiYW5uZXJzJ10gYXMgJGtleSA9PiAgJiRyb3cpIHsKICAgICAgICAgICAgaWYgKCRyb3dbJ2FjdGlvbl92YWx1ZSddID09IDEgJiYgKCEkbW9iaWxlIHx8ICFpbl9hcnJheSgkbW9iaWxlLCAkZnhkV2hpdGVMaXN0KSkpIHsKICAgICAgICAgICAgICAgIC8vIOWmguaenOaYr+mjnuihjOi0t++8jOS4jeWcqOeZveWQjeWNleeahOeUqOaIt+S4jeWFgeiuuOafpeeciwogICAgICAgICAgICAgICAgdW5zZXQoJGRhdGFbJ2Jhbm5lcnMnXVska2V5XSk7CiAgICAgICAgICAgICAgICBjb250aW51ZTsKICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICBkZCgkZGF0YSk7Cg==</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRkYXRhWyRrZXldKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHJvd1snaXNfbG9naW4nXSA9IGJvb2x2YWwoJHJvd1snaXNfbG9naW4nXSk7CiAgICAgICAgICAgICRyb3dbJ2ltYWdlX3VybCddID0gVXJsSGVscGVyOjpnZXRTZnlJbWFnZVVybCgneHlmLWFwcC1hZCcsICRyb3dbJ2lkJ10pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKDEpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRkZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKDIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHVuc2V0KCRkYXRhWydiYW5uZXJzJ11bJGtleV0pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRkYXRhWyRrZXldKTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -578,10 +581,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKDEpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdhY3Rpb25fdmFsdWUnID0+IDEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKDIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>nohls</text>
