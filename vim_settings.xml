@@ -74,6 +74,9 @@
       <file name="$USER_HOME$/Develop/sfy/shoufuyou-service/lib/Controllers/JdWapiController.php" timestamp="1557455183754">
         <mark key="'" line="32" column="24" />
       </file>
+      <file name="$USER_HOME$/Develop/sfy/credit/common/ssh-key/prod/readme.md" timestamp="1558507130721">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/services/jd_api/api2107.php" timestamp="1557559100069">
         <mark key="'" line="3" column="0" />
       </file>
@@ -272,6 +275,9 @@
       <file name="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Controllers/OcrController.php" timestamp="1558426993714">
         <mark key="'" line="15" column="19" />
       </file>
+      <file name="$USER_HOME$/Develop/sfy/credit/common/config/local/params.php" timestamp="1558506138770">
+        <mark key="'" line="17" column="53" />
+      </file>
       <file name="$USER_HOME$/Develop/sfy/credit/logs/fxd_api/fxd_api_20190522.log" timestamp="1558490976294">
         <mark key="'" line="75" column="11769" />
       </file>
@@ -296,6 +302,9 @@
         <mark key="^" line="222" column="16" />
         <mark key="." line="222" column="16" />
       </file>
+      <file name="$USER_HOME$/Develop/sfy/credit/common/config/prod/params.php" timestamp="1558506812541">
+        <mark key="'" line="137" column="26" />
+      </file>
       <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/services/fxdApi.php" timestamp="1557816349999">
         <mark key="'" line="51" column="77" />
         <mark key="[" line="51" column="0" />
@@ -308,9 +317,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2281" column="13" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Models/CreditUser.php" />
-      <jump line="2280" column="63" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Models/CreditUser.php" />
-      <jump line="2293" column="8" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Models/CreditUser.php" />
       <jump line="683" column="33" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Models/CreditUser.php" />
       <jump line="559" column="4" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" />
       <jump line="84" column="30" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" />
@@ -408,6 +414,9 @@
       <jump line="173" column="22" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/services/FxdHelper.php" />
       <jump line="53" column="29" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/config/env.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/config/env.php" />
+      <jump line="17" column="53" filename="$USER_HOME$/Develop/sfy/credit/common/config/local/params.php" />
+      <jump line="20" column="5" filename="$USER_HOME$/Develop/sfy/credit/common/config/prod/params.php" />
+      <jump line="137" column="26" filename="$USER_HOME$/Develop/sfy/credit/common/config/prod/params.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -438,8 +447,8 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>Env</text>
+      <register name="&quot;" type="8">
+        <text>fxd-cb-api.xinyongfei.cn</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -465,7 +474,7 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>Env</text>
+        <text>fxd-cb-api.xinyongfei.cn</text>
       </register>
       <register name="/" type="4">
         <text>redis</text>
@@ -473,8 +482,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJGRhdGEgPSAkamRDb25mWydtZXJjaGFudF9jb2RlJ10gLiAkbWVyY2hhbnRVc2VySWQgLiAkamRDb25mWydqcl9vcGVuX2lkJ10gLiAkamRDb25mWydjaGFyc2V0J10gLiAkdHlwZSAuICRqZENvbmZbJ3ZlcnNpb24nXSAuICRkYXRhOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkZGRjYykK</text>
+      <register name="1" type="8">
+        <text>fxd-cb-api.xinyongfei.cn</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -501,29 +510,31 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkZWNjKQo=</text>
+      <register name="2" type="8">
+        <text>fxd-cb-api.xinyongfei.cn</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkZGF0YSk7Cg==</text>
+      <register name="3" type="8">
+        <text>fxd-cb-api.xinyongfei.cn</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkYSA9IEZ4ZEhlbHBlcjo6ZGVjcnlwdEJpekJvZHkoJHJlc3BvbnNlRGF0YSwgJycsICRjcmVkaXRVc2VySWQsIGZhbHNlKTsK</text>
+      <register name="4" type="8">
+        <text>test-
+test-
+test-</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkYSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkZGRjYykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkZWNjKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkZGF0YSk7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -534,13 +545,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkZGF0YSA9ICRqZENvbmZbJ21lcmNoYW50X2NvZGUnXSAuICRtZXJjaGFudFVzZXJJZCAuICRqZENvbmZbJ2pyX29wZW5faWQnXSAuICRqZENvbmZbJ2NoYXJzZXQnXSAuICR0eXBlIC4gJGpkQ29uZlsndmVyc2lvbiddIC4gJGRhdGE7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkYSA9IEZ4ZEhlbHBlcjo6ZGVjcnlwdEJpekJvZHkoJHJlc3BvbnNlRGF0YSwgJycsICRjcmVkaXRVc2VySWQsIGZhbHNlKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkZGF0YSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkYSk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>nohls</text>
       </register>
     </registers>
     <search>
@@ -550,7 +561,7 @@
       <last-replace>','</last-replace>
       <last-substitute>、</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -577,7 +588,6 @@
       </history-search>
       <history-cmd>
         <entry>.,.+2099nohls</entry>
-        <entry>action CloseAllEditors</entry>
         <entry>.,.+399nohls</entry>
         <entry encoding="base64">JzwsJz5zLyIvL2c=</entry>
         <entry encoding="base64">JzwsJz5zLywvL2c=</entry>
@@ -594,8 +604,9 @@
         <entry>action NextTab</entry>
         <entry>action Back</entry>
         <entry>action PreviousTab</entry>
-        <entry>nohls</entry>
         <entry>wq</entry>
+        <entry>action CloseAllEditors</entry>
+        <entry>nohls</entry>
       </history-cmd>
       <history-expr />
       <history-input />
