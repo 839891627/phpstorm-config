@@ -55,10 +55,12 @@
         <mark key="." line="95" column="31" />
         <mark key="^" line="95" column="31" />
       </file>
-      <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanFrontController.php" timestamp="1558522109962">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
+      <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanFrontController.php" timestamp="1558523739837">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="649" column="34" />
+        <mark key="]" line="651" column="35" />
+        <mark key="." line="651" column="35" />
+        <mark key="^" line="651" column="35" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Controllers/Api/CreditController.php" timestamp="1558428844134">
         <mark key="'" line="308" column="48" />
@@ -128,6 +130,11 @@
         <mark key="]" line="6" column="61" />
         <mark key="^" line="6" column="61" />
         <mark key="." line="6" column="61" />
+      </file>
+      <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/services/jd_api/api2014.php" timestamp="1558523327423">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/services/FxdPhotoService.php" timestamp="1558083334951">
         <mark key="'" line="82" column="55" />
@@ -223,15 +230,9 @@
         <mark key="^" line="50" column="28" />
         <mark key="." line="50" column="28" />
       </file>
-      <file name="$USER_HOME$/Develop/sfy/credit/logs/fxd_cb_api/fxd_cb_api_20190522.log" timestamp="1558496088199">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/services/jd_api/api2106.php" timestamp="1557230167992">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/yuewo/database/migrations/2018_05_04_175844_add_merchant_name_index_to_projects.php" timestamp="1558499670916" />
       <file name="$USER_HOME$/Develop/sfy/credit/logs/fxd_api/fxd_api_20190521.log" timestamp="1558436698270">
         <mark key="'" line="333" column="30" />
       </file>
@@ -355,8 +356,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="112" column="24" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Router.php" />
-      <jump line="144" column="24" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Router.php" />
       <jump line="145" column="20" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Router.php" />
       <jump line="130" column="0" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Router.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Router.php" />
@@ -455,6 +454,8 @@
       <jump line="0" column="243" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/config/s.html" />
       <jump line="1260" column="27" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Models/App.php" />
       <jump line="40" column="0" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanFrontController.php" />
+      <jump line="687" column="0" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanFrontController.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanFrontController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -485,8 +486,8 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">WydqdF9zdGF0dXMnID0+ICdDTE9TRUQnXQ==</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -512,13 +513,13 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Jg==</text>
+        <text encoding="base64">WydqdF9zdGF0dXMnID0+ICdDTE9TRUQnXQ==</text>
       </register>
       <register name="/" type="4">
-        <text>banner</text>
+        <text>2014</text>
       </register>
-      <register name="0" type="4">
-        <text>$data[$key]</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICB9ZWxzZWlmKCRyZXRbJ3Jlc3VsdCddWydjb2RlJ10gPT0gJ09VVEFDVF9FUlJPUl8wMDE1Jyl7CiAgICAgICAgICAgIHJldHVybiAkdGhpcy0+c3VjY2VzcyhbCiAgICAgICAgICAgICAgICAnc3RhdHVzJz0+IDEwMiwKICAgICAgICAgICAgICAgICdtZXNzYWdlJyA9PiAn6KGl5YWF6Ym05p2D5aSx6LSlJwogICAgICAgICAgICBdKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -555,22 +556,22 @@
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAgICAgJGRhdGEgPSBbCiAgICAgICAgICAgICdiYW5uZXJzJyA9PlsKICAgICAgICAgICAgICAgIFsKICAgICAgICAgICAgICAgICAgICAnYWN0aW9uX3ZhbHVlJyA9PiAxCiAgICAgICAgICAgICAgICBdCiAgICAgICAgICAgIF0KICAgICAgICBdOwoKICAgICAgICAkbW9iaWxlID0gbnVsbDsKICAgICAgICAkZnhkV2hpdGVMaXN0ID0gWycxMzA2Mjc2NTE3NSddOwogICAgICAgIGZvcmVhY2ggKCRkYXRhWydiYW5uZXJzJ10gYXMgJGtleSA9PiAgJiRyb3cpIHsKICAgICAgICAgICAgaWYgKCRyb3dbJ2FjdGlvbl92YWx1ZSddID09IDEgJiYgKCEkbW9iaWxlIHx8ICFpbl9hcnJheSgkbW9iaWxlLCAkZnhkV2hpdGVMaXN0KSkpIHsKICAgICAgICAgICAgICAgIC8vIOWmguaenOaYr+mjnuihjOi0t++8jOS4jeWcqOeZveWQjeWNleeahOeUqOaIt+S4jeWFgeiuuOafpeeciwogICAgICAgICAgICAgICAgdW5zZXQoJGRhdGFbJ2Jhbm5lcnMnXVska2V5XSk7CiAgICAgICAgICAgICAgICBjb250aW51ZTsKICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICBkZCgkZGF0YSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHJvd1snaXNfbG9naW4nXSA9IGJvb2x2YWwoJHJvd1snaXNfbG9naW4nXSk7CiAgICAgICAgICAgICRyb3dbJ2ltYWdlX3VybCddID0gVXJsSGVscGVyOjpnZXRTZnlJbWFnZVVybCgneHlmLWFwcC1hZCcsICRyb3dbJ2lkJ10pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRkZAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoJHJldFsnJ10pIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHVuc2V0KCRkYXRhWydiYW5uZXJzJ11bJGtleV0pOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoJHJlc3BvbnNlWydyZXN1bHQnXVsnc3VjY2VzcyddICE9PSB0cnVlKSB7CiAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRkYXRhWyRrZXldKTsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoJHJlc3BvbnNlWydyZXN1bHQnXVsnc3VjY2VzcyddICE9PSB0cnVlKSB7CiAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -581,19 +582,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKDEpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKDIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>nohls</text>
       </register>
     </registers>
     <search>
-      <last-search>banner</last-search>
+      <last-search>2014</last-search>
       <last-offset />
-      <last-pattern>banner</last-pattern>
+      <last-pattern>2014</last-pattern>
       <last-replace>','</last-replace>
       <last-substitute>、</last-substitute>
       <last-dir>1</last-dir>
@@ -601,7 +602,6 @@
     </search>
     <history>
       <history-search>
-        <entry>apply</entry>
         <entry>line</entry>
         <entry>applyline</entry>
         <entry>40023</entry>
@@ -621,6 +621,7 @@
         <entry encoding="base64">XDxfU0VTU0lPTlw+</entry>
         <entry>bann</entry>
         <entry>banner</entry>
+        <entry>2014</entry>
       </history-search>
       <history-cmd>
         <entry>.,.+2099nohls</entry>
@@ -639,8 +640,8 @@
         <entry>action SelectInProjectView</entry>
         <entry>action CloseAllEditors</entry>
         <entry>action NextTab</entry>
-        <entry>action Back</entry>
         <entry>action PreviousTab</entry>
+        <entry>action Back</entry>
         <entry>wq</entry>
         <entry>nohls</entry>
       </history-cmd>
