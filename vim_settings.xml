@@ -211,12 +211,12 @@
       <file name="$USER_HOME$/Develop/sfy/credit/common/unit/Env.php" timestamp="1557922754666">
         <mark key="'" line="44" column="53" />
       </file>
-      <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanAfterController.php" timestamp="1558490038699">
-        <mark key="'" line="149" column="0" />
-        <mark key="[" line="134" column="0" />
-        <mark key="]" line="134" column="0" />
-        <mark key="^" line="149" column="17" />
-        <mark key="." line="134" column="0" />
+      <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanAfterController.php" timestamp="1558491009217">
+        <mark key="'" line="107" column="9" />
+        <mark key="[" line="107" column="0" />
+        <mark key="]" line="107" column="0" />
+        <mark key="^" line="128" column="79" />
+        <mark key="." line="107" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Models/CreditUser.php" timestamp="1558423711873">
         <mark key="'" line="1579" column="64" />
@@ -262,6 +262,9 @@
       <file name="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Controllers/OcrController.php" timestamp="1558426993714">
         <mark key="'" line="15" column="19" />
       </file>
+      <file name="$USER_HOME$/Develop/sfy/credit/logs/fxd_api/fxd_api_20190522.log" timestamp="1558490976294">
+        <mark key="'" line="75" column="11769" />
+      </file>
       <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/services/FxdOrderService.php" timestamp="1558056618128">
         <mark key="'" line="34" column="27" />
         <mark key="[" line="31" column="91" />
@@ -288,12 +291,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="89" filename="$USER_HOME$/Develop/sfy/credit/logs/fxd_api/fxd_api_20190521.log" />
-      <jump line="81" column="133" filename="$USER_HOME$/Develop/sfy/credit/logs/fxd_api/fxd_api_20190521.log" />
-      <jump line="111" column="0" filename="$USER_HOME$/Develop/sfy/credit/logs/fxd_api/fxd_api_20190521.log" />
-      <jump line="0" column="0" filename="$USER_HOME$/Develop/sfy/credit/logs/fxd_api/fxd_api_20190521.log" />
-      <jump line="602" column="36" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanFrontController.php" />
-      <jump line="502" column="9" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanFrontController.php" />
       <jump line="539" column="92" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanFrontController.php" />
       <jump line="614" column="12" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanFrontController.php" />
       <jump line="646" column="8" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanFrontController.php" />
@@ -388,6 +385,12 @@
       <jump line="515" column="31" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanFrontController.php" />
       <jump line="148" column="31" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanAfterController.php" />
       <jump line="149" column="0" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanAfterController.php" />
+      <jump line="9" column="74" filename="$USER_HOME$/Develop/sfy/credit/logs/fxd_api/fxd_api_20190522.log" />
+      <jump line="75" column="11769" filename="$USER_HOME$/Develop/sfy/credit/logs/fxd_api/fxd_api_20190522.log" />
+      <jump line="109" column="9" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanAfterController.php" />
+      <jump line="128" column="15" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanAfterController.php" />
+      <jump line="112" column="0" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanAfterController.php" />
+      <jump line="107" column="9" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanAfterController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -419,7 +422,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgICAgJGRheSA9IHJvdW5kKChzdHJ0b3RpbWUoJHJldFsnbG9hbkxpc3QnXVswXVsnY3VycmVudERhdGUnXSkgLSBzdHJ0b3RpbWUoZGF0ZSgiWS1tLWQiKSkpIC8gMzYwMCAvIDI0KTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyAgJGRhdGFbJ3N0YXR1c0NvZGUnXSA9ICRyZXRbJ2xvYW5MaXN0J11bMF1bJ3N0YXR1c0NvZGUnXTsK</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -445,16 +448,16 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>payAmount</text>
+        <text>totalUnpaid</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwYXJhbXNcPg==</text>
+        <text encoding="base64">XDx0b3RhbFVucGFpZFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICdwYXlBbW91bnQnID0+IG51bWJlcl9mb3JtYXQoJHBheV9hbW91bnQsIDIpLCAvLyDmnKzmnJ/lt7Lov5gK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgICAgJGRheSA9IHJvdW5kKChzdHJ0b3RpbWUoJHJldFsnbG9hbkxpc3QnXVswXVsnY3VycmVudERhdGUnXSkgLSBzdHJ0b3RpbWUoZGF0ZSgiWS1tLWQiKSkpIC8gMzYwMCAvIDI0KTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyAgJGRhdGFbJ3N0YXR1c0NvZGUnXSA9ICRyZXRbJ2xvYW5MaXN0J11bMF1bJ3N0YXR1c0NvZGUnXTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -482,28 +485,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB9IGVsc2VpZiAoIWVtcHR5KCRyZXRbJ2xvYW5MaXN0J11bMF1bJ2N1cnJlbnREYXRlJ10pKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdG90YWxVbnBhaWQgPSAwOwo=</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkZGF0YSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRvdGFsVW5wYWlkICs9ICRhbW91bnQ7Cg==</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPnN1Y2Nlc3MoWwogICAgICAgICAgICAnc3RhdHVzJyA9PiAxMDAsCiAgICAgICAgICAgICdtZXNzYWdlJyA9PiAn5Y+R6YCB6aqM6K+B56CB5oiQ5YqfJwogICAgICAgIF0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyAgICAgJGRheSA9IHJvdW5kKChzdHJ0b3RpbWUoJHJldFsnbG9hbkxpc3QnXVswXVsnY3VycmVudERhdGUnXSkgLSBzdHJ0b3RpbWUoZGF0ZSgiWS1tLWQiKSkpIC8gMzYwMCAvIDI0KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPnN1Y2Nlc3MoWwogICAgICAgICAgICAnc3RhdHVzJyA9PiAxMDMsCiAgICAgICAgICAgICdtZXNzYWdlJyA9PiAkcmVzWydtZXNzYWdlJ10gPz8gJ+WPkemAgemqjOivgeeggeWksei0pe+8gScKICAgICAgICBdKTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyB9IGVsc2VpZiAoIWVtcHR5KCRyZXRbJ2xvYW5MaXN0J11bMF1bJ2N1cnJlbnREYXRlJ10pKSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPnN1Y2Nlc3MoWwogICAgICAgICAgICAnc3RhdHVzJyA9PiAxMDIsCiAgICAgICAgICAgICdtZXNzYWdlJyA9PiAn5o+Q5Lqk5aSx6LSl77yM6K+356iN5ZCO6YeN6K+VJwogICAgICAgIF0pOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkZGF0YSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPnN1Y2Nlc3MoWwogICAgICAgICAgICAnc3RhdHVzJyA9PiAxMDEsCiAgICAgICAgICAgICdtZXNzYWdlJyA9PiAn57O757uf5byC5bi477yM6K+356iN5ZCO6YeN6K+VJwogICAgICAgIF0pOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPnN1Y2Nlc3MoWwogICAgICAgICAgICAnc3RhdHVzJyA9PiAxMDAsCiAgICAgICAgICAgICdtZXNzYWdlJyA9PiAn5Y+R6YCB6aqM6K+B56CB5oiQ5YqfJwogICAgICAgIF0pOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -514,27 +517,26 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPnN1Y2Nlc3MoWwogICAgICAgICAgICAnc3RhdHVzJyA9PiAxMDMsCiAgICAgICAgICAgICdtZXNzYWdlJyA9PiAkcmVzWydtZXNzYWdlJ10gPz8gJ+WPkemAgemqjOivgeeggeWksei0pe+8gScKICAgICAgICBdKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPnN1Y2Nlc3MoWwogICAgICAgICAgICAnc3RhdHVzJyA9PiAxMDIsCiAgICAgICAgICAgICdtZXNzYWdlJyA9PiAn5o+Q5Lqk5aSx6LSl77yM6K+356iN5ZCO6YeN6K+VJwogICAgICAgIF0pOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>nohls</text>
+        <text>action PreviousTab</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwYXJhbXNcPg==</last-search>
+      <last-search encoding="base64">XDx0b3RhbFVucGFpZFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwYXJhbXNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDx0b3RhbFVucGFpZFw+</last-pattern>
       <last-replace>','</last-replace>
       <last-substitute>、</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>100</entry>
         <entry>40003</entry>
         <entry>40004</entry>
         <entry>40029</entry>
@@ -554,6 +556,7 @@
         <entry encoding="base64">XDxwYXlfYW1vdW50XD4=</entry>
         <entry encoding="base64">XDxzbXNDb2RlXD4=</entry>
         <entry encoding="base64">XDxwYXJhbXNcPg==</entry>
+        <entry encoding="base64">XDx0b3RhbFVucGFpZFw+</entry>
       </history-search>
       <history-cmd>
         <entry>.,.+2099nohls</entry>
@@ -572,10 +575,10 @@
         <entry>action NextSplitter</entry>
         <entry>action Back</entry>
         <entry>action SelectInProjectView</entry>
-        <entry>action PreviousTab</entry>
         <entry>wq</entry>
         <entry>action NextTab</entry>
         <entry>nohls</entry>
+        <entry>action PreviousTab</entry>
       </history-cmd>
       <history-expr />
       <history-input />
