@@ -601,7 +601,7 @@
         <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBpbml0UGFyYW1zKCkKICAgIHsKICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>action NextTab</text>
+        <text>action CloseAllEditors</text>
       </register>
     </registers>
     <search>
@@ -648,15 +648,15 @@
         <entry>.nohls</entry>
         <entry encoding="base64">JzwsJz5zL+OAgS8nJy9n</entry>
         <entry encoding="base64">JzwsJz5zL+OAgS8nLCcvZw==</entry>
-        <entry>action SelectInProjectView</entry>
         <entry>vs</entry>
-        <entry>wq</entry>
         <entry>action NextSplitter</entry>
-        <entry>action CloseAllEditors</entry>
         <entry>action Back</entry>
+        <entry>action NextTab</entry>
+        <entry>wq</entry>
         <entry>nohls</entry>
         <entry>action PreviousTab</entry>
-        <entry>action NextTab</entry>
+        <entry>action SelectInProjectView</entry>
+        <entry>action CloseAllEditors</entry>
       </history-cmd>
       <history-expr />
       <history-input />
