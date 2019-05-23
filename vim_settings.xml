@@ -183,8 +183,8 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="34" column="24" />
       </file>
-      <file name="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Controllers/BaseController.php" timestamp="1558601201209">
-        <mark key="'" line="64" column="15" />
+      <file name="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Controllers/BaseController.php" timestamp="1558602894700">
+        <mark key="'" line="57" column="28" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Models/OcrFaceBusiness.php" timestamp="1558601610017">
         <mark key="'" line="562" column="34" />
@@ -404,7 +404,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="223" column="0" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/config/env.php" />
       <jump line="204" column="12" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/config/env.php" />
       <jump line="1259" column="17" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Models/App.php" />
       <jump line="1254" column="17" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Models/App.php" />
@@ -504,6 +503,7 @@
       <jump line="571" column="38" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Models/OcrFaceBusiness.php" />
       <jump line="562" column="34" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Models/OcrFaceBusiness.php" />
       <jump line="2474" column="27" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Models/Credit.php" />
+      <jump line="57" column="28" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Controllers/BaseController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -636,7 +636,7 @@
         <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdG1wVXNlckluZm8pO2RpZTsK</text>
       </register>
       <register name=":" type="4">
-        <text>action Forward</text>
+        <text>action Back</text>
       </register>
     </registers>
     <search>
@@ -688,10 +688,10 @@
         <entry encoding="base64">JzwsJz5zL2FwcGx5LWxpbmUvZnhkLW9jci1oZWxwL2c=</entry>
         <entry>wq</entry>
         <entry>action NextTab</entry>
-        <entry>action Back</entry>
         <entry>action PreviousTab</entry>
-        <entry>nohls</entry>
         <entry>action Forward</entry>
+        <entry>nohls</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
