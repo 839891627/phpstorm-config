@@ -68,12 +68,12 @@
         <mark key="." line="53" column="100" />
         <mark key="^" line="53" column="100" />
       </file>
-      <file name="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Controllers/Api/CreditController.php" timestamp="1558600823920">
-        <mark key="'" line="31" column="9" />
-        <mark key="[" line="455" column="0" />
-        <mark key="]" line="455" column="0" />
-        <mark key="^" line="456" column="43" />
-        <mark key="." line="455" column="0" />
+      <file name="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Controllers/Api/CreditController.php" timestamp="1558606994971">
+        <mark key="'" line="323" column="28" />
+        <mark key="[" line="454" column="0" />
+        <mark key="]" line="454" column="0" />
+        <mark key="^" line="454" column="23" />
+        <mark key="." line="454" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/shoufuyou-php-lib/biz-common/Models/CashLoan/JdWapi/Params/JdCommonParams.php" timestamp="1557455376855">
         <mark key="'" line="17" column="26" />
@@ -486,7 +486,6 @@
       <jump line="158" column="37" filename="$USER_HOME$/Develop/sfy/shoufuyou-php-lib/biz-common/Models/Application2.php" />
       <jump line="128" column="34" filename="$USER_HOME$/Develop/sfy/credit/common/config/prod/params.php" />
       <jump line="494" column="4" filename="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Models/Credit.php" />
-      <jump line="323" column="30" filename="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Controllers/Api/CreditController.php" />
       <jump line="300" column="0" filename="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Controllers/Api/CreditController.php" />
       <jump line="430" column="16" filename="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Controllers/Api/CreditController.php" />
       <jump line="423" column="4" filename="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Controllers/Api/CreditController.php" />
@@ -518,6 +517,7 @@
       <jump line="57" column="28" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Controllers/BaseController.php" />
       <jump line="26" column="4" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/UserController.php" />
       <jump line="16" column="21" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Controllers/OcrController.php" />
+      <jump line="323" column="28" filename="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Controllers/Api/CreditController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -549,7 +549,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkX1NFU1NJT05bJ2FwcGx5J11bJ2lkX2NhcmRfbnVtYmVyJ10gPSAnMzcxMTIxMTk5MjA5MDIwNDFYJzsKICAgICAgICAkX1NFU1NJT05bJ2FwcGx5J11bJ25hbWUnXSA9ICfpg5HpvpknOwoK</text>
+        <text encoding="base64">ICAgICAgICBzZXNzaW9uX2lkKHh4eCk7Cg==</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -584,7 +584,7 @@
         <text encoding="base64">ICAgICAgICAgICAgJGhlYWRlcnMgPSBcWWlpOjokYXBwLT5yZXF1ZXN0LT5oZWFkZXJzOwogICAgICAgICAgICAkdG9rZW4gPSAkaGVhZGVyc1sndG9rZW4nXTsKICAgICAgICAgICAgaWYgKCEkdG9rZW4pIHsKICAgICAgICAgICAgICAgIHRocm93IG5ldyBDVXNlckV4Y2VwdGlvbigndG9rZW7kuI3og73kuLrnqbrvvIEnKTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkX1NFU1NJT05bJ2FwcGx5J11bJ2lkX2NhcmRfbnVtYmVyJ10gPSAnMzcxMTIxMTk5MjA5MDIwNDFYJzsKICAgICAgICAkX1NFU1NJT05bJ2FwcGx5J11bJ25hbWUnXSA9ICfpg5HpvpknOwoK</text>
+        <text encoding="base64">ICAgICAgICBzZXNzaW9uX2lkKHh4eCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -612,28 +612,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAkX1NFU1NJT05bJ2FwcGx5J11bJ2lkX2NhcmRfbnVtYmVyJ10gPSAnMzcxMTIxMTk5MjA5MDIwNDFYJzsKICAgICAgICAkX1NFU1NJT05bJ2FwcGx5J11bJ25hbWUnXSA9ICfpg5HpvpknOwoK</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICR0b2tlbiA9IHNlc3Npb25faWQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkdG9rZW4gPSBzZXNzaW9uX2lkKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICR0b2tlbiA9IHNlc3Npb25faWQoKTsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAkdG9rZW4gPSBzZXNzaW9uX2lkKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAkdG9rZW4gPSBzZXNzaW9uX2lkKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoIXNlc3Npb25faWQoKSl7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -647,7 +647,7 @@
         <text encoding="base64">ICAgICAgICAgICAgaWYoIXNlc3Npb25faWQoKSl7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoIXNlc3Npb25faWQoKSl7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>nohls</text>
