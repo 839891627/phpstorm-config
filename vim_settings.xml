@@ -296,12 +296,12 @@
       <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/models/FxdUser.php" timestamp="1558661749544">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanAfterController.php" timestamp="1558517504825">
-        <mark key="'" line="107" column="9" />
-        <mark key="[" line="142" column="65" />
-        <mark key="]" line="142" column="65" />
-        <mark key="^" line="142" column="29" />
-        <mark key="." line="142" column="65" />
+      <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanAfterController.php" timestamp="1558690988742">
+        <mark key="'" line="387" column="1" />
+        <mark key="[" line="306" column="30" />
+        <mark key="]" line="306" column="30" />
+        <mark key="^" line="306" column="30" />
+        <mark key="." line="306" column="30" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Models/CreditUser.php" timestamp="1558593285782">
         <mark key="'" line="1579" column="64" />
@@ -426,8 +426,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="937" column="27" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Models/App.php" />
-      <jump line="1118" column="36" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Models/App.php" />
       <jump line="1127" column="45" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Models/App.php" />
       <jump line="1128" column="49" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Models/App.php" />
       <jump line="1241" column="36" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Models/App.php" />
@@ -526,6 +524,8 @@
       <jump line="586" column="54" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" />
       <jump line="579" column="34" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" />
       <jump line="577" column="9" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" />
+      <jump line="145" column="27" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanAfterController.php" />
+      <jump line="387" column="1" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanAfterController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -658,7 +658,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICdjbGllbnRWZXJzaW9uJyA9PiAkdGhpcy0+Y2xpZW50VmVyc2lvbiwK</text>
       </register>
       <register name=":" type="4">
-        <text>nohls</text>
+        <text>action Back</text>
       </register>
     </registers>
     <search>
@@ -708,12 +708,12 @@
         <entry>vs</entry>
         <entry>action NextSplitter</entry>
         <entry>.nohls</entry>
-        <entry>action Back</entry>
         <entry>action NextTab</entry>
         <entry>.,.+2019nohls</entry>
         <entry>wq</entry>
         <entry>action PreviousTab</entry>
         <entry>nohls</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
