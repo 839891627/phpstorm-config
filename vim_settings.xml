@@ -343,6 +343,9 @@
       <file name="$USER_HOME$/Develop/sfy/shoufuyou-service/lib/Models/JdWapi.php" timestamp="1557455963749">
         <mark key="'" line="78" column="28" />
       </file>
+      <file name="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Models/App.php" timestamp="1558668973033">
+        <mark key="'" line="1259" column="40" />
+      </file>
       <file name="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Controllers/Api/BaseController.php" timestamp="1558591325582">
         <mark key="'" line="0" column="0" />
       </file>
@@ -402,7 +405,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="309" column="26" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Models/App.php" />
       <jump line="323" column="26" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Models/App.php" />
       <jump line="327" column="34" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Models/App.php" />
       <jump line="345" column="26" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Models/App.php" />
@@ -502,6 +504,7 @@
       <jump line="149" column="45" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanFrontController.php" />
       <jump line="66" column="90" filename="$USER_HOME$/Develop/sfy/credit/logs/fxd_api/fxd_api_20190522.log" />
       <jump line="20" column="0" filename="$USER_HOME$/Develop/sfy/credit/README.md" />
+      <jump line="1259" column="40" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Models/App.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -634,7 +637,7 @@
         <text encoding="base64">ICAgICAgICAgICAgJ3BsYW5OdW0nID0+IFsnbmFtZScgPT4gJ+WIhuacn+aVsAknLCAndHlwZScgPT4gJ3JlcXVpcmVkJ10sCg==</text>
       </register>
       <register name=":" type="4">
-        <text>nohls</text>
+        <text>action Back</text>
       </register>
     </registers>
     <search>
@@ -684,12 +687,12 @@
         <entry>g/^/m$</entry>
         <entry>g/^$\n^$/d</entry>
         <entry>action NextTab</entry>
-        <entry>action Back</entry>
         <entry encoding="base64">JzwsJz5zL3Jvdy9ybw==</entry>
         <entry encoding="base64">JzwsJz5zL3Jvdy9pdGVtL2c=</entry>
         <entry>action PreviousTab</entry>
         <entry>wq</entry>
         <entry>nohls</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
