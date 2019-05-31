@@ -45,12 +45,12 @@
         <mark key="." line="154" column="0" />
         <mark key="^" line="154" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanFrontController.php" timestamp="1559275224159">
+      <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanFrontController.php" timestamp="1559278055133">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="40" column="45" />
-        <mark key="]" line="40" column="45" />
-        <mark key="^" line="41" column="11" />
-        <mark key="." line="40" column="45" />
+        <mark key="[" line="41" column="52" />
+        <mark key="]" line="41" column="64" />
+        <mark key="^" line="41" column="51" />
+        <mark key="." line="41" column="52" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Controllers/Api/CreditController.php" timestamp="1558606994971">
         <mark key="'" line="323" column="28" />
@@ -371,8 +371,8 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkaW1hZ2VfZmlsZT0gJy9vc3MveW91ZHVuLXBob3Rvcy8yMDE3LzA4LzA3LzIvaWRjYXJkX2Zyb250X3Bob3RvLmpwZyAnOwo=</text>
+      <register name="&quot;" type="4">
+        <text>idFrontPhoto</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -398,16 +398,16 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>j</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>SESSION</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJGlkRnJvbnRQaG90byA9IEltYWdlOjpnZXRCYXNlNjRGaWxlKCRwaG90b1snaWRfZnJvbnRfcGhvdG8nXSk7Cg==</text>
+      <register name="0" type="4">
+        <text>idFrontPhoto</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkaW1hZ2VfZmlsZT0gJy9vc3MveW91ZHVuLXBob3Rvcy8yMDE3LzA4LzA3LzIvaWRjYXJkX2Zyb250X3Bob3RvLmpwZyAnOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkY2MpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -419,7 +419,7 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkaW1hZ2VfZmlsZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkaWRGcm9udFBob3RvID0gSW1hZ2U6OmdldEJhc2U2NEZpbGUoKTsK</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
@@ -431,16 +431,16 @@
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwaHAgLXIgInZhcl9kdW1wKGZpbGVfZXhpc3RzKCcvb3NzL3lvdWR1bi1waG90b3MvMjAxNy8wOC8wNy8yL2lkY2FyZF9mcm9udF9waG90by5qcGcnKSk7IjsK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkaW1hZ2VfZmlsZSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwaHAgLXIgInZhcl9kdW1wKGZpbGVfZXhpc3RzKCcvb3NzL3lvdWR1bi1waG90b3MvMjAxNy8wOC8wNy8yL2lkY2FyZF9mcm9udF9waG90by5qcGcnKSk7IjsK</text>
+        <text encoding="base64">ICAgICAgICAkaW1hZ2VfZmlsZT0gJy9vc3MveW91ZHVuLXBob3Rvcy8yMDE3LzA4LzA3LzIvaWRjYXJkX2Zyb250X3Bob3RvLmpwZyAnOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHVzZXJJbmZvID0gRGJDbGllbnQ6OmZpbmRSb3dCeUNvbHVtbnMoJ2NyZWRpdF91c2VyJywgWydpZCcgPT4gJF9TRVNTSU9OWyd1c2VyJ11bJ2lkJ11dKTsK</text>
+        <text encoding="base64">ICAgICAgICBwaHAgLXIgInZhcl9kdW1wKGZpbGVfZXhpc3RzKCcvb3NzL3lvdWR1bi1waG90b3MvMjAxNy8wOC8wNy8yL2lkY2FyZF9mcm9udF9waG90by5qcGcnKSk7IjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBwaHAgLXIgInZhcl9kdW1wKGZpbGVfZXhpc3RzKCcvb3NzL3lvdWR1bi1waG90b3MvMjAxNy8wOC8wNy8yL2lkY2FyZF9mcm9udF9waG90by5qcGcnKSk7IjsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -451,10 +451,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC0+Y3JlYXRlQ29tbWFuZCgpLT5nZXRTcWwoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHVzZXJJbmZvID0gRGJDbGllbnQ6OmZpbmRSb3dCeUNvbHVtbnMoJ2NyZWRpdF91c2VyJywgWydpZCcgPT4gJF9TRVNTSU9OWyd1c2VyJ11bJ2lkJ11dKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC0+YWxsKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>nohls</text>
