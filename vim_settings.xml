@@ -155,11 +155,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/ELK/logstash/conf.d/yii-log.conf" timestamp="1559216844826">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="3" column="100" />
+      <file name="$USER_HOME$/Develop/ELK/logstash/conf.d/yii-log.conf" timestamp="1559268852325">
+        <mark key="[" line="3" column="65" />
+        <mark key="]" line="3" column="68" />
+        <mark key="." line="3" column="68" />
+        <mark key="^" line="3" column="68" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/services/FxdHelper.php" timestamp="1559011270758">
         <mark key="'" line="35" column="8" />
@@ -312,7 +312,7 @@
         <mark key="." line="8" column="32" />
         <mark key="^" line="7" column="27" />
       </file>
-      <file name="$USER_HOME$/Develop/ELK/logs/yii/fxd_api_20190530.log" timestamp="1559215990161">
+      <file name="$USER_HOME$/Develop/ELK/logs/yii/fxd_api_20190530.log" timestamp="1559268561605">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -450,8 +450,8 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC0+Y3JlYXRlQ29tbWFuZCgpLT5nZXRTcWwoKTsK</text>
+      <register name="&quot;" type="4">
+        <text>DATA</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -477,7 +477,7 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>DATA</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjcmVhdGVkX2F0XD4=</text>
@@ -582,7 +582,6 @@
         <entry>q</entry>
         <entry>action KJumpAction.Line</entry>
         <entry>.nohls</entry>
-        <entry>action NextTab</entry>
         <entry>action SelectInProjectView</entry>
         <entry>action NextSplitter</entry>
         <entry>wq</entry>
@@ -591,6 +590,7 @@
         <entry>sp</entry>
         <entry>action CloseAllEditors</entry>
         <entry>action Back</entry>
+        <entry>action NextTab</entry>
         <entry>nohls</entry>
       </history-cmd>
       <history-expr />
