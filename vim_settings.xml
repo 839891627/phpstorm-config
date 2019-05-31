@@ -45,12 +45,12 @@
         <mark key="." line="154" column="0" />
         <mark key="^" line="154" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanFrontController.php" timestamp="1559285835783">
+      <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanFrontController.php" timestamp="1559286807152">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="458" column="22" />
-        <mark key="]" line="457" column="22" />
-        <mark key="^" line="457" column="22" />
-        <mark key="." line="457" column="22" />
+        <mark key="[" line="456" column="0" />
+        <mark key="]" line="456" column="0" />
+        <mark key="^" line="463" column="56" />
+        <mark key="." line="456" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Controllers/Api/CreditController.php" timestamp="1558606994971">
         <mark key="'" line="323" column="28" />
@@ -119,12 +119,12 @@
         <mark key="." line="732" column="5" />
         <mark key="^" line="732" column="5" />
       </file>
-      <file name="$USER_HOME$/Develop/sfy/credit/sql/fxd.sql" timestamp="1559206235772">
-        <mark key="'" line="248" column="0" />
-        <mark key="[" line="251" column="99" />
-        <mark key="]" line="252" column="0" />
-        <mark key="^" line="252" column="0" />
-        <mark key="." line="252" column="0" />
+      <file name="$USER_HOME$/Develop/sfy/credit/sql/fxd.sql" timestamp="1559287124521">
+        <mark key="'" line="234" column="34" />
+        <mark key="[" line="258" column="7" />
+        <mark key="]" line="258" column="7" />
+        <mark key="^" line="258" column="7" />
+        <mark key="." line="258" column="7" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/BaseController.php" timestamp="1559273176759">
         <mark key="'" line="8" column="0" />
@@ -237,8 +237,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="234" column="4" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" />
-      <jump line="738" column="0" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" />
       <jump line="757" column="8" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" />
       <jump line="775" column="43" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" />
       <jump line="762" column="90" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" />
@@ -337,6 +335,8 @@
       <jump line="57" column="57" filename="$USER_HOME$/Develop/sfy/credit/fxd_cb_api/controllers/NotifyController.php" />
       <jump line="39" column="12" filename="$USER_HOME$/Develop/sfy/credit/fxd_cb_api/controllers/NotifyController.php" />
       <jump line="43" column="80" filename="$USER_HOME$/Develop/sfy/credit/fxd_cb_api/controllers/NotifyController.php" />
+      <jump line="232" column="40" filename="$USER_HOME$/Develop/sfy/credit/sql/fxd.sql" />
+      <jump line="234" column="34" filename="$USER_HOME$/Develop/sfy/credit/sql/fxd.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -368,7 +368,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJzInCg==</text>
+        <text encoding="base64">ICAgICAgICAkYWRkTWFwID0gWwogICAgICAgICAgICAnMScgPT4gJzEnLAogICAgICAgICAgICAgICAgJzInID0+ICcwJywKICAgICAgICAgICAgJzMnID0+ICcyJwogICAgICAgIF07Cg==</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -403,7 +403,7 @@
         <text encoding="base64">ICAgICAgICAgICAgJzEnID0+IAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJzInCg==</text>
+        <text encoding="base64">ICAgICAgICAkYWRkTWFwID0gWwogICAgICAgICAgICAnMScgPT4gJzEnLAogICAgICAgICAgICAgICAgJzInID0+ICcwJywKICAgICAgICAgICAgJzMnID0+ICcyJwogICAgICAgIF07Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -414,31 +414,31 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="8">
-        <text>s
-s
-s</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJzInCg==</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="8">
-        <text encoding="base64">LSAKLSAKLSA=</text>
+        <text>s
+s
+s</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3VzdG9tZXJJZAo=</text>
+      <register name="4" type="8">
+        <text encoding="base64">LSAKLSAKLSA=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHJlc3BvbnNlID0gRnhkSGVscGVyOjpkZWNyeXB0Qml6Qm9keSgkcGFyYW1zLCAnJywgJycsIGZhbHNlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3VzdG9tZXJJZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkY2MpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHJlc3BvbnNlID0gRnhkSGVscGVyOjpkZWNyeXB0Qml6Qm9keSgkcGFyYW1zLCAnJywgJycsIGZhbHNlKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkaWRGcm9udFBob3RvID0gSW1hZ2U6OmdldEJhc2U2NEZpbGUoKTsK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkY2MpCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -449,10 +449,10 @@ s</text>
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkaW1hZ2VfZmlsZT0gJy9vc3MveW91ZHVuLXBob3Rvcy8yMDE3LzA4LzA3LzIvaWRjYXJkX2Zyb250X3Bob3RvLmpwZyAnOwo=</text>
+        <text encoding="base64">ICAgICAgICAkaWRGcm9udFBob3RvID0gSW1hZ2U6OmdldEJhc2U2NEZpbGUoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkaW1hZ2VfZmlsZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkaW1hZ2VfZmlsZT0gJy9vc3MveW91ZHVuLXBob3Rvcy8yMDE3LzA4LzA3LzIvaWRjYXJkX2Zyb250X3Bob3RvLmpwZyAnOwo=</text>
       </register>
       <register name=":" type="4">
         <text>nohls</text>
