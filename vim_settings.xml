@@ -131,11 +131,12 @@
         <mark key="^" line="252" column="0" />
         <mark key="." line="252" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/BaseController.php" timestamp="1559199857044">
-        <mark key="'" line="69" column="0" />
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="0" />
-        <mark key="." line="69" column="0" />
+      <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/BaseController.php" timestamp="1559273176759">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="42" column="63" />
+        <mark key="]" line="42" column="94" />
+        <mark key="." line="42" column="94" />
+        <mark key="^" line="42" column="94" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/credit/logs/fxd_api/fxd_api_20190530.log" timestamp="1559200334166">
         <mark key="'" line="36" column="87" />
@@ -241,7 +242,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="9" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanFrontController.php" />
       <jump line="22" column="9" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanFrontController.php" />
       <jump line="229" column="8" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanAfterController.php" />
       <jump line="739" column="33" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" />
@@ -341,6 +341,7 @@
       <jump line="1271" column="24" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Models/App.php" />
       <jump line="2353" column="21" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Models/CreditUser.php" />
       <jump line="178" column="24" filename="$USER_HOME$/Develop/sfy/shoufuyou-php-lib/shoufuyou/Util/Redis.php" />
+      <jump line="8" column="0" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/BaseController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -372,7 +373,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>self</text>
+        <text>' . $token;</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -398,7 +399,7 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>self</text>
+        <text>' . $token;</text>
       </register>
       <register name="/" type="4">
         <text>SESSION</text>
