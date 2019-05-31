@@ -143,8 +143,8 @@
         <mark key="^" line="41" column="50" />
         <mark key="." line="36" column="14" />
       </file>
-      <file name="$USER_HOME$/Develop/ELK/readme.md" timestamp="1559213011184">
-        <mark key="'" line="67" column="0" />
+      <file name="$USER_HOME$/Develop/ELK/readme.md" timestamp="1559270641670">
+        <mark key="'" line="63" column="6" />
         <mark key="[" line="77" column="170" />
         <mark key="]" line="77" column="169" />
         <mark key="." line="77" column="169" />
@@ -155,11 +155,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/ELK/logstash/conf.d/yii-log.conf" timestamp="1559268852325">
-        <mark key="[" line="3" column="65" />
-        <mark key="]" line="3" column="68" />
-        <mark key="." line="3" column="68" />
-        <mark key="^" line="3" column="68" />
+      <file name="$USER_HOME$/Develop/ELK/logstash/conf.d/yii-log.conf" timestamp="1559271613704">
+        <mark key="'" line="5" column="65" />
+        <mark key="[" line="5" column="29" />
+        <mark key="]" line="5" column="29" />
+        <mark key="." line="5" column="29" />
+        <mark key="^" line="8" column="23" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/services/FxdHelper.php" timestamp="1559011270758">
         <mark key="'" line="35" column="8" />
@@ -320,8 +321,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="90" column="8" filename="$USER_HOME$/Develop/sfy/credit/common/unit/Validate.php" />
-      <jump line="114" column="51" filename="$USER_HOME$/Develop/sfy/credit/common/unit/Validate.php" />
       <jump line="99" column="8" filename="$USER_HOME$/Develop/sfy/credit/common/unit/Validate.php" />
       <jump line="117" column="0" filename="$USER_HOME$/Develop/sfy/credit/common/unit/Validate.php" />
       <jump line="38" column="4" filename="$USER_HOME$/Develop/sfy/credit/common/unit/Validate.php" />
@@ -420,6 +419,8 @@
       <jump line="2" column="9" filename="$USER_HOME$/Develop/ELK/filebeat.yml" />
       <jump line="111" column="28" filename="$USER_HOME$/Develop/sfy/credit/console/controllers/FxdTaskController.php" />
       <jump line="44" column="49" filename="$USER_HOME$/Develop/sfy/credit/console/controllers/FxdTaskController.php" />
+      <jump line="5" column="65" filename="$USER_HOME$/Develop/ELK/logstash/conf.d/yii-log.conf" />
+      <jump line="63" column="6" filename="$USER_HOME$/Develop/ELK/readme.md" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -451,7 +452,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>DATA</text>
+        <text>, &quot;user_id&quot;, &quot;severity&quot;,&quot;ip&quot;,&quot;category&quot;</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -477,13 +478,13 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>DATA</text>
+        <text>, &quot;user_id&quot;, &quot;severity&quot;,&quot;ip&quot;,&quot;category&quot;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjcmVhdGVkX2F0XD4=</text>
+        <text>'</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAiY2F0ZWdvcnkiID0+ICIle2NhdGVnb3J5fSIK</text>
+      <register name="0" type="4">
+        <text>severity</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC0+Y3JlYXRlQ29tbWFuZCgpLT5nZXRTcWwoKTsK</text>
@@ -540,17 +541,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjcmVhdGVkX2F0XD4=</last-search>
+      <last-search>'</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjcmVhdGVkX2F0XD4=</last-pattern>
-      <last-replace>loan</last-replace>
-      <last-substitute>ret</last-substitute>
+      <last-pattern>'</last-pattern>
+      <last-replace>&quot;</last-replace>
+      <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>1128269595732348929</entry>
         <entry>1129315604352733184</entry>
         <entry>ret</entry>
         <entry>2100</entry>
@@ -570,9 +570,9 @@
         <entry>udpate</entry>
         <entry>update</entry>
         <entry encoding="base64">XDxjcmVhdGVkX2F0XD4=</entry>
+        <entry>'</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLyxdL2c=</entry>
         <entry encoding="base64">JzwsJz5zLywvXS9n</entry>
         <entry encoding="base64">JzwsJz5zLywvXSwvZw==</entry>
         <entry encoding="base64">JzwsJz5zL19cKFx3XCkvXHVcMS9n</entry>
@@ -591,6 +591,7 @@
         <entry>action CloseAllEditors</entry>
         <entry>action Back</entry>
         <entry>action NextTab</entry>
+        <entry encoding="base64">JzwsJz5zLycvIi9n</entry>
         <entry>nohls</entry>
       </history-cmd>
       <history-expr />
