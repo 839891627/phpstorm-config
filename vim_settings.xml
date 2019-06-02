@@ -87,8 +87,8 @@
         <mark key="." line="154" column="0" />
         <mark key="^" line="154" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanFrontController.php" timestamp="1559286807152">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanFrontController.php" timestamp="1559452241007">
+        <mark key="'" line="683" column="50" />
         <mark key="[" line="456" column="0" />
         <mark key="]" line="456" column="0" />
         <mark key="^" line="463" column="56" />
@@ -240,10 +240,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="735" column="0" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" />
-      <jump line="541" column="12" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" />
-      <jump line="59" column="12" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanFrontController.php" />
-      <jump line="12" column="62" filename="$USER_HOME$/Develop/sfy/credit/logs/fxd_api/fxd_api_20190530.log" />
       <jump line="27" column="60" filename="$USER_HOME$/Develop/sfy/credit/logs/fxd_api/fxd_api_20190530.log" />
       <jump line="52" column="129" filename="$USER_HOME$/Develop/sfy/credit/logs/fxd_api/fxd_api_20190530.log" />
       <jump line="22" column="36" filename="$USER_HOME$/Develop/ELK/readme.md" />
@@ -340,6 +336,10 @@
       <jump line="31" column="23" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/services/jd_api/api40014.php" />
       <jump line="599" column="36" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" />
       <jump line="630" column="27" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" />
+      <jump line="69" column="11" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanFrontController.php" />
+      <jump line="660" column="30" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanFrontController.php" />
+      <jump line="669" column="26" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanFrontController.php" />
+      <jump line="683" column="50" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanFrontController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -400,7 +400,7 @@
         <text>{&quot;merchantCode&quot;:&quot;200036&quot;,&quot;sign&quot;:&quot;hRJy2MGzHduMkW3qfGatxuxAzTBSINQb1A1lQ\/FU+fBmddkDY4bZm+vRg9NpLgFI5BVNgJ4HkZZ4mgKno66Tk1jumAYQT\/A73jG8mBrTO2Sl2+q1FJOWbIvehG10UEF4V5AV5flsEnHPPPbhWti5V7Rw7p7EF0sUhWX0YpCzAAc=&quot;,&quot;key&quot;:&quot;mmFJbj1W+uSvr3\/Z+nyeV8dcyAc3nPVgFovnrfkIxBGamN1D6hLwjBYOEvPwUhBqfDx7QP+ui\/eg9WU2eFDy1E26Cltz1OCPtKvh8A2u1BOrGpWsQQUNqAeBUl7es6rxbETB1nzEPl\/4Q+I+AQu+xofxtQd1Tj2TxkqE6gdTe1o=&quot;,&quot;charset&quot;:&quot;utf-8&quot;,&quot;body&quot;:&quot;QEtBhjiH6a4mcvBqaQiKTL3y5EJ+3mVVAea+cwGOAaIO8az39g5LbMFL66ZkYLVa2vPjwz6QEN+U1bE9V8kUnoo0UkDyL00IE+H\/0rFVCtAPHE9EvyekgITrdSNuVbdld8Sm1UOTNDdI5Mgpan75f0tL9+xIEOwCs\/8\/Aa7rS3sTTvUGDY0KRT3C0oKLT4bq&quot;,&quot;version&quot;:&quot;1.0&quot;,&quot;bizId&quot;:&quot;190521017504073897103969&quot;}</text>
       </register>
       <register name="/" type="4">
-        <text>40014</text>
+        <text>ACTIVE</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJzEnID0+IAo=</text>
@@ -462,9 +462,9 @@ s</text>
       </register>
     </registers>
     <search>
-      <last-search>40014</last-search>
+      <last-search>ACTIVE</last-search>
       <last-offset />
-      <last-pattern>40014</last-pattern>
+      <last-pattern>ACTIVE</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -472,8 +472,6 @@ s</text>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx1c2VyTmFtZVw+</entry>
-        <entry encoding="base64">XDxpbnZlc3Rvckxpc3RcPg==</entry>
         <entry encoding="base64">XDxyZXRcPg==</entry>
         <entry encoding="base64">XDxiYW5rX2FsbF9ub1w+</entry>
         <entry encoding="base64">XDx0cnVzdF9hbGxfbm9cPg==</entry>
@@ -492,6 +490,8 @@ s</text>
         <entry encoding="base64">XDxhZGRyVHlwZVw+</entry>
         <entry>WANGYIN_DIRECT_ERROR_BAC3000011</entry>
         <entry>40014</entry>
+        <entry>2107</entry>
+        <entry>ACTIVE</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLywvXS9n</entry>
