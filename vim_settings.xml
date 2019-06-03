@@ -47,11 +47,12 @@
         <mark key="^" line="229" column="10" />
         <mark key="." line="229" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/sfy/credit/logs/fxd_api/fxd_api_20190529.log" timestamp="1559125364691">
-        <mark key="'" line="45" column="92" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Develop/sfy/credit/logs/fxd_api/fxd_api_20190529.log" timestamp="1559524786742">
+        <mark key="'" line="156" column="89" />
+        <mark key="[" line="335" column="1556" />
+        <mark key="]" line="335" column="1555" />
+        <mark key="." line="335" column="1555" />
+        <mark key="^" line="335" column="1555" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/credit/logs/fxd_api/fxd_api_20190530.log" timestamp="1559200334166">
         <mark key="'" line="36" column="87" />
@@ -155,6 +156,12 @@
         <mark key="'" line="630" column="27" />
         <mark key="[" line="295" column="75" />
       </file>
+      <file name="$USER_HOME$/Develop/sfy/credit/logs/fxd_api/a.log" timestamp="1559524957383">
+        <mark key="'" line="0" column="10" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/sfy/xinyongfei-app-api/config/env.php.dev" timestamp="1558580714177">
         <mark key="'" line="200" column="8" />
         <mark key="[" line="200" column="0" />
@@ -240,9 +247,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="129" filename="$USER_HOME$/Develop/sfy/credit/logs/fxd_api/fxd_api_20190530.log" />
-      <jump line="22" column="36" filename="$USER_HOME$/Develop/ELK/readme.md" />
-      <jump line="77" column="0" filename="$USER_HOME$/Develop/ELK/readme.md" />
       <jump line="67" column="0" filename="$USER_HOME$/Develop/ELK/readme.md" />
       <jump line="15" column="0" filename="$USER_HOME$/Develop/ELK/filebeat.yml" />
       <jump line="3" column="0" filename="$USER_HOME$/Develop/ELK/filebeat.yml" />
@@ -340,6 +344,9 @@
       <jump line="669" column="26" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanFrontController.php" />
       <jump line="683" column="50" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanFrontController.php" />
       <jump line="667" column="31" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanFrontController.php" />
+      <jump line="156" column="89" filename="$USER_HOME$/Develop/sfy/credit/logs/fxd_api/fxd_api_20190529.log" />
+      <jump line="25" column="0" filename="$USER_HOME$/Develop/sfy/credit/logs/fxd_api/a.log" />
+      <jump line="0" column="10" filename="$USER_HOME$/Develop/sfy/credit/logs/fxd_api/a.log" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -371,7 +378,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRhdGUgewogICAgICAgIG1hdGNoID0+IFsibG9nZGF0ZSIsICJ5eXl5LU1NLWRkIEhIOm1tOnNzIl0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -400,13 +407,13 @@
         <text>{&quot;merchantCode&quot;:&quot;200036&quot;,&quot;sign&quot;:&quot;hRJy2MGzHduMkW3qfGatxuxAzTBSINQb1A1lQ\/FU+fBmddkDY4bZm+vRg9NpLgFI5BVNgJ4HkZZ4mgKno66Tk1jumAYQT\/A73jG8mBrTO2Sl2+q1FJOWbIvehG10UEF4V5AV5flsEnHPPPbhWti5V7Rw7p7EF0sUhWX0YpCzAAc=&quot;,&quot;key&quot;:&quot;mmFJbj1W+uSvr3\/Z+nyeV8dcyAc3nPVgFovnrfkIxBGamN1D6hLwjBYOEvPwUhBqfDx7QP+ui\/eg9WU2eFDy1E26Cltz1OCPtKvh8A2u1BOrGpWsQQUNqAeBUl7es6rxbETB1nzEPl\/4Q+I+AQu+xofxtQd1Tj2TxkqE6gdTe1o=&quot;,&quot;charset&quot;:&quot;utf-8&quot;,&quot;body&quot;:&quot;QEtBhjiH6a4mcvBqaQiKTL3y5EJ+3mVVAea+cwGOAaIO8az39g5LbMFL66ZkYLVa2vPjwz6QEN+U1bE9V8kUnoo0UkDyL00IE+H\/0rFVCtAPHE9EvyekgITrdSNuVbdld8Sm1UOTNDdI5Mgpan75f0tL9+xIEOwCs\/8\/Aa7rS3sTTvUGDY0KRT3C0oKLT4bq&quot;,&quot;version&quot;:&quot;1.0&quot;,&quot;bizId&quot;:&quot;190521017504073897103969&quot;}</text>
       </register>
       <register name="/" type="4">
-        <text>ACTIVE</text>
+        <text>接口调用 解密后出参：</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJzEnID0+IAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRhdGUgewogICAgICAgIG1hdGNoID0+IFsibG9nZGF0ZSIsICJ5eXl5LU1NLWRkIEhIOm1tOnNzIl0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -418,30 +425,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkYWRkTWFwID0gWwogICAgICAgICAgICAnMScgPT4gJzEnLAogICAgICAgICAgICAgICAgJzInID0+ICcwJywKICAgICAgICAgICAgJzMnID0+ICcyJwogICAgICAgIF07Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJzInCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
-      <register name="4" type="8">
-        <text>s
-s
-s</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="8">
-        <text encoding="base64">LSAKLSAKLSA=</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3VzdG9tZXJJZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHJlc3BvbnNlID0gRnhkSGVscGVyOjpkZWNyeXB0Qml6Qm9keSgkcGFyYW1zLCAnJywgJycsIGZhbHNlKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -452,29 +457,26 @@ s</text>
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkY2MpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkaWRGcm9udFBob3RvID0gSW1hZ2U6OmdldEJhc2U2NEZpbGUoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>%s/接口调用 解密后出参：//g</text>
       </register>
     </registers>
     <search>
-      <last-search>ACTIVE</last-search>
+      <last-search>接口调用 解密后出参：</last-search>
       <last-offset />
-      <last-pattern>ACTIVE</last-pattern>
-      <last-replace>&quot;</last-replace>
-      <last-substitute>'</last-substitute>
+      <last-pattern>接口调用 解密后出参：</last-pattern>
+      <last-replace />
+      <last-substitute>接口调用 解密后出参：</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZXRcPg==</entry>
-        <entry encoding="base64">XDxiYW5rX2FsbF9ub1w+</entry>
-        <entry encoding="base64">XDx0cnVzdF9hbGxfbm9cPg==</entry>
         <entry encoding="base64">XDxiYW5rX2NvbWJpbmVfbm9cPg==</entry>
         <entry>2011</entry>
         <entry encoding="base64">XDwyMDExXD4=</entry>
@@ -492,10 +494,11 @@ s</text>
         <entry>40014</entry>
         <entry>2107</entry>
         <entry>ACTIVE</entry>
+        <entry>40001</entry>
+        <entry>[1111111429] --------结束处理：type:40001</entry>
+        <entry>接口调用 解密后出参：</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLywvXS9n</entry>
-        <entry encoding="base64">JzwsJz5zLywvXSwvZw==</entry>
         <entry encoding="base64">JzwsJz5zL19cKFx3XCkvXHVcMS9n</entry>
         <entry encoding="base64">JzwsJz5zL3JldC9wbGFuL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3JldC9sb2FuL2c=</entry>
@@ -512,8 +515,10 @@ s</text>
         <entry>action NextTab</entry>
         <entry>action PreviousTab</entry>
         <entry>action Back</entry>
-        <entry>nohls</entry>
         <entry>wq</entry>
+        <entry>%s/[1111111429] --------结束处理：type:40001//g</entry>
+        <entry>nohls</entry>
+        <entry>%s/接口调用 解密后出参：//g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
