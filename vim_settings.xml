@@ -525,7 +525,7 @@
         <text encoding="base64">ICAgICAgICBpZiAoJHJldFsncmVzdWx0J11bJ3N1Y2Nlc3MnXSAhPT0gdHJ1ZSkgewogICAgICAgICAgICByZXR1cm4gJHRoaXMtPmZhaWxlZCg0MDAwMDAsICfmjqXlj6Por7fmsYLlpLHotKUnKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>nohls</text>
+        <text>action CloseAllEditors</text>
       </register>
     </registers>
     <search>
@@ -561,7 +561,6 @@
         <entry>2013</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/[1111111429] --------结束处理：type:40001//g</entry>
         <entry>%s/接口调用 解密后出参：//g</entry>
         <entry>%s/[//g</entry>
         <entry>action SelectInProjectView</entry>
@@ -581,6 +580,7 @@
         <entry>wq</entry>
         <entry>action PreviousTab</entry>
         <entry>nohls</entry>
+        <entry>action CloseAllEditors</entry>
       </history-cmd>
       <history-expr />
       <history-input />
