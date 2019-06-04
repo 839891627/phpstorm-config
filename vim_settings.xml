@@ -40,7 +40,8 @@
         <mark key="." line="335" column="1555" />
         <mark key="^" line="335" column="1555" />
       </file>
-      <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanFrontController.php" timestamp="1559638661040">
+      <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanFrontController.php" timestamp="1559641771833">
+        <mark key="'" line="421" column="31" />
         <mark key="[" line="729" column="0" />
         <mark key="]" line="729" column="0" />
         <mark key="." line="729" column="0" />
@@ -83,8 +84,8 @@
         <mark key="^" line="143" column="38" />
         <mark key="." line="145" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" timestamp="1559637562805">
-        <mark key="'" line="416" column="46" />
+      <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" timestamp="1559641357024">
+        <mark key="'" line="565" column="27" />
         <mark key="[" line="4" column="40" />
         <mark key="]" line="4" column="40" />
         <mark key="." line="4" column="40" />
@@ -285,8 +286,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="708" column="0" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanFrontController.php" />
-      <jump line="688" column="0" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanFrontController.php" />
       <jump line="914" column="61" filename="$USER_HOME$/Develop/sfy/credit/logs/fxd_api/fxd_api_20190604.log" />
       <jump line="1" column="0" filename="$USER_HOME$/Develop/sfy/credit/logs/fxd_api/fxd_api_20190604.log" />
       <jump line="43" column="31" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanFrontController.php" />
@@ -310,7 +309,6 @@
       <jump line="247" column="8" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" />
       <jump line="470" column="8" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" />
       <jump line="494" column="8" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" />
-      <jump line="565" column="8" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" />
       <jump line="18" column="0" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanFrontController.php" />
       <jump line="720" column="0" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanFrontController.php" />
       <jump line="69" column="47" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanFrontController.php" />
@@ -385,6 +383,9 @@
       <jump line="732" column="0" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanFrontController.php" />
       <jump line="731" column="20" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanFrontController.php" />
       <jump line="118" column="44" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/models/FxdUser.php" />
+      <jump line="23" column="45" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" />
+      <jump line="565" column="27" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" />
+      <jump line="421" column="31" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanFrontController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -445,7 +446,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>PRE_CHECK_PASS_INIT</text>
+        <text>2107</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICR0aGlzLT5meGRVc2VyLT5hY3RpdmVfZGVzYyA9IEZ4ZFVzZXI6OmdldERlc2NCeUNvZGUoJHJldFsndXNlckZsYWcnXSwgNDAwMDEpOwo=</text>
@@ -505,9 +506,9 @@
       </register>
     </registers>
     <search>
-      <last-search>PRE_CHECK_PASS_INIT</last-search>
+      <last-search>2107</last-search>
       <last-offset />
-      <last-pattern>PRE_CHECK_PASS_INIT</last-pattern>
+      <last-pattern>2107</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">IA==</last-substitute>
       <last-dir>1</last-dir>
@@ -515,8 +516,6 @@
     </search>
     <history>
       <history-search>
-        <entry>addty</entry>
-        <entry>add</entry>
         <entry encoding="base64">XDxGeGRCYW5rQ2FyZFw+</entry>
         <entry encoding="base64">XDxDcmVkaXRVc2VyXD4=</entry>
         <entry encoding="base64">XDx1c2VyRmxhZ1w+</entry>
@@ -526,7 +525,6 @@
         <entry>:</entry>
         <entry>2100</entry>
         <entry>2013</entry>
-        <entry>40014</entry>
         <entry>desc</entry>
         <entry encoding="base64">XDxGeGRQaG90b1NlcnZpY2VcPg==</entry>
         <entry encoding="base64">XDx0eXBlXD4=</entry>
@@ -535,6 +533,9 @@
         <entry encoding="base64">XDw0MDAwMVw+</entry>
         <entry encoding="base64">IA==</entry>
         <entry>PRE_CHECK_PASS_INIT</entry>
+        <entry>cds</entry>
+        <entry>40014</entry>
+        <entry>2107</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
