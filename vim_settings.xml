@@ -25,8 +25,8 @@
         <mark key="^" line="229" column="10" />
         <mark key="." line="229" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/sfy/credit/common/unit/VerifyCode.php" timestamp="1559737560668">
-        <mark key="'" line="54" column="28" />
+      <file name="$USER_HOME$/Develop/sfy/credit/common/unit/VerifyCode.php" timestamp="1559783599313">
+        <mark key="'" line="46" column="65" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/credit/logs/fxd_api/fxd_api_20190529.log" timestamp="1559537105371">
         <mark key="'" line="156" column="89" />
@@ -57,6 +57,9 @@
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/sfy/credit/common/service/biz/AppConfig.php" timestamp="1559783604556">
+        <mark key="'" line="34" column="35" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/services/jd_api/api2013.php" timestamp="1559718576476">
         <mark key="[" line="27" column="33" />
@@ -133,10 +136,6 @@
       <file name="$USER_HOME$/Develop/sfy/credit/common/service/SystemConfig.php" timestamp="1559737958580">
         <mark key="'" line="83" column="41" />
       </file>
-      <file name="$USER_HOME$/Develop/sfy/credit/vendor/yiisoft/yii2/db/BaseActiveRecord.php" timestamp="1559721700792">
-        <mark key="[" line="970" column="0" />
-        <mark key="]" line="970" column="39" />
-      </file>
       <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/models/FxdUserApplyLog.php" timestamp="1559717358801">
         <mark key="'" line="53" column="13" />
         <mark key="[" line="14" column="18" />
@@ -164,8 +163,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/services/FxdUserService.php" />
-      <jump line="62" column="17" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/services/FxdUserService.php" />
       <jump line="56" column="17" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/services/FxdUserService.php" />
       <jump line="45" column="19" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanFrontController.php" />
       <jump line="57" column="65" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanFrontController.php" />
@@ -264,6 +261,8 @@
       <jump line="44" column="53" filename="$USER_HOME$/Develop/sfy/credit/common/unit/Env.php" />
       <jump line="48" column="41" filename="$USER_HOME$/Develop/sfy/credit/common/service/SystemConfig.php" />
       <jump line="83" column="41" filename="$USER_HOME$/Develop/sfy/credit/common/service/SystemConfig.php" />
+      <jump line="46" column="65" filename="$USER_HOME$/Develop/sfy/credit/common/unit/VerifyCode.php" />
+      <jump line="34" column="35" filename="$USER_HOME$/Develop/sfy/credit/common/service/biz/AppConfig.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -433,8 +432,8 @@
         <entry>action SelectInProjectView</entry>
         <entry>action FindUsages</entry>
         <entry>wq</entry>
-        <entry>nohls</entry>
         <entry>action PreviousTab</entry>
+        <entry>nohls</entry>
         <entry>action Back</entry>
       </history-cmd>
       <history-expr />
