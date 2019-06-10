@@ -120,8 +120,9 @@
         <mark key="]" line="4" column="40" />
         <mark key="." line="4" column="40" />
       </file>
-      <file name="$USER_HOME$/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/9718d03a754db8f36c6bf44c877ecdce/Message/MessageTemp/a3dc1cd0d2512d28983156b5345650a5/OpenData/fxd_api_20190604.log" timestamp="1559635485516" />
-      <file name="$USER_HOME$/Develop/sfy/credit/logs/fxd_api/fxd_api_20190606.log" timestamp="1559800446641" />
+      <file name="$USER_HOME$/Develop/sfy/syf-middleware-system/console/controllers/XyfSmsTaskController.php" timestamp="1560130777445">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Router.php" timestamp="1558594941112">
         <mark key="'" line="785" column="40" />
         <mark key="[" line="792" column="1" />
@@ -235,7 +236,7 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/sfy/shoufuyou-task/config/db.php.default" timestamp="1559802742727" />
+      <file name="$USER_HOME$/Develop/yuewo/database/migrations/2018_05_04_175844_add_merchant_name_index_to_projects.php" timestamp="1560130275370" />
       <file name="$USER_HOME$/Develop/ELK/filebeat.yml" timestamp="1559293503852">
         <mark key="'" line="2" column="9" />
         <mark key="[" line="10" column="20" />
@@ -245,7 +246,6 @@
       <file name="$USER_HOME$/Develop/sfy/credit/common/unit/Env.php" timestamp="1559784492483">
         <mark key="'" line="44" column="53" />
       </file>
-      <file name="$USER_HOME$/Develop/sfy/credit/console/controllers/FxdTaskController.php" timestamp="1559637535281" />
       <file name="$USER_HOME$/Desktop/api3.log" timestamp="1559536762115">
         <mark key="'" line="1991" column="7" />
         <mark key="[" line="0" column="0" />
@@ -267,7 +267,6 @@
         <mark key="." line="2" column="77" />
         <mark key="^" line="2" column="77" />
       </file>
-      <file name="$USER_HOME$/Develop/sfy/xinyongfei-app-api/config/db.php" timestamp="1559802183694" />
       <file name="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Models/App.php" timestamp="1559727197199">
         <mark key="'" line="1292" column="42" />
         <mark key="[" line="1292" column="0" />
@@ -363,10 +362,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="648" column="8" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanFrontController.php" />
-      <jump line="628" column="16" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanFrontController.php" />
-      <jump line="127" column="8" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/models/FxdUser.php" />
-      <jump line="660" column="36" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanFrontController.php" />
       <jump line="687" column="0" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanFrontController.php" />
       <jump line="697" column="32" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanFrontController.php" />
       <jump line="554" column="8" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanFrontController.php" />
@@ -463,6 +458,10 @@
       <jump line="13" column="28" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/config/env.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/config/env.php" />
       <jump line="27" column="44" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/UserController.php" />
+      <jump line="866" column="14" filename="$USER_HOME$/Develop/sfy/syf-middleware-system/console/controllers/XyfSmsTaskController.php" />
+      <jump line="35" column="0" filename="$USER_HOME$/Develop/sfy/syf-middleware-system/console/controllers/XyfSmsTaskController.php" />
+      <jump line="65" column="111" filename="$USER_HOME$/Develop/sfy/syf-middleware-system/console/controllers/XyfSmsTaskController.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Develop/sfy/syf-middleware-system/console/controllers/XyfSmsTaskController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -523,7 +522,7 @@
         <text>a57bd62d91b6f5147241f483714c3655</text>
       </register>
       <register name="/" type="4">
-        <text>risk</text>
+        <text>注册后未登录</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">JHJldCA9ICRyZWRpcy0+Z2V0KCRrZXkp</text>
@@ -579,21 +578,20 @@
         <text encoding="base64">Y3VybCAnaHR0cHM6Ly9meGQtYXBpLnhpbnlvbmdmZWkuY24vdXNlci9nZXQtdmVyaWZ5LWNvZGUnIC1IICdPcmlnaW46IGh0dHBzOi8vbS12Mi54aW55b25nZmVpLmNuJyAtSCAnVXNlci1BZ2VudDogTW96aWxsYS81LjAgKGlQaG9uZTsgQ1BVIGlQaG9uZSBPUyAxMV8wIGxpa2UgTWFjIE9TIFgpIEFwcGxlV2ViS2l0LzYwNC4xLjM4IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMS4wIE1vYmlsZS8xNUEzNzIgU2FmYXJpLzYwNC4xJyAtSCAnYXBwLW5hbWU6IHh5ZicgLUggJ2VpZDogTlVFM0ZUUzI2VkhXRUdKTUxLWFlFUVpUR0Q1Qk0yRE9HS0hPWE1YSTdOTEZFQlFTMjJTSTJZTkRLRE80WUhXVEdHUE43M1g3STYzTE5OWlBKQlVVR1FVUVhJJyAtSCAnQWNjZXB0OiBhcHBsaWNhdGlvbi9qc29uLCB0ZXh0L3BsYWluLCAqLyonIC1IICdSZWZlcmVyOiBodHRwczovL20tdjIueGlueW9uZ2ZlaS5jbi9mbHlsb2Fucy92ZXJpZnljb2RlP21vYmlsZT0xMzA2Mjc2NTE3NScgLUggJ2ZwOiBiNDg4MWUzM2YxZTA3M2E0MzkzNTkzMzMyM2Q2ZGVhYycgLUggJ0NvbnRlbnQtVHlwZTogYXBwbGljYXRpb24vanNvbicgLUggJ1Rva2VuOiB1bmRlZmluZWQnIC0tZGF0YS1iaW5hcnkgJ3sibW9iaWxlIjoiMTMwNjI3NjUxNzUifScgLS1jb21wcmVzc2VkCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action CloseAllEditors</text>
+        <text>nohls</text>
       </register>
     </registers>
     <search>
-      <last-search>risk</last-search>
+      <last-search>注册后未登录</last-search>
       <last-offset />
-      <last-pattern>risk</last-pattern>
+      <last-pattern>注册后未登录</last-pattern>
       <last-replace>13062765175</last-replace>
       <last-substitute>17717574296</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>40014</entry>
         <entry>2107</entry>
         <entry encoding="base64">XDx1c2VyRmxhZ1w+</entry>
         <entry encoding="base64">XDxhY3RpdmVfZGVzY1w+</entry>
@@ -613,6 +611,7 @@
         <entry encoding="base64">XDxWZXJpZnlDb2RlXD4=</entry>
         <entry>send</entry>
         <entry>risk</entry>
+        <entry>注册后未登录</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Base/FxdBankCard/g</entry>
@@ -631,10 +630,10 @@
         <entry>action Back</entry>
         <entry>wq</entry>
         <entry>action NextTab</entry>
-        <entry>nohls</entry>
         <entry>action PreviousTab</entry>
         <entry>.nohls</entry>
         <entry>action CloseAllEditors</entry>
+        <entry>nohls</entry>
       </history-cmd>
       <history-expr />
       <history-input />
