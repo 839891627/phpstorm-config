@@ -130,12 +130,12 @@
         <mark key="." line="714" column="125" />
         <mark key="^" line="714" column="125" />
       </file>
-      <file name="$USER_HOME$/Develop/sfy/shoufuyou-php-lib/biz-common/Models/BizSfyWebClient.php" timestamp="1560138526611">
+      <file name="$USER_HOME$/Develop/sfy/shoufuyou-php-lib/biz-common/Models/BizSfyWebClient.php" timestamp="1560139458864">
         <mark key="'" line="2440" column="29" />
-        <mark key="[" line="5325" column="7" />
-        <mark key="]" line="5326" column="14" />
-        <mark key="." line="5326" column="14" />
-        <mark key="^" line="5326" column="14" />
+        <mark key="[" line="5338" column="15" />
+        <mark key="]" line="5338" column="18" />
+        <mark key="." line="5338" column="18" />
+        <mark key="^" line="5338" column="18" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Models/Activation.php" timestamp="1560138473626">
         <mark key="'" line="90" column="55" />
@@ -205,6 +205,13 @@
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Controllers/BaseController.php" timestamp="1560139522514">
+        <mark key="'" line="33" column="43" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="124" />
+        <mark key="^" line="36" column="20" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Models/Credit.php" timestamp="1558594073341">
         <mark key="'" line="494" column="4" />
@@ -285,12 +292,12 @@
         <mark key="." line="2" column="77" />
         <mark key="^" line="2" column="77" />
       </file>
-      <file name="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Models/App.php" timestamp="1560138689090">
-        <mark key="'" line="614" column="114" />
-        <mark key="[" line="1308" column="128" />
-        <mark key="]" line="1309" column="33" />
-        <mark key="^" line="1309" column="33" />
-        <mark key="." line="1309" column="33" />
+      <file name="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Models/App.php" timestamp="1560139530481">
+        <mark key="'" line="1281" column="0" />
+        <mark key="[" line="1309" column="0" />
+        <mark key="]" line="1309" column="0" />
+        <mark key="^" line="1319" column="32" />
+        <mark key="." line="1309" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/credit/common/service/SystemConfig.php" timestamp="1559784499838">
         <mark key="'" line="83" column="41" />
@@ -380,12 +387,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="38" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/UserController.php" />
-      <jump line="20" column="22" filename="$USER_HOME$/Develop/sfy/credit/common/unit/Redis.php" />
-      <jump line="45" column="39" filename="$USER_HOME$/Develop/sfy/credit/common/unit/Env.php" />
-      <jump line="46" column="63" filename="$USER_HOME$/Develop/sfy/credit/common/unit/VerifyCode.php" />
-      <jump line="34" column="35" filename="$USER_HOME$/Develop/sfy/credit/common/service/biz/AppConfig.php" />
-      <jump line="49" column="36" filename="$USER_HOME$/Develop/sfy/credit/common/unit/VerifyCode.php" />
       <jump line="28" column="41" filename="$USER_HOME$/Develop/sfy/credit/common/service/SystemConfig.php" />
       <jump line="26" column="27" filename="$USER_HOME$/Develop/sfy/credit/common/unit/Sms.php" />
       <jump line="44" column="53" filename="$USER_HOME$/Develop/sfy/credit/common/unit/Env.php" />
@@ -480,6 +481,12 @@
       <jump line="95" column="35" filename="$USER_HOME$/Develop/sfy/shoufuyou-php-lib/shoufuyou/Util/SfyWebClient.php" />
       <jump line="208" column="72" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Models/App.php" />
       <jump line="614" column="114" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Models/App.php" />
+      <jump line="1320" column="32" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Models/App.php" />
+      <jump line="11" column="24" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Models/App.php" />
+      <jump line="1293" column="12" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Models/App.php" />
+      <jump line="34" column="29" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Controllers/BaseController.php" />
+      <jump line="33" column="43" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Controllers/BaseController.php" />
+      <jump line="1281" column="0" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Models/App.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -510,8 +517,8 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>hide</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRoaWRlID0gISRoYXNEYXRhOwo=</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -537,16 +544,16 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>hide</text>
+        <text>hasData</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxCaXpTZnlXZWJDbGllbnRcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>$flightData['flight_level_three_year_cache']</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJGhpZGUgPSAhKCRmbGlnaHREYXRhWydmbGlnaHRfbGV2ZWxfdGhyZWVfeWVhcl9jYWNoZSddID4gLTEgfHwgJGZsaWdodERhdGFbJ2ZsaWdodF9sZXZlbF9vbmVfeWVhcl9jYWNoZSddID4gLTEpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRoZWFkZXJzID0gWwogICAgICAgICAgICAgICAgICAgICdzb3VyY2VfdHlwZScgPT4gJ3dhcCcsCiAgICAgICAgICAgICAgICAgICAgJ2Jpel90eXBlJyA9PiAneGpkX2FwcGxpY2F0aW9uJywKICAgICAgICAgICAgICAgICAgICAnYXBwX25hbWUnICAgID0+ICdYWUYnLAogICAgICAgICAgICAgICAgICAgICdhcHAnID0+ICd4eWYnCiAgICAgICAgICAgICAgICBdOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRoaWRlID0gISRoYXNEYXRhOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -558,28 +565,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEJpelNmeVdlYkNsaWVudDo6Z2V0RmxpZ2h0RGF0YSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRoYXNEYXRhID0gJGZsaWdodERhdGFbJ2ZsaWdodF9sZXZlbF90aHJlZV95ZWFyX2NhY2hlJ10gPiAtMSB8fCAkZmxpZ2h0RGF0YVsnZmxpZ2h0X2xldmVsX29uZV95ZWFyX2NhY2hlJ10gPiAtMTsK</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAncXVlcnlfaXRlbV9uYW1lJyA9PiAnYmluZF9jYXJkJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJGhpZGUpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGhpZGUgPSAhJGhhc0RhdGE7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJGZsaWdodERhdGEpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoc3RhdGljOjpjaGVja1Jlc3VsdCgkcmVzKSAmJiBpc19hcnJheSgkcmVzWydxdWVyeV9yZXN1bHQnXSkpIHsKICAgICAgICAgICAgLy8g5Y+q6KaB5LiA6aG56aqM6K+B5aSx6LSl5bCx6L+U5ZueIGZhbHNlCiAgICAgICAgICAgIHJldHVybiAkcmVzWydxdWVyeV9yZXN1bHQnXTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -590,10 +597,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoQ29uZmlnOjpnZXRCb29sKCdzaG91ZnV5b3UuYml6Y29tbW9uLmRldmVsb3AnKSA9PT0gdHJ1ZSkgewogICAgICAgICAgICByZXR1cm4gW107CiAgICAgICAgfQogICAgICAgIC8vIOi6q+S7veivgeWunuWQje+8midpZF9jYXJkJywgbmFtZSwgaWRfY2FyZF9udW1iZXIKICAgICAgICAvLyDmiYvmnLrlrp7lkI3vvJonbW9iaWxlJywgbmFtZSwgaWRfY2FyZF9udW1iZXIsIG1vYmlsZQogICAgICAgIC8vIOe7keWNoe+8midiaW5kX2NhcmQnLCBuYW1lLCBpZF9jYXJkX251bWJlciwgYmFua19jYXJkX251bWJlcgo=</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcmVzKTtkaWU7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIOaUueWKqO+8miDlpoLmnpzlj6/ku6Xnoa7lrpogdHJhZGVfbnVtYmVyIOWwseS8oOmAkiB0cmFkZV9udW1iZXIg57uZ6aOO5o6nCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbiAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>nohls</text>
@@ -640,17 +647,17 @@
         <entry encoding="base64">JzwsJz5zLyAvL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3RoaXMvZnhkVXNlci9n</entry>
         <entry>%s/17717574296/13062765175/g</entry>
-        <entry>wq</entry>
-        <entry>action PreviousTab</entry>
         <entry>.nohls</entry>
         <entry>action CloseAllEditors</entry>
         <entry>vs</entry>
         <entry>action NextSplitter</entry>
-        <entry>action SelectInProjectView</entry>
         <entry>action Forward</entry>
         <entry>action FindUsages</entry>
-        <entry>action NextTab</entry>
         <entry>action Back</entry>
+        <entry>action SelectInProjectView</entry>
+        <entry>wq</entry>
+        <entry>action NextTab</entry>
+        <entry>action PreviousTab</entry>
         <entry>nohls</entry>
       </history-cmd>
       <history-expr />
