@@ -32,11 +32,12 @@
         <mark key="^" line="26" column="53" />
         <mark key="." line="26" column="53" />
       </file>
-      <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/ReportController.php" timestamp="1560162279061">
-        <mark key="[" line="53" column="34" />
-        <mark key="]" line="53" column="45" />
-        <mark key="^" line="53" column="45" />
-        <mark key="." line="53" column="45" />
+      <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/ReportController.php" timestamp="1560163364144">
+        <mark key="'" line="88" column="5" />
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="0" />
+        <mark key="^" line="88" column="7" />
+        <mark key="." line="83" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/xinyongfei-app-api/config/env.php" timestamp="1560158984861">
         <mark key="'" line="13" column="49" />
@@ -121,7 +122,7 @@
         <mark key="." line="714" column="125" />
         <mark key="^" line="714" column="125" />
       </file>
-      <file name="$USER_HOME$/Develop/sfy/shoufuyou-php-lib/biz-common/Models/BizSfyWebClient.php" timestamp="1560158510453">
+      <file name="$USER_HOME$/Develop/sfy/shoufuyou-php-lib/biz-common/Models/BizSfyWebClient.php" timestamp="1560163306318">
         <mark key="'" line="5336" column="65" />
         <mark key="[" line="5337" column="8" />
         <mark key="]" line="5337" column="9" />
@@ -318,9 +319,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5313" column="8" filename="$USER_HOME$/Develop/sfy/shoufuyou-php-lib/biz-common/Models/BizSfyWebClient.php" />
-      <jump line="5312" column="66" filename="$USER_HOME$/Develop/sfy/shoufuyou-php-lib/biz-common/Models/BizSfyWebClient.php" />
-      <jump line="121" column="58" filename="$USER_HOME$/Develop/sfy/shoufuyou-php-lib/biz-common/Models/BizSfyWebClient.php" />
       <jump line="95" column="54" filename="$USER_HOME$/Develop/sfy/shoufuyou-php-lib/biz-common/Models/BizSfyWebClient.php" />
       <jump line="535" column="0" filename="$USER_HOME$/Develop/sfy/shoufuyou-php-lib/biz-common/Models/BizSfyWebClient.php" />
       <jump line="5331" column="20" filename="$USER_HOME$/Develop/sfy/shoufuyou-php-lib/biz-common/Models/BizSfyWebClient.php" />
@@ -418,6 +416,9 @@
       <jump line="0" column="0" filename="$USER_HOME$/Develop/sfy/shoufuyou-php-lib/shoufuyou/Util/Env.php" />
       <jump line="24" column="67" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Controllers/BaseController.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Controllers/BaseController.php" />
+      <jump line="49" column="59" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/ReportController.php" />
+      <jump line="64" column="42" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/ReportController.php" />
+      <jump line="92" column="5" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/ReportController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -448,8 +449,8 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>Env::getSourceType();</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBDb21tb25Mb2c6OmxvZyhbJ3JlcTonID0+ICRkYXRhLCAncmVzcDonID0+ICRyZXNdLCAnbm90aWZ5JywgJyMjIyMjdGVzdF9ub3RpZnkjIyMjIyMnKTsK</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -475,16 +476,16 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>Env::getSourceType();</text>
+        <text>Env::getUtmSource();</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzb3VyY2VfdHlwZVw+</text>
+        <text encoding="base64">XDxldmVudFJlcG9ydFw+</text>
       </register>
       <register name="0" type="4">
         <text>sourceType</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkY2xpZW50ID0gJHVzZXJJbmZvWydjbGllbnQnXSA/PyAneHlmJzsK</text>
+        <text encoding="base64">ICAgICAgICBDb21tb25Mb2c6OmxvZyhbJ3JlcTonID0+ICRkYXRhLCAncmVzcDonID0+ICRyZXNdLCAnbm90aWZ5JywgJyMjIyMjdGVzdF9ub3RpZnkjIyMjIyMnKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -496,28 +497,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIGZ1bmN0aW9uIHJlcG9ydEV2ZW50KCRkYXRhLCAkaGVhZGVycyA9IFtdKQo=</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoQ29uZmlnOjpnZXRCb29sKCdzaG91ZnV5b3UuYml6Y29tbW9uLmRldmVsb3AnKSA9PT0gdHJ1ZSkgewogICAgICAgICAgICByZXR1cm4gWydjb2RlJyA9PiAnMDAwMDAwJywgJ21lc3NhZ2UnID0+ICfor7fmsYLmiJDlip8nXTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZXNzaW9uX3dyaXRlX2Nsb3NlKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkY3JlZGl0VXNlcklkID0gJHVzZXJJbmZvWyd1c2VyX2lkJ10gPz8gJyc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkY2xpZW50ID0gJHVzZXJJbmZvWydjbGllbnQnXSA/PyAneHlmJzsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkZnhkVXNlciA9IEZ4ZFVzZXI6OmZpbmQoKS0+d2hlcmUoWyd1c2VyX2lkJyA9PiAkdXNlckluZm9bJ3VzZXJfaWQnXV0pLT5vbmUoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -528,19 +529,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkdXNlckluZm8gPSBqc29uX2RlY29kZSgkdXNlckluZm8sIHRydWUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAkY3JlZGl0VXNlcklkID0gJHVzZXJJbmZvWyd1c2VyX2lkJ10gPz8gJyc7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action NextTab</text>
+        <text>nohls</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzb3VyY2VfdHlwZVw+</last-search>
+      <last-search encoding="base64">XDxldmVudFJlcG9ydFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzb3VyY2VfdHlwZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxldmVudFJlcG9ydFw+</last-pattern>
       <last-replace />
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -548,7 +549,6 @@
     </search>
     <history>
       <history-search>
-        <entry>send</entry>
         <entry>risk</entry>
         <entry>注册后未登录</entry>
         <entry encoding="base64">XDxhcHBcPg==</entry>
@@ -568,6 +568,7 @@
         <entry>15297918077</entry>
         <entry encoding="base64">XDw0MDAwMDBcPg==</entry>
         <entry encoding="base64">XDxzb3VyY2VfdHlwZVw+</entry>
+        <entry encoding="base64">XDxldmVudFJlcG9ydFw+</entry>
       </history-search>
       <history-cmd>
         <entry>m .+1</entry>
@@ -580,16 +581,16 @@
         <entry>vs</entry>
         <entry>action NextSplitter</entry>
         <entry>.nohls</entry>
-        <entry>action FindUsages</entry>
         <entry encoding="base64">JzwsJz5zLz0+LzovZw==</entry>
         <entry encoding="base64">JzwsJz5zLycvL2c=</entry>
         <entry>wq</entry>
         <entry>action Forward</entry>
-        <entry>action Back</entry>
         <entry>action KJumpAction.Line</entry>
-        <entry>nohls</entry>
         <entry>action PreviousTab</entry>
         <entry>action NextTab</entry>
+        <entry>action FindUsages</entry>
+        <entry>action Back</entry>
+        <entry>nohls</entry>
       </history-cmd>
       <history-expr />
       <history-input />
