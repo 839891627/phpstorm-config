@@ -192,11 +192,11 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/UserController.php" timestamp="1560225599532">
-        <mark key="'" line="274" column="0" />
-        <mark key="[" line="248" column="0" />
-        <mark key="]" line="248" column="0" />
-        <mark key="." line="248" column="0" />
+      <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/UserController.php" timestamp="1560231257175">
+        <mark key="'" line="234" column="40" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="36" column="13" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Controllers/ReportingController.php" timestamp="1560219927491">
         <mark key="'" line="20" column="31" />
@@ -312,7 +312,6 @@
       <jump line="51" column="73" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Controllers/BaseController.php" />
       <jump line="57" column="25" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Controllers/BaseController.php" />
       <jump line="55" column="0" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/UserController.php" />
-      <jump line="234" column="24" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/UserController.php" />
       <jump line="237" column="64" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/UserController.php" />
       <jump line="29" column="13" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/UserController.php" />
       <jump line="34" column="8" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/UserController.php" />
@@ -323,6 +322,7 @@
       <jump line="242" column="0" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/UserController.php" />
       <jump line="253" column="35" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/UserController.php" />
       <jump line="273" column="0" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/UserController.php" />
+      <jump line="234" column="40" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/UserController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -354,7 +354,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdG9rZW4pOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIXNlc3Npb25faWQoKSkgewogICAgICAgICAgICBzZXNzaW9uX3N0YXJ0KCk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -389,7 +389,7 @@
         <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPmZhaWxlZCg0MDAwMDAsICfnmbvlvZXlpLHotKXvvIEnKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdG9rZW4pOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIXNlc3Npb25faWQoKSkgewogICAgICAgICAgICBzZXNzaW9uX3N0YXJ0KCk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -401,28 +401,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkaGVhZGVycyA9IFxZaWk6OiRhcHAtPnJlcXVlc3QtPmhlYWRlcnM7CiAgICAgICAgJHRva2VuID0gJGhlYWRlcnNbJ3Rva2VuJ10gPz8gJyc7CiAgICAgICAgaWYoISR0b2tlbil7CiAgICAgICAgICAgIHJldHVybiAkdGhpcy0+ZmFpbGVkKDQwMDAwMCwgJ2hlYWRlciDnvLrlsJF0b2tlbiEnKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdG9rZW4pOwo=</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkaGVhZGVycyA9IFxZaWk6OiRhcHAtPnJlcXVlc3QtPmhlYWRlcnM7CiAgICAgICAgJHRva2VuID0gJGhlYWRlcnNbJ3Rva2VuJ10gPz8gJyc7CiAgICAgICAgaWYoISR0b2tlbil7CiAgICAgICAgICAgIHJldHVybiAkdGhpcy0+ZmFpbGVkKDQwMDAwMCwgJ2hlYWRlciDnvLrlsJF0b2tlbiEnKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkZGF0YSA9IFsKICAgICAgICAgICAgJ3Rva2VuJyA9PiAkdG9rZW4KICAgICAgICBdOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAkZGF0YSA9IFsKICAgICAgICAgICAgJ3Rva2VuJyA9PiAkdG9rZW4KICAgICAgICBdOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIXNlc3Npb25faWQoKSkgewogICAgICAgICAgICBzZXNzaW9uX3N0YXJ0KCk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -433,10 +433,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkaGVhZGVycyA9IFxZaWk6OiRhcHAtPnJlcXVlc3QtPmhlYWRlcnM7CiAgICAgICAgJHRva2VuID0gJGhlYWRlcnNbJ3Rva2VuJ107Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIXNlc3Npb25faWQoKSkgewogICAgICAgICAgICBzZXNzaW9uX3N0YXJ0KCk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkdG9rZW4gPSAkaGVhZGVyc1sndG9rZW4nXTsK</text>
+        <text encoding="base64">ICAgICAgICAkaGVhZGVycyA9IFxZaWk6OiRhcHAtPnJlcXVlc3QtPmhlYWRlcnM7CiAgICAgICAgJHRva2VuID0gJGhlYWRlcnNbJ3Rva2VuJ107Cg==</text>
       </register>
       <register name=":" type="4">
         <text>nohls</text>
