@@ -18,9 +18,6 @@
         <mark key="^" line="2353" column="21" />
         <mark key="." line="2353" column="21" />
       </file>
-      <file name="/a.dummy" timestamp="1560322300942">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Develop/sfy/shoufuyou-console/lib/Controllers/FxdController.php" timestamp="1560395509661">
         <mark key="'" line="12" column="0" />
         <mark key="[" line="19" column="16" />
@@ -97,9 +94,6 @@
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/backend/readme.md" timestamp="1560307107804">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/services/FxdPhotoService.php" timestamp="1560491538042">
         <mark key="'" line="12" column="22" />
@@ -293,10 +287,10 @@
       </file>
       <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanFrontController.php" timestamp="1560311225658">
         <mark key="'" line="159" column="24" />
-        <mark key="[" line="422" column="20" />
-        <mark key="]" line="422" column="24" />
-        <mark key="." line="422" column="24" />
-        <mark key="^" line="422" column="24" />
+        <mark key="[" line="419" column="20" />
+        <mark key="]" line="419" column="24" />
+        <mark key="." line="419" column="24" />
+        <mark key="^" line="419" column="24" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/services/jd_api/api40014.php" timestamp="1559298294954">
         <mark key="'" line="31" column="23" />
@@ -458,8 +452,12 @@
         <mark key="^" line="209" column="15" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1560391570168">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Develop/sfy/credit/console/controllers/FxdTaskController.php" timestamp="1560494081446">
+        <mark key="'" line="78" column="35" />
+        <mark key="[" line="4226" column="8" />
+        <mark key="]" line="4227" column="0" />
+        <mark key="^" line="4224" column="33" />
+        <mark key="." line="4225" column="5" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/credit/crontab/prod/fxd.bash" timestamp="1559267226922">
         <mark key="'" line="0" column="35" />
@@ -513,7 +511,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="4" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/services/FxdUserService.php" />
       <jump line="96" column="0" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/services/FxdUserService.php" />
       <jump line="41" column="25" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/backend/UserController.php" />
       <jump line="28" column="34" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/backend/UserController.php" />
@@ -613,6 +610,7 @@
       <jump line="1" column="0" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/services/jd_api/api2105.php" />
       <jump line="91" column="34" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" />
       <jump line="12" column="22" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/services/FxdPhotoService.php" />
+      <jump line="78" column="35" filename="$USER_HOME$/Develop/sfy/credit/console/controllers/FxdTaskController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -643,8 +641,8 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>微软雅黑</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -670,7 +668,7 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>微软雅黑</text>
+        <text>compensation</text>
       </register>
       <register name="/" type="4">
         <text>a1</text>
@@ -679,7 +677,7 @@
         <text encoding="base64">ICAgICAgICBwYXJlbnQ6Ol9fY29uc3RydWN0KCRhcHApOwogICAgICAgIHNlc3Npb25fc3RhcnQoKTsKCiAgICAgICAgKG5ldyBDYXNoUG9vbExvZygkdGhpcykpLT5pbml0KCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -692,28 +690,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvIENzcmZQcm90ZWN0aW9uOjpnZXRUb2tlbigpO2RpZTsK</text>
+        <text encoding="base64">ICAgIHB1YmYgICAgCg==</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvIENzcmZQcm90ZWN0aW9uOjpnZXRUb2tlbigpO2RpZTsK</text>
+        <text encoding="base64">ICAgIHB1YmYgICAgCg==</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgJGNzcmYK</text>
+        <text encoding="base64">ICAgIHBbdWJmICAgXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyAkY3NyZgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBlY2hvIENzcmZQcm90ZWN0aW9uOjpnZXRUb2tlbigpO2RpZTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgZnVuY3Rpb24gX19jb25zdHJ1Y3QoJGFwcCkgewogICAgICAgICR0aGlzLT5hcHAgPSAkYXBwOwogICAgICAgICR0aGlzLT5hZGRCZWZvcmVGaWx0ZXIoZnVuY3Rpb24oKSB7CiAgICAgICAgICAgICR0aGlzLT5pbml0aWFsaXplR2xvYmFsUG9zdERhdGEoKTsKICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICBlY2hvIENzcmZQcm90ZWN0aW9uOjpnZXRUb2tlbigpO2RpZTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -724,10 +722,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgJGNzcmYK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cnzlj4LmlbB857G75Z6LfOW/heWhq3zor7TmmI58CnwtLS18LS0tfC0tLXwtLS18CnxpZHxpbnR85ZCmfHwKfHVzZXJfaWR8aW50fOWQpnx8Cnxtb2JpbGV8c3RyaW5nfOWQpnx8CnxzdGFydHxzdHJpbmd85ZCmfOWIm+W7uuaXtumXtOW8gOWni++8mmAyMDE5LTA1LTE0IDE0OjUxOjI3YHwKfGVuZHxzdHJpbmd85ZCmfOWIm+W7uuaXtumXtOe7k+adn++8mmAyMDE5LTA1LTE1IDEzOjUxOjI3YHwKfHBhZ2V8aW50fOWQpnzpobXnoIHjgILpu5jorqQgMXwKfHBhZ2Vfc2l6ZXxpbnR85ZCmfOavj+mhteaVsOmHj+OAgum7mOiupCAxMHwK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyAkY3NyZgo=</text>
       </register>
       <register name=":" type="4">
         <text>nohls</text>
