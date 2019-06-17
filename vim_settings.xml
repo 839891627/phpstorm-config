@@ -5,17 +5,17 @@
       <mark key="G" line="0" column="0" filename="$USER_HOME$/Develop/yuewo/database/migrations/2018_05_04_175844_add_merchant_name_index_to_projects.php" protocol="file" />
     </globalmarks>
     <filemarks>
-      <file name="$USER_HOME$/Develop/sfy/shoufuyou-console/lib/Controllers/FxdController.php" timestamp="1560501147424">
-        <mark key="[" line="21" column="22" />
-        <mark key="]" line="21" column="23" />
-        <mark key="^" line="21" column="33" />
-        <mark key="." line="21" column="23" />
-      </file>
       <file name="/a.dummy" timestamp="1560742738148">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/credit/logs/fxd_api/fxd_api_20190617.log" timestamp="1560743651880">
         <mark key="'" line="73" column="53" />
+      </file>
+      <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/backend/UserController.php" timestamp="1560753425941">
+        <mark key="'" line="28" column="32" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/util/SimpleHashIdHelper.php" timestamp="1560742914789">
         <mark key="[" line="5" column="10" />
@@ -66,12 +66,17 @@
         <mark key="." line="38" column="52" />
         <mark key="^" line="38" column="52" />
       </file>
-      <file name="$USER_HOME$/Develop/sfy/credit/sql/fxd.sql" timestamp="1560750642717">
-        <mark key="'" line="278" column="0" />
-        <mark key="[" line="303" column="0" />
-        <mark key="]" line="304" column="11" />
-        <mark key="^" line="304" column="11" />
-        <mark key="." line="304" column="11" />
+      <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/services/FxdUserService.php" timestamp="1560753429351">
+        <mark key="'" line="77" column="27" />
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="109" column="5" />
+      </file>
+      <file name="$USER_HOME$/Develop/sfy/credit/sql/fxd.sql" timestamp="1560754133591">
+        <mark key="'" line="308" column="0" />
+        <mark key="[" line="306" column="62" />
+        <mark key="]" line="305" column="37" />
+        <mark key="." line="305" column="37" />
+        <mark key="^" line="305" column="37" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/BaseController.php" timestamp="1560751855612">
         <mark key="'" line="44" column="52" />
@@ -93,7 +98,6 @@
         <mark key="." line="45" column="10" />
         <mark key="^" line="45" column="10" />
       </file>
-      <file name="$USER_HOME$/Develop/yuewo/database/migrations/2018_05_04_175844_add_merchant_name_index_to_projects.php" timestamp="1560739565760" />
       <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/models/FxdUser.php" timestamp="1560751058844">
         <mark key="'" line="223" column="27" />
         <mark key="[" line="230" column="43" />
@@ -126,18 +130,19 @@
         <mark key="." line="56" column="38" />
         <mark key="^" line="56" column="38" />
       </file>
-      <file name="$USER_HOME$/Develop/sfy/shoufuyou-console/lib/Models/Admin/AdminMenu.php" timestamp="1560500974585">
-        <mark key="[" line="3" column="22" />
-        <mark key="]" line="1143" column="24" />
-        <mark key="." line="1143" column="24" />
-        <mark key="^" line="1143" column="24" />
+      <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/services/FxdOrderService.php" timestamp="1560753867384">
+        <mark key="'" line="89" column="22" />
+        <mark key="[" line="107" column="0" />
+        <mark key="]" line="107" column="0" />
+        <mark key="." line="107" column="0" />
+        <mark key="^" line="106" column="87" />
       </file>
-      <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/services/FxdOrderService.php" timestamp="1560743377350">
-        <mark key="'" line="50" column="0" />
-        <mark key="[" line="59" column="43" />
-        <mark key="]" line="59" column="7" />
-        <mark key="." line="59" column="7" />
-        <mark key="^" line="59" column="7" />
+      <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/backend/OrderController.php" timestamp="1560753665215">
+        <mark key="'" line="27" column="33" />
+        <mark key="[" line="27" column="19" />
+        <mark key="]" line="27" column="30" />
+        <mark key="." line="27" column="30" />
+        <mark key="^" line="27" column="30" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/services/fxdApi.php" timestamp="1560218682269">
         <mark key="'" line="12" column="6" />
@@ -146,17 +151,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Develop/sfy/shoufuyou-console/lib/Controllers/BaseController.php" />
-      <jump line="237" column="0" filename="$USER_HOME$/Develop/sfy/shoufuyou-console/lib/Controllers/IndexController.php" />
-      <jump line="436" column="8" filename="$USER_HOME$/Develop/sfy/shoufuyou-console/lib/Controllers/IndexController.php" />
-      <jump line="431" column="9" filename="$USER_HOME$/Develop/sfy/shoufuyou-console/lib/Controllers/IndexController.php" />
-      <jump line="421" column="9" filename="$USER_HOME$/Develop/sfy/shoufuyou-console/lib/Controllers/IndexController.php" />
-      <jump line="303" column="31" filename="$USER_HOME$/Develop/sfy/shoufuyou-console/lib/Router.php" />
-      <jump line="635" column="17" filename="$USER_HOME$/Develop/sfy/shoufuyou-console/lib/Router.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Develop/sfy/shoufuyou-console/lib/Router.php" />
-      <jump line="1151" column="26" filename="$USER_HOME$/Develop/sfy/shoufuyou-console/lib/Models/Admin/AdminMenu.php" />
-      <jump line="55" column="0" filename="$USER_HOME$/Develop/sfy/shoufuyou-console/lib/Models/Admin/AdminMenu.php" />
-      <jump line="4242" column="32" filename="$USER_HOME$/Develop/sfy/credit/console/controllers/FxdTaskController.php" />
       <jump line="4264" column="103" filename="$USER_HOME$/Develop/sfy/credit/console/controllers/FxdTaskController.php" />
       <jump line="4281" column="41" filename="$USER_HOME$/Develop/sfy/credit/console/controllers/FxdTaskController.php" />
       <jump line="4272" column="12" filename="$USER_HOME$/Develop/sfy/credit/console/controllers/FxdTaskController.php" />
@@ -246,6 +240,17 @@
       <jump line="34" column="0" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanFrontController.php" />
       <jump line="166" column="8" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" />
       <jump line="513" column="37" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" />
+      <jump line="290" column="20" filename="$USER_HOME$/Develop/sfy/credit/sql/fxd.sql" />
+      <jump line="33" column="27" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/services/FxdOrderService.php" />
+      <jump line="24" column="0" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/backend/UserController.php" />
+      <jump line="32" column="0" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/backend/OrderController.php" />
+      <jump line="28" column="32" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/backend/UserController.php" />
+      <jump line="77" column="27" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/services/FxdUserService.php" />
+      <jump line="8" column="6" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/services/FxdOrderService.php" />
+      <jump line="27" column="33" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/backend/OrderController.php" />
+      <jump line="96" column="16" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/services/FxdOrderService.php" />
+      <jump line="89" column="22" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/services/FxdOrderService.php" />
+      <jump line="308" column="0" filename="$USER_HOME$/Develop/sfy/credit/sql/fxd.sql" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -277,7 +282,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>headers['utm_source'] ?? '';</text>
+        <text>分</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -303,16 +308,16 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>headers['utm_source'] ?? '';</text>
+        <text>分</text>
       </register>
       <register name="/" type="4">
         <text>utm_source</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IG5ldyBDVXNlckV4Y2VwdGlvbigndG9rZW7kuI3og73kuLrnqbrvvIEnKTsK</text>
+        <text encoding="base64">ICAgICAgICAkb3JkZXJzID0gJHF1ZXJ5LT5vZmZzZXQoKCRwYWdlIC0gMSkgKiAkcGFnZVNpemUpLT5saW1pdCgkcGFnZVNpemUpLT5vcmRlckJ5KCdpZCBkZXNjJyktPmFzQXJyYXkoKS0+YWxsKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkb3JkZXJzKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -325,40 +330,40 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHV0bVNvdXJjZSA9ICRoZWFkZXJzWyd0b2tlbiddOwo=</text>
+        <text encoding="base64">ICAgICAgICAkb3JkZXJzID0gJHF1ZXJ5LT5vZmZzZXQoKCRwYWdlIC0gMSkgKiAkcGFnZVNpemUpLT5saW1pdCgkcGFnZVNpemUpLT5vcmRlckJ5KCdpZCBkZXNjJyktPmNyZWF0ZUNvbW1hbmQoKS0+cmF3U3FsOwo=</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkb3JkZXJzID0gJHF1ZXJ5LT5vZmZzZXQoKCRwYWdlIC0gMSkgKiAkcGFnZVNpemUpLT5saW1pdCgkcGFnZVNpemUpLT5vcmRlckJ5KCdpZCBkZXNjJyktPmFzQXJyYXkoKS0+YWxsKCk7Cg==</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkcGFyYW1zID0gXFlpaTo6JGFwcC0+cmVxdWVzdC0+cG9zdCgpOwo=</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgZnVuY3Rpb24gYWN0aW9uQXBwbHlMaXN0KCkKICAgIHsKICAgICAgICAkcGFyYW1zID0gXFlpaTo6JGFwcC0+cmVxdWVzdC0+cG9zdCgpOwogICAgICAgICRkYXRhID0gRnhkVXNlckFwcGx5TG9nU2VydmljZTo6Z2V0TGlzdCgkcGFyYW1zKTsKCiAgICAgICAgcmV0dXJuICR0aGlzLT5zdWNjZXNzKCRkYXRhKTsKICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkcGFyYW1zID0gXFlpaTo6JGFwcC0+cmVxdWVzdC0+cG9zdCgpOwo=</text>
+        <text encoding="base64">CmNsYXNzIFVzZXJDb250cm9sbGVyIGV4dGVuZHMgQ29udHJvbGxlcgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBDb2RlTWVzc2FnZTo6Y2hlY2tQYXJhbXMoJHBhcmFtcywgWwogICAgICAgICAgICAndXRtX3NvdXJjZScgPT4gWyduYW1lJyA9PiAndXRtX3NvdXJjZScsICd0eXBlJyA9PiAncmVxdWlyZWQnXSwKICAgICAgICBdKTsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBhY3Rpb25JbmRleCgpCiAgICB7CiAgICAgICAgJHBhcmFtcyA9IFxZaWk6OiRhcHAtPnJlcXVlc3QtPnBvc3QoKTsKCiAgICAgICAgJGRhdGEgPSBGeGRVc2VyU2VydmljZTo6Z2V0TGlzdCgkcGFyYW1zKTsKCiAgICAgICAgcmV0dXJuICR0aGlzLT5zdWNjZXNzKCRkYXRhKTsKICAgIH0K</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBDYXNoUmVkaXM6Omluc3RhbmNlKCktPnNldGV4KCRrZXksIDYwICogMzAsICRkYXRhWydhdmFpbGFibGVMaW1pdCddICogMTAwKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyAkY3JlZGl0VXNlcjsgLy8g5L+h55So6aOe55So5oi377yM5LuOand06I635Y+WCg==</text>
+        <text encoding="base64">QUxURVIgVEFCTEUgYHNob3VmdXlvdV92MmAuYGZ4ZF9vcmRlcmAKTU9ESUZZIENPTFVNTiBgamRfb3JkZXJfaWRgIHZhcmNoYXIoMjU1KSBOT1QgTlVMTCBERUZBVUxUICcnIENPTU1FTlQgJ+S6rOS4nOS+p+S4i+WNlTQwMDE26L+U5Zue55qE6K6i5Y2VaWQnIEFGVEVSIGBmeGRfYmFua19jYXJkX2lkYDsK</text>
       </register>
       <register name=":" type="4">
-        <text>action CloseAllEditors</text>
+        <text>nohls</text>
       </register>
     </registers>
     <search>
@@ -408,12 +413,12 @@
         <entry>vs</entry>
         <entry>action NextSplitter</entry>
         <entry>action FindUsages</entry>
-        <entry>action NextTab</entry>
         <entry>action Back</entry>
         <entry>action SelectInProjectView</entry>
+        <entry>action CloseAllEditors</entry>
+        <entry>action NextTab</entry>
         <entry>wq</entry>
         <entry>nohls</entry>
-        <entry>action CloseAllEditors</entry>
       </history-cmd>
       <history-expr />
       <history-input />
