@@ -32,8 +32,8 @@
       <file name="$USER_HOME$/Develop/sfy/credit/logs/fxd_api/fxd_api_20190617.log" timestamp="1560743651880">
         <mark key="'" line="73" column="53" />
       </file>
-      <file name="$USER_HOME$/Develop/sfy/xinyongfei-app-api/config/env.php" timestamp="1560828819845">
-        <mark key="'" line="226" column="8" />
+      <file name="$USER_HOME$/Develop/sfy/xinyongfei-app-api/config/env.php" timestamp="1560829367390">
+        <mark key="'" line="7" column="44" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/shoufuyou-php-lib/hyperframework/hyperframework/lib/Web/CsrfProtection.php" timestamp="1560396626406">
         <mark key="'" line="27" column="39" />
@@ -232,8 +232,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="45" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/services/FxdOrderService.php" />
-      <jump line="175" column="37" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" />
       <jump line="154" column="7" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" />
       <jump line="170" column="8" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" />
       <jump line="158" column="0" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" />
@@ -332,6 +330,8 @@
       <jump line="17" column="35" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/config/env.php" />
       <jump line="207" column="17" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/config/env.php" />
       <jump line="226" column="8" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/config/env.php" />
+      <jump line="218" column="25" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/config/env.php" />
+      <jump line="7" column="44" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/config/env.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -392,7 +392,7 @@
         <text encoding="base64">PA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwZXJzb25cPg==</text>
+        <text>redis</text>
       </register>
       <register name="0" type="4">
         <text>$headers['utm_source']</text>
@@ -448,17 +448,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwZXJzb25cPg==</last-search>
+      <last-search>redis</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwZXJzb25cPg==</last-pattern>
+      <last-pattern>redis</last-pattern>
       <last-replace>|</last-replace>
       <last-substitute>:</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRGeGRVc2VyXD4=</entry>
         <entry>a1</entry>
         <entry encoding="base64">XDx1c2VyXD4=</entry>
         <entry>utm</entry>
@@ -478,6 +477,7 @@
         <entry>400001</entry>
         <entry encoding="base64">XDxhdXRoXD4=</entry>
         <entry encoding="base64">XDxwZXJzb25cPg==</entry>
+        <entry>redis</entry>
       </history-search>
       <history-cmd>
         <entry>%s/^([.\.]*\s){3}//g</entry>
