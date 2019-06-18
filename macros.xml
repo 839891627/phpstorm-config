@@ -1,8 +1,13 @@
 <application>
   <component name="ActionMacroManager">
-    <macro name="a">
+    <macro name="格式化代码">
       <action id="ReformatCode" />
       <action id="OptimizeImports" />
+    </macro>
+    <macro name="c">
+      <action id="ReformatCode" />
+      <action id="OptimizeImports" />
+      <action id="RearrangeCode" />
     </macro>
   </component>
 </application>
