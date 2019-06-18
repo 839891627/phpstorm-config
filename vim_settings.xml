@@ -93,11 +93,6 @@
         <mark key="." line="38" column="52" />
         <mark key="^" line="38" column="52" />
       </file>
-      <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/services/FxdUserService.php" timestamp="1560760635260">
-        <mark key="'" line="45" column="41" />
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="109" column="5" />
-      </file>
       <file name="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Controllers/BaseController.php" timestamp="1560225230412">
         <mark key="'" line="57" column="25" />
       </file>
@@ -136,7 +131,6 @@
         <mark key="." line="45" column="10" />
         <mark key="^" line="45" column="10" />
       </file>
-      <file name="$USER_HOME$/Develop/yuewo/database/migrations/2018_05_04_175844_add_merchant_name_index_to_projects.php" timestamp="1560822692010" />
       <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/services/jd_api/api2105.php" timestamp="1560491468800">
         <mark key="'" line="1" column="0" />
       </file>
@@ -156,6 +150,13 @@
       <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanAfterController.php" timestamp="1560825249605">
         <mark key="'" line="84" column="31" />
       </file>
+      <file name="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Models/CreditUser.php" timestamp="1560836944503">
+        <mark key="'" line="1576" column="27" />
+        <mark key="[" line="1857" column="798" />
+        <mark key="]" line="1857" column="953" />
+        <mark key="^" line="1857" column="953" />
+        <mark key="." line="1857" column="953" />
+      </file>
       <file name="$USER_HOME$/Develop/sfy/shoufuyou-php-lib/hyperframework/hyperframework/lib/Web/Controller.php" timestamp="1560396587232">
         <mark key="'" line="322" column="24" />
       </file>
@@ -167,6 +168,9 @@
         <mark key="]" line="24" column="43" />
         <mark key="^" line="24" column="43" />
         <mark key="." line="24" column="43" />
+      </file>
+      <file name="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Controllers/Api/UserController.php" timestamp="1560836571225">
+        <mark key="'" line="1123" column="34" />
       </file>
       <file name="/Dummy.txt" timestamp="1560829770814">
         <mark key="[" line="0" column="0" />
@@ -236,9 +240,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="154" column="7" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" />
-      <jump line="170" column="8" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" />
-      <jump line="158" column="0" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" />
       <jump line="164" column="28" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" />
       <jump line="478" column="12" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" />
       <jump line="579" column="29" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" />
@@ -336,6 +337,9 @@
       <jump line="226" column="8" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/config/env.php" />
       <jump line="218" column="25" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/config/env.php" />
       <jump line="7" column="44" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/config/env.php" />
+      <jump line="1586" column="43" filename="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Models/CreditUser.php" />
+      <jump line="1123" column="34" filename="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Controllers/Api/UserController.php" />
+      <jump line="1576" column="27" filename="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Models/CreditUser.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -366,8 +370,8 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>9QTCx%252Btx7%252BY8QLzbNsV7Kjz6xkRZyLetwGfQV6rjjWoWAMLSInnrhjkKlaUSnrimMomH9CgypBwd%252BgZeWUC515r33fA2k1Cupg116sqvXSaYUGdPXZ%252BxOVWCjfKaL%252BeN12aZ5k2eQNE%253D</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -393,7 +397,7 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PA==</text>
+        <text>9QTCx%252Btx7%252BY8QLzbNsV7Kjz6xkRZyLetwGfQV6rjjWoWAMLSInnrhjkKlaUSnrimMomH9CgypBwd%252BgZeWUC515r33fA2k1Cupg116sqvXSaYUGdPXZ%252BxOVWCjfKaL%252BeN12aZ5k2eQNE%253D</text>
       </register>
       <register name="/" type="4">
         <text>redis</text>
@@ -448,7 +452,7 @@
         <text encoding="base64">ICAgICAgICBkCg==</text>
       </register>
       <register name=":" type="4">
-        <text>nohls</text>
+        <text>action PreviousTab</text>
       </register>
     </registers>
     <search>
@@ -458,7 +462,7 @@
       <last-replace>|</last-replace>
       <last-substitute>:</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -502,8 +506,8 @@
         <entry>action CloseAllEditors</entry>
         <entry>m .+1</entry>
         <entry>action Back</entry>
-        <entry>action PreviousTab</entry>
         <entry>nohls</entry>
+        <entry>action PreviousTab</entry>
       </history-cmd>
       <history-expr />
       <history-input />
