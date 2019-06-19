@@ -61,6 +61,9 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanFrontController.php" timestamp="1560908946364">
+        <mark key="'" line="229" column="38" />
+      </file>
       <file name="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Controllers/Api/CreditController.php" timestamp="1560757441535">
         <mark key="'" line="34" column="21" />
       </file>
@@ -248,7 +251,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" />
       <jump line="173" column="29" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" />
       <jump line="134" column="0" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" />
       <jump line="33" column="40" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/BaseController.php" />
@@ -348,6 +350,7 @@
       <jump line="1079" column="12" filename="$USER_HOME$/Develop/sfy/shoufuyou-console/lib/Models/Admin/AdminMenu.php" />
       <jump line="46" column="0" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/services/fxdApi.php" />
       <jump line="70" column="0" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/BaseController.php" />
+      <jump line="229" column="38" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanFrontController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -408,7 +411,7 @@
         <text>addTwoNumbers</text>
       </register>
       <register name="/" type="4">
-        <text>fxd_</text>
+        <text>2015</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8g6aaW5qyh55qE5pe25YCZ77yM5pu05paw55So5oi354q25oCBCg==</text>
@@ -464,18 +467,16 @@
       </register>
     </registers>
     <search>
-      <last-search>fxd_</last-search>
+      <last-search>2015</last-search>
       <last-offset />
-      <last-pattern>fxd_</last-pattern>
+      <last-pattern>2015</last-pattern>
       <last-replace>|</last-replace>
       <last-substitute>:</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx1c2VybGlzdFw+</entry>
-        <entry encoding="base64">XDxGeGRPcmRlclNlcnZpY2VcPg==</entry>
         <entry encoding="base64">XDxpbml0T3JkZXJcPg==</entry>
         <entry encoding="base64">XDxjcmVkaXRVc2VyXD4=</entry>
         <entry encoding="base64">XDx1dG1fc291cmNlXD4=</entry>
@@ -494,6 +495,8 @@
         <entry>is_reload</entry>
         <entry encoding="base64">XDxmaXJzdE5hbWVcPg==</entry>
         <entry>fxd_</entry>
+        <entry>2105</entry>
+        <entry>2015</entry>
       </history-search>
       <history-cmd>
         <entry>%s/^([.\.]*\s){3}//g</entry>
