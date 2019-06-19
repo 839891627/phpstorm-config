@@ -57,10 +57,6 @@
       </file>
       <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanFrontController.php" timestamp="1560911361109">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="148" column="0" />
-        <mark key="]" line="148" column="0" />
-        <mark key="^" line="146" column="24" />
-        <mark key="." line="148" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Controllers/Api/CreditController.php" timestamp="1560757441535">
         <mark key="'" line="34" column="21" />
@@ -89,6 +85,12 @@
         <mark key="[" line="23" column="137" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/web/index.php" timestamp="1560839613399" />
+      <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" timestamp="1560924254631">
+        <mark key="'" line="171" column="44" />
+        <mark key="[" line="166" column="0" />
+        <mark key="]" line="166" column="74" />
+        <mark key="." line="166" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/sfy/shoufuyou-php-lib/biz-common/Models/BizSfyWebClient.php" timestamp="1560841126002">
         <mark key="'" line="5422" column="0" />
         <mark key="[" line="5437" column="15" />
@@ -144,8 +146,11 @@
       <file name="$USER_HOME$/Develop/sfy/shoufuyou-php-lib/hyperframework/hyperframework/lib/Db/DbClient.php" timestamp="1559802261329">
         <mark key="'" line="112" column="27" />
       </file>
-      <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/BaseController.php" timestamp="1560910778642">
+      <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/BaseController.php" timestamp="1560923960684">
         <mark key="'" line="70" column="0" />
+        <mark key="]" line="23" column="30" />
+        <mark key="^" line="23" column="30" />
+        <mark key="." line="23" column="30" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/util/FxdEnv.php" timestamp="1560751047080">
         <mark key="[" line="15" column="44" />
@@ -230,6 +235,12 @@
       <file name="$USER_HOME$/Develop/sfy/shoufuyou-console/lib/Controllers/Api/FreeInterestController.php" timestamp="1560391599197">
         <mark key="'" line="5" column="37" />
       </file>
+      <file name="$USER_HOME$/Develop/sfy/credit/common/unit/CodeMessage.php" timestamp="1560839692432">
+        <mark key="'" line="167" column="32" />
+        <mark key="[" line="168" column="0" />
+        <mark key="]" line="168" column="0" />
+        <mark key="." line="168" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/phpstorm/workshop/03_Inspections/01_Highlights.php" timestamp="1560825104814">
         <mark key="[" line="75" column="10" />
         <mark key="]" line="75" column="9" />
@@ -238,6 +249,12 @@
       </file>
       <file name="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Models/CashLoan.php" timestamp="1560758482686">
         <mark key="'" line="1980" column="33" />
+      </file>
+      <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/services/FxdOrderService.php" timestamp="1560924264262">
+        <mark key="[" line="17" column="32" />
+        <mark key="]" line="17" column="37" />
+        <mark key="." line="17" column="37" />
+        <mark key="^" line="17" column="37" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/shoufuyou-console/lib/Models/Admin/AdminMenu.php" timestamp="1560851943618">
         <mark key="'" line="1079" column="12" />
@@ -264,7 +281,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="27" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/services/FxdUserService.php" />
       <jump line="8" column="6" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/services/FxdOrderService.php" />
       <jump line="96" column="16" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/services/FxdOrderService.php" />
       <jump line="89" column="22" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/services/FxdOrderService.php" />
@@ -364,6 +380,7 @@
       <jump line="105" column="60" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" />
       <jump line="135" column="16" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanFrontController.php" />
       <jump line="1" column="0" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanFrontController.php" />
+      <jump line="171" column="44" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -394,8 +411,8 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfWVsc2VpZigpIHsK</text>
+      <register name="&quot;" type="4">
+        <text>fxd_user_id</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -421,13 +438,13 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">RnhkUGhvdG9TZXJ2aWNlOjpzeW5jRnhkUGhvdG9JbmZvKCR0aGlzLT5meGRVc2VyKQ==</text>
+        <text>fxd_user_id</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzeW5jRnhkUGhvdG9JbmZvXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRpc19waG90byA9IDE7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkb3JkZXItPmZ4ZF91c2VyX2lkID0gJGRhdGFbJ2Z4ZF91c2VyX2lkJ107Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgfWVsc2VpZigpIHsK</text>
@@ -476,7 +493,7 @@
         <text encoding="base64">ICAgICAgICAvLyBlY2hvICR1c2VyLT5pZGNhcmQ7ZGllOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>nohls</text>
+        <text>action Back</text>
       </register>
     </registers>
     <search>
@@ -526,12 +543,12 @@
         <entry>action SelectInProjectView</entry>
         <entry>vs</entry>
         <entry>action FindUsages</entry>
-        <entry>action Back</entry>
         <entry>action NextSplitter</entry>
         <entry>wq</entry>
-        <entry>action NextTab</entry>
         <entry>action PreviousTab</entry>
+        <entry>action NextTab</entry>
         <entry>nohls</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
