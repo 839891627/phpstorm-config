@@ -100,12 +100,12 @@
         <mark key="[" line="23" column="137" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/web/index.php" timestamp="1560839613399" />
-      <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" timestamp="1560937794075">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="513" column="45" />
-        <mark key="]" line="513" column="50" />
-        <mark key="." line="513" column="50" />
-        <mark key="^" line="513" column="50" />
+      <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" timestamp="1560939551577">
+        <mark key="'" line="175" column="38" />
+        <mark key="[" line="759" column="0" />
+        <mark key="]" line="759" column="0" />
+        <mark key="." line="759" column="0" />
+        <mark key="^" line="759" column="13" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/shoufuyou-php-lib/biz-common/Models/BizSfyWebClient.php" timestamp="1560841126002">
         <mark key="'" line="5422" column="0" />
@@ -303,7 +303,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Controllers/Api/BaseController.php" />
       <jump line="173" column="23" filename="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Controllers/Api/BaseController.php" />
       <jump line="34" column="21" filename="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Controllers/Api/CreditController.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Models/CashLoan.php" />
@@ -403,6 +402,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanFrontController.php" />
       <jump line="170" column="30" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" />
+      <jump line="175" column="38" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -433,8 +433,8 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>ret</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZmVpeGluZ2RhaS14eWYK</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -469,7 +469,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICRvcmRlckRhdGFbJ3Ntc1Rva2VuJ10gPSAkcmV0WydzbXNUb2tlbiddOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVzcG9uc2UgPSBqc29uX2RlY29kZSgneyJyZXN1bHQiOnsiY2xhc3MiOiJjb20uamQuanIuYmFpdGlhby5vdXRhY3QuZXhwb3J0LnZvLnJlc3VsdC5SZXN1bHQiLCJjb2RlIjoiU1VDQ0VTUyIsInN1Y2Nlc3MiOnRydWUsImluZm8iOiLmiJDlip8ifSwic3ViVXNlckNoZWNrUmVzdWx0IjoiUFJFX0NIRUNLX1BBU1NfUkVTRVQiLCJqZFBpbiI6ImxlKioqKm5nIiwiYWNjZXNzU3RhdHVzIjoiMSIsImNsYXNzIjoiY29tLmpkLmpyLmJhaXRpYW8ub3V0YWN0LmV4cG9ydC52by5PdXRBY3RCdC5FbnRyeUNoZWNrUmVzIiwidXNlckNoZWNrUmVzdWx0IjoiNCJ9JywgMSkK</text>
+        <text encoding="base64">ZmVpeGluZ2RhaS14eWYK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -482,40 +482,40 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZigpIHt9Cg==</text>
+        <text encoding="base64">ICAgICAgICAkcmVzcG9uc2UgPSBqc29uX2RlY29kZSgneyJyZXN1bHQiOnsiY2xhc3MiOiJjb20uamQuanIuYmFpdGlhby5vdXRhY3QuZXhwb3J0LnZvLnJlc3VsdC5SZXN1bHQiLCJjb2RlIjoiU1VDQ0VTUyIsInN1Y2Nlc3MiOnRydWUsImluZm8iOiLmiJDlip8ifSwic3ViVXNlckNoZWNrUmVzdWx0IjoiUFJFX0NIRUNLX1BBU1NfUkVTRVQiLCJqZFBpbiI6ImxlKioqKm5nIiwiYWNjZXNzU3RhdHVzIjoiMSIsImNsYXNzIjoiY29tLmpkLmpyLmJhaXRpYW8ub3V0YWN0LmV4cG9ydC52by5PdXRBY3RCdC5FbnRyeUNoZWNrUmVzIiwidXNlckNoZWNrUmVzdWx0IjoiNCJ9JywgMSkK</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfWVsc2VpZigpIHsK</text>
+        <text encoding="base64">ICAgICAgICBpZigpIHt9Cg==</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfWVsc2VpZigpIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRpc19waG90byA9IDE7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBib29sICR1cGRhdGUg5piv5ZCm5pu05pawCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRpc19waG90byA9IDE7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gaWYgKCRwaG90b19mYWNlX2lkICYmICRwaG90b19mYWNlX2lkICE9ICRyZXRbJ2lkJ10pIHsKICAgICAgICAgICAgLy8gICAgICRwaG90by0+aXNfcmVsb2FkID0gRnhkUGhvdG86OklTX1JFTE9BRDsKICAgICAgICAgICAgLy8gfQo=</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBib29sICR1cGRhdGUg5piv5ZCm5pu05pawCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkcGhvdG8gPSBGeGRQaG90bzo6ZmluZE9uZShbJ2Z4ZF91c2VyX2lkJyA9PiAkdXNlci0+aWRdKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gaWYgKCRwaG90b19mYWNlX2lkICYmICRwaG90b19mYWNlX2lkICE9ICRyZXRbJ2lkJ10pIHsKICAgICAgICAgICAgLy8gICAgICRwaG90by0+aXNfcmVsb2FkID0gRnhkUGhvdG86OklTX1JFTE9BRDsKICAgICAgICAgICAgLy8gfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkcGhvdG9fZmFjZV9pZCA9IDA7CiAgICAgICAgLy8gaWYgKCR1cGRhdGUgPT0gZmFsc2UgJiYgJHBob3RvKSB7CiAgICAgICAgLy8gICAgIC8vIOWmguaenOS4jeaYr+abtOaWsOaTjeS9nO+8jOW5tuS4lOeFp+eJh+W3suWtmOWcqO+8iOmqjOivgS3mv4DmtLvpop3luqbpobXmjqXlj6PkvJrnmoTmg4XlhrXkuIvvvIkKICAgICAgICAvLyAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgLy8gfQogICAgICAgIC8vIGlmICghJHBob3RvKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkcGhvdG8gPSBGeGRQaG90bzo6ZmluZE9uZShbJ2Z4ZF91c2VyX2lkJyA9PiAkdXNlci0+aWRdKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>action Back</text>
+        <text>nohls</text>
       </register>
     </registers>
     <search>
@@ -525,7 +525,7 @@
       <last-replace>|</last-replace>
       <last-substitute>:</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -569,8 +569,8 @@
         <entry>wq</entry>
         <entry>action NextTab</entry>
         <entry>action PreviousTab</entry>
-        <entry>nohls</entry>
         <entry>action Back</entry>
+        <entry>nohls</entry>
       </history-cmd>
       <history-expr />
       <history-input />
