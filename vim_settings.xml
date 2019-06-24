@@ -40,6 +40,11 @@
       <file name="$USER_HOME$/Develop/sfy/shoufuyou-php-lib/hyperframework/hyperframework/lib/Web/CsrfProtection.php" timestamp="1560396626406">
         <mark key="'" line="27" column="39" />
       </file>
+      <file name="$USER_HOME$/Develop/yii-demo/models/Country.php" timestamp="1561368296035">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Controllers/Api/CreditController.php" timestamp="1560757441535">
         <mark key="'" line="34" column="21" />
       </file>
@@ -159,8 +164,8 @@
       <file name="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Models/CashLoan.php" timestamp="1560758482686">
         <mark key="'" line="1980" column="33" />
       </file>
-      <file name="$USER_HOME$/Develop/yii-demo/vendor/yiisoft/yii2/base/Model.php" timestamp="1561361724530">
-        <mark key="'" line="864" column="45" />
+      <file name="$USER_HOME$/Develop/yii-demo/vendor/yiisoft/yii2/base/Model.php" timestamp="1561368407695">
+        <mark key="'" line="187" column="30" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/shoufuyou-console/lib/Models/Admin/AdminMenu.php" timestamp="1560851943618">
         <mark key="'" line="1079" column="12" />
@@ -198,8 +203,8 @@
       <file name="$USER_HOME$/Develop/sfy/credit/logs/fxd_api/fxd_api_20190617.log" timestamp="1560743651880">
         <mark key="'" line="73" column="53" />
       </file>
-      <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/backend/UserController.php" timestamp="1561095153903">
-        <mark key="'" line="28" column="32" />
+      <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/backend/UserController.php" timestamp="1561368967185">
+        <mark key="'" line="36" column="40" />
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
@@ -226,6 +231,12 @@
         <mark key="]" line="7" column="0" />
         <mark key="^" line="7" column="6" />
         <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/BaseController.php" timestamp="1561368240036">
+        <mark key="'" line="72" column="18" />
+        <mark key="]" line="23" column="30" />
+        <mark key="^" line="23" column="30" />
+        <mark key="." line="23" column="30" />
       </file>
       <file name="$USER_HOME$/Develop/yii-demo/views/country/index.php" timestamp="1561360609676">
         <mark key="'" line="0" column="0" />
@@ -282,10 +293,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="512" column="0" filename="$USER_HOME$/Library/Application Support/abnerworks.Typora/themes/vue.css" />
-      <jump line="515" column="0" filename="$USER_HOME$/Library/Application Support/abnerworks.Typora/themes/vue.css" />
-      <jump line="599" column="9" filename="$USER_HOME$/Library/Application Support/abnerworks.Typora/themes/vue.css" />
-      <jump line="402" column="2" filename="$USER_HOME$/Library/Application Support/abnerworks.Typora/themes/vue.css" />
       <jump line="489" column="0" filename="$USER_HOME$/Library/Application Support/abnerworks.Typora/themes/vue.css" />
       <jump line="493" column="0" filename="$USER_HOME$/Library/Application Support/abnerworks.Typora/themes/vue.css" />
       <jump line="494" column="0" filename="$USER_HOME$/Library/Application Support/abnerworks.Typora/themes/vue.css" />
@@ -316,7 +323,6 @@
       <jump line="41" column="35" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/services/FxdUserService.php" />
       <jump line="49" column="48" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/services/FxdUserService.php" />
       <jump line="686" column="32" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanFrontController.php" />
-      <jump line="36" column="42" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/backend/UserController.php" />
       <jump line="28" column="32" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/backend/UserController.php" />
       <jump line="148" column="40" filename="$USER_HOME$/Develop/sfy/credit/console/controllers/FxdTaskController.php" />
       <jump line="151" column="37" filename="$USER_HOME$/Develop/sfy/credit/console/controllers/FxdTaskController.php" />
@@ -382,6 +388,11 @@
       <jump line="26" column="40" filename="$USER_HOME$/Develop/yii-demo/config/web.php" />
       <jump line="43" column="10" filename="$USER_HOME$/Develop/yii-demo/controllers/CountryController.php" />
       <jump line="33" column="5" filename="$USER_HOME$/Develop/yii-demo/controllers/CountryController.php" />
+      <jump line="72" column="18" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/BaseController.php" />
+      <jump line="33" column="21" filename="$USER_HOME$/Develop/yii-demo/models/Country.php" />
+      <jump line="49" column="24" filename="$USER_HOME$/Develop/yii-demo/models/Country.php" />
+      <jump line="187" column="30" filename="$USER_HOME$/Develop/yii-demo/vendor/yiisoft/yii2/base/Model.php" />
+      <jump line="36" column="40" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/backend/UserController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -413,7 +424,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICdvbiBhZnRlclJlcXVlc3QnID0+IGZ1bmN0aW9uICgkZXZlbnQpIHsKICAgICAgICBkZCgkZXZlbnQpOwogICAgfSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -448,7 +459,7 @@
         <text>app\controller\SiteController</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICdvbiBhZnRlclJlcXVlc3QnID0+IGZ1bmN0aW9uICgkZXZlbnQpIHsKICAgICAgICBkZCgkZXZlbnQpOwogICAgfSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -461,40 +472,40 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkZXZlbnQpO2RpZTsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBzY2VuYXJpb3MoKQogICAgewogICAgICAgIHJldHVybiBbCiAgICAgICAgICAgICdsb2dpbicgPT4gWycnXQogICAgICAgIF07CiAgICB9Cg==</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICdvbiBiZWZvcmVSZXF1ZXN0JyA9PiBmdW5jdGlvbiAoJGV2ZW50KSB7CiAgICAgICAgdmFyX2R1bXAoJGV2ZW50KTtkaWU7CiAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvIDI7ZGllOwo=</text>
+        <text encoding="base64">ICAgIHBiZiAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICdvbiBhZnRlclJlcXVlc3QnID0+IGZ1bmN0aW9uICgkZXZlbnQpIHsKICAgICAgICBkZCgkZXZlbnQpOwogICAgfSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkZXZlbnQpO2RpZTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICdkZWZhdWx0Um91dGUnID0+ICdjb3VudHJ5L2NyZWF0ZScsCg==</text>
+        <text encoding="base64">ICAgICdvbiBiZWZvcmVSZXF1ZXN0JyA9PiBmdW5jdGlvbiAoJGV2ZW50KSB7CiAgICAgICAgdmFyX2R1bXAoJGV2ZW50KTtkaWU7CiAgICB9LAo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICduYW1lJyA9PiAndGVzdCBuYW1lJywK</text>
+        <text encoding="base64">ICAgICAgICBlY2hvIDI7ZGllOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIF0sCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>action CloseAllEditors</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -542,14 +553,14 @@
         <entry>e /usr/local/etc/nginx/servers/yii-demo.conf</entry>
         <entry>w</entry>
         <entry>action Forward</entry>
-        <entry>action Back</entry>
         <entry>action FindUsages</entry>
         <entry>action NextTab</entry>
         <entry>action SelectInProjectView</entry>
-        <entry>action PreviousTab</entry>
-        <entry>wq</entry>
-        <entry>nohls</entry>
         <entry>action CloseAllEditors</entry>
+        <entry>action PreviousTab</entry>
+        <entry>nohls</entry>
+        <entry>action Back</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
