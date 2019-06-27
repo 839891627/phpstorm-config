@@ -268,12 +268,12 @@
       <file name="$USER_HOME$/Develop/sfy/shoufuyou-console/lib/Models/Admin/AdminMenu.php" timestamp="1560851943618">
         <mark key="'" line="1079" column="12" />
       </file>
-      <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/UserController.php" timestamp="1561530452421">
-        <mark key="'" line="16" column="21" />
-        <mark key="[" line="75" column="9" />
-        <mark key="]" line="188" column="8" />
-        <mark key="." line="188" column="8" />
-        <mark key="^" line="188" column="8" />
+      <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/UserController.php" timestamp="1561600580832">
+        <mark key="'" line="315" column="16" />
+        <mark key="[" line="294" column="0" />
+        <mark key="]" line="294" column="0" />
+        <mark key="^" line="315" column="50" />
+        <mark key="." line="294" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Controllers/ReportingController.php" timestamp="1560219927491">
         <mark key="'" line="20" column="31" />
@@ -334,11 +334,6 @@
         <mark key="[" line="0" column="16" />
         <mark key="]" line="0" column="16" />
         <mark key="." line="0" column="16" />
-      </file>
-      <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanFrontController.php" timestamp="1561547119174">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/839891627.github.io/source/_posts/PHP实现打包下载.md" timestamp="1561378645177">
         <mark key="'" line="7" column="0" />
@@ -402,6 +397,13 @@
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="45" />
         <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/BaseController.php" timestamp="1561600696579">
+        <mark key="'" line="55" column="26" />
+        <mark key="[" line="55" column="54" />
+        <mark key="]" line="55" column="55" />
+        <mark key="^" line="55" column="54" />
+        <mark key="." line="55" column="55" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/util/FxdEnv.php" timestamp="1561528704747">
         <mark key="[" line="12" column="48" />
@@ -501,10 +503,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="8" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/services/FxdUserService.php" />
-      <jump line="132" column="4" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/services/FxdUserService.php" />
-      <jump line="303" column="0" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/UserController.php" />
-      <jump line="119" column="24" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/UserController.php" />
       <jump line="120" column="22" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/UserController.php" />
       <jump line="32" column="24" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/services/FxdUserService.php" />
       <jump line="112" column="0" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/services/FxdUserService.php" />
@@ -601,6 +599,10 @@
       <jump line="146" column="45" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" />
       <jump line="158" column="22" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" />
       <jump line="327" column="24" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" />
+      <jump line="166" column="6" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanFrontController.php" />
+      <jump line="329" column="43" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/UserController.php" />
+      <jump line="315" column="16" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/UserController.php" />
+      <jump line="55" column="26" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/BaseController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -631,8 +633,8 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>10000</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -658,16 +660,16 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>10000</text>
       </register>
       <register name="/" type="4">
         <text>100</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3llYXJSYXRlJyA9PiAkcmV0WydpbnZlc3Rvck1vZGVSZXNWbyddWydyYXRlJ10gKiAxMDAgLiAiJSIsLy8geWVhclJhdGUK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPmZhaWxlZCg0MDAwMDAsICfnmbvlvZXlpLHotKXvvIEnKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPmZhaWxlZCg0MDAwMDAsICfnmbvlvZXlpLHotKXvvIEnKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -680,7 +682,7 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDor7fmsYLlj4LmlbAKICAgICAgICAkYiA9IDUxLjg7CiAgICAgICAgJGEgPSBiY211bCgkYiwgMTAwKTsKICAgICAgICBkZChpbnR2YWwoJGIqMTAwKSwkYSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPmZhaWxlZCg0MDAwMDAsICfnmbvlvZXlpLHotKXvvIEnKTsKICAgICAgICAkcGFyYW1zID0gXFlpaTo6JGFwcC0+cmVxdWVzdC0+cG9zdCgpOwo=</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
@@ -692,16 +694,16 @@
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkYSAqIDEwMDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBjYXRjaCAoXEV4Y2VwdGlvbiAkZSkgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJHJlY29yZCk7Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJHJlY29yZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyDor7fmsYLlj4LmlbAKICAgICAgICAkYiA9IDUxLjg7CiAgICAgICAgJGEgPSBiY211bCgkYiwgMTAwKTsKICAgICAgICBkZChpbnR2YWwoJGIqMTAwKSwkYSk7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
@@ -710,7 +712,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoaW50dmFsKCRiKTUxNi43OSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyDor7fmsYLlj4LmlbAKICAgICAgICAkYiA9IDUxLjg7CiAgICAgICAgJGEgPSBiY211bCgkYiwgMTAwKTsKICAgICAgICBkZChpbnR2YWwoJGIqMTAwKSwkYSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
@@ -765,8 +767,8 @@
         <entry>vs</entry>
         <entry>action NextSplitter</entry>
         <entry>action NextTab</entry>
-        <entry>action Back</entry>
         <entry>action PreviousTab</entry>
+        <entry>action Back</entry>
         <entry>nohls</entry>
         <entry>wq</entry>
       </history-cmd>
