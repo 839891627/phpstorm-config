@@ -472,10 +472,10 @@
         <mark key="^" line="50" column="29" />
         <mark key="." line="50" column="29" />
       </file>
-      <file name="$USER_HOME$/Develop/sfy/credit/common/config/test/main.php" timestamp="1561970048538">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/Develop/sfy/credit/common/config/test/main.php" timestamp="1561978646362">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/api4.log" timestamp="1559537938343">
         <mark key="'" line="12" column="47" />
@@ -485,9 +485,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="174" column="24" filename="$USER_HOME$/Develop/sfy/shoufuyou-console/lib/Router.php" />
-      <jump line="175" column="24" filename="$USER_HOME$/Develop/sfy/shoufuyou-console/lib/Router.php" />
-      <jump line="176" column="24" filename="$USER_HOME$/Develop/sfy/shoufuyou-console/lib/Router.php" />
       <jump line="352" column="18" filename="$USER_HOME$/Develop/sfy/shoufuyou-console/lib/Router.php" />
       <jump line="354" column="25" filename="$USER_HOME$/Develop/sfy/shoufuyou-console/lib/Router.php" />
       <jump line="463" column="18" filename="$USER_HOME$/Develop/sfy/shoufuyou-console/lib/Router.php" />
@@ -585,6 +582,9 @@
       <jump line="2" column="45" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/config/prod/main.php" />
       <jump line="23" column="0" filename="$USER_HOME$/Develop/sfy/credit/fxd_cb_api/config/prod/main.php" />
       <jump line="14" column="21" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/config/prod/main.php" />
+      <jump line="11" column="23" filename="$USER_HOME$/Develop/sfy/credit/common/config/test/main.php" />
+      <jump line="33" column="0" filename="$USER_HOME$/Develop/sfy/credit/common/config/test/main.php" />
+      <jump line="1" column="7" filename="$USER_HOME$/Develop/sfy/credit/common/config/test/main.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -616,7 +616,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICdsZW8ueHVAc2hvdWZ1eW91LmNvbScsIC8v5b6Q56OKCg==</text>
+        <text encoding="base64">UmVkaXM6OmdldCgnc2EnKTsK</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -642,7 +642,7 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>\</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiY2FkZFw+</text>
@@ -651,7 +651,7 @@
         <text encoding="base64">ICAgICAgICAnbG9nJyA9PiBbCiAgICAgICAgICAgICd0YXJnZXRzJyA9PiBbCiAgICAgICAgICAgICAgICBbCiAgICAgICAgICAgICAgICAgICAgJ2NsYXNzJyA9PiAneWlpXGxvZ1xFbWFpbFRhcmdldCcsCiAgICAgICAgICAgICAgICAgICAgJ2xldmVscycgPT4gWydlcnJvciddLAogICAgICAgICAgICAgICAgICAgICdleGNlcHQnID0+IFsKICAgICAgICAgICAgICAgICAgICAgICAgJ3lpaVx3ZWJcSHR0cEV4Y2VwdGlvbjo0MDQnLAogICAgICAgICAgICAgICAgICAgICAgICAneWlpXHdlYlxIdHRwRXhjZXB0aW9uOjQwMCcsCiAgICAgICAgICAgICAgICAgICAgICAgICd5aWlcYmFzZVxVc2VyRXhjZXB0aW9uJywKICAgICAgICAgICAgICAgICAgICAgICAgJ2NvbW1vblxleGNlcHRpb25cQ1VzZXJFeGNlcHRpb24nLAogICAgICAgICAgICAgICAgICAgICAgICAnY29tbW9uXGV4Y2VwdGlvblxEQkV4Y2VwdGlvbicsCiAgICAgICAgICAgICAgICAgICAgXSwKICAgICAgICAgICAgICAgICAgICAnbWVzc2FnZScgPT4gWwogICAgICAgICAgICAgICAgICAgICAgICAnZnJvbScgPT4gWydzZXR0bGVtZW50QHNob3VmdXlvdS5jb20nXSwKICAgICAgICAgICAgICAgICAgICAgICAgJ3RvJyA9PiBbCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAnamlhbmh1YS53ZWlAc2hvdWZ1eW91LmNvbScsIC8v6a2P5bu65Y2OCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAnanVucWlhbmcueWlAc2hvdWZ1eW91LmNvbScsIC8v5piT5ZCb5by6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAnY20ud2FuZ0BzaG91ZnV5b3UuY29tJywgLy/njovmmKXmmI4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICd5aXBpbmcueHVAc2hvdWZ1eW91LmNvbScsIC8v6K645LmJ5bmzCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAnYnJpYW4uemhhb0BzaG91ZnV5b3UuY29tJywgLy/otbXph5HovokKICAgICAgICAgICAgICAgICAgICAgICAgICAgICd4aWFvZmEubGl1QHNob3VmdXlvdS5jb20nLCAvL+WImOmchOWPkQogICAgICAgICAgICAgICAgICAgICAgICAgICAgJ2xlby54dUBzaG91ZnV5b3UuY29tJywgLy/lvpDno4oKICAgICAgICAgICAgICAgICAgICAgICAgICAgICdiaW4ubGlAc2hvdWZ1eW91LmNvbScsIC8v5p2O5paMCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAnbG9uZy5saXVAc2hvdWZ1eW91LmNvbScsIC8v5YiY5rW35rOiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAnbWFldHJvLnpob3VAc2hvdWZ1eW91LmNvbScsIC8v5ZGo5YWJ5rabCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAnYXJ2aW4uY2FvQHNob3VmdXlvdS5jb20nLCAvL+abuemHkeS6rgogICAgICAgICAgICAgICAgICAgICAgICBdLAogICAgICAgICAgICAgICAgICAgICAgICAnc3ViamVjdCcgPT4gJ1tjcmVkaXRdWycgLiAkX1NFUlZFUlsnV0VCX0VOViddIC4gJ13plJnor6/pgq7ku7YnLAogICAgICAgICAgICAgICAgICAgIF0sCiAgICAgICAgICAgICAgICBdLAogICAgICAgICAgICBdLAogICAgICAgIF0s</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICdsZW8ueHVAc2hvdWZ1eW91LmNvbScsIC8v5b6Q56OKCg==</text>
+        <text encoding="base64">UmVkaXM6OmdldCgnc2EnKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -664,7 +664,7 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICdhcnZpbi5jYW9Ac2hvdWZ1eW91LmNvbScsIC8v5pu56YeR5LquCg==</text>
+        <text encoding="base64">UmUK</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
@@ -679,22 +679,22 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICdhcnZpbi5jYW9Ac2hvdWZ1eW91LmNvbScsIC8v5pu56YeR5LquCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICdtYWV0cm8uemhvdUBzaG91ZnV5b3UuY29tJywgLy/lkajlhYnmtpsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICdsZW8ueHVAc2hvdWZ1eW91LmNvbScsIC8v5b6Q56OKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICdsb25nLmxpdUBzaG91ZnV5b3UuY29tJywgLy/liJjmtbfms6IK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICdhcnZpbi5jYW9Ac2hvdWZ1eW91LmNvbScsIC8v5pu56YeR5LquCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICdiaW4ubGlAc2hvdWZ1eW91LmNvbScsIC8v5p2O5paMCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICdtYWV0cm8uemhvdUBzaG91ZnV5b3UuY29tJywgLy/lkajlhYnmtpsK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICdsZW8ueHVAc2hvdWZ1eW91LmNvbScsIC8v5b6Q56OKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICdsb25nLmxpdUBzaG91ZnV5b3UuY29tJywgLy/liJjmtbfms6IK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICd4aWFvZmEubGl1QHNob3VmdXlvdS5jb20nLCAvL+WImOmchOWPkQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICdiaW4ubGlAc2hvdWZ1eW91LmNvbScsIC8v5p2O5paMCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
@@ -748,10 +748,10 @@
         <entry>action CloseAllEditors</entry>
         <entry>vs</entry>
         <entry>action NextSplitter</entry>
-        <entry>action Back</entry>
         <entry>action PreviousTab</entry>
         <entry>action NextTab</entry>
         <entry>nohls</entry>
+        <entry>action Back</entry>
         <entry>wq</entry>
       </history-cmd>
       <history-expr />
