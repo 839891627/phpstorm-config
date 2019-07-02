@@ -337,10 +337,10 @@
       <file name="$USER_HOME$/Develop/sfy/shoufuyou-php-lib/shoufuyou/Util/data/code_message.php" timestamp="1561360912380">
         <mark key="'" line="515" column="20" />
       </file>
-      <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" timestamp="1561949271640">
-        <mark key="'" line="23" column="6" />
-        <mark key="[" line="717" column="0" />
-        <mark key="]" line="717" column="83" />
+      <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" timestamp="1562051360675">
+        <mark key="[" line="762" column="0" />
+        <mark key="]" line="762" column="0" />
+        <mark key="." line="762" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/shoufuyou-php-lib/biz-common/Models/BizSfyWebClient.php" timestamp="1561430570394">
         <mark key="'" line="5430" column="27" />
@@ -364,11 +364,6 @@
       </file>
       <file name="$USER_HOME$/Develop/sfy/credit/common/controllers/BaseController.php" timestamp="1561434154646">
         <mark key="'" line="48" column="28" />
-      </file>
-      <file name="$USER_HOME$/Develop/sfy/credit/common/config/local/db.php" timestamp="1561458724159">
-        <mark key="'" line="36" column="16" />
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="51" column="28" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/shoufuyou-console/views/user/operate.html.php" timestamp="1561701455105">
         <mark key="'" line="31" column="0" />
@@ -436,9 +431,17 @@
         <mark key="." line="26" column="17" />
         <mark key="^" line="26" column="17" />
       </file>
+      <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanAfterController.php" timestamp="1562051416820">
+        <mark key="'" line="392" column="6" />
+        <mark key="[" line="443" column="35" />
+        <mark key="]" line="444" column="11" />
+        <mark key="." line="444" column="11" />
+        <mark key="^" line="444" column="11" />
+      </file>
       <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/models/FxdRepayRecord.php" timestamp="1561544645842">
         <mark key="'" line="57" column="12" />
       </file>
+      <file name="$USER_HOME$/Develop/sfy/credit/console/controllers/FxdTaskController.php" timestamp="1562052193308" />
       <file name="$USER_HOME$/Develop/sfy/xinyongfei-stat/lib/Controllers/LoginController.php" timestamp="1561458478738">
         <mark key="'" line="3" column="30" />
       </file>
@@ -493,21 +496,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="463" column="18" filename="$USER_HOME$/Develop/sfy/shoufuyou-console/lib/Router.php" />
-      <jump line="493" column="23" filename="$USER_HOME$/Develop/sfy/shoufuyou-console/lib/Router.php" />
-      <jump line="43" column="13" filename="$USER_HOME$/Develop/sfy/shoufuyou-console/lib/Controllers/Api/UserController.php" />
-      <jump line="171" column="36" filename="$USER_HOME$/Develop/sfy/shoufuyou-console/lib/Controllers/Api/UserController.php" />
-      <jump line="111" column="64" filename="$USER_HOME$/Develop/sfy/shoufuyou-console/lib/Controllers/Api/UserController.php" />
-      <jump line="164" column="20" filename="$USER_HOME$/Develop/sfy/shoufuyou-console/lib/Controllers/Api/UserController.php" />
-      <jump line="126" column="32" filename="$USER_HOME$/Develop/sfy/shoufuyou-php-lib/shoufuyou/Table/Application2.php" />
-      <jump line="17" column="47" filename="$USER_HOME$/Develop/sfy/shoufuyou-php-lib/shoufuyou/Table/Application2.php" />
-      <jump line="180" column="0" filename="$USER_HOME$/Develop/sfy/shoufuyou-php-lib/shoufuyou/Table/Application2.php" />
-      <jump line="61" column="48" filename="$USER_HOME$/Develop/sfy/shoufuyou-php-lib/biz-common/Models/Application2.php" />
-      <jump line="966" column="51" filename="$USER_HOME$/Develop/sfy/shoufuyou-php-lib/biz-common/Models/Application2.php" />
-      <jump line="991" column="19" filename="$USER_HOME$/Develop/sfy/shoufuyou-php-lib/biz-common/Models/Application2.php" />
-      <jump line="17" column="0" filename="$USER_HOME$/Develop/sfy/shoufuyou-php-lib/biz-common/Models/Application2.php" />
-      <jump line="48" column="31" filename="$USER_HOME$/Develop/sfy/shoufuyou-console/views/user/operate.html.php" />
-      <jump line="33" column="45" filename="$USER_HOME$/Develop/sfy/shoufuyou-console/views/user/operate.html.php" />
       <jump line="132" column="14" filename="$USER_HOME$/Develop/sfy/shoufuyou-console/assets/js/views/user/operate.js" />
       <jump line="147" column="16" filename="$USER_HOME$/Develop/sfy/shoufuyou-console/assets/js/views/user/operate.js" />
       <jump line="34" column="33" filename="$USER_HOME$/Develop/sfy/shoufuyou-console/views/user/operate.html.php" />
@@ -593,6 +581,21 @@
       <jump line="28" column="4" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/BaseController.php" />
       <jump line="41" column="12" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/BaseController.php" />
       <jump line="477" column="22" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanFrontController.php" />
+      <jump line="18" column="6" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" />
+      <jump line="669" column="25" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" />
+      <jump line="729" column="29" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" />
+      <jump line="179" column="44" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" />
+      <jump line="150" column="0" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" />
+      <jump line="154" column="12" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" />
+      <jump line="133" column="27" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" />
+      <jump line="674" column="0" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" />
+      <jump line="797" column="32" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" />
+      <jump line="802" column="40" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" />
+      <jump line="762" column="0" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" />
+      <jump line="17" column="31" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanAfterController.php" />
+      <jump line="392" column="6" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanAfterController.php" />
+      <jump line="34" column="36" filename="$USER_HOME$/Develop/sfy/credit/console/controllers/FxdTaskController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -624,7 +627,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>` timestamp NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -650,16 +653,16 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>` timestamp NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,</text>
       </register>
       <register name="/" type="4">
-        <text>2100</text>
+        <text encoding="base64">XDxsb2FuX25vXD4=</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICAnbG9nJyA9PiBbCiAgICAgICAgICAgICd0YXJnZXRzJyA9PiBbCiAgICAgICAgICAgICAgICBbCiAgICAgICAgICAgICAgICAgICAgJ2NsYXNzJyA9PiAneWlpXGxvZ1xFbWFpbFRhcmdldCcsCiAgICAgICAgICAgICAgICAgICAgJ2xldmVscycgPT4gWydlcnJvciddLAogICAgICAgICAgICAgICAgICAgICdleGNlcHQnID0+IFsKICAgICAgICAgICAgICAgICAgICAgICAgJ3lpaVx3ZWJcSHR0cEV4Y2VwdGlvbjo0MDQnLAogICAgICAgICAgICAgICAgICAgICAgICAneWlpXHdlYlxIdHRwRXhjZXB0aW9uOjQwMCcsCiAgICAgICAgICAgICAgICAgICAgICAgICd5aWlcYmFzZVxVc2VyRXhjZXB0aW9uJywKICAgICAgICAgICAgICAgICAgICAgICAgJ2NvbW1vblxleGNlcHRpb25cQ1VzZXJFeGNlcHRpb24nLAogICAgICAgICAgICAgICAgICAgICAgICAnY29tbW9uXGV4Y2VwdGlvblxEQkV4Y2VwdGlvbicsCiAgICAgICAgICAgICAgICAgICAgXSwKICAgICAgICAgICAgICAgICAgICAnbWVzc2FnZScgPT4gWwogICAgICAgICAgICAgICAgICAgICAgICAnZnJvbScgPT4gWydzZXR0bGVtZW50QHNob3VmdXlvdS5jb20nXSwKICAgICAgICAgICAgICAgICAgICAgICAgJ3RvJyA9PiBbCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAnamlhbmh1YS53ZWlAc2hvdWZ1eW91LmNvbScsIC8v6a2P5bu65Y2OCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAnanVucWlhbmcueWlAc2hvdWZ1eW91LmNvbScsIC8v5piT5ZCb5by6CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAnY20ud2FuZ0BzaG91ZnV5b3UuY29tJywgLy/njovmmKXmmI4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICd5aXBpbmcueHVAc2hvdWZ1eW91LmNvbScsIC8v6K645LmJ5bmzCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAnYnJpYW4uemhhb0BzaG91ZnV5b3UuY29tJywgLy/otbXph5HovokKICAgICAgICAgICAgICAgICAgICAgICAgICAgICd4aWFvZmEubGl1QHNob3VmdXlvdS5jb20nLCAvL+WImOmchOWPkQogICAgICAgICAgICAgICAgICAgICAgICAgICAgJ2xlby54dUBzaG91ZnV5b3UuY29tJywgLy/lvpDno4oKICAgICAgICAgICAgICAgICAgICAgICAgICAgICdiaW4ubGlAc2hvdWZ1eW91LmNvbScsIC8v5p2O5paMCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAnbG9uZy5saXVAc2hvdWZ1eW91LmNvbScsIC8v5YiY5rW35rOiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAnbWFldHJvLnpob3VAc2hvdWZ1eW91LmNvbScsIC8v5ZGo5YWJ5rabCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAnYXJ2aW4uY2FvQHNob3VmdXlvdS5jb20nLCAvL+abuemHkeS6rgogICAgICAgICAgICAgICAgICAgICAgICBdLAogICAgICAgICAgICAgICAgICAgICAgICAnc3ViamVjdCcgPT4gJ1tjcmVkaXRdWycgLiAkX1NFUlZFUlsnV0VCX0VOViddIC4gJ13plJnor6/pgq7ku7YnLAogICAgICAgICAgICAgICAgICAgIF0sCiAgICAgICAgICAgICAgICBdLAogICAgICAgICAgICBdLAogICAgICAgIF0s</text>
+        <text>originalTerms</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">UmVkaXM6OmdldCgnc2EnKTsK</text>
+        <text encoding="base64">ICAkb3JkZXItPnJlY2VpdmVfYW1vdW50YCBpbnQoMTEpIERFRkFVTFQgTlVMTCBDT01NRU5UICfliLDotKbph5Hpop3jgILlm57osIPml7bmm7TmlrAnLAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -672,46 +675,46 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">UmUK</text>
+        <text encoding="base64">ICAkb3JkZXItPnRtX3NvdXJjZWAgdmFyY2hhcigxMjgpIE5PVCBOVUxMIERFRkFVTFQgJycgQ09NTUVOVCAn5p2l5rqQ5rig6YGTJywK</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICdsZW8ueHVAc2hvdWZ1eW91LmNvbScsIC8v5b6Q56OKCg==</text>
+        <text encoding="base64">ICAkb3JkZXItPmVzY2AgdmFyY2hhcigyNTUpIERFRkFVTFQgTlVMTCBDT01NRU5UICflpLHotKXljp/lm6DjgILlm57osIPml7bmm7TmlrDjgIInLAo=</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICdhcnZpbi5jYW9Ac2hvdWZ1eW91LmNvbScsIC8v5pu56YeR5LquCg==</text>
+        <text encoding="base64">ICAkb3JkZXItPm1zX3Rva2VuYCB2YXJjaGFyKDEwMCkgREVGQVVMVCBOVUxMLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICdsZW8ueHVAc2hvdWZ1eW91LmNvbScsIC8v5b6Q56OKCg==</text>
+        <text encoding="base64">ICAkb3JkZXItPmdyZWVtZW50X3B1bGxgIHRpbnlpbnQoMSkgREVGQVVMVCBOVUxMIENPTU1FTlQgJ+S4gOS6m+aYr+WQpuW3suaLieWPluOAgicsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICdhcnZpbi5jYW9Ac2hvdWZ1eW91LmNvbScsIC8v5pu56YeR5LquCg==</text>
+        <text encoding="base64">ICAkb3JkZXItPmdyZWVtZW50YCB2YXJjaGFyKDI1NSkgREVGQVVMVCBOVUxMIENPTU1FTlQgJ+WNj+iuruWcsOWdgCcsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICdtYWV0cm8uemhvdUBzaG91ZnV5b3UuY29tJywgLy/lkajlhYnmtpsK</text>
+        <text encoding="base64">ICAkb3JkZXItPmNoYXJnZV90eXBlYCB0aW55aW50KDEpIE5PVCBOVUxMIENPTU1FTlQgJ+iuoei0ueaWueW8j+OAgjE65oyJ5pel6K6h6LS5IDI65oyJ5pyI6K6h6LS5JywK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICdsb25nLmxpdUBzaG91ZnV5b3UuY29tJywgLy/liJjmtbfms6IK</text>
+        <text encoding="base64">ICAkb3JkZXItPnVycmVudF9jYW5fbG9hbmAgaW50KDExKSBERUZBVUxUIE5VTEwgQ09NTUVOVCAn5b2T5YmN5Y+v5YCf6YeR6aKd44CC5Y2V5L2N77ya5YWDJywK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICdiaW4ubGlAc2hvdWZ1eW91LmNvbScsIC8v5p2O5paMCg==</text>
+        <text encoding="base64">ICAkb3JkZXItPmZ4ZF9iYW5rX2NhcmRfaWRgIGJpZ2ludCgyMCkgREVGQVVMVCBOVUxMIENPTU1FTlQgJ+aPkOeOsOeahOmTtuihjOWNoScsCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action PreviousTab</text>
+        <text>nohls</text>
       </register>
     </registers>
     <search>
-      <last-search>2100</last-search>
+      <last-search encoding="base64">XDxsb2FuX25vXD4=</last-search>
       <last-offset />
-      <last-pattern>2100</last-pattern>
+      <last-pattern encoding="base64">XDxsb2FuX25vXD4=</last-pattern>
       <last-replace>\1</last-replace>
       <last-substitute>\(^\S\+\(\s\S\+\)\{2}\).*</last-substitute>
       <last-dir>1</last-dir>
@@ -719,9 +722,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRNb2JpbGVcPg==</entry>
-        <entry>sms</entry>
-        <entry encoding="base64">XDxnZXRNb2JpbGVPcklkZW50aXR5XD4=</entry>
         <entry encoding="base64">XDxEYkNsaWVudFw+</entry>
         <entry encoding="base64">XDxzdXBlcl9hdXRoXD4=</entry>
         <entry>getAg</entry>
@@ -739,6 +739,9 @@
         <entry>+</entry>
         <entry encoding="base64">XDxiY2FkZFw+</entry>
         <entry>2100</entry>
+        <entry>2011</entry>
+        <entry>40017</entry>
+        <entry encoding="base64">XDxsb2FuX25vXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4lcy86L3wvZw==</entry>
@@ -752,15 +755,15 @@
         <entry>action Forward</entry>
         <entry>action FindUsages</entry>
         <entry>Vs</entry>
-        <entry>action SelectInProjectView</entry>
         <entry>action CloseAllEditors</entry>
+        <entry>action NextTab</entry>
+        <entry>action PreviousTab</entry>
+        <entry>wq</entry>
+        <entry>action Back</entry>
+        <entry>action SelectInProjectView</entry>
         <entry>vs</entry>
         <entry>action NextSplitter</entry>
-        <entry>action NextTab</entry>
-        <entry>action Back</entry>
-        <entry>wq</entry>
         <entry>nohls</entry>
-        <entry>action PreviousTab</entry>
       </history-cmd>
       <history-expr />
       <history-input />
