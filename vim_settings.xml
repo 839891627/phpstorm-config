@@ -366,10 +366,9 @@
       <file name="$USER_HOME$/Develop/sfy/shoufuyou-php-lib/shoufuyou/Util/data/code_message.php" timestamp="1561360912380">
         <mark key="'" line="515" column="20" />
       </file>
-      <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" timestamp="1562121923005">
-        <mark key="[" line="759" column="0" />
-        <mark key="]" line="759" column="0" />
-        <mark key="." line="759" column="0" />
+      <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" timestamp="1562135795676">
+        <mark key="'" line="724" column="17" />
+        <mark key="[" line="135" column="21" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/shoufuyou-php-lib/biz-common/Models/BizSfyWebClient.php" timestamp="1561430570394">
         <mark key="'" line="5430" column="27" />
@@ -435,7 +434,7 @@
       <file name="$USER_HOME$/Develop/sfy/credit/composer.lock" timestamp="1562133544056">
         <mark key="'" line="3798" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/util/FxdEnv.php" timestamp="1561704202476">
+      <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/util/FxdEnv.php" timestamp="1562136320076">
         <mark key="[" line="12" column="36" />
         <mark key="]" line="12" column="36" />
         <mark key="^" line="12" column="70" />
@@ -543,12 +542,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="142" column="1" filename="$USER_HOME$/Develop/sfy/shoufuyou-console/lib/Controllers/UserController.php" />
-      <jump line="37" column="24" filename="$USER_HOME$/Develop/sfy/shoufuyou-console/views/user/operate.html.php" />
-      <jump line="32" column="4" filename="$USER_HOME$/Develop/sfy/shoufuyou-console/views/user/operate.html.php" />
-      <jump line="51" column="20" filename="$USER_HOME$/Develop/sfy/shoufuyou-console/views/user/operate.html.php" />
-      <jump line="31" column="0" filename="$USER_HOME$/Develop/sfy/shoufuyou-console/views/user/operate.html.php" />
-      <jump line="175" column="18" filename="$USER_HOME$/Develop/sfy/shoufuyou-console/lib/Controllers/Api/UserController.php" />
       <jump line="53" column="95" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanFrontController.php" />
       <jump line="83" column="29" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanFrontController.php" />
       <jump line="18" column="81" filename="$USER_HOME$/Develop/sfy/credit/logs/fxd_api/fxd_api_20190628.log" />
@@ -643,6 +636,12 @@
       <jump line="33" column="27" filename="$USER_HOME$/Develop/sfy/credit/common/unit/VerifyCode.php" />
       <jump line="24" column="47" filename="$USER_HOME$/Develop/sfy/credit/composer.lock" />
       <jump line="3798" column="0" filename="$USER_HOME$/Develop/sfy/credit/composer.lock" />
+      <jump line="168" column="0" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" />
+      <jump line="146" column="0" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" />
+      <jump line="137" column="49" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" />
+      <jump line="470" column="4" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" />
+      <jump line="741" column="21" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" />
+      <jump line="737" column="17" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -674,7 +673,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>1</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -700,13 +699,13 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtb2JpbGVcPg==</text>
+        <text>investorType</text>
       </register>
-      <register name="0" type="4">
-        <text>cash_profit_export_auth</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAvLyDorrDlvZXnlKjmiLflvZPliY3lj6/lgJ/ph5Hpop0KICAgICAgICAka2V5ID0gJHRoaXMtPnByZWZpeCAuICR0aGlzLT5meGRVc2VyLT5pZDsKICAgICAgICAkY2FuTG9hbiA9IENhc2hSZWRpczo6aW5zdGFuY2UoKS0+Z2V0KCRrZXkpOwogICAgICAgICRvcmRlclRva2VuID0gRnhkT3JkZXJTZXJ2aWNlOjppbml0T3JkZXIoWwogICAgICAgICAgICAnc3RhdHVzJyA9PiAkb3JkZXJTdGF0dXMsCiAgICAgICAgICAgICd1dG1fc291cmNlJyA9PiBGeGRFbnY6OiR1dG1Tb3VyY2UsCiAgICAgICAgICAgICdmeGRfdXNlcl9pZCcgPT4gJHRoaXMtPmZ4ZFVzZXItPmlkLAogICAgICAgICAgICAnY3VycmVudF9jYW5fbG9hbicgPT4gJGNhbkxvYW4sCiAgICAgICAgICAgICdkZXNjJyA9PiAkZGVzYyA/PyAnJwogICAgICAgIF0pOwoKICAgICAgICByZXR1cm4gJHRoaXMtPnN1Y2Nlc3MoWydzdGF0dXMnID0+ICRzdGF0dXMsICdvcmRlcl90b2tlbicgPT4gJG9yZGVyVG9rZW5dKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICJyZXBvc2l0b3JpZXMiOiBbCiAgICAgICAgewogICAgICAgICAgICAidHlwZSI6ICJjb21wb3NlciIsCiAgICAgICAgICAgICJ1cmwiOiAiaHR0cHM6Ly9hc3NldC1wYWNrYWdpc3Qub3JnIgogICAgICAgIH0KICAgIF0K</text>
@@ -759,9 +758,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtb2JpbGVcPg==</last-search>
+      <last-search>investorType</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtb2JpbGVcPg==</last-pattern>
+      <last-pattern>investorType</last-pattern>
       <last-replace>\1</last-replace>
       <last-substitute>\(^\S\+\(\s\S\+\)\{2}\).*</last-substitute>
       <last-dir>1</last-dir>
@@ -769,7 +768,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0b3RhbFBhaWRcPg==</entry>
         <entry encoding="base64">XDx0b3RhbEFtb3VudFw+</entry>
         <entry encoding="base64">XDx1blBhaWRBbW91bnRcPg==</entry>
         <entry encoding="base64">XDxwYWlkQW1vdW50XD4=</entry>
@@ -789,6 +787,7 @@
         <entry encoding="base64">XDxDb25maWdcPg==</entry>
         <entry encoding="base64">XDxjb25zb2xlXD4=</entry>
         <entry encoding="base64">XDxtb2JpbGVcPg==</entry>
+        <entry>investorType</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz4lcy86L3wvZw==</entry>
