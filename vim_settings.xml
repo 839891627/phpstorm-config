@@ -17,6 +17,12 @@
       <file name="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Models/CreditUser.php" timestamp="1561360871262">
         <mark key="'" line="242" column="36" />
       </file>
+      <file name="$USER_HOME$/Develop/sfy/credit/composer.json" timestamp="1562133512567">
+        <mark key="[" line="37" column="5" />
+        <mark key="]" line="37" column="5" />
+        <mark key="." line="37" column="5" />
+        <mark key="^" line="31" column="5" />
+      </file>
       <file name="$USER_HOME$/Develop/sfy/shoufuyou-console/lib/Controllers/Api/CustomizeApplyController.php" timestamp="1560391954990">
         <mark key="'" line="64" column="37" />
       </file>
@@ -426,6 +432,9 @@
         <mark key="]" line="90" column="52" />
         <mark key="." line="90" column="52" />
       </file>
+      <file name="$USER_HOME$/Develop/sfy/credit/composer.lock" timestamp="1562133544056">
+        <mark key="'" line="3798" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/util/FxdEnv.php" timestamp="1561704202476">
         <mark key="[" line="12" column="36" />
         <mark key="]" line="12" column="36" />
@@ -534,8 +543,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="184" column="28" filename="$USER_HOME$/Develop/sfy/shoufuyou-console/lib/Controllers/Api/UserController.php" />
-      <jump line="31" column="38" filename="$USER_HOME$/Develop/sfy/shoufuyou-console/lib/Controllers/UserController.php" />
       <jump line="142" column="1" filename="$USER_HOME$/Develop/sfy/shoufuyou-console/lib/Controllers/UserController.php" />
       <jump line="37" column="24" filename="$USER_HOME$/Develop/sfy/shoufuyou-console/views/user/operate.html.php" />
       <jump line="32" column="4" filename="$USER_HOME$/Develop/sfy/shoufuyou-console/views/user/operate.html.php" />
@@ -634,6 +641,8 @@
       <jump line="45" column="25" filename="$USER_HOME$/Develop/sfy/credit/common/unit/Validate.php" />
       <jump line="83" column="27" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/UserController.php" />
       <jump line="33" column="27" filename="$USER_HOME$/Develop/sfy/credit/common/unit/VerifyCode.php" />
+      <jump line="24" column="47" filename="$USER_HOME$/Develop/sfy/credit/composer.lock" />
+      <jump line="3798" column="0" filename="$USER_HOME$/Develop/sfy/credit/composer.lock" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -664,8 +673,8 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -691,7 +700,7 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb2JpbGVcPg==</text>
@@ -700,7 +709,7 @@
         <text>cash_profit_export_auth</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJyZXBvc2l0b3JpZXMiOiBbCiAgICAgICAgewogICAgICAgICAgICAidHlwZSI6ICJjb21wb3NlciIsCiAgICAgICAgICAgICJ1cmwiOiAiaHR0cHM6Ly9hc3NldC1wYWNrYWdpc3Qub3JnIgogICAgICAgIH0KICAgIF0K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -713,40 +722,40 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CgoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkYWxsb3dVc2VycyA9IENvbmZpZzo6Z2V0QXJyYXkoJ2NvbnNvbGUudXNlci5jYXNoX3Byb2ZpdF9hdXRoJykgPz8gW107Cg==</text>
+        <text encoding="base64">CgoK</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkZmxpZ2h0QWxsb3dVc2VycyA9IENvbmZpZzo6Z2V0QXJyYXkoJ2NvbnNvbGUudXNlci5mbGlnaHRfYXV0aCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkYWxsb3dVc2VycyA9IENvbmZpZzo6Z2V0QXJyYXkoJ2NvbnNvbGUudXNlci5jYXNoX3Byb2ZpdF9hdXRoJykgPz8gW107Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkYXV0aCA9IGZhbHNlOwo=</text>
+        <text encoding="base64">ICAgICAgICAkZmxpZ2h0QWxsb3dVc2VycyA9IENvbmZpZzo6Z2V0QXJyYXkoJ2NvbnNvbGUudXNlci5mbGlnaHRfYXV0aCcpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8P3BocCB9ICA/fQo=</text>
+        <text encoding="base64">ICAgICAgICAkYXV0aCA9IGZhbHNlOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAkb3JkZXItPnJlY2VpdmVfYW1vdW50YCBpbnQoMTEpIERFRkFVTFQgTlVMTCBDT01NRU5UICfliLDotKbph5Hpop3jgILlm57osIPml7bmm7TmlrAnLAo=</text>
+        <text encoding="base64">ICAgICAgICA8P3BocCB9ICA/fQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAkb3JkZXItPnRtX3NvdXJjZWAgdmFyY2hhcigxMjgpIE5PVCBOVUxMIERFRkFVTFQgJycgQ09NTUVOVCAn5p2l5rqQ5rig6YGTJywK</text>
+        <text encoding="base64">ICAkb3JkZXItPnJlY2VpdmVfYW1vdW50YCBpbnQoMTEpIERFRkFVTFQgTlVMTCBDT01NRU5UICfliLDotKbph5Hpop3jgILlm57osIPml7bmm7TmlrAnLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAkb3JkZXItPmVzY2AgdmFyY2hhcigyNTUpIERFRkFVTFQgTlVMTCBDT01NRU5UICflpLHotKXljp/lm6DjgILlm57osIPml7bmm7TmlrDjgIInLAo=</text>
+        <text encoding="base64">ICAkb3JkZXItPnRtX3NvdXJjZWAgdmFyY2hhcigxMjgpIE5PVCBOVUxMIERFRkFVTFQgJycgQ09NTUVOVCAn5p2l5rqQ5rig6YGTJywK</text>
       </register>
       <register name=":" type="4">
-        <text>action Back</text>
+        <text>nohls</text>
       </register>
     </registers>
     <search>
@@ -800,8 +809,8 @@
         <entry>vs</entry>
         <entry>action NextSplitter</entry>
         <entry>action CloseAllEditors</entry>
-        <entry>nohls</entry>
         <entry>action Back</entry>
+        <entry>nohls</entry>
       </history-cmd>
       <history-expr />
       <history-input />
