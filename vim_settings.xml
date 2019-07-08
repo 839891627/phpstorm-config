@@ -404,12 +404,12 @@
         <mark key="]" line="20" column="45" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/BaseController.php" timestamp="1562306702171">
+      <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/BaseController.php" timestamp="1562556665676">
         <mark key="'" line="49" column="36" />
-        <mark key="[" line="48" column="64" />
-        <mark key="]" line="48" column="88" />
-        <mark key="." line="48" column="88" />
-        <mark key="^" line="48" column="88" />
+        <mark key="[" line="48" column="63" />
+        <mark key="]" line="48" column="94" />
+        <mark key="." line="48" column="94" />
+        <mark key="^" line="48" column="94" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/credit/composer.lock" timestamp="1562133544056">
         <mark key="'" line="3798" column="0" />
@@ -641,7 +641,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>E `shoufuyou_v2`.`fxd_photo`</text>
+        <text>' . $token;</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -667,7 +667,7 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>E `shoufuyou_v2`.`fxd_photo`</text>
+        <text>' . $token;</text>
       </register>
       <register name="/" type="4">
         <text>plan</text>
@@ -722,7 +722,7 @@
         <text encoding="base64">ICAgICAgICAkcGhvdG8gPSBGeGRQaG90b1NlcnZpY2U6OmdldEZ4ZFBob3RvSW5mbygkdGhpcy0+ZnhkVXNlci0+aWQpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>nohls</text>
       </register>
     </registers>
     <search>
@@ -732,7 +732,7 @@
       <last-replace>\1</last-replace>
       <last-substitute encoding="base64">XDxwYXJhbXNcPg==</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -772,12 +772,12 @@
         <entry>action SelectInProjectView</entry>
         <entry>vs</entry>
         <entry>action NextSplitter</entry>
-        <entry>nohls</entry>
         <entry>action Forward</entry>
         <entry>action NextTab</entry>
         <entry>action Back</entry>
         <entry>action PreviousTab</entry>
         <entry>wq</entry>
+        <entry>nohls</entry>
       </history-cmd>
       <history-expr />
       <history-input />
