@@ -574,7 +574,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZGQoJHRyeUhpc3RvcnkpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action SelectInProjectView</text>
+        <text>action PreviousTab</text>
       </register>
     </registers>
     <search>
@@ -584,7 +584,7 @@
       <last-replace>',</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -621,15 +621,15 @@
         <entry encoding="base64">JzwsJz5zLyokLyokJywvZw==</entry>
         <entry encoding="base64">JzwsJz5tIC4rMQ==</entry>
         <entry encoding="base64">JzwsJz5zLyQvJyw=</entry>
-        <entry>action FindUsages</entry>
         <entry>vs</entry>
         <entry>action NextSplitter</entry>
-        <entry>action Back</entry>
-        <entry>wq</entry>
-        <entry>action PreviousTab</entry>
         <entry>action NextTab</entry>
-        <entry>nohls</entry>
         <entry>action SelectInProjectView</entry>
+        <entry>wq</entry>
+        <entry>action FindUsages</entry>
+        <entry>nohls</entry>
+        <entry>action Back</entry>
+        <entry>action PreviousTab</entry>
       </history-cmd>
       <history-expr />
       <history-input />
