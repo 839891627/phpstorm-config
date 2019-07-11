@@ -148,6 +148,13 @@
       <file name="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Controllers/Api/UserController.php" timestamp="1562841574937">
         <mark key="'" line="1127" column="32" />
       </file>
+      <file name="$USER_HOME$/Documents/Github/building-a-multibranch-pipeline-project/Jenkinsfile" timestamp="1562842813041">
+        <mark key="'" line="23" column="0" />
+        <mark key="[" line="25" column="6" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="26" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/sfy/credit/common/service/SystemConfig.php" timestamp="1559784499838">
         <mark key="'" line="83" column="41" />
       </file>
@@ -341,9 +348,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="29" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/services/fxdApi.php" />
-      <jump line="143" column="18" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" />
-      <jump line="120" column="12" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/services/jd_api/api2106.php" />
       <jump line="102" column="42" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" />
       <jump line="134" column="36" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" />
@@ -441,6 +445,9 @@
       <jump line="1579" column="37" filename="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Models/CreditUser.php" />
       <jump line="1127" column="32" filename="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Controllers/Api/UserController.php" />
       <jump line="100" column="33" filename="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Controllers/Api/BaseController.php" />
+      <jump line="18" column="45" filename="$USER_HOME$/Documents/Github/building-a-multibranch-pipeline-project/Jenkinsfile" />
+      <jump line="24" column="0" filename="$USER_HOME$/Documents/Github/building-a-multibranch-pipeline-project/Jenkinsfile" />
+      <jump line="23" column="0" filename="$USER_HOME$/Documents/Github/building-a-multibranch-pipeline-project/Jenkinsfile" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -471,8 +478,8 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludF9yKCRhKTsKICAgICAgICBkaWU7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>-</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -498,7 +505,7 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text>baseinfo</text>
@@ -507,43 +514,43 @@
         <text encoding="base64">ICAgICAgICAgICAgJ291dEFjY291bnRJZCcgPT4gKHN0cmluZykkdGhpcy0+ZnhkVXNlci0+dXNlcl9pZCwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludF9yKCRhKTsKICAgICAgICBkaWU7Cg==</text>
+        <text encoding="base64">LWQgXAo=</text>
       </register>
       <register name="q" type="4">
         <text>jJj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBDcmVkaXRVc2VyICRjcmVkaXRVc2VyCiAgICAgKiBAcmV0dXJuIGFycmF5fEZ4ZFVzZXJ8XHlpaVxkYlxBY3RpdmVSZWNvcmR8bnVsbAogICAgICogQHRocm93cyBDVXNlckV4Y2VwdGlvbgogICAgICovCiAgICAvKioK</text>
+        <text encoding="base64">LWQK</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludF9yKCRhKTsKICAgICAgICBkaWU7Cg==</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBDcmVkaXRVc2VyICRjcmVkaXRVc2VyCiAgICAgKiBAcmV0dXJuIGFycmF5fEZ4ZFVzZXJ8XHlpaVxkYlxBY3RpdmVSZWNvcmR8bnVsbAogICAgICogQHRocm93cyBDVXNlckV4Y2VwdGlvbgogICAgICovCiAgICAvKioK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGZ4ZFVzZXIgPSBGeGRVc2VyOjpmaW5kKCktPndoZXJlKFsndXNlcl9pZCc9PiAkY3JlZGl0VXNlci0+aWRdKS0+b25lKCk7CiAgICAgICAgICAgIHJldHVybiAkZnhkVXNlcjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IG5ldyBDVXNlckV4Y2VwdGlvbign57O757uf5byC5bi477yBJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGZ4ZFVzZXIgPSBGeGRVc2VyOjpmaW5kKCktPndoZXJlKFsndXNlcl9pZCc9PiAkY3JlZGl0VXNlci0+aWRdKS0+b25lKCk7CiAgICAgICAgICAgIHJldHVybiAkZnhkVXNlcjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBDcmVkaXRVc2VyICRjcmVkaXRVc2VyCiAgICAgKiBAcmV0dXJuIEZ4ZFVzZXJ8bnVsbAogICAgICogQHRocm93cyBDVXNlckV4Y2VwdGlvbgogICAgICovCiAgICAvKioK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IG5ldyBDVXNlckV4Y2VwdGlvbign57O757uf5byC5bi477yBJyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>nohls</text>
