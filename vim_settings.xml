@@ -523,7 +523,7 @@
         <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcmVzdWx0KTtkaWU7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>nohls</text>
+        <text>action CloseAllEditors</text>
       </register>
     </registers>
     <search>
@@ -563,7 +563,6 @@
         <entry>sp</entry>
         <entry>.,.+7nohls</entry>
         <entry>.nohls</entry>
-        <entry>action CloseAllEditors</entry>
         <entry>.,.+57nohls</entry>
         <entry encoding="base64">JzwsJz5zLyokLyokJywvZw==</entry>
         <entry encoding="base64">JzwsJz5tIC4rMQ==</entry>
@@ -579,6 +578,7 @@
         <entry>action PreviousTab</entry>
         <entry>action SelectInProjectView</entry>
         <entry>nohls</entry>
+        <entry>action CloseAllEditors</entry>
       </history-cmd>
       <history-expr />
       <history-input />
