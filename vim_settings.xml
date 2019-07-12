@@ -217,11 +217,6 @@
       <file name="$USER_HOME$/Develop/839891627.github.io/source/_posts/使用PHP压缩并base64编码图片.md" timestamp="1561378739520">
         <mark key="'" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/backend/UserController.php" timestamp="1562830903836">
-        <mark key="[" line="50" column="87" />
-        <mark key="]" line="50" column="87" />
-        <mark key="." line="50" column="87" />
-      </file>
       <file name="$USER_HOME$/Develop/sfy/shoufuyou-console/views/cash_bill/apply_live_pay.html.php" timestamp="1562810952989">
         <mark key="'" line="241" column="68" />
       </file>
@@ -249,10 +244,10 @@
       <file name="$USER_HOME$/Develop/sfy/shoufuyou-php-lib/shoufuyou/Util/data/code_message.php" timestamp="1561360912380">
         <mark key="'" line="515" column="20" />
       </file>
-      <file name="$USER_HOME$/Develop/sfy/shoufuyou-php-lib/biz-common/Models/BizSfyWebClient.php" timestamp="1562830941685">
+      <file name="$USER_HOME$/Develop/sfy/shoufuyou-php-lib/biz-common/Models/BizSfyWebClient.php" timestamp="1562901285016">
+        <mark key="'" line="5523" column="6" />
         <mark key="[" line="5526" column="0" />
         <mark key="]" line="5526" column="0" />
-        <mark key="^" line="5521" column="27" />
         <mark key="." line="5526" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Models/Activation.php" timestamp="1560146660981">
@@ -365,8 +360,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="103" column="5" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" />
-      <jump line="20" column="20" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/CommonController.php" />
       <jump line="52" column="12" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/CommonController.php" />
       <jump line="127" column="58" filename="$USER_HOME$/Develop/sfy/shoufuyou-console/lib/Models/CashWelfare.php" />
       <jump line="129" column="86" filename="$USER_HOME$/Develop/sfy/shoufuyou-console/lib/Models/CashWelfare.php" />
@@ -415,7 +408,6 @@
       <jump line="5531" column="0" filename="$USER_HOME$/Develop/sfy/shoufuyou-php-lib/biz-common/Models/BizSfyWebClient.php" />
       <jump line="5514" column="0" filename="$USER_HOME$/Develop/sfy/shoufuyou-php-lib/biz-common/Models/BizSfyWebClient.php" />
       <jump line="74" column="22" filename="$USER_HOME$/Develop/sfy/shoufuyou-console/lib/Controllers/Api/FxdController.php" />
-      <jump line="5526" column="29" filename="$USER_HOME$/Develop/sfy/shoufuyou-php-lib/biz-common/Models/BizSfyWebClient.php" />
       <jump line="17" column="37" filename="$USER_HOME$/Develop/sfy/shoufuyou-console/lib/Router.php" />
       <jump line="296" column="17" filename="$USER_HOME$/Develop/sfy/shoufuyou-console/lib/Router.php" />
       <jump line="297" column="17" filename="$USER_HOME$/Develop/sfy/shoufuyou-console/lib/Router.php" />
@@ -465,6 +457,9 @@
       <jump line="31" column="8" filename="$USER_HOME$/Downloads/deploy-develop" />
       <jump line="14" column="12" filename="$USER_HOME$/Develop/building-a-multibranch-pipeline-project/Jenkinsfile" />
       <jump line="28" column="16" filename="$USER_HOME$/Develop/building-a-multibranch-pipeline-project/Jenkinsfile" />
+      <jump line="5526" column="0" filename="$USER_HOME$/Develop/sfy/shoufuyou-php-lib/biz-common/Models/BizSfyWebClient.php" />
+      <jump line="5509" column="0" filename="$USER_HOME$/Develop/sfy/shoufuyou-php-lib/biz-common/Models/BizSfyWebClient.php" />
+      <jump line="5523" column="6" filename="$USER_HOME$/Develop/sfy/shoufuyou-php-lib/biz-common/Models/BizSfyWebClient.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -495,8 +490,8 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>c</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAkZGF0YVsnaWQnXSA9IDE3MzsK</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -531,43 +526,43 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHNoICducG0gaW5zdGFsbCcK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNoICducG0gaW5zdGFsbCAtZyBjbnBtIC0tcmVnaXN0cnk9aHR0cHM6Ly9yZWdpc3RyeS5ucG0udGFvYmFvLm9yZycK</text>
+        <text encoding="base64">ICAgICAgICAkZGF0YVsnaWQnXSA9IDE3MzsK</text>
       </register>
       <register name="q" type="4">
         <text>jJj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNoICducG0gaW5zdGFsbCAtZyBjbnBtIC0tcmVnaXN0cnk9aHR0cHM6Ly9yZWdpc3RyeS5ucG0udGFvYmFvLm9yZycK</text>
+        <text encoding="base64">ICAgICAgICAkZGF0YVsnaWQnXSA9IDIxOwo=</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNoICducG0gaW5zdGFsbCAtZyBjbnBtIC0tcmVnaXN0cnk9aHR0cHM6Ly9yZWdpc3RyeS5ucG0udGFvYmFvLm9yZycK</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNoICducG0gaW5zdGFsbCAtZyBjbnBtIC0tcmVnaXN0cnk9aHR0cHM6Ly9yZWdpc3RyeS5ucG0udGFvYmFvLm9yZycK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CmRvY2tlciBydW4gXAogIC0tcm0gXAogIC11IHJvb3QgXAogIC1wIDgwODA6ODA4MCBcCiAgLWQgXAogIC12IGplbmtpbnMtZGF0YTovdmFyL2plbmtpbnNfaG9tZSBcCiAgLXYgL3Zhci9ydW4vZG9ja2VyLnNvY2s6L3Zhci9ydW4vZG9ja2VyLnNvY2sgXAogIC12IC9Vc2Vycy9jYW9qaW5saWFuZy9EZXZlbG9wOi9ob21lIFwKICBqZW5raW5zY2kvYmx1ZW9jZWFuCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAtZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LWQgXAo=</text>
+        <text encoding="base64">CmRvY2tlciBydW4gXAogIC0tcm0gXAogIC11IHJvb3QgXAogIC1wIDgwODA6ODA4MCBcCiAgLWQgXAogIC12IGplbmtpbnMtZGF0YTovdmFyL2plbmtpbnNfaG9tZSBcCiAgLXYgL3Zhci9ydW4vZG9ja2VyLnNvY2s6L3Zhci9ydW4vZG9ja2VyLnNvY2sgXAogIC12IC9Vc2Vycy9jYW9qaW5saWFuZy9EZXZlbG9wOi9ob21lIFwKICBqZW5raW5zY2kvYmx1ZW9jZWFuCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LWQK</text>
+        <text encoding="base64">ICAtZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludF9yKCRhKTsKICAgICAgICBkaWU7Cg==</text>
+        <text encoding="base64">LWQgXAo=</text>
       </register>
       <register name=":" type="4">
         <text>nohls</text>
