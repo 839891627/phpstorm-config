@@ -126,8 +126,8 @@
         <mark key="." line="79" column="0" />
         <mark key="^" line="77" column="26" />
       </file>
-      <file name="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Models/CreditUser.php" timestamp="1562927576292">
-        <mark key="'" line="1578" column="43" />
+      <file name="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Models/CreditUser.php" timestamp="1562928068727">
+        <mark key="'" line="46" column="43" />
       </file>
       <file name="$USER_HOME$/env.php" timestamp="1562920117758">
         <mark key="'" line="66" column="34" />
@@ -405,7 +405,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="0" filename="$USER_HOME$/Develop/sfy/credit/console/controllers/FxdTaskController.php" />
       <jump line="85" column="24" filename="$USER_HOME$/Develop/sfy/credit/console/controllers/FxdTaskController.php" />
       <jump line="102" column="20" filename="$USER_HOME$/Develop/sfy/credit/console/controllers/FxdTaskController.php" />
       <jump line="119" column="28" filename="$USER_HOME$/Develop/sfy/credit/console/controllers/FxdTaskController.php" />
@@ -505,6 +504,7 @@
       <jump line="100" column="47" filename="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Controllers/Api/BaseController.php" />
       <jump line="122" column="4" filename="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Controllers/Api/BaseController.php" />
       <jump line="106" column="34" filename="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Controllers/Api/BaseController.php" />
+      <jump line="46" column="43" filename="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Models/CreditUser.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -610,7 +610,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Back</text>
+        <text>action FindUsages</text>
       </register>
     </registers>
     <search>
@@ -646,7 +646,6 @@
         <entry encoding="base64">XDxtb2JpbGVfdXNlclw+</entry>
       </history-search>
       <history-cmd>
-        <entry>action FindUsages</entry>
         <entry>m .+1</entry>
         <entry>action Forward</entry>
         <entry>vs</entry>
@@ -666,6 +665,7 @@
         <entry>action PreviousTab</entry>
         <entry>action NextTab</entry>
         <entry>action Back</entry>
+        <entry>action FindUsages</entry>
       </history-cmd>
       <history-expr />
       <history-input />
