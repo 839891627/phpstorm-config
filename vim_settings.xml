@@ -288,7 +288,12 @@
       <file name="$USER_HOME$/Develop/code-master/demo/chapter2/sample/matchers/rss.go" timestamp="1562740969612">
         <mark key="'" line="69" column="8" />
       </file>
-      <file name="$USER_HOME$/Develop/building-a-multibranch-pipeline-project/Jenkinsfile" timestamp="1562897667690" />
+      <file name="$USER_HOME$/Develop/building-a-multibranch-pipeline-project/Jenkinsfile" timestamp="1562899683286">
+        <mark key="'" line="28" column="16" />
+        <mark key="[" line="13" column="20" />
+        <mark key="]" line="13" column="20" />
+        <mark key="." line="13" column="20" />
+      </file>
       <file name="$USER_HOME$/Develop/839891627.github.io/source/_posts/composer安装版本问题.md" timestamp="1561378463323">
         <mark key="'" line="9" column="0" />
       </file>
@@ -349,6 +354,9 @@
       <file name="$USER_HOME$/Develop/839891627.github.io/source/_posts/RSA 签名验证-PHP实现.md" timestamp="1561378716663">
         <mark key="'" line="10" column="5" />
       </file>
+      <file name="$USER_HOME$/Downloads/deploy-develop" timestamp="1562898360958">
+        <mark key="'" line="31" column="8" />
+      </file>
       <file name="$USER_HOME$/Desktop/api4.log" timestamp="1559537938343">
         <mark key="'" line="12" column="47" />
       </file>
@@ -357,10 +365,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="101" column="16" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" />
-      <jump line="136" column="8" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" />
-      <jump line="113" column="16" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" />
-      <jump line="126" column="4" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" />
       <jump line="103" column="5" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanMiddleController.php" />
       <jump line="20" column="20" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/CommonController.php" />
       <jump line="52" column="12" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/CommonController.php" />
@@ -457,6 +461,10 @@
       <jump line="12" column="5" filename="$USER_HOME$/Develop/building-a-multibranch-pipeline-project/Jenkinsfile" />
       <jump line="9" column="0" filename="$USER_HOME$/Develop/building-a-multibranch-pipeline-project/Jenkinsfile" />
       <jump line="9" column="3" filename="$USER_HOME$/Develop/building-a-multibranch-pipeline-project/.gitignore" />
+      <jump line="30" column="18" filename="$USER_HOME$/Downloads/deploy-develop" />
+      <jump line="31" column="8" filename="$USER_HOME$/Downloads/deploy-develop" />
+      <jump line="14" column="12" filename="$USER_HOME$/Develop/building-a-multibranch-pipeline-project/Jenkinsfile" />
+      <jump line="28" column="16" filename="$USER_HOME$/Develop/building-a-multibranch-pipeline-project/Jenkinsfile" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -487,8 +495,8 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>c</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -514,61 +522,61 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;$HOME&quot;</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
-        <text>baseinfo</text>
+        <text encoding="base64">XDxJRlNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ291dEFjY291bnRJZCcgPT4gKHN0cmluZykkdGhpcy0+ZnhkVXNlci0+dXNlcl9pZCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNoICducG0gaW5zdGFsbCcK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNoICducG0gaW5zdGFsbCAtZyBjbnBtIC0tcmVnaXN0cnk9aHR0cHM6Ly9yZWdpc3RyeS5ucG0udGFvYmFvLm9yZycK</text>
       </register>
       <register name="q" type="4">
         <text>jJj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CmRvY2tlciBydW4gXAogIC0tcm0gXAogIC11IHJvb3QgXAogIC1wIDgwODA6ODA4MCBcCiAgLWQgXAogIC12IGplbmtpbnMtZGF0YTovdmFyL2plbmtpbnNfaG9tZSBcCiAgLXYgL3Zhci9ydW4vZG9ja2VyLnNvY2s6L3Zhci9ydW4vZG9ja2VyLnNvY2sgXAogIC12IC9Vc2Vycy9jYW9qaW5saWFuZy9EZXZlbG9wOi9ob21lIFwKICBqZW5raW5zY2kvYmx1ZW9jZWFuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNoICducG0gaW5zdGFsbCAtZyBjbnBtIC0tcmVnaXN0cnk9aHR0cHM6Ly9yZWdpc3RyeS5ucG0udGFvYmFvLm9yZycK</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAtZAo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LWQgXAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LWQK</text>
+        <text encoding="base64">CmRvY2tlciBydW4gXAogIC0tcm0gXAogIC11IHJvb3QgXAogIC1wIDgwODA6ODA4MCBcCiAgLWQgXAogIC12IGplbmtpbnMtZGF0YTovdmFyL2plbmtpbnNfaG9tZSBcCiAgLXYgL3Zhci9ydW4vZG9ja2VyLnNvY2s6L3Zhci9ydW4vZG9ja2VyLnNvY2sgXAogIC12IC9Vc2Vycy9jYW9qaW5saWFuZy9EZXZlbG9wOi9ob21lIFwKICBqZW5raW5zY2kvYmx1ZW9jZWFuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludF9yKCRhKTsKICAgICAgICBkaWU7Cg==</text>
+        <text encoding="base64">ICAtZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBDcmVkaXRVc2VyICRjcmVkaXRVc2VyCiAgICAgKiBAcmV0dXJuIGFycmF5fEZ4ZFVzZXJ8XHlpaVxkYlxBY3RpdmVSZWNvcmR8bnVsbAogICAgICogQHRocm93cyBDVXNlckV4Y2VwdGlvbgogICAgICovCiAgICAvKioK</text>
+        <text encoding="base64">LWQgXAo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">LWQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludF9yKCRhKTsKICAgICAgICBkaWU7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>nohls</text>
       </register>
     </registers>
     <search>
-      <last-search>baseinfo</last-search>
+      <last-search encoding="base64">XDxJRlNcPg==</last-search>
       <last-offset />
-      <last-pattern>baseinfo</last-pattern>
+      <last-pattern encoding="base64">XDxJRlNcPg==</last-pattern>
       <last-replace>',</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
@@ -576,7 +584,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxTbXNSZWNvcmRcPg==</entry>
         <entry encoding="base64">XDxkZWxpdmVyZWRcPg==</entry>
         <entry encoding="base64">XDxhZ2VudFBvb2xzXD4=</entry>
         <entry encoding="base64">XDxncm91cFw+</entry>
@@ -596,6 +603,7 @@
         <entry>ocr</entry>
         <entry>fxd</entry>
         <entry>baseinfo</entry>
+        <entry encoding="base64">XDxJRlNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>Vs</entry>
