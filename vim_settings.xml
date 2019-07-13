@@ -329,6 +329,12 @@
       <file name="$USER_HOME$/Develop/839891627.github.io/source/_posts/PHP实现打包下载.md" timestamp="1561378645177">
         <mark key="'" line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/sfy/xyf-middleground-system/console/config/dev/params.php" timestamp="1562998162697">
+        <mark key="[" line="16" column="24" />
+        <mark key="]" line="16" column="24" />
+        <mark key="." line="16" column="24" />
+        <mark key="^" line="12" column="31" />
+      </file>
       <file name="$USER_HOME$/Develop/sfy/credit/common/service/biz/AppConfig.php" timestamp="1559784303360">
         <mark key="'" line="34" column="35" />
       </file>
@@ -492,7 +498,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="0" filename="$USER_HOME$/Develop/sfy/xinyongfei-stat/README.md" />
       <jump line="32" column="11" filename="$USER_HOME$/Develop/sfy/xinyongfei-stat/README.md" />
       <jump line="38" column="0" filename="$USER_HOME$/Develop/sfy/xinyongfei-stat/README.md" />
       <jump line="2" column="0" filename="$USER_HOME$/Develop/sfy/xinyongfei-stat/README.md" />
@@ -592,6 +597,7 @@
       <jump line="209" column="12" filename="$USER_HOME$/Develop/sfy/xyf-middleground-system/common/services/sms/gateways/GduSms.php" />
       <jump line="161" column="32" filename="$USER_HOME$/Develop/sfy/xyf-middleground-system/common/services/sms/gateways/ChuangRuiYunSms.php" />
       <jump line="22" column="51" filename="$USER_HOME$/Develop/sfy/xyf-middleground-system/common/helpers/QueueHelper.php" />
+      <jump line="11" column="8" filename="$USER_HOME$/Develop/sfy/xyf-middleground-system/console/config/dev/params.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -623,7 +629,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>\</text>
+        <text>dev_xyf_queue</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -649,7 +655,7 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>\</text>
+        <text>dev_xyf_queue</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxZaWlcPg==</text>
@@ -658,46 +664,46 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICdwcmVfc21zX2lkJyA9PiAwLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAnbW9jaycgPT4gdHJ1ZSwK</text>
+        <text encoding="base64">ICAgICAgICBbCiAgICAgICAgICAgICdob3N0JyA9PiAnNTkuMTEwLjcuMjA1JywKICAgICAgICAgICAgJ3BvcnQnID0+IDU2NzIsCiAgICAgICAgICAgICd1c2VyJyA9PiAnZGV2X3h5Zl91c2VyJywKICAgICAgICAgICAgJ3Bhc3N3b3JkJyA9PiAnMTIzNDU2JywKICAgICAgICAgICAgJ3Zob3N0JyA9PiAnZGV2X3h5Zl9xdWV1ZScsCiAgICAgICAgXSwKICAgICAgICBbCiAgICAgICAgICAgICdob3N0JyA9PiAnNDcuOTMuNzYuMTM2JywKICAgICAgICAgICAgJ3BvcnQnID0+IDU2NzIsCiAgICAgICAgICAgICd1c2VyJyA9PiAnZGV2X3h5Zl91c2VyJywKICAgICAgICAgICAgJ3Bhc3N3b3JkJyA9PiAnMTIzNDU2JywKICAgICAgICAgICAgJ3Zob3N0JyA9PiAnZGV2X3h5Zl9xdWV1ZScsCiAgICAgICAgXSwK</text>
       </register>
       <register name="q" type="4">
         <text>jJj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJG5lZWRSZXRyeSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAnbW9jaycgPT4gdHJ1ZSwK</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoJCkgewogICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJG5lZWRSZXRyeSk7Cg==</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoJCkgewogICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVzdWx0ID0gWwogICAgICAgICAgICAiY29kZSIgICAgPT4gIjAzIiwKICAgICAgICAgICAgIm1lc3NhZ2UiID0+IFsKICAgICAgICAgICAgICAgICJkZXNtb2JpbGUiID0+ICIxMzA2Mjc2NTE3NSIsCiAgICAgICAgICAgICAgICAibXNnaWQiICAgICA9PiAiZjgwNDk5MmU4MTY5MDVlNDcxMDAiLAogICAgICAgICAgICBdLAogICAgICAgIF07Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB0b2RvIG1vY2sK</text>
+        <text encoding="base64">ICAgICAgICAkcmVzdWx0ID0gWwogICAgICAgICAgICAiY29kZSIgICAgPT4gIjAzIiwKICAgICAgICAgICAgIm1lc3NhZ2UiID0+IFsKICAgICAgICAgICAgICAgICJkZXNtb2JpbGUiID0+ICIxMzA2Mjc2NTE3NSIsCiAgICAgICAgICAgICAgICAibXNnaWQiICAgICA9PiAiZjgwNDk5MmU4MTY5MDVlNDcxMDAiLAogICAgICAgICAgICBdLAogICAgICAgIF07Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAkcmVzdWx0ID0gJHRoaXMtPnBvc3Qoc3RhdGljOjpReHRGaXJld2FsbCwgJGRhdGEpOwogICAgICAgIC8vICRyZXN1bHQgPSAkdGhpcy0+eG1sVG9BcnJheSgkcmVzdWx0KTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyB0b2RvIG1vY2sK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB0b2RvIOacrOWcsOWFiG1vY2sK</text>
+        <text encoding="base64">ICAgICAgICAvLyAkcmVzdWx0ID0gJHRoaXMtPnBvc3Qoc3RhdGljOjpReHRGaXJld2FsbCwgJGRhdGEpOwogICAgICAgIC8vICRyZXN1bHQgPSAkdGhpcy0+eG1sVG9BcnJheSgkcmVzdWx0KTsK</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>nohls</text>
       </register>
     </registers>
     <search>
@@ -751,8 +757,8 @@
         <entry>action PreviousTab</entry>
         <entry>action CloseAllEditors</entry>
         <entry>action Back</entry>
-        <entry>nohls</entry>
         <entry>wq</entry>
+        <entry>nohls</entry>
       </history-cmd>
       <history-expr />
       <history-input />
