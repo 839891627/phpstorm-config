@@ -37,12 +37,6 @@
       <file name="$USER_HOME$/Develop/sfy/credit/loan_api/controllers/QueryBusinessController.php" timestamp="1561966784305">
         <mark key="'" line="160" column="47" />
       </file>
-      <file name="$USER_HOME$/Develop/sfy/xinyongfei-stat/README" timestamp="1562918814978">
-        <mark key="[" line="5" column="7" />
-        <mark key="]" line="5" column="24" />
-        <mark key="^" line="5" column="24" />
-        <mark key="." line="5" column="24" />
-      </file>
       <file name="$USER_HOME$/Develop/839891627.github.io/source/_posts/Laravel-5-3-下添加自定义-Facade-的步骤.md" timestamp="1561378602731">
         <mark key="'" line="9" column="11" />
       </file>
@@ -161,12 +155,6 @@
       <file name="$USER_HOME$/Develop/sfy/xinyongfei-stat/lib/Controllers/BaseController.php" timestamp="1562921136686">
         <mark key="'" line="38" column="30" />
       </file>
-      <file name="$USER_HOME$/Develop/sfy/xinyongfei-stat/config/asset_version.php" timestamp="1562920322187">
-        <mark key="[" line="1" column="8" />
-        <mark key="]" line="1" column="10" />
-        <mark key="." line="1" column="10" />
-        <mark key="^" line="1" column="10" />
-      </file>
       <file name="$USER_HOME$/Develop/sfy/credit/common/service/SystemConfig.php" timestamp="1559784499838">
         <mark key="'" line="83" column="41" />
       </file>
@@ -252,6 +240,13 @@
       </file>
       <file name="$USER_HOME$/Develop/839891627.github.io/source/_posts/使用PHP压缩并base64编码图片.md" timestamp="1561378739520">
         <mark key="'" line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/backend/UserController.php" timestamp="1562984134016">
+        <mark key="'" line="63" column="15" />
+        <mark key="[" line="68" column="38" />
+        <mark key="]" line="68" column="38" />
+        <mark key="." line="68" column="38" />
+        <mark key="^" line="68" column="61" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/shoufuyou-console/views/cash_bill/apply_live_pay.html.php" timestamp="1562810952989">
         <mark key="'" line="241" column="68" />
@@ -350,8 +345,8 @@
       <file name="$USER_HOME$/Develop/sfy/credit/common/unit/Env.php" timestamp="1559784492483">
         <mark key="'" line="44" column="53" />
       </file>
-      <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/models/FxdUser.php" timestamp="1562826712144">
-        <mark key="'" line="35" column="75" />
+      <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/models/FxdUser.php" timestamp="1562983788465">
+        <mark key="'" line="274" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/LoanAfterController.php" timestamp="1562832610766">
         <mark key="'" line="0" column="0" />
@@ -421,10 +416,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="136" column="28" filename="$USER_HOME$/Develop/sfy/credit/console/controllers/FxdTaskController.php" />
-      <jump line="68" column="47" filename="$USER_HOME$/Develop/sfy/credit/console/controllers/FxdTaskController.php" />
-      <jump line="39" column="0" filename="$USER_HOME$/Develop/sfy/credit/console/controllers/FxdTaskController.php" />
-      <jump line="4187" column="13" filename="$USER_HOME$/Develop/sfy/credit/console/controllers/FxdTaskController.php" />
       <jump line="63" column="47" filename="$USER_HOME$/Develop/sfy/credit/console/controllers/FxdTaskController.php" />
       <jump line="58" column="17" filename="$USER_HOME$/Develop/sfy/credit/console/controllers/FxdTaskController.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/sfy/credit/console/controllers/FxdTaskController.php" />
@@ -521,6 +512,10 @@
       <jump line="16" column="27" filename="$USER_HOME$/Develop/sfy/shoufuyou-console/assets/js/views/bill/apply-live-record.js" />
       <jump line="20" column="50" filename="$USER_HOME$/Develop/sfy/shoufuyou-console/views/cash_profit_order/index.html.php" />
       <jump line="104" column="22" filename="$USER_HOME$/Develop/sfy/shoufuyou-console/views/cash_profit_order/index.html.php" />
+      <jump line="50" column="42" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/backend/UserController.php" />
+      <jump line="29" column="6" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/models/FxdUser.php" />
+      <jump line="274" column="0" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/models/FxdUser.php" />
+      <jump line="63" column="15" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/backend/UserController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -552,7 +547,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>used</text>
+        <text>Info</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -578,16 +573,16 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>used</text>
+        <text>Info</text>
       </register>
       <register name="/" type="4">
-        <text>销账</text>
+        <text encoding="base64">XDxnZXRBcHBseUxvZ3NcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJ3VzZWRfcXVvdGEnICA9PiAkdXNlZCwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkbG9ncyk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text>jJj</text>
@@ -626,21 +621,20 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action SelectInProjectView</text>
+        <text>nohls</text>
       </register>
     </registers>
     <search>
-      <last-search>销账</last-search>
+      <last-search encoding="base64">XDxnZXRBcHBseUxvZ3NcPg==</last-search>
       <last-offset />
-      <last-pattern>销账</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRBcHBseUxvZ3NcPg==</last-pattern>
       <last-replace encoding="base64">LSA=</last-replace>
       <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxvbk9yZGVybGlzdEFjdGlvblw+</entry>
         <entry encoding="base64">XDxvdXRBY2NvdW50SWRcPg==</entry>
         <entry>ocr</entry>
         <entry encoding="base64">XDxJRlNcPg==</entry>
@@ -660,6 +654,7 @@
         <entry encoding="base64">XDxtb2JpbGVfdXNlclw+</entry>
         <entry>apply_live_record.html</entry>
         <entry>销账</entry>
+        <entry encoding="base64">XDxnZXRBcHBseUxvZ3NcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>m .+1</entry>
@@ -667,7 +662,6 @@
         <entry>vs</entry>
         <entry>action NextSplitter</entry>
         <entry>action CloseAllEditors</entry>
-        <entry>wq</entry>
         <entry encoding="base64">JzwsJz4vXi8t</entry>
         <entry>g/^/-</entry>
         <entry>g/$/;</entry>
@@ -677,11 +671,12 @@
         <entry>g/^$/d</entry>
         <entry>g/^\s*$/d</entry>
         <entry>action FindUsages</entry>
-        <entry>action PreviousTab</entry>
-        <entry>nohls</entry>
         <entry>action Back</entry>
-        <entry>action NextTab</entry>
         <entry>action SelectInProjectView</entry>
+        <entry>action NextTab</entry>
+        <entry>action PreviousTab</entry>
+        <entry>wq</entry>
+        <entry>nohls</entry>
       </history-cmd>
       <history-expr />
       <history-input />
