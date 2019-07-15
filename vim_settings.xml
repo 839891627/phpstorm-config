@@ -52,12 +52,12 @@
       <file name="$USER_HOME$/Develop/839891627.github.io/source/_posts/Laravel-5-3-下添加自定义-Facade-的步骤.md" timestamp="1561378602731">
         <mark key="'" line="9" column="11" />
       </file>
-      <file name="$USER_HOME$/Develop/sfy/xyf-middleground-system/common/helpers/QueueHelper.php" timestamp="1563156548652">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="56" column="35" />
-        <mark key="]" line="56" column="35" />
-        <mark key="." line="56" column="35" />
-        <mark key="^" line="56" column="62" />
+      <file name="$USER_HOME$/Develop/sfy/xyf-middleground-system/common/helpers/QueueHelper.php" timestamp="1563169579873">
+        <mark key="'" line="76" column="19" />
+        <mark key="[" line="34" column="104" />
+        <mark key="]" line="34" column="103" />
+        <mark key="." line="34" column="103" />
+        <mark key="^" line="34" column="103" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/xyf-middleground-system/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AMQPChannel.php" timestamp="1563013673421">
         <mark key="'" line="0" column="0" />
@@ -91,7 +91,7 @@
       <file name="$USER_HOME$/Develop/sfy/syf-middleware-system/console/controllers/XyfSmsRetryController.php" timestamp="1562570423665">
         <mark key="'" line="59" column="21" />
       </file>
-      <file name="$USER_HOME$/Develop/sfy/xyf-middleground-system/composer.json" timestamp="1562996777027">
+      <file name="$USER_HOME$/Develop/sfy/xyf-middleground-system/composer.json" timestamp="1563169569284">
         <mark key="'" line="29" column="38" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/credit/console/controllers/BaseController.php" timestamp="1562575267265">
@@ -107,6 +107,7 @@
         <mark key="^" line="79" column="30" />
         <mark key="." line="74" column="1" />
       </file>
+      <file name="$USER_HOME$/Develop/rabbitmq/php-amqplib/demo/delayed_message.php" timestamp="1563169898993" />
       <file name="$USER_HOME$/Develop/sfy/shoufuyou-console/lib/Router.php" timestamp="1562911898924">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="301" column="27" />
@@ -419,7 +420,7 @@
       <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/bcmath/bcmath.php" timestamp="1561545641677">
         <mark key="'" line="66" column="9" />
       </file>
-      <file name="/PHP Console" timestamp="1563163327373">
+      <file name="/PHP Console" timestamp="1563169859542">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/xyf-middleground-system/composer.lock" timestamp="1562988887310">
@@ -459,12 +460,12 @@
         <mark key="." line="61" column="51" />
         <mark key="^" line="61" column="51" />
       </file>
-      <file name="$USER_HOME$/Develop/rabbitmq/php-amqplib/demo/amqp_consumer_non_blocking.php" timestamp="1563012333011">
+      <file name="$USER_HOME$/Develop/rabbitmq/php-amqplib/demo/amqp_consumer_non_blocking.php" timestamp="1563169538922">
         <mark key="'" line="27" column="83" />
-        <mark key="[" line="27" column="1" />
-        <mark key="]" line="27" column="1" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
         <mark key="^" line="30" column="2" />
-        <mark key="." line="27" column="1" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1563005724049">
         <mark key="[" line="0" column="0" />
@@ -581,7 +582,6 @@
       <jump line="27" column="83" filename="$USER_HOME$/Develop/rabbitmq/php-amqplib/demo/amqp_consumer_non_blocking.php" />
       <jump line="53" column="0" filename="$USER_HOME$/Develop/sfy/xyf-middleground-system/common/helpers/QueueHelper.php" />
       <jump line="47" column="35" filename="$USER_HOME$/Develop/sfy/xyf-middleground-system/common/helpers/QueueHelper.php" />
-      <jump line="76" column="24" filename="$USER_HOME$/Develop/sfy/xyf-middleground-system/common/helpers/QueueHelper.php" />
       <jump line="55" column="4" filename="$USER_HOME$/Develop/sfy/xyf-middleground-system/common/helpers/QueueHelper.php" />
       <jump line="41" column="0" filename="$USER_HOME$/Develop/sfy/xyf-middleground-system/common/helpers/QueueHelper.php" />
       <jump line="72" column="33" filename="$USER_HOME$/Develop/sfy/xyf-middleground-system/common/helpers/QueueHelper.php" />
@@ -608,6 +608,7 @@
       <jump line="959" column="37" filename="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Models/CreditUser.php" />
       <jump line="14" column="9" filename="$USER_HOME$/Develop/sfy/xinyongfei-stat/README.md" />
       <jump line="15" column="9" filename="$USER_HOME$/Develop/sfy/xinyongfei-stat/README.md" />
+      <jump line="76" column="19" filename="$USER_HOME$/Develop/sfy/xyf-middleground-system/common/helpers/QueueHelper.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -638,8 +639,8 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>`shoufuyou_statistics.Watcher`</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">JGNoYW5uZWwtPnF1ZXVlX2RlY2xhcmUoc2VsZjo6UVVFVUUsIGZhbHNlLCB0cnVlLCBmYWxzZSwgZmFsc2UsIGZhbHNlKTsK</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -665,7 +666,7 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>添加意见失败，请查看是否存在特殊字符</text>
+        <text>, new AMQPTable([ ] )</text>
       </register>
       <register name="/" type="4">
         <text>Exce</text>
@@ -674,46 +675,46 @@
         <text>`shoufuyou_statistics.Watcher`</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">JGNoYW5uZWwtPnF1ZXVlX2RlY2xhcmUoc2VsZjo6UVVFVUUsIGZhbHNlLCB0cnVlLCBmYWxzZSwgZmFsc2UsIGZhbHNlKTsK</text>
       </register>
       <register name="q" type="4">
         <text>jJj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAieC1kZWFkLWxldHRlci1leGNoYW5nZSIgPT4gImV4cGlyZUV4Y2hhbmdlIiwK</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyMg6aG555uu6LSf6LSj5Lq6Ci0g5YKs5pS25ZCO5Y+wIGh0dHBzOi8vY3Vpc2hvdS54aW55b25nZmVpLmNuICjorrjkuYnlubMpCi0g6aaW5LuY5ri4Y29uc29sZeWQjuWPsCBodHRwczovL2NvbnNvbGUuc2hvdWZ1eW91LmNvbSAo6YK15rW35rSyKSAKLSDpo47mjqflkI7lj7AgaHR0cHM6Ly9yaXNrLnNob3VmdXlvdS5jb20gKOWQtOeQsOW7tykKLSDotKLliqHlkI7lj7DvvJpodHRwczovL2ZpbmFuY2UtY29uc29sZS54aW55b25nZmVpLmNuIChKYXZhKQotIOmjjuaOp+WGs+etluW8leaTjiBodHRwczovL3Jjcy1jb25zb2xlLnhpbnlvbmdmZWkuY24gKEphdmEpCi0g5pWw5o2u5Yaz562W57O757ufIFtodHRwOi8vd2VicmVwb3J0LnhpbnlvbmdmZWkuY24vUmVwb3J0U2VydmVyP29wPWZzXShodHRwOi8vd2VicmVwb3J0LnhpbnlvbmdmZWkuY24vUmVwb3J0U2VydmVyP29wPWZzKSAoUHl0aG9uKQotIFNRTOWuoeaguOW5s+WPsCBbaHR0cDovL3llYXJuaW5nLnhpbnlvbmdmZWkuY24vIy9sb2dpbl0oaHR0cDovL3llYXJuaW5nLnhpbnlvbmdmZWkuY24vIy9sb2dpbikgICjov5Dnu7QpCi0g6aaW5LuY5ri45oql6KGo5ZCO5Y+wIGh0dHBzOi8vc3RhdC54aW55b25nZmVpLmNuICjmm7nph5Hkuq4pCi0g5ZWG5oi35ZCO5Y+wIGh0dHBzOi8vYmFja2VuZC54aW55b25ncHVyc2UuY29tL2xvZ2luICjliJjpnITlj5EpIAotIOmmluS7mOa4uOS/oeeUqOaUr+S7mOWVhuaIt+WQjuWPsCBodHRwczovL21lcmNoYW50LnNob3VmdXlvdS5jb20gKOWui+W6hum5pCkKLSDliIbmtqbns7vnu58gaHR0cHM6Ly9jcHMueGlueW9uZ2ZlaS5jbi9zdGF0aXN0aWNzL2xpc3QgKOi1temHkei+iSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICA+IC0gWyBdIOWFs+mUruaTjeS9nOaXpeW/lwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICA+IC0gW3hdIOeZu+W9leaXpeW/lwo=</text>
+        <text encoding="base64">IyMg6aG555uu6LSf6LSj5Lq6Ci0g5YKs5pS25ZCO5Y+wIGh0dHBzOi8vY3Vpc2hvdS54aW55b25nZmVpLmNuICjorrjkuYnlubMpCi0g6aaW5LuY5ri4Y29uc29sZeWQjuWPsCBodHRwczovL2NvbnNvbGUuc2hvdWZ1eW91LmNvbSAo6YK15rW35rSyKSAKLSDpo47mjqflkI7lj7AgaHR0cHM6Ly9yaXNrLnNob3VmdXlvdS5jb20gKOWQtOeQsOW7tykKLSDotKLliqHlkI7lj7DvvJpodHRwczovL2ZpbmFuY2UtY29uc29sZS54aW55b25nZmVpLmNuIChKYXZhKQotIOmjjuaOp+WGs+etluW8leaTjiBodHRwczovL3Jjcy1jb25zb2xlLnhpbnlvbmdmZWkuY24gKEphdmEpCi0g5pWw5o2u5Yaz562W57O757ufIFtodHRwOi8vd2VicmVwb3J0LnhpbnlvbmdmZWkuY24vUmVwb3J0U2VydmVyP29wPWZzXShodHRwOi8vd2VicmVwb3J0LnhpbnlvbmdmZWkuY24vUmVwb3J0U2VydmVyP29wPWZzKSAoUHl0aG9uKQotIFNRTOWuoeaguOW5s+WPsCBbaHR0cDovL3llYXJuaW5nLnhpbnlvbmdmZWkuY24vIy9sb2dpbl0oaHR0cDovL3llYXJuaW5nLnhpbnlvbmdmZWkuY24vIy9sb2dpbikgICjov5Dnu7QpCi0g6aaW5LuY5ri45oql6KGo5ZCO5Y+wIGh0dHBzOi8vc3RhdC54aW55b25nZmVpLmNuICjmm7nph5Hkuq4pCi0g5ZWG5oi35ZCO5Y+wIGh0dHBzOi8vYmFja2VuZC54aW55b25ncHVyc2UuY29tL2xvZ2luICjliJjpnITlj5EpIAotIOmmluS7mOa4uOS/oeeUqOaUr+S7mOWVhuaIt+WQjuWPsCBodHRwczovL21lcmNoYW50LnNob3VmdXlvdS5jb20gKOWui+W6hum5pCkKLSDliIbmtqbns7vnu58gaHR0cHM6Ly9jcHMueGlueW9uZ2ZlaS5jbi9zdGF0aXN0aWNzL2xpc3QgKOi1temHkei+iSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFxFeGNlcHRpb24oJ+acqueZu+W9lScpOwo=</text>
+        <text encoding="base64">ICA+IC0gWyBdIOWFs+mUruaTjeS9nOaXpeW/lwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICA+IC0gW3hdIOeZu+W9leaXpeW/lwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFxFeGNlcHRpb24oJ+acqueZu+W9lScpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action SelectInProjectView</text>
+        <text>action Back</text>
       </register>
     </registers>
     <search>
@@ -758,17 +759,17 @@
         <entry>.nohls</entry>
         <entry>action Forward</entry>
         <entry>action NextSplitter</entry>
-        <entry>wq</entry>
         <entry>action NextTab</entry>
         <entry>g/^$/</entry>
         <entry>g/^$/d</entry>
-        <entry>action CloseAllEditors</entry>
         <entry>action FindUsages</entry>
         <entry>m .+1</entry>
         <entry>action PreviousTab</entry>
-        <entry>nohls</entry>
-        <entry>action Back</entry>
         <entry>action SelectInProjectView</entry>
+        <entry>action CloseAllEditors</entry>
+        <entry>nohls</entry>
+        <entry>wq</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
