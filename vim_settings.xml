@@ -419,7 +419,7 @@
       <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/bcmath/bcmath.php" timestamp="1561545641677">
         <mark key="'" line="66" column="9" />
       </file>
-      <file name="/PHP Console" timestamp="1563161812434">
+      <file name="/PHP Console" timestamp="1563163327373">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/xyf-middleground-system/composer.lock" timestamp="1562988887310">
@@ -713,7 +713,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>nohls</text>
+        <text>action SelectInProjectView</text>
       </register>
     </registers>
     <search>
@@ -756,7 +756,6 @@
         <entry>g/1/s/\$//</entry>
         <entry>vs</entry>
         <entry>.nohls</entry>
-        <entry>action SelectInProjectView</entry>
         <entry>action Forward</entry>
         <entry>action NextSplitter</entry>
         <entry>wq</entry>
@@ -766,9 +765,10 @@
         <entry>action CloseAllEditors</entry>
         <entry>action FindUsages</entry>
         <entry>m .+1</entry>
-        <entry>action Back</entry>
         <entry>action PreviousTab</entry>
         <entry>nohls</entry>
+        <entry>action Back</entry>
+        <entry>action SelectInProjectView</entry>
       </history-cmd>
       <history-expr />
       <history-input />
