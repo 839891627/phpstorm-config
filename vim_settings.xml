@@ -404,8 +404,8 @@
       <file name="$USER_HOME$/Develop/839891627.github.io/source/_posts/进程、线程解释.md" timestamp="1561379058751">
         <mark key="'" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Models/App.php" timestamp="1563430525864">
-        <mark key="'" line="1753" column="28" />
+      <file name="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Models/App.php" timestamp="1563431966854">
+        <mark key="'" line="1766" column="28" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Controllers/Api/BaseController.php" timestamp="1563430770490">
         <mark key="'" line="208" column="8" />
@@ -433,10 +433,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="743" column="12" filename="$USER_HOME$/Develop/sfy/syf-middleware-system/console/controllers/XyfSmsTaskController.php" />
-      <jump line="729" column="18" filename="$USER_HOME$/Develop/sfy/syf-middleware-system/console/controllers/XyfSmsTaskController.php" />
-      <jump line="756" column="63" filename="$USER_HOME$/Develop/sfy/syf-middleware-system/console/controllers/XyfSmsTaskController.php" />
-      <jump line="19" column="44" filename="$USER_HOME$/Develop/sfy/syf-middleware-system/logs/console/sms-task-20190717.log" />
       <jump line="33" column="4" filename="$USER_HOME$/Develop/sfy/syf-middleware-system/logs/console/sms-task-20190717.log" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/sfy/syf-middleware-system/logs/console/sms-task-20190717.log" />
       <jump line="724" column="8" filename="$USER_HOME$/Develop/sfy/syf-middleware-system/console/controllers/XyfSmsTaskController.php" />
@@ -523,16 +519,20 @@
       <jump line="33" column="34" filename="$USER_HOME$/Develop/sfy/xyf-middleground-system/common/config/local/params.php" />
       <jump line="454" column="19" filename="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Controllers/Api/CreditController.php" />
       <jump line="174" column="47" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/config/env.php" />
-      <jump line="1290" column="39" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Models/App.php" />
       <jump line="1761" column="51" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Models/App.php" />
       <jump line="249" column="0" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/config/env.php" />
       <jump line="435" column="36" filename="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Controllers/Api/CreditController.php" />
       <jump line="23" column="31" filename="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Controllers/Api/CreditController.php" />
       <jump line="20" column="29" filename="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Controllers/Api/BaseController.php" />
-      <jump line="1753" column="28" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Models/App.php" />
       <jump line="181" column="23" filename="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Controllers/Api/BaseController.php" />
       <jump line="34" column="19" filename="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Controllers/Api/CreditController.php" />
       <jump line="208" column="8" filename="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Controllers/Api/BaseController.php" />
+      <jump line="1753" column="28" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Models/App.php" />
+      <jump line="1339" column="43" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Models/App.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Models/App.php" />
+      <jump line="1290" column="39" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Models/App.php" />
+      <jump line="1783" column="19" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Models/App.php" />
+      <jump line="1766" column="28" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Models/App.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -593,7 +593,7 @@
         <text>;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhdXRoXD4=</text>
+        <text encoding="base64">XDxoYXNGbGlnaHREYXRhXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoKCRyZXQgPSAkc21zLT5zZW5kKCR0YXNrWydtb2JpbGUnXSwgJGNvbnRlbnQpKSA9PT0gdHJ1ZSkgewo=</text>
@@ -638,13 +638,13 @@
         <text encoding="base64">ICAgICAgICAgICAgZGQoJGJhdGNoKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>action NextTab</text>
+        <text>action Back</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhdXRoXD4=</last-search>
+      <last-search encoding="base64">XDxoYXNGbGlnaHREYXRhXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhdXRoXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxoYXNGbGlnaHREYXRhXD4=</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
@@ -670,8 +670,8 @@
         <entry>401014</entry>
         <entry encoding="base64">XDxhcHBseVw+</entry>
         <entry>fxd</entry>
-        <entry encoding="base64">XDxoYXNGbGlnaHREYXRhXD4=</entry>
         <entry encoding="base64">XDxhdXRoXD4=</entry>
+        <entry encoding="base64">XDxoYXNGbGlnaHREYXRhXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>g/1/s/\$//</entry>
@@ -690,10 +690,10 @@
         <entry>action SelectInProjectView</entry>
         <entry>nohls</entry>
         <entry>action CloseAllEditors</entry>
-        <entry>action Back</entry>
         <entry>wq</entry>
         <entry>action PreviousTab</entry>
         <entry>action NextTab</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
