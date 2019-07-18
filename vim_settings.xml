@@ -300,6 +300,13 @@
       <file name="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Models/Activation.php" timestamp="1563353290220">
         <mark key="'" line="90" column="55" />
       </file>
+      <file name="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Router.php" timestamp="1563446944370">
+        <mark key="'" line="32" column="27" />
+        <mark key="[" line="18" column="23" />
+        <mark key="]" line="18" column="23" />
+        <mark key="^" line="18" column="23" />
+        <mark key="." line="18" column="23" />
+      </file>
       <file name="$USER_HOME$/Develop/yii-demo/vendor/yiisoft/yii2/data/ActiveDataProvider.php" timestamp="1561361656153">
         <mark key="'" line="55" column="33" />
       </file>
@@ -426,8 +433,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="100" filename="$USER_HOME$/Develop/sfy/syf-middleware-system/common/services/CashCouponService.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Develop/sfy/syf-middleware-system/common/services/CashCouponService.php" />
       <jump line="11" column="18" filename="$USER_HOME$/Develop/sfy/syf-middleware-system/common/services/CashCouponService.php" />
       <jump line="760" column="56" filename="$USER_HOME$/Develop/sfy/syf-middleware-system/console/controllers/XyfSmsTaskController.php" />
       <jump line="735" column="21" filename="$USER_HOME$/Develop/sfy/syf-middleware-system/console/controllers/XyfSmsTaskController.php" />
@@ -492,7 +497,6 @@
       <jump line="12" column="59" filename="$USER_HOME$/Develop/sfy/syf-middleware-system/logs/console/sms-task-20190717.log" />
       <jump line="340" column="22" filename="$USER_HOME$/Develop/sfy/syf-middleware-system/console/controllers/XyfSmsTaskController.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Controllers/CreditController.php" />
-      <jump line="19" column="52" filename="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Router.php" />
       <jump line="42" column="40" filename="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Controllers/Api/CreditController.php" />
       <jump line="459" column="0" filename="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Controllers/Api/CreditController.php" />
       <jump line="18" column="22" filename="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Router.php" />
@@ -526,6 +530,9 @@
       <jump line="9" column="0" filename="$USER_HOME$/Develop/sfy/xyf-middleground-system/common/helpers/QueueHelper.php" />
       <jump line="24" column="4" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/CommonController.php" />
       <jump line="45" column="11" filename="$USER_HOME$/Develop/sfy/credit/fxd_api/controllers/CommonController.php" />
+      <jump line="19" column="45" filename="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Router.php" />
+      <jump line="31" column="27" filename="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Router.php" />
+      <jump line="32" column="27" filename="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Router.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -586,7 +593,7 @@
         <text>47.95.247.253</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxoYXNGbGlnaHREYXRhXD4=</text>
+        <text>veri</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoKCRyZXQgPSAkc21zLT5zZW5kKCR0YXNrWydtb2JpbGUnXSwgJGNvbnRlbnQpKSA9PT0gdHJ1ZSkgewo=</text>
@@ -635,17 +642,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxoYXNGbGlnaHREYXRhXD4=</last-search>
+      <last-search>veri</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxoYXNGbGlnaHREYXRhXD4=</last-pattern>
+      <last-pattern>veri</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>^</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>gen</entry>
         <entry encoding="base64">XDxzZnlOZXdQb3N0XD4=</entry>
         <entry>cashProduct</entry>
         <entry encoding="base64">XDx1dWlkXD4=</entry>
@@ -665,6 +671,7 @@
         <entry>fxd</entry>
         <entry encoding="base64">XDxhdXRoXD4=</entry>
         <entry encoding="base64">XDxoYXNGbGlnaHREYXRhXD4=</entry>
+        <entry>veri</entry>
       </history-search>
       <history-cmd>
         <entry>g/1/s/\$//</entry>
