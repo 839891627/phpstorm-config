@@ -290,12 +290,12 @@
         <mark key="." line="11" column="29" />
         <mark key="^" line="11" column="29" />
       </file>
-      <file name="$USER_HOME$/Develop/sfy/shoufuyou-php-lib/biz-common/Models/BizSfyWebClient.php" timestamp="1563516635832">
-        <mark key="'" line="5769" column="54" />
-        <mark key="[" line="5897" column="1" />
-        <mark key="]" line="5899" column="2483" />
-        <mark key="." line="5899" column="2483" />
-        <mark key="^" line="5899" column="2483" />
+      <file name="$USER_HOME$/Develop/sfy/shoufuyou-php-lib/biz-common/Models/BizSfyWebClient.php" timestamp="1563518708593">
+        <mark key="'" line="5899" column="0" />
+        <mark key="[" line="5901" column="0" />
+        <mark key="]" line="5901" column="0" />
+        <mark key="." line="5901" column="0" />
+        <mark key="^" line="5916" column="35" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Models/Activation.php" timestamp="1563353290220">
         <mark key="'" line="90" column="55" />
@@ -441,16 +441,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="49" filename="$USER_HOME$/Develop/sfy/syf-middleware-system/logs/console/sms-task-20190717.log" />
-      <jump line="9" column="47" filename="$USER_HOME$/Develop/sfy/syf-middleware-system/logs/console/sms-task-20190717.log" />
-      <jump line="749" column="26" filename="$USER_HOME$/Develop/sfy/syf-middleware-system/console/controllers/XyfSmsTaskController.php" />
-      <jump line="50" column="32" filename="$USER_HOME$/Develop/sfy/xinyongfei-stat/README.md" />
-      <jump line="20" column="31" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Router.php" />
-      <jump line="183" column="6" filename="$USER_HOME$/Develop/sfy/syf-middleware-system/console/controllers/XyfSmsTaskController.php" />
-      <jump line="169" column="17" filename="$USER_HOME$/Develop/sfy/syf-middleware-system/console/controllers/XyfSmsTaskController.php" />
-      <jump line="171" column="126" filename="$USER_HOME$/Develop/sfy/syf-middleware-system/console/controllers/XyfSmsTaskController.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Develop/sfy/syf-middleware-system/console/controllers/XyfSmsTaskController.php" />
-      <jump line="41" column="19" filename="$USER_HOME$/Develop/sfy/syf-middleware-system/console/controllers/XyfSmsTaskController.php" />
       <jump line="43" column="33" filename="$USER_HOME$/Develop/sfy/syf-middleware-system/console/controllers/XyfSmsTaskController.php" />
       <jump line="45" column="45" filename="$USER_HOME$/Develop/sfy/syf-middleware-system/console/controllers/XyfSmsTaskController.php" />
       <jump line="47" column="58" filename="$USER_HOME$/Develop/sfy/syf-middleware-system/console/controllers/XyfSmsTaskController.php" />
@@ -541,6 +531,16 @@
       <jump line="14" column="26" filename="$USER_HOME$/Develop/sfy/shoufuyou-php-lib/biz-common/Models/BizSfyWebClient.php" />
       <jump line="99" column="28" filename="$USER_HOME$/Develop/sfy/shoufuyou-php-lib/biz-common/Models/BizSfyWebClient.php" />
       <jump line="5769" column="54" filename="$USER_HOME$/Develop/sfy/shoufuyou-php-lib/biz-common/Models/BizSfyWebClient.php" />
+      <jump line="5889" column="94" filename="$USER_HOME$/Develop/sfy/shoufuyou-php-lib/biz-common/Models/BizSfyWebClient.php" />
+      <jump line="5934" column="20" filename="$USER_HOME$/Develop/sfy/shoufuyou-php-lib/biz-common/Models/BizSfyWebClient.php" />
+      <jump line="5940" column="6" filename="$USER_HOME$/Develop/sfy/shoufuyou-php-lib/biz-common/Models/BizSfyWebClient.php" />
+      <jump line="5912" column="20" filename="$USER_HOME$/Develop/sfy/shoufuyou-php-lib/biz-common/Models/BizSfyWebClient.php" />
+      <jump line="5921" column="28" filename="$USER_HOME$/Develop/sfy/shoufuyou-php-lib/biz-common/Models/BizSfyWebClient.php" />
+      <jump line="5917" column="32" filename="$USER_HOME$/Develop/sfy/shoufuyou-php-lib/biz-common/Models/BizSfyWebClient.php" />
+      <jump line="5916" column="32" filename="$USER_HOME$/Develop/sfy/shoufuyou-php-lib/biz-common/Models/BizSfyWebClient.php" />
+      <jump line="5904" column="186" filename="$USER_HOME$/Develop/sfy/shoufuyou-php-lib/biz-common/Models/BizSfyWebClient.php" />
+      <jump line="5924" column="35" filename="$USER_HOME$/Develop/sfy/shoufuyou-php-lib/biz-common/Models/BizSfyWebClient.php" />
+      <jump line="5899" column="0" filename="$USER_HOME$/Develop/sfy/shoufuyou-php-lib/biz-common/Models/BizSfyWebClient.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -572,7 +572,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBqc29uX2RlY29kZSgkcmVzdWx0LHRydWUpLnZhcl9kdW1wKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -598,72 +598,68 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">OyAg</text>
+        <text>position</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxDb25maWdcPg==</text>
+        <text encoding="base64">XDxuYW1lXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoKCRyZXQgPSAkc21zLT5zZW5kKCR0YXNrWydtb2JpbGUnXSwgJGNvbnRlbnQpKSA9PT0gdHJ1ZSkgewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBqc29uX2RlY29kZSgkcmVzdWx0LHRydWUpLnZhcl9kdW1wKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>jJj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PGRpdj48c3R5bGU+Lmcge2NsZWFyOmJvdGg7IGhlaWdodDowO30ubWFpbHNpZ24ge2ZvbnQtc2l6ZToxMnB4OyBjb2xvcjojODA4MDgwOyBtYXJnaW46MCAzNXB4OyBsaW5lLWhlaWdodDoyMnB4O30ubG9nbyB7d2lkdGg6MzA1cHg7IGhlaWdodDozNXB4OyBtYXJnaW46MjBweCAwIDEwcHggLTE1cHg7fS5uYW1lIHtmb250LXdlaWdodDo3MDA7IGZvbnQtc2l6ZToxNHB4OyBmbG9hdDpsZWZ0OyBjb2xvcjojODA4MDgwOyBoZWlnaHQ6MzBweDsgbGluZS1oZWlnaHQ6MzBweDt9LnBvc2l0aW9uIHtmbG9hdDpsZWZ0OyBtYXJnaW4tbGVmdDoxNXB4OyBjb2xvcjojODA4MDgwOyBoZWlnaHQ6MzBweDsgbGluZS1oZWlnaHQ6MzBweDt9LmNvbXBhbnkxIHtjbGVhcjpib3RoOyBmb250LXdlaWdodDo3MDA7IGZvbnQtc2l6ZToxNHB4OyBjb2xvcjojODA4MDgwOyBtYXJnaW4tdG9wOjEwcHg7fS5jb21wYW55MiB7Y2xlYXI6Ym90aDsgZm9udC13ZWlnaHQ6NzAwOyBmb250LXNpemU6MTRweDsgY29sb3I6IzgwODA4MDsgbWFyZ2luLWJvdHRvbToxMHB4O30uYWRke30uYWRkIC56aXAgeyBtYXJnaW4tbGVmdDo1cHg7IGNvbG9yOiNhMGEwYTA7IGZvbnQtc2l6ZToxMHB4O30udGVsIHt9LmZheCB7fS5waG9uZSB7fS53ZWJzaXRlIHt9LndlYnNpdGUgYSB7Y29sb3I6IzgwODA4MDsgdGV4dC1kZWNvcmF0aW9uOm5vbmUgIWltcG9ydGFudDt9LmVuZyB7fS5zdGF0ZSB7Y29sb3I6I2EwYTBhMDsgbWFyZ2luLXRvcDoyMHB4OyBwYWRkaW5nOjE1cHg7IGJvcmRlcjoxcHggc29saWQgI0NDQzsgYm9yZGVyLXJhZGl1czoxMHB4fS5zdGF0ZSBoNCB7IG1hcmdpbjowO30uc3RhdGUgcCB7bWFyZ2luOjA7IGZvbnQtc2l6ZTo3LjVwdDt9PC9zdHlsZT48ZGl2IGNsYXNzPSJtYWlsc2lnbiI+PGRpdiBjbGFzcz0ibG9nbyI+PGltZyBzcmM9Imh0dHBzOi8vZXhtYWlsLnFxLmNvbS9jZ2ktYmluL3ZpZXdmaWxlP3R5cGU9bG9nbyZhbXA7ZG9tYWluPXZjYW5iaW8uY29tIj48L2Rpdj48ZGl2IGNsYXNzPSJnIj48ZGl2IGNsYXNzPSJuYW1lIj48dCBpZD0idG5hbWUiPuabuemHkeS6rjwvdD48L2Rpdj48ZGl2IGNsYXNzPSJwb3NpdGlvbiI+PHQgaWQ9InRwb3NpdGlvbiI+UEhQ5byA5Y+R5bel56iL5biIPC90PjwvZGl2PjwvZGl2PjxkaXYgY2xhc3M9ImciPjwvZGl2PjxkaXYgY2xhc3M9ImNvbXBhbnkxIj7kuK3mupDljY/lkoznu4bog57ln7rlm6Dlt6XnqIvogqHku73mnInpmZDlhazlj7g8L2Rpdj48ZGl2IGNsYXNzPSJjb21wYW55MiI+PHQgaWQ9InRjb21wYW55Ij7mioDmnK/pg6g8L3Q+PC9kaXY+PGRpdiBjbGFzcz0iYWRkIj48c3Bhbj7lnLDlnYAvQWRk77yaPC9zcGFuPjx0IGlkPSJ0YWRkIj7kuIrmtbfluILplb/lroHljLrmt67mtbfopb/ot680MzLlj7flh6/liKnlpKfljqY05qW8PC90PjxzcGFuIGNsYXNzPSJ6aXAiPijpgq7nvJY6PHQgaWQ9InR6aXAiPmFydmluLmNhb0BzaG91ZnV5b3UuY29tPC90Pik8L3NwYW4+PC9kaXY+PGRpdiBjbGFzcz0idGVsIj48c3Bhbj7nlLXor50vVGVs77yaPC9zcGFuPig8dCBpZD0idHRlbDEiPuWMuuWPtzwvdD4pLTx0IGlkPSJ0dGVsMiI+5aGr5YaZ5oKo55qE55S16K+d5Y+356CBPC90PjwvZGl2PjxkaXYgY2xhc3M9ImZheCI+PHNwYW4+5Lyg55yfL0ZheO+8mjwvc3Bhbj4oPHQgaWQ9InRmYXgxIj7ljLrlj7c8L3Q+KS08dCBpZD0idGZheDIiPuWhq+WGmeaCqOeahOS8oOecn+WPt+eggTwvdD48L2Rpdj48ZGl2IGNsYXNzPSJtb2IiPjxzcGFuPuaJi+acui9Nb2LvvJo8L3NwYW4+PHQgaWQ9InRtb2IiPjEzMDYyNzY1MTc1PC90PjwvZGl2PjxkaXYgY2xhc3M9IndlYnNpdGUiPjxhIGhyZWY9Imh0dHA6Ly93d3cudmNhbmJpby5jb20vIiB0YXJnZXQ9Il9ibGFuayI+d3d3LnZjYW5iaW8uY29tPC9hPjwvZGl2PjxkaXYgY2xhc3M9InN0YXRlIj48aDQ+5L+d5a+G5aOw5piO77yaPC9oND48cD7mraTmlofku7bkuK3lj6/og73lkKvmnInmnLrlr4bnsbvkv6Hmga/vvIzku4XpmZDkuo7kuIrmlrnmj5DliLDnmoTkurrlkZjkvb/nlKjjgILoi6XpnZ7ku6XkuIrkurrlkZjmiJbotJ/otKPlsIbor6Xkv6Hmga/kvKDpgIHnu5nkuIrov7DkurrlkZjnmoTogYzlkZjmiJbku6PnkIbkurrvvIzkuKXnpoHlr7nmraTmlofku7bkvZzku7vkvZXlvaLlvI/nmoTmsYfmiqXjgIHmlaPluIPjgIHkvKDmkq3lj4rlpI3liLbjgILoi6XpnZ7mraTmlofku7bnmoTmjIflrprmlLbku7bkurrvvIzor7fnq4vljbPku6Xpgq7ku7blvaLlvI/ogZTns7vlj5Hku7bkurrlubbplIDmr4HmiYDmnInljp/lp4vmlofku7bnmoTmi7fotJ3jgII8L3A+PGg0PkNPTkZJREVOVElBTElUWSBOT1RJQ0U6PC9oND48cD5UaGUgaW5mb3JtYXRpb24gY29udGFpbmVkIGluIHRoaXMgdHJhbnNtaXNzaW9uIG1heSBjb250YWluIHByaXZpbGVnZWQgYW5kIGNvbmZpZGVudGlhbCBpbmZvcm1hdGlvbiBhbmQgaXMgaW50ZW5kZWQgb25seSBmb3IgdGhlIHVzZSBvZiB0aGUgcGVyc29uKHMpIG5hbWVkIGFib3ZlLiBJZiB5b3UgYXJlIG5vdCB0aGUgaW50ZW5kZWQgcmVjaXBpZW50LCBvciBhbiBlbXBsb3llZSBvciBhZ2VudCByZXNwb25zaWJsZSBmb3IgZGVsaXZlcmluZyB0aGlzIG1lc3NhZ2UgdG8gdGhlIGludGVuZGVkIHJlY2lwaWVudCwgYW55IHJldmlldywgZGlzc2VtaW5hdGlvbiwgZGlzdHJpYnV0aW9uIG9yIGR1cGxpY2F0aW9uIG9mIHRoaXMgY29tbXVuaWNhdGlvbiBpcyBzdHJpY3RseSBwcm9oaWJpdGVkLiBJZiB5b3UgYXJlIG5vdCB0aGUgaW50ZW5kZWQgcmVjaXBpZW50LCBwbGVhc2UgY29udGFjdCB0aGUgc2VuZGVyIGltbWVkaWF0ZWx5IGJ5IHJlcGx5IGUtbWFpbCBhbmQgZGVzdHJveSBhbGwgY29waWVzIG9mIHRoZSBvcmlnaW5hbCBtZXNzYWdlLjwvcD48L2Rpdj48L2Rpdj48L2Rpdj4K</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CmRvY2tlciBydW4gXAotLXJtIFwKLXUgcm9vdCBcCi1wIDgwODA6ODA4MCBcCi1kIFwKLXYgamVua2lucy1kYXRhOi92YXIvamVua2luc19ob21lIFwKLXYgL3Zhci9ydW4vZG9ja2VyLnNvY2s6L3Zhci9ydW4vZG9ja2VyLnNvY2sgXAotdiAvVXNlcnMvY2FvamlubGlhbmcvRGV2ZWxvcDovaG9tZSBcCg==</text>
+        <text encoding="base64">ICAgICAgICBqc29uX2RlY29kZSgkcmVzdWx0LHRydWUpLnZhcl9kdW1wKCkK</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cGhwIC1yICJmaWxlX2dldF9jb250ZW50cygnaHR0cDovL215c3FsMS10ZXN0LnhpbnlvbmdmZWkuaW8nKTsiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cGhwIC1yY2NjY2MK</text>
+        <text encoding="base64">CmRvY2tlciBydW4gXAotLXJtIFwKLXUgcm9vdCBcCi1wIDgwODA6ODA4MCBcCi1kIFwKLXYgamVua2lucy1kYXRhOi92YXIvamVua2luc19ob21lIFwKLXYgL3Zhci9ydW4vZG9ja2VyLnNvY2s6L3Zhci9ydW4vZG9ja2VyLnNvY2sgXAotdiAvVXNlcnMvY2FvamlubGlhbmcvRGV2ZWxvcDovaG9tZSBcCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Y2F0Y2ggKFxFeGNlcHRpb24gJGUpewogICAgICAgICAgICBkZCgkZS0+Z2V0TWVzc2FnZSgpKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">cGhwIC1yICJmaWxlX2dldF9jb250ZW50cygnaHR0cDovL215c3FsMS10ZXN0LnhpbnlvbmdmZWkuaW8nKTsiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+Y29ubmVjdGlvbik7Cg==</text>
+        <text encoding="base64">cGhwIC1yY2NjY2MK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Y2F0Y2ggKFxFeGNlcHRpb24gJGUpewogICAgICAgICAgICBkZCgkZS0+Z2V0TWVzc2FnZSgpKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0cnl7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+Y29ubmVjdGlvbik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>nohls</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxDb25maWdcPg==</last-search>
+      <last-search encoding="base64">XDxuYW1lXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxDb25maWdcPg==</last-pattern>
-      <last-replace>'</last-replace>
-      <last-substitute>^</last-substitute>
+      <last-pattern encoding="base64">XDxuYW1lXD4=</last-pattern>
+      <last-replace>strong</last-replace>
+      <last-substitute>bold</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx1dWlkXD4=</entry>
-        <entry encoding="base64">XDxsb2FuVHlwZVw+</entry>
-        <entry encoding="base64">XDxyZXF1ZXN0XD4=</entry>
-        <entry>query</entry>
         <entry encoding="base64">XDxoZWFkZXJQYXJhbXNcPg==</entry>
         <entry encoding="base64">XDxhcGlcPg==</entry>
         <entry encoding="base64">XDzljaHliLjjgJA5M+OAkUNhc2hDb3Vwb25Mb2FuVHlwZVw+</entry>
@@ -680,9 +676,12 @@
         <entry>veri</entry>
         <entry encoding="base64">XDxnZXRVc2VyVGFvYmFvRGF0YVw+</entry>
         <entry encoding="base64">XDxDb25maWdcPg==</entry>
+        <entry>bold</entry>
+        <entry encoding="base64">XDxjb21wYW55MVw+</entry>
+        <entry encoding="base64">XDxwb3NpdGlvblw+</entry>
+        <entry encoding="base64">XDxuYW1lXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>.nohls</entry>
         <entry>action Forward</entry>
         <entry>g/^$/</entry>
         <entry>g/^$/d</entry>
@@ -701,6 +700,7 @@
         <entry>action Back</entry>
         <entry>action FindUsages</entry>
         <entry>action SelectInProjectView</entry>
+        <entry>%s/bold/strong/g</entry>
         <entry>nohls</entry>
       </history-cmd>
       <history-expr />
