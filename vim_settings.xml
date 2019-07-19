@@ -295,6 +295,9 @@
         <mark key="]" line="5898" column="0" />
         <mark key="." line="5898" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/sfy/syf-middleware-system/console/controllers/XyfSmsTaskController.php" timestamp="1563531882103">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Models/Activation.php" timestamp="1563353290220">
         <mark key="'" line="90" column="55" />
       </file>
@@ -439,15 +442,10 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="45" filename="$USER_HOME$/Develop/sfy/syf-middleware-system/console/controllers/XyfSmsTaskController.php" />
-      <jump line="47" column="58" filename="$USER_HOME$/Develop/sfy/syf-middleware-system/console/controllers/XyfSmsTaskController.php" />
-      <jump line="68" column="112" filename="$USER_HOME$/Develop/sfy/syf-middleware-system/console/controllers/XyfSmsTaskController.php" />
-      <jump line="74" column="43" filename="$USER_HOME$/Develop/sfy/syf-middleware-system/console/controllers/XyfSmsTaskController.php" />
       <jump line="79" column="19" filename="$USER_HOME$/Develop/sfy/syf-middleware-system/console/controllers/XyfSmsTaskController.php" />
       <jump line="81" column="33" filename="$USER_HOME$/Develop/sfy/syf-middleware-system/console/controllers/XyfSmsTaskController.php" />
       <jump line="83" column="52" filename="$USER_HOME$/Develop/sfy/syf-middleware-system/console/controllers/XyfSmsTaskController.php" />
       <jump line="86" column="58" filename="$USER_HOME$/Develop/sfy/syf-middleware-system/console/controllers/XyfSmsTaskController.php" />
-      <jump line="104" column="99" filename="$USER_HOME$/Develop/sfy/syf-middleware-system/console/controllers/XyfSmsTaskController.php" />
       <jump line="109" column="50" filename="$USER_HOME$/Develop/sfy/syf-middleware-system/console/controllers/XyfSmsTaskController.php" />
       <jump line="114" column="19" filename="$USER_HOME$/Develop/sfy/syf-middleware-system/console/controllers/XyfSmsTaskController.php" />
       <jump line="117" column="33" filename="$USER_HOME$/Develop/sfy/syf-middleware-system/console/controllers/XyfSmsTaskController.php" />
@@ -539,6 +537,11 @@
       <jump line="5924" column="35" filename="$USER_HOME$/Develop/sfy/shoufuyou-php-lib/biz-common/Models/BizSfyWebClient.php" />
       <jump line="5899" column="0" filename="$USER_HOME$/Develop/sfy/shoufuyou-php-lib/biz-common/Models/BizSfyWebClient.php" />
       <jump line="5898" column="0" filename="$USER_HOME$/Develop/sfy/shoufuyou-php-lib/biz-common/Models/BizSfyWebClient.php" />
+      <jump line="348" column="55" filename="$USER_HOME$/Develop/sfy/syf-middleware-system/console/controllers/XyfSmsTaskController.php" />
+      <jump line="68" column="19" filename="$USER_HOME$/Develop/sfy/syf-middleware-system/console/controllers/XyfSmsTaskController.php" />
+      <jump line="104" column="19" filename="$USER_HOME$/Develop/sfy/syf-middleware-system/console/controllers/XyfSmsTaskController.php" />
+      <jump line="665" column="59" filename="$USER_HOME$/Develop/sfy/syf-middleware-system/console/controllers/XyfSmsTaskController.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Develop/sfy/syf-middleware-system/console/controllers/XyfSmsTaskController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -599,7 +602,7 @@
         <text>position</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxuYW1lXD4=</text>
+        <text>注册后三要素未填写</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoKCRyZXQgPSAkc21zLT5zZW5kKCR0YXNrWydtb2JpbGUnXSwgJGNvbnRlbnQpKSA9PT0gdHJ1ZSkgewo=</text>
@@ -648,18 +651,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxuYW1lXD4=</last-search>
+      <last-search>注册后三要素未填写</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxuYW1lXD4=</last-pattern>
+      <last-pattern>注册后三要素未填写</last-pattern>
       <last-replace>strong</last-replace>
       <last-substitute>bold</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxoZWFkZXJQYXJhbXNcPg==</entry>
-        <entry encoding="base64">XDxhcGlcPg==</entry>
         <entry encoding="base64">XDzljaHliLjjgJA5M+OAkUNhc2hDb3Vwb25Mb2FuVHlwZVw+</entry>
         <entry>CashCouponLoanType</entry>
         <entry encoding="base64">XDxzZW5kQ291cG9uXD4=</entry>
@@ -678,6 +679,8 @@
         <entry encoding="base64">XDxjb21wYW55MVw+</entry>
         <entry encoding="base64">XDxwb3NpdGlvblw+</entry>
         <entry encoding="base64">XDxuYW1lXD4=</entry>
+        <entry encoding="base64">XDxhZGRTbXNUYXNrc1w+</entry>
+        <entry>注册后三要素未填写</entry>
       </history-search>
       <history-cmd>
         <entry>action Forward</entry>
