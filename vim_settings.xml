@@ -28,6 +28,9 @@
       <file name="$USER_HOME$/Develop/sfy/credit/common/unit/VerifyCode.php" timestamp="1562122546537">
         <mark key="'" line="33" column="27" />
       </file>
+      <file name="$USER_HOME$/Develop/sfy/shoufuyou-php-lib/shoufuyou/Util/SfyWebClient.php" timestamp="1563776075374">
+        <mark key="'" line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/sfy/syf-middleware-system/common/services/Helper.php" timestamp="1563336355618">
         <mark key="'" line="21" column="20" />
         <mark key="[" line="36" column="0" />
@@ -99,6 +102,11 @@
         <mark key="[" line="16" column="24" />
         <mark key="]" line="16" column="25" />
         <mark key="." line="16" column="25" />
+      </file>
+      <file name="$USER_HOME$/Develop/sfy/loanmarket/common/config/bootstrap.php" timestamp="1563775979907">
+        <mark key="[" line="9" column="23" />
+        <mark key="]" line="9" column="23" />
+        <mark key="." line="9" column="23" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Models/Credit.php" timestamp="1563775587617">
         <mark key="'" line="3856" column="32" />
@@ -213,6 +221,9 @@
       <file name="$USER_HOME$/Develop/sfy/credit/common/unit/CodeMessage.php" timestamp="1562122338579">
         <mark key="'" line="146" column="84" />
       </file>
+      <file name="$USER_HOME$/Develop/sfy/loanmarket/common/service/Loanmarket.php" timestamp="1563776018122">
+        <mark key="'" line="382" column="27" />
+      </file>
       <file name="$USER_HOME$/Develop/sfy/shoufuyou-sms-system/service/GduSms.php" timestamp="1562568630381">
         <mark key="'" line="85" column="27" />
       </file>
@@ -304,12 +315,6 @@
       </file>
       <file name="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Controllers/Api/ActivationController.php" timestamp="1563353206739">
         <mark key="'" line="191" column="32" />
-      </file>
-      <file name="$USER_HOME$/Develop/sfy/credit/common/config/test/db.php" timestamp="1563450573445">
-        <mark key="[" line="11" column="29" />
-        <mark key="]" line="11" column="29" />
-        <mark key="." line="11" column="29" />
-        <mark key="^" line="11" column="29" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/shoufuyou-php-lib/biz-common/Models/BizSfyWebClient.php" timestamp="1563519670338">
         <mark key="[" line="5898" column="0" />
@@ -438,8 +443,8 @@
       <file name="$USER_HOME$/Develop/839891627.github.io/source/_posts/进程、线程解释.md" timestamp="1561379058751">
         <mark key="'" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Models/App.php" timestamp="1563774984879">
-        <mark key="'" line="1091" column="31" />
+      <file name="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Models/App.php" timestamp="1563776071585">
+        <mark key="'" line="1157" column="37" />
         <mark key="[" line="1351" column="0" />
         <mark key="]" line="1351" column="0" />
         <mark key="." line="1351" column="0" />
@@ -456,6 +461,7 @@
       <file name="$USER_HOME$/Develop/sfy/credit/logs/fxd_api/fxd_api_20190712.log" timestamp="1563265775535">
         <mark key="'" line="7" column="86" />
       </file>
+      <file name="$USER_HOME$/Develop/sfy/shoufuyou-tool/bin/conf/common_env_dev.php" timestamp="1563776097167" />
       <file name="$USER_HOME$/Develop/839891627.github.io/source/_posts/RSA 签名验证-PHP实现.md" timestamp="1561378716663">
         <mark key="'" line="10" column="5" />
       </file>
@@ -470,9 +476,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="271" column="11" filename="$USER_HOME$/Develop/sfy/syf-middleware-system/console/controllers/XyfSmsTaskController.php" />
-      <jump line="257" column="0" filename="$USER_HOME$/Develop/sfy/syf-middleware-system/console/controllers/XyfSmsTaskController.php" />
-      <jump line="268" column="27" filename="$USER_HOME$/Develop/sfy/syf-middleware-system/console/controllers/XyfSmsTaskController.php" />
       <jump line="266" column="16" filename="$USER_HOME$/Develop/sfy/syf-middleware-system/console/controllers/XyfSmsTaskController.php" />
       <jump line="264" column="37" filename="$USER_HOME$/Develop/sfy/syf-middleware-system/console/controllers/XyfSmsTaskController.php" />
       <jump line="273" column="18" filename="$USER_HOME$/Develop/sfy/syf-middleware-system/console/controllers/XyfSmsTaskController.php" />
@@ -570,6 +573,9 @@
       <jump line="1083" column="44" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Models/App.php" />
       <jump line="1091" column="31" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Models/App.php" />
       <jump line="3856" column="32" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Models/Credit.php" />
+      <jump line="3" column="0" filename="$USER_HOME$/Develop/sfy/shoufuyou-php-lib/shoufuyou/Util/SfyWebClient.php" />
+      <jump line="382" column="27" filename="$USER_HOME$/Develop/sfy/loanmarket/common/service/Loanmarket.php" />
+      <jump line="1157" column="37" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Models/App.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -600,8 +606,8 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcGFyYW1zKTsK</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -627,7 +633,7 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>position</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>test2-</text>
@@ -675,7 +681,7 @@
         <text encoding="base64">cGhwIC1yICJmaWxlX2dldF9jb250ZW50cygnaHR0cDovL215c3FsMS10ZXN0LnhpbnlvbmdmZWkuaW8nKTsiCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action SelectInProjectView</text>
+        <text>action Back</text>
       </register>
     </registers>
     <search>
@@ -724,13 +730,13 @@
         <entry>%s/test-/http://test-/g</entry>
         <entry>%s/test-/http:\/\/test-/g</entry>
         <entry>%s/test2-/http:\/\/test2-/g</entry>
-        <entry>wq</entry>
         <entry>action PreviousTab</entry>
         <entry>nohls</entry>
         <entry>action NextTab</entry>
+        <entry>action SelectInProjectView</entry>
+        <entry>wq</entry>
         <entry>action CloseAllEditors</entry>
         <entry>action Back</entry>
-        <entry>action SelectInProjectView</entry>
       </history-cmd>
       <history-expr />
       <history-input />
