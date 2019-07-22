@@ -91,6 +91,13 @@
       <file name="$USER_HOME$/Develop/sfy/shoufuyou-console/lib/Router.php" timestamp="1563245327839">
         <mark key="'" line="604" column="18" />
       </file>
+      <file name="$USER_HOME$/Develop/sfy/loanmarket/README.md" timestamp="1563762590458">
+        <mark key="'" line="34" column="178" />
+        <mark key="[" line="34" column="179" />
+        <mark key="]" line="34" column="178" />
+        <mark key="^" line="34" column="178" />
+        <mark key="." line="34" column="178" />
+      </file>
       <file name="$USER_HOME$/Develop/839891627.github.io/source/_posts/从bz2安装firefox并添加图标.md" timestamp="1561378725799">
         <mark key="'" line="8" column="0" />
       </file>
@@ -442,8 +449,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="19" filename="$USER_HOME$/Develop/sfy/syf-middleware-system/console/controllers/XyfSmsTaskController.php" />
-      <jump line="81" column="33" filename="$USER_HOME$/Develop/sfy/syf-middleware-system/console/controllers/XyfSmsTaskController.php" />
       <jump line="83" column="52" filename="$USER_HOME$/Develop/sfy/syf-middleware-system/console/controllers/XyfSmsTaskController.php" />
       <jump line="86" column="58" filename="$USER_HOME$/Develop/sfy/syf-middleware-system/console/controllers/XyfSmsTaskController.php" />
       <jump line="109" column="50" filename="$USER_HOME$/Develop/sfy/syf-middleware-system/console/controllers/XyfSmsTaskController.php" />
@@ -542,6 +547,8 @@
       <jump line="104" column="19" filename="$USER_HOME$/Develop/sfy/syf-middleware-system/console/controllers/XyfSmsTaskController.php" />
       <jump line="665" column="59" filename="$USER_HOME$/Develop/sfy/syf-middleware-system/console/controllers/XyfSmsTaskController.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/sfy/syf-middleware-system/console/controllers/XyfSmsTaskController.php" />
+      <jump line="62" column="0" filename="$USER_HOME$/Develop/sfy/loanmarket/README.md" />
+      <jump line="34" column="178" filename="$USER_HOME$/Develop/sfy/loanmarket/README.md" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -602,7 +609,7 @@
         <text>position</text>
       </register>
       <register name="/" type="4">
-        <text>注册后三要素未填写</text>
+        <text>test2-</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoKCRyZXQgPSAkc21zLT5zZW5kKCR0YXNrWydtb2JpbGUnXSwgJGNvbnRlbnQpKSA9PT0gdHJ1ZSkgewo=</text>
@@ -651,18 +658,16 @@
       </register>
     </registers>
     <search>
-      <last-search>注册后三要素未填写</last-search>
+      <last-search>test2-</last-search>
       <last-offset />
-      <last-pattern>注册后三要素未填写</last-pattern>
-      <last-replace>strong</last-replace>
-      <last-substitute>bold</last-substitute>
+      <last-pattern>test2-</last-pattern>
+      <last-replace>http:\/\/test2-</last-replace>
+      <last-substitute>test2-</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDzljaHliLjjgJA5M+OAkUNhc2hDb3Vwb25Mb2FuVHlwZVw+</entry>
-        <entry>CashCouponLoanType</entry>
         <entry encoding="base64">XDxzZW5kQ291cG9uXD4=</entry>
         <entry>coupon</entry>
         <entry encoding="base64">XDxidWZmZXJcPg==</entry>
@@ -681,11 +686,10 @@
         <entry encoding="base64">XDxuYW1lXD4=</entry>
         <entry encoding="base64">XDxhZGRTbXNUYXNrc1w+</entry>
         <entry>注册后三要素未填写</entry>
+        <entry>test-</entry>
+        <entry>test2-</entry>
       </history-search>
       <history-cmd>
-        <entry>action Forward</entry>
-        <entry>g/^$/</entry>
-        <entry>g/^$/d</entry>
         <entry>m .+1</entry>
         <entry encoding="base64">JzwsJz5zLygpLy9n</entry>
         <entry>vs</entry>
@@ -702,6 +706,9 @@
         <entry>action FindUsages</entry>
         <entry>action SelectInProjectView</entry>
         <entry>%s/bold/strong/g</entry>
+        <entry>%s/test-/http://test-/g</entry>
+        <entry>%s/test-/http:\/\/test-/g</entry>
+        <entry>%s/test2-/http:\/\/test2-/g</entry>
         <entry>nohls</entry>
       </history-cmd>
       <history-expr />
