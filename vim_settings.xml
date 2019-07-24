@@ -92,8 +92,8 @@
       <file name="$USER_HOME$/Develop/sfy/credit/console/controllers/BaseController.php" timestamp="1562575267265">
         <mark key="'" line="18" column="29" />
       </file>
-      <file name="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Router.php" timestamp="1563952231135">
-        <mark key="'" line="249" column="43" />
+      <file name="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Router.php" timestamp="1563956649750">
+        <mark key="'" line="12" column="15" />
         <mark key="[" line="20" column="28" />
         <mark key="]" line="20" column="30" />
         <mark key="." line="20" column="30" />
@@ -513,7 +513,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="6" filename="$USER_HOME$/Develop/sfy/loanmarket/common/models/LoanmarketLimit.php" />
       <jump line="810" column="0" filename="$USER_HOME$/Develop/sfy/loanmarket/common/service/Loanmarket.php" />
       <jump line="862" column="29" filename="$USER_HOME$/Develop/sfy/loanmarket/common/service/Loanmarket.php" />
       <jump line="799" column="48" filename="$USER_HOME$/Develop/sfy/loanmarket/common/service/Loanmarket.php" />
@@ -613,6 +612,7 @@
       <jump line="152" column="27" filename="$USER_HOME$/Develop/sfy/loanmarket/common/service/Ads.php" />
       <jump line="25" column="23" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Controllers/LoanmarketController.php" />
       <jump line="23" column="42" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Controllers/LoanmarketController.php" />
+      <jump line="12" column="15" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Router.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -673,7 +673,7 @@
         <text>ads-m-c</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhcHBcPg==</text>
+        <text>route</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJ3Bvc2l0aW9uJyA9PiAnaW5kZXhUb3BCYW5uZXInLAo=</text>
@@ -718,21 +718,20 @@
         <text encoding="base64">ICAgICAgICAgICAgZGllOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>nohls</text>
+        <text>action CloseAllEditors</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhcHBcPg==</last-search>
+      <last-search>route</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhcHBcPg==</last-pattern>
+      <last-pattern>route</last-pattern>
       <last-replace>rule</last-replace>
       <last-substitute>limit</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhY3Rpb25BZGRcPg==</entry>
         <entry encoding="base64">XDxMb2FubWFya2V0Q2F0ZWdvcnlcPg==</entry>
         <entry encoding="base64">XDxtaW5fcGVyaW9kXD4=</entry>
         <entry>app</entry>
@@ -752,6 +751,7 @@
         <entry>loanmarket_system_domain</entry>
         <entry encoding="base64">XDxpc0JhY2tlbmRcPg==</entry>
         <entry encoding="base64">XDxhcHBcPg==</entry>
+        <entry>route</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL14vJy9n</entry>
@@ -767,13 +767,13 @@
         <entry>action NextSplitter</entry>
         <entry encoding="base64">JzwsJz5zL2xpbWl0L3J1bGUvZw==</entry>
         <entry>action FindUsages</entry>
-        <entry>action CloseAllEditors</entry>
         <entry>action SelectInProjectView</entry>
         <entry>action Back</entry>
         <entry>action PreviousTab</entry>
         <entry>action NextTab</entry>
         <entry>wq</entry>
         <entry>nohls</entry>
+        <entry>action CloseAllEditors</entry>
       </history-cmd>
       <history-expr />
       <history-input />
