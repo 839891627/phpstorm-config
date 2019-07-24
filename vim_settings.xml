@@ -424,12 +424,12 @@
       <file name="$USER_HOME$/Develop/yii-demo/views/country/index.php" timestamp="1561360609676">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Controllers/LoanmarketController.php" timestamp="1563955555228">
-        <mark key="'" line="23" column="23" />
-        <mark key="[" line="179" column="0" />
-        <mark key="]" line="179" column="0" />
-        <mark key="." line="179" column="0" />
-        <mark key="^" line="178" column="33" />
+      <file name="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Controllers/LoanmarketController.php" timestamp="1563956019755">
+        <mark key="'" line="23" column="42" />
+        <mark key="[" line="181" column="62" />
+        <mark key="]" line="181" column="71" />
+        <mark key="." line="181" column="71" />
+        <mark key="^" line="181" column="71" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/xinyongfei-stat/views/_layouts/main.html.php" timestamp="1562919940963">
         <mark key="'" line="23" column="22" />
@@ -553,7 +553,6 @@
       <jump line="65" column="21" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Router.php" />
       <jump line="66" column="21" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Router.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Router.php" />
-      <jump line="23" column="9" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Controllers/LoanmarketController.php" />
       <jump line="165" column="0" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Controllers/LoanmarketController.php" />
       <jump line="160" column="0" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Controllers/LoanmarketController.php" />
       <jump line="64" column="0" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Controllers/BaseController.php" />
@@ -613,6 +612,7 @@
       <jump line="140" column="21" filename="$USER_HOME$/Develop/sfy/loanmarket/serviceapi/controllers/LoanmarketController.php" />
       <jump line="152" column="27" filename="$USER_HOME$/Develop/sfy/loanmarket/common/service/Ads.php" />
       <jump line="25" column="23" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Controllers/LoanmarketController.php" />
+      <jump line="23" column="42" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Controllers/LoanmarketController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -643,8 +643,8 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gJ2FwcCcgICAgICA9PiBFbnY6OiRhcHAsCg==</text>
+      <register name="&quot;" type="4">
+        <text>ads-m-c</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -670,7 +670,7 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>'indexTopBanner',</text>
+        <text>ads-m-c</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcHBcPg==</text>
