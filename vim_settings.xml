@@ -208,11 +208,12 @@
       <file name="$USER_HOME$/Develop/sfy/credit/common/unit/CodeMessage.php" timestamp="1562122338579">
         <mark key="'" line="146" column="84" />
       </file>
-      <file name="$USER_HOME$/Develop/sfy/loanmarket/common/service/Loanmarket.php" timestamp="1563951474139">
-        <mark key="'" line="168" column="19" />
-        <mark key="[" line="152" column="0" />
-        <mark key="]" line="152" column="0" />
-        <mark key="." line="152" column="0" />
+      <file name="$USER_HOME$/Develop/sfy/loanmarket/common/service/Loanmarket.php" timestamp="1563964516240">
+        <mark key="'" line="454" column="39" />
+        <mark key="[" line="451" column="23" />
+        <mark key="]" line="451" column="23" />
+        <mark key="." line="451" column="23" />
+        <mark key="^" line="451" column="27" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/shoufuyou-sms-system/service/GduSms.php" timestamp="1562568630381">
         <mark key="'" line="85" column="27" />
@@ -372,8 +373,8 @@
       <file name="$USER_HOME$/Develop/sfy/xinyongfei-stat/log/app/20190712.log" timestamp="1563157397851">
         <mark key="'" line="10" column="64" />
       </file>
-      <file name="$USER_HOME$/Develop/sfy/loanmarket/serviceapi/controllers/AppController.php" timestamp="1563953732697">
-        <mark key="'" line="37" column="8" />
+      <file name="$USER_HOME$/Develop/sfy/loanmarket/serviceapi/controllers/AppController.php" timestamp="1563964451070">
+        <mark key="'" line="59" column="44" />
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
@@ -476,10 +477,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="4" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Controllers/LoanmarketController.php" />
-      <jump line="20" column="38" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Controllers/BaseController.php" />
-      <jump line="10" column="6" filename="$USER_HOME$/Develop/sfy/shoufuyou-php-lib/shoufuyou/Util/SfyWebClient.php" />
-      <jump line="342" column="34" filename="$USER_HOME$/Develop/sfy/shoufuyou-php-lib/shoufuyou/Util/SfyWebClient.php" />
       <jump line="128" column="8" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/config/env.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/config/env.php" />
       <jump line="351" column="52" filename="$USER_HOME$/Develop/sfy/shoufuyou-php-lib/shoufuyou/Util/SfyWebClient.php" />
@@ -576,6 +573,10 @@
       <jump line="49" column="8" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Controllers/RouteController.php" />
       <jump line="18" column="33" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Controllers/RouteController.php" />
       <jump line="12" column="34" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Controllers/RouteController.php" />
+      <jump line="451" column="23" filename="$USER_HOME$/Develop/sfy/loanmarket/common/service/Loanmarket.php" />
+      <jump line="133" column="28" filename="$USER_HOME$/Develop/sfy/loanmarket/common/service/Loanmarket.php" />
+      <jump line="59" column="44" filename="$USER_HOME$/Develop/sfy/loanmarket/serviceapi/controllers/AppController.php" />
+      <jump line="453" column="39" filename="$USER_HOME$/Develop/sfy/loanmarket/common/service/Loanmarket.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -606,8 +607,8 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIEh5cGVyZnJhbWV3b3JrXFdlYlxSZXF1ZXN0Owo=</text>
+      <register name="&quot;" type="4">
+        <text>depre</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -633,61 +634,61 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>date('YmdHis').rand(0,999), // todo 需要确认</text>
+        <text>depre</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxDcmVkaXRVc2VyXD4=</text>
+        <text>lc.alias</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJ2JpekZsb3dOdW1iZXInID0+IFNlcXVlbmNlOjpnZXROZXh0U2VxdWVuY2UoJ2JpeicsICdmbG93X251bWJlcicpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIEh5cGVyZnJhbWV3b3JrXFdlYlxSZXF1ZXN0Owo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text>jJj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2JpekZsb3dOdW1iZXInID0+IAo=</text>
+        <text encoding="base64">dXNlIEh5cGVyZnJhbWV3b3JrXFdlYlxSZXF1ZXN0Owo=</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTZXF1ZW5jZTo6Z2V0TmV4dFNlcXVlbmNlKCcnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2JpekZsb3dOdW1iZXInID0+IAo=</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJHBlcnNvbik7ZGllOwo=</text>
+        <text encoding="base64">ICAgICAgICBTZXF1ZW5jZTo6Z2V0TmV4dFNlcXVlbmNlKCcnKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkdHJhdmVsQ2FyZFVzZXJMaXN0ID0gRGJDbGllbnQ6OmZpbmRSb3dCeUNvbHVtbnMoJ1RyYXZlbENhcmRVc2VyTGlzdCcsIFsnaWRfY2FyZF9udW1iZXInID0+ICRpZENhcmROdW1iZXIsJ2FwcCcgPT4gJGFwcF0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJHBlcnNvbik7ZGllOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgMTExMTExMTExMTExNDA1Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdHJhdmVsQ2FyZFVzZXJMaXN0ID0gRGJDbGllbnQ6OmZpbmRSb3dCeUNvbHVtbnMoJ1RyYXZlbENhcmRVc2VyTGlzdCcsIFsnaWRfY2FyZF9udW1iZXInID0+ICRpZENhcmROdW1iZXIsJ2FwcCcgPT4gJGFwcF0pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdXNlcik7ZGllOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgMTExMTExMTExMTExNDA1Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkZGF0YSA9IFsKICAgICAgICAgICAgJ21vYmlsZScgPT4gJHVzZXJbJ21vYmlsZSddLAogICAgICAgIF07Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdXNlcik7ZGllOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2lkX2NhcmRfbnVtYmVyJyA9PiAnMzIwODIxMTk5MTAyMDkzMTE1Jwo=</text>
+        <text encoding="base64">ICAgICAgICAkZGF0YSA9IFsKICAgICAgICAgICAgJ21vYmlsZScgPT4gJHVzZXJbJ21vYmlsZSddLAogICAgICAgIF07Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>nohls</text>
+        <text>action Back</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxDcmVkaXRVc2VyXD4=</last-search>
+      <last-search>lc.alias</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxDcmVkaXRVc2VyXD4=</last-pattern>
+      <last-pattern>lc.alias</last-pattern>
       <last-replace>rule</last-replace>
       <last-substitute>limit</last-substitute>
       <last-dir>1</last-dir>
@@ -695,7 +696,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtb2RlbFw+</entry>
         <entry>limit</entry>
         <entry encoding="base64">XDxwYXJhbXNcPg==</entry>
         <entry encoding="base64">XDxhZHNcPg==</entry>
@@ -715,6 +715,7 @@
         <entry encoding="base64">XDxyZXF1ZXN0VXJsXD4=</entry>
         <entry>9999</entry>
         <entry encoding="base64">XDxDcmVkaXRVc2VyXD4=</entry>
+        <entry>lc.alias</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL14vJy9n</entry>
@@ -733,10 +734,10 @@
         <entry>action NextTab</entry>
         <entry>action FindUsages</entry>
         <entry>action SelectInProjectView</entry>
-        <entry>action Back</entry>
         <entry>wq</entry>
         <entry>action PreviousTab</entry>
         <entry>nohls</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
