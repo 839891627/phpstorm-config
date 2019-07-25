@@ -18,12 +18,12 @@
       <file name="$USER_HOME$/Develop/yii-demo/models/CountrySearch.php" timestamp="1561361711326">
         <mark key="'" line="50" column="15" />
       </file>
-      <file name="$USER_HOME$/Develop/sfy/xinyongfei-app-api/config/env.php" timestamp="1563952799787">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="29" column="66" />
-        <mark key="]" line="29" column="66" />
-        <mark key="." line="29" column="66" />
-        <mark key="^" line="29" column="0" />
+      <file name="$USER_HOME$/Develop/sfy/xinyongfei-app-api/config/env.php" timestamp="1564033780680">
+        <mark key="'" line="74" column="4" />
+        <mark key="[" line="105" column="34" />
+        <mark key="]" line="105" column="53" />
+        <mark key="." line="105" column="53" />
+        <mark key="^" line="105" column="53" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/credit/common/unit/VerifyCode.php" timestamp="1562122546537">
         <mark key="'" line="33" column="27" />
@@ -473,12 +473,12 @@
       <file name="$USER_HOME$/Develop/839891627.github.io/source/_posts/进程、线程解释.md" timestamp="1561379058751">
         <mark key="'" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Models/App.php" timestamp="1564025176269">
-        <mark key="'" line="1153" column="8" />
-        <mark key="[" line="1146" column="0" />
-        <mark key="]" line="1146" column="0" />
-        <mark key="." line="1146" column="0" />
-        <mark key="^" line="1149" column="15" />
+      <file name="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Models/App.php" timestamp="1564033830469">
+        <mark key="'" line="1144" column="16" />
+        <mark key="[" line="1097" column="13" />
+        <mark key="]" line="1097" column="16" />
+        <mark key="^" line="1097" column="16" />
+        <mark key="." line="1097" column="16" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Controllers/Api/BaseController.php" timestamp="1563430770490">
         <mark key="'" line="208" column="8" />
@@ -512,12 +512,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="134" column="78" filename="$USER_HOME$/Develop/sfy/loanmarket/common/service/Loanmarket.php" />
-      <jump line="528" column="59" filename="$USER_HOME$/Develop/sfy/loanmarket/common/service/Loanmarket.php" />
-      <jump line="113" column="35" filename="$USER_HOME$/Develop/sfy/loanmarket/backend/controllers/LoanmarketMCController.php" />
-      <jump line="117" column="32" filename="$USER_HOME$/Develop/sfy/loanmarket/backend/controllers/LoanmarketMCController.php" />
-      <jump line="135" column="28" filename="$USER_HOME$/Develop/sfy/loanmarket/backend/controllers/LoanmarketMCController.php" />
-      <jump line="664" column="39" filename="$USER_HOME$/Develop/sfy/loanmarket/common/service/Loanmarket.php" />
       <jump line="728" column="28" filename="$USER_HOME$/Develop/sfy/loanmarket/common/service/Loanmarket.php" />
       <jump line="605" column="25" filename="$USER_HOME$/Develop/sfy/loanmarket/common/service/Loanmarket.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/sfy/loanmarket/common/service/Loanmarket.php" />
@@ -612,6 +606,12 @@
       <jump line="114" column="4" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Models/Loanmarket.php" />
       <jump line="84" column="0" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Models/Loanmarket.php" />
       <jump line="145" column="44" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Models/Loanmarket.php" />
+      <jump line="1192" column="16" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Models/App.php" />
+      <jump line="69" column="5" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/config/env.php" />
+      <jump line="29" column="9" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/config/env.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/config/env.php" />
+      <jump line="104" column="0" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/config/env.php" />
+      <jump line="74" column="4" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/config/env.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -642,8 +642,8 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>loanmarket</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -669,61 +669,61 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>$ret['user_tag'] ?? false;</text>
+        <text>loanmarket</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxDYXNoUmVkaXNcPg==</text>
+        <text>loanmar</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHJldCA9ICRyZXRbJ3VzZXJfdGFnJ10gPz8gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoQ29uZmlnOjpnZXRTdHJpbmcoJ3Nob3VmdXlvdS5sb2FubWFya2V0LmhvbWUuc3dpdGNoLm1hc3RlclN3aXRjaCcsICdvbicpID09ICdvbicpIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIChDb25maWc6OmdldFN0cmluZygnc2hvdWZ1eW91LmxvYW5tYXJrZXQuaG9tZS5zd2l0Y2gubWFzdGVyU3dpdGNoJywgJ29uJykgPT0gJ29uJykgewo=</text>
       </register>
       <register name="q" type="4">
         <text>jJj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHJldCA9ICdDQVNIX0xPQU5fQU5EX0xPQU5fTUFSS0VUJzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRkYXRhWydsb2FubWFya2V0RGF0YSddWydtb3JlX3VybCddID0gJGxvYW5tYXJrZXQtPmdldExvYW5tYXJrZXRIb21lRGF0YSgpOwo=</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGllKDEpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRkYXRhWydsb2FubWFya2V0RGF0YSddWydtb3JlX3VybCddID0gJG1vcmVVcmw7Cg==</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWhjbyAxO2RpZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRkYXRhWydsb2FubWFya2V0RGF0YSddWydtb3JlX3VybCddID0gJG1vcmVVcmw7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICRyZXQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ2FzaFJlZGlzOjpzZXRleCgka2V5LCA1LCAkcmV0KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHJldCA9ICdDQVNIX0xPQU5fQU5EX0xPQU5fTUFSS0VUJzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGllKDEpOwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWhjbyAxO2RpZTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICRyZXQ7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>nohls</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxDYXNoUmVkaXNcPg==</last-search>
+      <last-search>loanmar</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxDYXNoUmVkaXNcPg==</last-pattern>
+      <last-pattern>loanmar</last-pattern>
       <last-replace>rule</last-replace>
       <last-substitute>limit</last-substitute>
       <last-dir>1</last-dir>
@@ -731,7 +731,6 @@
     </search>
     <history>
       <history-search>
-        <entry>var</entry>
         <entry>die</entry>
         <entry>figh</entry>
         <entry>fligh</entry>
@@ -751,6 +750,7 @@
         <entry>dd</entry>
         <entry>4000001</entry>
         <entry encoding="base64">XDxDYXNoUmVkaXNcPg==</entry>
+        <entry>loanmar</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL14vJy9n</entry>
@@ -766,12 +766,12 @@
         <entry>action FindUsages</entry>
         <entry>action CloseAllEditors</entry>
         <entry>vs</entry>
-        <entry>action PreviousTab</entry>
         <entry>action SelectInProjectView</entry>
-        <entry>action NextTab</entry>
         <entry>action NextSplitter</entry>
         <entry>wq</entry>
         <entry>action Back</entry>
+        <entry>action NextTab</entry>
+        <entry>action PreviousTab</entry>
         <entry>nohls</entry>
       </history-cmd>
       <history-expr />
