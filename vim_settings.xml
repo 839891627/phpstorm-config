@@ -147,6 +147,9 @@
       <file name="$USER_HOME$/Develop/839891627.github.io/source/_posts/多PC同步hexo.md" timestamp="1561378775049">
         <mark key="'" line="7" column="2" />
       </file>
+      <file name="$USER_HOME$/Develop/sfy/xinyongfei-cs-app-api/lib/Models/User.php" timestamp="1564039138004">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/sfy/shoufuyou-php-lib/shoufuyou/Table/Application2.php" timestamp="1561692628561">
         <mark key="'" line="180" column="0" />
       </file>
@@ -232,12 +235,12 @@
       <file name="$USER_HOME$/Develop/sfy/credit/common/unit/CodeMessage.php" timestamp="1562122338579">
         <mark key="'" line="146" column="84" />
       </file>
-      <file name="$USER_HOME$/Develop/sfy/loanmarket/common/service/Loanmarket.php" timestamp="1564037732287">
+      <file name="$USER_HOME$/Develop/sfy/loanmarket/common/service/Loanmarket.php" timestamp="1564039629035">
         <mark key="'" line="1030" column="50" />
-        <mark key="[" line="1030" column="56" />
-        <mark key="]" line="1030" column="68" />
-        <mark key="." line="1030" column="68" />
-        <mark key="^" line="1030" column="68" />
+        <mark key="[" line="1035" column="26" />
+        <mark key="]" line="1036" column="37" />
+        <mark key="." line="1036" column="37" />
+        <mark key="^" line="1036" column="37" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/shoufuyou-sms-system/service/GduSms.php" timestamp="1562568630381">
         <mark key="'" line="85" column="27" />
@@ -511,9 +514,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="256" column="0" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Router.php" />
-      <jump line="136" column="25" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Controllers/AppController.php" />
-      <jump line="1429" column="29" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Models/App.php" />
       <jump line="56" column="0" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Models/Loanmarket.php" />
       <jump line="61" column="34" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Models/Loanmarket.php" />
       <jump line="62" column="4" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Models/Loanmarket.php" />
@@ -611,6 +611,9 @@
       <jump line="137" column="28" filename="$USER_HOME$/Develop/sfy/loanmarket/backend/controllers/LoanmarketMCController.php" />
       <jump line="1031" column="25" filename="$USER_HOME$/Develop/sfy/loanmarket/common/service/Loanmarket.php" />
       <jump line="1030" column="50" filename="$USER_HOME$/Develop/sfy/loanmarket/common/service/Loanmarket.php" />
+      <jump line="217" column="20" filename="$USER_HOME$/Develop/sfy/xinyongfei-cs-app-api/lib/Models/User.php" />
+      <jump line="218" column="14" filename="$USER_HOME$/Develop/sfy/xinyongfei-cs-app-api/lib/Models/User.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Develop/sfy/xinyongfei-cs-app-api/lib/Models/User.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -671,7 +674,7 @@
         <text encoding="base64">WycnID0+IEVudjo6Z2V0QXBwKCld</text>
       </register>
       <register name="/" type="4">
-        <text>lar.app</text>
+        <text encoding="base64">XDxTdGFyVXNlclw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJG1vZGVsLT5zb3J0ID0gJHBhcmFtc1snc29ydCddOwo=</text>
@@ -720,17 +723,16 @@
       </register>
     </registers>
     <search>
-      <last-search>lar.app</last-search>
+      <last-search encoding="base64">XDxTdGFyVXNlclw+</last-search>
       <last-offset />
-      <last-pattern>lar.app</last-pattern>
+      <last-pattern encoding="base64">XDxTdGFyVXNlclw+</last-pattern>
       <last-replace>rule</last-replace>
       <last-substitute>limit</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxDcmVkaXRVc2VyXD4=</entry>
         <entry>lc.alias</entry>
         <entry encoding="base64">XDxpc19yZWNvbW1lbmRcPg==</entry>
         <entry encoding="base64">XDxtYXhfYW1vdW50XD4=</entry>
@@ -750,6 +752,7 @@
         <entry encoding="base64">XDxrZXlcPg==</entry>
         <entry>app</entry>
         <entry>lar.app</entry>
+        <entry encoding="base64">XDxTdGFyVXNlclw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL14vJy9n</entry>
