@@ -151,10 +151,10 @@
       <file name="$USER_HOME$/Develop/sfy/shoufuyou-sms-system/config/env.php.dev" timestamp="1562570464388">
         <mark key="'" line="52" column="29" />
       </file>
-      <file name="$USER_HOME$/Develop/sfy/loanmarket/backend/controllers/LoanmarketMCController.php" timestamp="1564037743931">
-        <mark key="'" line="137" column="28" />
-        <mark key="[" line="278" column="34" />
-        <mark key="]" line="278" column="34" />
+      <file name="$USER_HOME$/Develop/sfy/loanmarket/backend/controllers/LoanmarketMCController.php" timestamp="1564049663859">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="32" />
         <mark key="." line="278" column="34" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/credit/fxd_api/services/jd_api/api2106.php" timestamp="1562813726535">
@@ -210,12 +210,11 @@
         <mark key="]" line="56" column="0" />
         <mark key="." line="56" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/sfy/loanmarket/backend/controllers/LoanmarketHomeController.php" timestamp="1564037537973">
-        <mark key="'" line="89" column="20" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="^" line="42" column="61" />
-        <mark key="." line="44" column="0" />
+      <file name="$USER_HOME$/Develop/sfy/loanmarket/backend/controllers/LoanmarketHomeController.php" timestamp="1564050207038">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+        <mark key="^" line="53" column="25" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/credit/common/service/SystemConfig.php" timestamp="1559784499838">
         <mark key="'" line="83" column="41" />
@@ -525,11 +524,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="0" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Controllers/BaseController.php" />
-      <jump line="1183" column="16" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Models/App.php" />
-      <jump line="112" column="8" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Models/Loanmarket.php" />
-      <jump line="116" column="0" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Models/Loanmarket.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Models/Loanmarket.php" />
       <jump line="1146" column="0" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Models/App.php" />
       <jump line="1139" column="8" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Models/App.php" />
       <jump line="70" column="8" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Models/Loanmarket.php" />
@@ -543,7 +537,6 @@
       <jump line="1153" column="8" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Models/App.php" />
       <jump line="123" column="26" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Models/Loanmarket.php" />
       <jump line="38" column="4" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Models/Loanmarket.php" />
-      <jump line="44" column="58" filename="$USER_HOME$/Develop/sfy/loanmarket/backend/controllers/LoanmarketMCController.php" />
       <jump line="98" column="6" filename="$USER_HOME$/Develop/sfy/shoufuyou-php-lib/shoufuyou/Util/Redis.php" />
       <jump line="6" column="19" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Models/User.php" />
       <jump line="738" column="8" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Models/User.php" />
@@ -625,6 +618,12 @@
       <jump line="46" column="46" filename="$USER_HOME$/Develop/sfy/loanmarket/serviceapi/controllers/AppController.php" />
       <jump line="684" column="20" filename="$USER_HOME$/Develop/sfy/loanmarket/common/service/Loanmarket.php" />
       <jump line="686" column="63" filename="$USER_HOME$/Develop/sfy/loanmarket/common/service/Loanmarket.php" />
+      <jump line="44" column="32" filename="$USER_HOME$/Develop/sfy/loanmarket/backend/controllers/LoanmarketMCController.php" />
+      <jump line="39" column="24" filename="$USER_HOME$/Develop/sfy/loanmarket/backend/controllers/LoanmarketMCController.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Develop/sfy/loanmarket/backend/controllers/LoanmarketMCController.php" />
+      <jump line="46" column="18" filename="$USER_HOME$/Develop/sfy/loanmarket/backend/controllers/LoanmarketHomeController.php" />
+      <jump line="13" column="28" filename="$USER_HOME$/Develop/sfy/loanmarket/backend/controllers/LoanmarketHomeController.php" />
+      <jump line="49" column="18" filename="$USER_HOME$/Develop/sfy/loanmarket/backend/controllers/LoanmarketHomeController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -655,8 +654,8 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLT53aXRoKCd0YWdzJykK</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -682,61 +681,61 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">Jg==</text>
       </register>
       <register name="/" type="4">
-        <text>company</text>
+        <text encoding="base64">XDxTeXN0ZW1Db25maWdcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aHJvdyBuZXcgVXNlckV4Y2VwdGlvbign5bqU55So5LiN5a2Y5Zyo77yaJyAuICRfYXBwKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRpdGVtWydhcHBzJ10gLj0gJywnLiRhcHBzWyRhXTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcGFyYW1zKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT53aXRoKCd0YWdzJykK</text>
       </register>
       <register name="q" type="4">
         <text>jJj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJGl0ZW1bJ2FwcHMnXSk7Cg==</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkbGEgPSBuZXcgTG9hbm1hcmtldCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdW5zZXQoJGl0ZW1bJ2FwcCddKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBDb2RlTWVzc2FnZTo6Y2hlY2tQYXJhbXMoJHBhcmFtcywgWwogICAgICAgICAgICAnY2F0ZWdvcnknICAgICAgICA9PiBbJ25hbWUnID0+ICfotLfotoXliIbnsbsnLCAnZGVmYXVsdCcgPT4gJ2FsbCddLAogICAgICAgICAgICAnaXNfcmVjb21tZW5kJyAgICA9PiBbJ25hbWUnID0+ICfmmK/lkKbmjqjojZAnLCAnZGVmYXVsdCcgPT4gJ2FsbCddLAogICAgICAgICAgICAnc29ydCcgICAgICAgICAgICA9PiBbJ25hbWUnID0+ICfmjpLluo8nLCAnZGVmYXVsdCcgPT4gJ25vbmUnXSwKICAgICAgICAgICAgJ3NvcnRfZGVmYXVsdCcgICAgPT4gWyduYW1lJyA9PiAn5o6o6I2Q5o6S5bqPJywgJ2RlZmF1bHQnID0+ICdub25lJ10sCiAgICAgICAgICAgICdzb3J0X2Ftb3VudCcgICAgID0+IFsnbmFtZScgPT4gJ+aOkuW6j+e8luWPtycsICdkZWZhdWx0JyA9PiAnbm9uZSddLAogICAgICAgICAgICAnc29ydF9yYXRlJyAgICAgICA9PiBbJ25hbWUnID0+ICfmjpLluo/nvJblj7cnLCAnZGVmYXVsdCcgPT4gJ25vbmUnXSwKICAgICAgICAgICAgJ3NvcnRfcmVtaXRfdGltZScgPT4gWyduYW1lJyA9PiAn5pe26Ze0JywgJ2RlZmF1bHQnID0+ICdub25lJ10sCiAgICAgICAgICAgICdwYWdlJyAgICAgICAgID0+IFsnbmFtZScgPT4gJ+mhteaVsCcsICdkZWZhdWx0JyA9PiAxXSwKICAgICAgICAgICAgJ2xpbWl0X251bWJlcicgPT4gWyduYW1lJyA9PiAn5q+P6aG15pi+56S65pWwJywgJ2RlZmF1bHQnID0+IDEwXSwKICAgICAgICBdKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdW5zZXJpYWxpemUoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBMb2FubWFya2V0OjpsaXN0KCRwYXJhbXMsICRzZXJ2aWNlX2FwaSA9IHRydWUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkU2Z5V2ViQ2xpZW50ID0gbmV3IFNmeVdlYkNsaWVudCgpOwogICAgICAgICRyZXN1bHQgPSAkU2Z5V2ViQ2xpZW50LT5yZXF1ZXN0TG9hbm1hcmtldCgnZ2V0JywgJ2FwcC9nZXQtYmFzZS1kYXRhJywgW10sICR0aGlzLT5oZWFkZXIpOwogICAgICAgICRyZXN1bHQgPSBqc29uX2RlY29kZSgkcmVzdWx0LCB0cnVlKTsK</text>
+        <text encoding="base64">JGl0ZW1bJ2FwcCddID0gaW1wbG9kZSgpCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICog6I635Y+W6LS36LaF6Lev55SxCiAgICAgKiBAcmV0dXJuIGFycmF5fG1peGVkCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiByb3V0ZShhcnJheSAkdXNlcikKICAgIHsKICAgICAgICBpZiAoIWlzc2V0KCR1c2VyWydtb2JpbGUnXSkgfHwgISR1c2VyWydtb2JpbGUnXSkgewogICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgfQogICAgICAgICRrZXkgPSAneGlueW9uZ2ZlaS1hcHAtYXBpOmxvYW5tYXJrZXQ6cm91dGU6bW9iaWxlOicgLiAkdXNlclsnbW9iaWxlJ107CiAgICAgICAgaWYgKCR2YWx1ZSA9IENhc2hSZWRpczo6Z2V0KCRrZXkpKSB7CiAgICAgICAgICAgIHJldHVybiBqc29uX2RlY29kZSgkdmFsdWUsIHRydWUpOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICRkYXRhID0gWwogICAgICAgICAgICAgICAgJ21vYmlsZScgPT4gJHVzZXJbJ21vYmlsZSddLAogICAgICAgICAgICBdOwogICAgICAgICAgICBpZiAoaXNzZXQoJHBlcnNvblsncGVyc29uX2lkJ10pICYmICR1c2VyWydwZXJzb25faWQnXSA+IDApIHsKICAgICAgICAgICAgICAgICRwZXJzb24gPSBEYkNsaWVudDo6ZmluZFJvd0J5Q29sdW1ucygnUGVyc29uJywgWydpZCcgPT4gJHVzZXJbJ3BlcnNvbl9pZCddXSk7CiAgICAgICAgICAgICAgICAkZGF0YVsnaWRfY2FyZF9udW1iZXInXSA9ICRwZXJzb25bJ2lkX2NhcmRfbnVtYmVyJ107CiAgICAgICAgICAgICAgICAkZGF0YVsnbmFtZSddID0gJHBlcnNvblsnaWRfY2FyZF9udW1iZXInXTsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgJGhlYWRlcnMgPSBbCiAgICAgICAgICAgICAgICAnYml6X3R5cGUnICAgICAgICA9PiAneGpkX2FwcGxpY2F0aW9uJywKICAgICAgICAgICAgICAgICdzb3VyY2VfdHlwZScgICAgID0+IFJlcXVlc3Q6OmdldEhlYWRlcignb3MnLCAnd2FwJyksCiAgICAgICAgICAgICAgICAncHJvZHVjdF9uYW1lJyAgICA9PiAneGlueW9uZ2ZlaScsCiAgICAgICAgICAgICAgICAnYml6X2Zsb3dfbnVtYmVyJyA9PiBTZXF1ZW5jZTo6Z2V0TmV4dFNlcXVlbmNlKCdiaXonLCAnZmxvd19udW1iZXInKSwKICAgICAgICAgICAgICAgICdpcCcgICAgICAgICAgICAgID0+ICRfU0VSVkVSWydSRU1PVEVfQUREUiddLAogICAgICAgICAgICAgICAgJ2FwcCcgICAgICAgICAgICAgPT4gJ3h5ZicsCiAgICAgICAgICAgIF07CgogICAgICAgICAgICAkcmV0ID0gQml6U2Z5V2ViQ2xpZW50Ojpsb2FubWFya2V0Um91dGUoJGRhdGEsICRoZWFkZXJzKTsKICAgICAgICAgICAgdW5zZXQoJHJldFsncmVwb3J0X2lkJ10sICRyZXRbJ2RlY2lzaW9uX3NldF9pZCddKTsKCiAgICAgICAgICAgICRyZXQgPSAkcmV0Wyd1c2VyX3RhZyddID8/IGZhbHNlOwogICAgICAgICAgICBDYXNoUmVkaXM6OnNldGV4KCRrZXksIDEwLCAkcmV0KTsKCiAgICAgICAgICAgIHJldHVybiAkcmV0OwogICAgICAgIH0KICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>nohls</text>
       </register>
     </registers>
     <search>
-      <last-search>company</last-search>
+      <last-search encoding="base64">XDxTeXN0ZW1Db25maWdcPg==</last-search>
       <last-offset />
-      <last-pattern>company</last-pattern>
+      <last-pattern encoding="base64">XDxTeXN0ZW1Db25maWdcPg==</last-pattern>
       <last-replace>rule</last-replace>
       <last-substitute>limit</last-substitute>
       <last-dir>1</last-dir>
@@ -744,7 +743,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtYXhfYW1vdW50XD4=</entry>
         <entry encoding="base64">XDxtaW5fcGVyaW9kXD4=</entry>
         <entry encoding="base64">XDxFbnZcPg==</entry>
         <entry>cate</entry>
@@ -764,6 +762,7 @@
         <entry encoding="base64">XDxTdGFyVXNlclw+</entry>
         <entry encoding="base64">XDxvc1w+</entry>
         <entry>company</entry>
+        <entry encoding="base64">XDxTeXN0ZW1Db25maWdcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL14vJy9n</entry>
@@ -779,12 +778,12 @@
         <entry>action FindUsages</entry>
         <entry>vs</entry>
         <entry>action NextSplitter</entry>
-        <entry>action NextTab</entry>
-        <entry>wq</entry>
-        <entry>action PreviousTab</entry>
-        <entry>action Back</entry>
         <entry>action SelectInProjectView</entry>
         <entry>action CloseAllEditors</entry>
+        <entry>action PreviousTab</entry>
+        <entry>action NextTab</entry>
+        <entry>wq</entry>
+        <entry>action Back</entry>
         <entry>nohls</entry>
       </history-cmd>
       <history-expr />
