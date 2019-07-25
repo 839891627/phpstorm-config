@@ -178,6 +178,7 @@
       <file name="$USER_HOME$/Develop/sfy/xinyongfei-mobile/lib/Models/OcrFaceBusiness.php" timestamp="1563353241589">
         <mark key="'" line="31" column="35" />
       </file>
+      <file name="$USER_HOME$/Develop/sfy/loanmarket/serviceapi/controllers/LoanmarketController.php" timestamp="1564019118539" />
       <file name="$USER_HOME$/Develop/sfy/loanmarket/backend/controllers/LoanmarketHomeController.php" timestamp="1563939495429">
         <mark key="'" line="47" column="0" />
         <mark key="[" line="76" column="45" />
@@ -201,12 +202,8 @@
       <file name="$USER_HOME$/Develop/sfy/credit/common/unit/CodeMessage.php" timestamp="1562122338579">
         <mark key="'" line="146" column="84" />
       </file>
-      <file name="$USER_HOME$/Develop/sfy/loanmarket/common/service/Loanmarket.php" timestamp="1563971453102">
-        <mark key="'" line="396" column="0" />
-        <mark key="[" line="396" column="0" />
-        <mark key="]" line="396" column="0" />
-        <mark key="." line="396" column="0" />
-        <mark key="^" line="392" column="16" />
+      <file name="$USER_HOME$/Develop/sfy/loanmarket/common/service/Loanmarket.php" timestamp="1564019062560">
+        <mark key="'" line="180" column="4" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/shoufuyou-sms-system/service/GduSms.php" timestamp="1562568630381">
         <mark key="'" line="85" column="27" />
@@ -470,10 +467,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="31" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Controllers/RouteController.php" />
-      <jump line="17" column="8" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Controllers/RouteController.php" />
-      <jump line="14" column="28" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Controllers/RouteController.php" />
-      <jump line="150" column="23" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Controllers/BaseController.php" />
       <jump line="91" column="8" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Controllers/BaseController.php" />
       <jump line="174" column="33" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Controllers/BaseController.php" />
       <jump line="175" column="53" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Controllers/BaseController.php" />
@@ -570,6 +563,10 @@
       <jump line="36" column="6" filename="$USER_HOME$/Develop/sfy/loanmarket/common/models/Loanmarket.php" />
       <jump line="196" column="10" filename="$USER_HOME$/Develop/sfy/loanmarket/backend/controllers/LoanmarketMCController.php" />
       <jump line="255" column="34" filename="$USER_HOME$/Develop/sfy/loanmarket/backend/controllers/LoanmarketMCController.php" />
+      <jump line="139" column="4" filename="$USER_HOME$/Develop/sfy/loanmarket/common/service/Loanmarket.php" />
+      <jump line="131" column="8" filename="$USER_HOME$/Develop/sfy/loanmarket/common/service/Loanmarket.php" />
+      <jump line="150" column="12" filename="$USER_HOME$/Develop/sfy/loanmarket/common/service/Loanmarket.php" />
+      <jump line="180" column="4" filename="$USER_HOME$/Develop/sfy/loanmarket/common/service/Loanmarket.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -601,7 +598,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text encoding="base64">ICAgICAgICAvLyBpZiAoJHNlcnZpY2VfYXBpKSB7CiAgICAgICAgLy8gICAgIGlmIChFbnY6OmdldE1vYmlsZSgpKSB7CiAgICAgICAgLy8gICAgICAgICAvLyDnmbvpmYYKICAgICAgICAvLyAgICAgICAgICR3aGVyZVsnbGxzLnN0YXR1cyddID0gW0xvYW5tYXJrZXQ6OkxJTUlUX1NUQVRVU19BTEwsIExvYW5tYXJrZXQ6OkxJTUlUX1NUQVRVU19MT0dJTl07CiAgICAgICAgLy8gICAgIH0gZWxzZSB7CiAgICAgICAgLy8gICAgICAgICAkd2hlcmVbJ2xscy5zdGF0dXMnXSA9IFtMb2FubWFya2V0OjpMSU1JVF9TVEFUVVNfQUxMLCBMb2FubWFya2V0OjpMSU1JVF9TVEFUVVNfVU5MT0dJTl07CiAgICAgICAgLy8gICAgIH0KICAgICAgICAvLyB9IGVsc2UgewogICAgICAgIC8vICAgICAvL+eZu+W9leeKtuaAgemZkOWItui/h+a7pAogICAgICAgIC8vICAgICBpZiAoXFlpaTo6JGFwcC0+dXNlci0+aXNHdWVzdCkgewogICAgICAgIC8vICAgICAgICAgJHdoZXJlWydsbHMuc3RhdHVzJ10gPSBbTG9hbm1hcmtldDo6TElNSVRfU1RBVFVTX0FMTCwgTG9hbm1hcmtldDo6TElNSVRfU1RBVFVTX1VOTE9HSU5dOwogICAgICAgIC8vICAgICB9IGVsc2UgewogICAgICAgIC8vICAgICAgICAgJHdoZXJlWydsbHMuc3RhdHVzJ10gPSBbTG9hbm1hcmtldDo6TElNSVRfU1RBVFVTX0FMTCwgTG9hbm1hcmtldDo6TElNSVRfU1RBVFVTX0xPR0lOXTsKICAgICAgICAvLyAgICAgfQogICAgICAgIC8vIH0KICAgICAgICAvLyB2YXJfZHVtcCgkd2hlcmUpOyBkaWU7</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -635,44 +632,44 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gXGNvbW1vblxtb2RlbHNcTG9hbm1hcmtldDo6ZmluZCgpLT53aXRoKCd0YWdzJyktPmZyb20oWyd0JyA9PiAkbG9hbm1hcmtldC0+Z3JvdXBCeSgkZ3JvdXBCeSldKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAkZGF0YSA9IFxjb21tb25cbW9kZWxzXExvYW5tYXJrZXQ6OmZpbmQoKS0+d2hlcmUoWydpZCcgPT4gJHBhcmFtc1snaWQnXV0pLT53aXRoKCd0YWdzJyktPmFzQXJyYXkoKS0+b25lKCk7Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgICAgICAvLyBpZiAoJHNlcnZpY2VfYXBpKSB7CiAgICAgICAgLy8gICAgIGlmIChFbnY6OmdldE1vYmlsZSgpKSB7CiAgICAgICAgLy8gICAgICAgICAvLyDnmbvpmYYKICAgICAgICAvLyAgICAgICAgICR3aGVyZVsnbGxzLnN0YXR1cyddID0gW0xvYW5tYXJrZXQ6OkxJTUlUX1NUQVRVU19BTEwsIExvYW5tYXJrZXQ6OkxJTUlUX1NUQVRVU19MT0dJTl07CiAgICAgICAgLy8gICAgIH0gZWxzZSB7CiAgICAgICAgLy8gICAgICAgICAkd2hlcmVbJ2xscy5zdGF0dXMnXSA9IFtMb2FubWFya2V0OjpMSU1JVF9TVEFUVVNfQUxMLCBMb2FubWFya2V0OjpMSU1JVF9TVEFUVVNfVU5MT0dJTl07CiAgICAgICAgLy8gICAgIH0KICAgICAgICAvLyB9IGVsc2UgewogICAgICAgIC8vICAgICAvL+eZu+W9leeKtuaAgemZkOWItui/h+a7pAogICAgICAgIC8vICAgICBpZiAoXFlpaTo6JGFwcC0+dXNlci0+aXNHdWVzdCkgewogICAgICAgIC8vICAgICAgICAgJHdoZXJlWydsbHMuc3RhdHVzJ10gPSBbTG9hbm1hcmtldDo6TElNSVRfU1RBVFVTX0FMTCwgTG9hbm1hcmtldDo6TElNSVRfU1RBVFVTX1VOTE9HSU5dOwogICAgICAgIC8vICAgICB9IGVsc2UgewogICAgICAgIC8vICAgICAgICAgJHdoZXJlWydsbHMuc3RhdHVzJ10gPSBbTG9hbm1hcmtldDo6TElNSVRfU1RBVFVTX0FMTCwgTG9hbm1hcmtldDo6TElNSVRfU1RBVFVTX0xPR0lOXTsKICAgICAgICAvLyAgICAgfQogICAgICAgIC8vIH0KICAgICAgICAvLyB2YXJfZHVtcCgkd2hlcmUpOyBkaWU7</text>
       </register>
       <register name="q" type="4">
         <text>jJj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyAkZGF0YSA9IFxjb21tb25cbW9kZWxzXExvYW5tYXJrZXQ6OmZpbmQoKS0+d2hlcmUoWydpZCcgPT4gJHBhcmFtc1snaWQnXV0pLT53aXRoKCd0YWdzJyktPmFzQXJyYXkoKS0+b25lKCk7Cg==</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAkZGF0YSA9IExvYW5tYXJrZXQ6OmdldEluZm8oJHBhcmFtc1snbnVtYmVyJ10pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRwcm9kdWN0Q2F0ZWdvcnlNYXAsJGEpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyAkZGF0YSA9IExvYW5tYXJrZXQ6OmdldEluZm8oJHBhcmFtc1snbnVtYmVyJ10pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRwcm9kdWN0Q2F0ZWdvcnlNYXAsJGEpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRhcHBNYXApOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRhKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRhcHBNYXApOwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkbWFwKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRhKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkd2hlcmUpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkbWFwKTsK</text>
       </register>
       <register name=":" type="4">
         <text>nohls</text>
@@ -685,7 +682,7 @@
       <last-replace>rule</last-replace>
       <last-substitute>limit</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -723,13 +720,13 @@
         <entry>vs</entry>
         <entry>action NextSplitter</entry>
         <entry encoding="base64">JzwsJz5zL2xpbWl0L3J1bGUvZw==</entry>
-        <entry>action CloseAllEditors</entry>
         <entry>action FindUsages</entry>
         <entry>wq</entry>
-        <entry>action SelectInProjectView</entry>
         <entry>action NextTab</entry>
         <entry>action Back</entry>
         <entry>action PreviousTab</entry>
+        <entry>action SelectInProjectView</entry>
+        <entry>action CloseAllEditors</entry>
         <entry>nohls</entry>
       </history-cmd>
       <history-expr />
