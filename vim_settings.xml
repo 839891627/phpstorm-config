@@ -12,6 +12,9 @@
       <file name="$USER_HOME$/Develop/sfy/shoufuyou-console/lib/Controllers/Api/CustomizeApplyController.php" timestamp="1560391954990">
         <mark key="'" line="64" column="37" />
       </file>
+      <file name="$USER_HOME$/Develop/sfy/loanmarket/common/unit/Redis.php" timestamp="1564119738189">
+        <mark key="'" line="44" column="23" />
+      </file>
       <file name="$USER_HOME$/Develop/yii-demo/models/CountrySearch.php" timestamp="1561361711326">
         <mark key="'" line="50" column="15" />
       </file>
@@ -80,8 +83,8 @@
         <mark key="^" line="117" column="11" />
         <mark key="." line="118" column="34" />
       </file>
-      <file name="$USER_HOME$/Develop/sfy/loanmarket/common/service/SystemConfig.php" timestamp="1564112460865">
-        <mark key="'" line="27" column="45" />
+      <file name="$USER_HOME$/Develop/sfy/loanmarket/common/service/SystemConfig.php" timestamp="1564119541742">
+        <mark key="'" line="59" column="22" />
         <mark key="[" line="163" column="1" />
         <mark key="]" line="163" column="1" />
         <mark key="^" line="163" column="18" />
@@ -96,12 +99,8 @@
       <file name="$USER_HOME$/Develop/sfy/syf-middleware-system/console/controllers/XyfSmsRetryController.php" timestamp="1562570423665">
         <mark key="'" line="59" column="21" />
       </file>
-      <file name="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Models/Loanmarket.php" timestamp="1564113896192">
-        <mark key="'" line="22" column="20" />
-        <mark key="[" line="65" column="39" />
-        <mark key="]" line="66" column="41" />
-        <mark key="^" line="66" column="41" />
-        <mark key="." line="66" column="41" />
+      <file name="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Models/Loanmarket.php" timestamp="1564120202733">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/sfy/xyf-middleground-system/composer.json" timestamp="1563169569284">
         <mark key="'" line="29" column="38" />
@@ -527,10 +526,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="84" column="0" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Models/Loanmarket.php" />
-      <jump line="145" column="44" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Models/Loanmarket.php" />
-      <jump line="1192" column="16" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Models/App.php" />
-      <jump line="69" column="5" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/config/env.php" />
       <jump line="29" column="9" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/config/env.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/config/env.php" />
       <jump line="104" column="0" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/config/env.php" />
@@ -627,6 +622,10 @@
       <jump line="19" column="51" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Controllers/LoanmarketController.php" />
       <jump line="1095" column="30" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Models/App.php" />
       <jump line="22" column="20" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Models/Loanmarket.php" />
+      <jump line="67" column="25" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Models/Loanmarket.php" />
+      <jump line="59" column="22" filename="$USER_HOME$/Develop/sfy/loanmarket/common/service/SystemConfig.php" />
+      <jump line="44" column="23" filename="$USER_HOME$/Develop/sfy/loanmarket/common/unit/Redis.php" />
+      <jump line="269" column="0" filename="$USER_HOME$/Develop/sfy/xinyongfei-app-api/lib/Models/Loanmarket.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -658,7 +657,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA3ICRyZXN1bHQgPSBbCiAgICAgICAgMTc4CiAgICAxNzkgJ2NvZGUnID0+ICcwMDAwMDAnLAogICAgMTgwICdkYXRhJyA9PiAkYWRzCiAgICAxODEgXTsK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -693,43 +692,43 @@
         <text encoding="base64">ICAgICAgICAgICAgJ2xvYW5tYXJrZXQvZ2V0LWxvYW5tYXJrZXQnLCAvLyDotLfotoXliJfooagK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA3ICRyZXN1bHQgPSBbCiAgICAgICAgMTc4CiAgICAxNzkgJ2NvZGUnID0+ICcwMDAwMDAnLAogICAgMTgwICdkYXRhJyA9PiAkYWRzCiAgICAxODEgXTsK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="q" type="4">
         <text>jJj</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICA3ICRyZXN1bHQgPSBbCiAgICAgICAgMTc4CiAgICAxNzkgJ2NvZGUnID0+ICcwMDAwMDAnLAogICAgMTgwICdkYXRhJyA9PiAkYWRzCiAgICAxODEgXTsK</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZW1vdmVTdWJzY3JpYmVyKCkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPigkYWRzKTsK</text>
+        <text encoding="base64">ICAgICAgICByZW1vdmVTdWJzY3JpYmVyKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPigkYWRzKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBMb2FuCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBMb2FuCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4gbWl4ZWR8c3RyaW5nCiAgICAgKiBAdGhyb3dzIFxFeGNlcHRpb24KICAgICAqLwogICAgLyoqCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm4gbWl4ZWR8c3RyaW5nCiAgICAgKiBAdGhyb3dzIFxFeGNlcHRpb24KICAgICAqLwogICAgLyoqCg==</text>
       </register>
       <register name=":" type="4">
         <text>nohls</text>
@@ -783,10 +782,10 @@
         <entry>action Forward</entry>
         <entry>action FindUsages</entry>
         <entry>action NextTab</entry>
-        <entry>action SelectInProjectView</entry>
-        <entry>action Back</entry>
         <entry>action PreviousTab</entry>
         <entry>wq</entry>
+        <entry>action SelectInProjectView</entry>
+        <entry>action Back</entry>
         <entry>nohls</entry>
       </history-cmd>
       <history-expr />
