@@ -68,8 +68,14 @@
   </action>
   <action id="FileChooser.GotoModule" />
   <action id="FileChooser.GotoProject" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="space" second-keystroke="f" />
+  </action>
   <action id="FindInPath">
     <keyboard-shortcut first-keystroke="shift ctrl f" />
+  </action>
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="space" second-keystroke="u" />
   </action>
   <action id="Generate">
     <keyboard-shortcut first-keystroke="ctrl enter" />
@@ -78,9 +84,15 @@
     <keyboard-shortcut first-keystroke="shift ctrl n" />
   </action>
   <action id="GotoLine" />
+  <action id="IntroduceVariable">
+    <keyboard-shortcut first-keystroke="space" second-keystroke="s" />
+  </action>
   <action id="Jdbc.RunSqlScript" />
   <action id="KJumpAction">
     <keyboard-shortcut first-keystroke="ctrl comma" />
+  </action>
+  <action id="KJumpAction.Line">
+    <keyboard-shortcut first-keystroke="space" second-keystroke="l" />
   </action>
   <action id="KJumpAction.Word0">
     <keyboard-shortcut first-keystroke="ctrl semicolon" />
@@ -114,11 +126,17 @@
     <keyboard-shortcut first-keystroke="shift ctrl e" />
   </action>
   <action id="ReformatCode" />
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="space" second-keystroke="r" />
+  </action>
   <action id="ReplaceInPath">
     <keyboard-shortcut first-keystroke="shift ctrl r" />
   </action>
   <action id="RunClass" />
   <action id="RunDashboard.Run" />
+  <action id="SelectInProjectView">
+    <keyboard-shortcut first-keystroke="space" second-keystroke="e" />
+  </action>
   <action id="TypeHierarchy" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
   <action id="Vcs.Log.FocusTextFilter" />
