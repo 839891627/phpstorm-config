@@ -102,6 +102,10 @@
   <action id="PrevParameter" />
   <action id="PrevTemplateParameter" />
   <action id="PreviousTemplateVariable" />
+  <action id="QuickImplementations">
+    <keyboard-shortcut first-keystroke="alt space" />
+    <keyboard-shortcut first-keystroke="space" second-keystroke="d" />
+  </action>
   <action id="QuickJavaDoc">
     <keyboard-shortcut first-keystroke="f1" />
     <mouse-shortcut keystroke="control button2" />
