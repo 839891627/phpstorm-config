@@ -68,15 +68,11 @@
   </action>
   <action id="FileChooser.GotoModule" />
   <action id="FileChooser.GotoProject" />
-  <action id="FileStructurePopup">
-    <keyboard-shortcut first-keystroke="space" second-keystroke="f" />
-  </action>
+  <action id="FileStructurePopup" />
   <action id="FindInPath">
     <keyboard-shortcut first-keystroke="shift ctrl f" />
   </action>
-  <action id="FindUsages">
-    <keyboard-shortcut first-keystroke="space" second-keystroke="u" />
-  </action>
+  <action id="FindUsages" />
   <action id="Generate">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
@@ -84,15 +80,10 @@
     <keyboard-shortcut first-keystroke="shift ctrl n" />
   </action>
   <action id="GotoLine" />
-  <action id="IntroduceVariable">
-    <keyboard-shortcut first-keystroke="space" second-keystroke="s" />
-  </action>
+  <action id="IntroduceVariable" />
   <action id="Jdbc.RunSqlScript" />
   <action id="KJumpAction">
     <keyboard-shortcut first-keystroke="ctrl comma" />
-  </action>
-  <action id="KJumpAction.Line">
-    <keyboard-shortcut first-keystroke="space" second-keystroke="l" />
   </action>
   <action id="KJumpAction.Word0">
     <keyboard-shortcut first-keystroke="ctrl semicolon" />
@@ -114,10 +105,7 @@
   <action id="PrevParameter" />
   <action id="PrevTemplateParameter" />
   <action id="PreviousTemplateVariable" />
-  <action id="QuickImplementations">
-    <keyboard-shortcut first-keystroke="alt space" />
-    <keyboard-shortcut first-keystroke="space" second-keystroke="d" />
-  </action>
+  <action id="QuickImplementations" />
   <action id="QuickJavaDoc">
     <keyboard-shortcut first-keystroke="f1" />
     <mouse-shortcut keystroke="control button2" />
@@ -126,17 +114,12 @@
     <keyboard-shortcut first-keystroke="shift ctrl e" />
   </action>
   <action id="ReformatCode" />
-  <action id="RenameElement">
-    <keyboard-shortcut first-keystroke="space" second-keystroke="r" />
-  </action>
+  <action id="RenameElement" />
   <action id="ReplaceInPath">
     <keyboard-shortcut first-keystroke="shift ctrl r" />
   </action>
   <action id="RunClass" />
   <action id="RunDashboard.Run" />
-  <action id="SelectInProjectView">
-    <keyboard-shortcut first-keystroke="space" second-keystroke="e" />
-  </action>
   <action id="TypeHierarchy" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
   <action id="Vcs.Log.FocusTextFilter" />
