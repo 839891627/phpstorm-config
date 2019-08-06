@@ -2,9 +2,7 @@
   <action id="ActivateDockerToolWindow">
     <keyboard-shortcut first-keystroke="meta 5" />
   </action>
-  <action id="ActivateFavoritesToolWindow">
-    <keyboard-shortcut first-keystroke="meta 3" />
-  </action>
+  <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateFindToolWindow">
     <keyboard-shortcut first-keystroke="meta 5" />
   </action>
@@ -15,7 +13,9 @@
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="meta 2" />
   </action>
-  <action id="ActivateVersionControlToolWindow" />
+  <action id="ActivateVersionControlToolWindow">
+    <keyboard-shortcut first-keystroke="meta 3" />
+  </action>
   <action id="BaseOnThisFunction" />
   <action id="CloseContent" />
   <action id="CommentByLineComment">
