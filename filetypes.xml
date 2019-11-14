@@ -11,11 +11,11 @@
       <mapping pattern="hosts" type="PLAIN_TEXT" />
       <mapping pattern=".env.ci" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
-      <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
+      <mapping pattern=".env.production" type="PLAIN_TEXT" />
       <mapping pattern="command" type="PLAIN_TEXT" />
       <mapping pattern=".env.test" type="PLAIN_TEXT" />
       <mapping pattern="protoc" type="PLAIN_TEXT" />
-      <mapping pattern=".env.production" type="PLAIN_TEXT" />
+      <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
       <mapping pattern="easyswoole" type="PLAIN_TEXT" />
       <mapping pattern=".nginx" type="PLAIN_TEXT" />
       <mapping pattern="curl-arm" type="PLAIN_TEXT" />
