@@ -1,5 +1,5 @@
 <templateSet group="PHP">
-  <template name="pb" value="public function $NAME$($PARAMETERS$){&#10;    $END$&#10;}" shortcut="TAB" description="public function" toReformat="true" toShortenFQNames="true">
+  <template name="pf" value="public function $NAME$($PARAMETERS$){&#10;    $END$&#10;}" shortcut="TAB" description="public function" toReformat="true" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="PARAMETERS" expression="phpVar" defaultValue="" alwaysStopAt="true" />
     <context>
