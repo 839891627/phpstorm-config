@@ -1,0 +1,16 @@
+<templateSet group="PHP Interfaces">
+  <template name="pf" value="public function $NAME$($PARAMETERS$);" description="public function" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAMETERS" expression="phpVar" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Interface Member" value="true" />
+    </context>
+  </template>
+  <template name="psf" value="public static function $NAME$($PARAMETERS$);" description="public static function" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAMETERS" expression="phpVar" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Interface Member" value="true" />
+    </context>
+  </template>
+</templateSet>
