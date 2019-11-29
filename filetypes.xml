@@ -6,6 +6,7 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="fastcgi_params" type="PLAIN_TEXT" />
       <mapping pattern="DOckerfile" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="mynginx/Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern=".env.develop" type="PLAIN_TEXT" />
       <mapping pattern="hosts" type="PLAIN_TEXT" />
