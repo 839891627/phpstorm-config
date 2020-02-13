@@ -1,0 +1,125 @@
+<keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
+  <action id="ActivateDockerToolWindow">
+    <keyboard-shortcut first-keystroke="meta 5" />
+  </action>
+  <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateFindToolWindow">
+    <keyboard-shortcut first-keystroke="meta 5" />
+  </action>
+  <action id="ActivateRunToolWindow" />
+  <action id="ActivateStructureToolWindow">
+    <keyboard-shortcut first-keystroke="meta 4" />
+  </action>
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="meta 2" />
+  </action>
+  <action id="ActivateVersionControlToolWindow">
+    <keyboard-shortcut first-keystroke="meta 3" />
+  </action>
+  <action id="BaseOnThisFunction" />
+  <action id="CloseContent" />
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="ctrl slash" />
+  </action>
+  <action id="CompareDirs" />
+  <action id="CompareTwoFiles" />
+  <action id="DatabaseView.ShowDiff" />
+  <action id="Debug" />
+  <action id="Diff.ShowDiff">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="DuplicatesForm.SendToRight" />
+  <action id="EditCustomVmOptions">
+    <keyboard-shortcut first-keystroke="f8" />
+  </action>
+  <action id="EditorChooseLookupItem">
+    <keyboard-shortcut first-keystroke="enter" />
+    <keyboard-shortcut first-keystroke="tab" />
+  </action>
+  <action id="EditorChooseLookupItemReplace" />
+  <action id="EditorCutLineEnd" />
+  <action id="EditorDown">
+    <keyboard-shortcut first-keystroke="down" />
+    <keyboard-shortcut first-keystroke="ctrl j" />
+  </action>
+  <action id="EditorIndentSelection" />
+  <action id="EditorLeft">
+    <keyboard-shortcut first-keystroke="left" />
+    <keyboard-shortcut first-keystroke="ctrl h" />
+  </action>
+  <action id="EditorLineEnd">
+    <keyboard-shortcut first-keystroke="meta l" />
+  </action>
+  <action id="EditorLineStart">
+    <keyboard-shortcut first-keystroke="meta h" />
+  </action>
+  <action id="EditorRight">
+    <keyboard-shortcut first-keystroke="right" />
+    <keyboard-shortcut first-keystroke="ctrl l" />
+  </action>
+  <action id="EditorToggleCase">
+    <keyboard-shortcut first-keystroke="shift ctrl u" />
+  </action>
+  <action id="EditorUnindentSelection" />
+  <action id="EditorUp">
+    <keyboard-shortcut first-keystroke="up" />
+    <keyboard-shortcut first-keystroke="ctrl k" />
+  </action>
+  <action id="ExpandLiveTemplateByTab" />
+  <action id="ExpandLiveTemplateCustom">
+    <keyboard-shortcut first-keystroke="tab" />
+  </action>
+  <action id="FileChooser.GotoModule" />
+  <action id="FileChooser.GotoProject" />
+  <action id="FileStructurePopup" />
+  <action id="FindInPath">
+    <keyboard-shortcut first-keystroke="shift ctrl f" />
+  </action>
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="shift ctrl n" />
+  </action>
+  <action id="GotoLine" />
+  <action id="Jdbc.RunSqlScript" />
+  <action id="Macro.格式化代码">
+    <keyboard-shortcut first-keystroke="ctrl meta l" />
+  </action>
+  <action id="NewElement" />
+  <action id="NewElementSamePlace" />
+  <action id="NewScratchFile" />
+  <action id="NextParameter" />
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="ctrl right" />
+  </action>
+  <action id="NextTemplateParameter" />
+  <action id="NextTemplateVariable">
+    <keyboard-shortcut first-keystroke="enter" />
+  </action>
+  <action id="PrevParameter" />
+  <action id="PrevTemplateParameter" />
+  <action id="PreviousTemplateVariable" />
+  <action id="QuickImplementations">
+    <keyboard-shortcut first-keystroke="alt space" />
+  </action>
+  <action id="QuickJavaDoc">
+    <keyboard-shortcut first-keystroke="f1" />
+    <mouse-shortcut keystroke="control button2" />
+  </action>
+  <action id="RecentChangedFiles">
+    <keyboard-shortcut first-keystroke="shift ctrl e" />
+  </action>
+  <action id="ReformatCode" />
+  <action id="ReplaceInPath">
+    <keyboard-shortcut first-keystroke="shift ctrl r" />
+  </action>
+  <action id="RunClass" />
+  <action id="RunDashboard.Run" />
+  <action id="StepOver" />
+  <action id="TypeHierarchy" />
+  <action id="TypeHierarchyBase.BaseOnThisType" />
+  <action id="Vcs.Log.FocusTextFilter" />
+  <action id="Vcs.ReformatCommitMessage" />
+  <action id="tasks.goto" />
+</keymap>

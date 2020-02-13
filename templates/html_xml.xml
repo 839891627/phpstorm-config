@@ -1,0 +1,9 @@
+<templateSet group="html/xml">
+  <template name="fc" value="function ($PARAMS$) {&#10;    $TODO$&#10;}" description="function" toReformat="false" toShortenFQNames="true">
+    <variable name="PARAMS" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TODO" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
