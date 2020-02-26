@@ -4,17 +4,17 @@
     <property name="created">2018-04-11T17:13:14</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.1.1.0.0</property>
-    <property name="modified">2019-02-26T14:38:54</property>
+    <property name="modified">2020-02-26T18:46:01</property>
     <property name="originalScheme">Material Oceanic</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.3" />
   <font>
-    <option name="EDITOR_FONT_NAME" value="Monaco" />
+    <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
     <option name="EDITOR_FONT_SIZE" value="14" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
-    <option name="EDITOR_FONT_SIZE" value="13" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
   </font>
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_LINE_SPACING" value="1.4" />
@@ -836,7 +836,6 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="GHERKIN_REGEXP_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
     <option name="GO_BAD_TOKEN">
       <value>
         <option name="EFFECT_COLOR" value="ff5370" />
@@ -1194,6 +1193,9 @@
         <option name="FOREGROUND" value="c3e88d" />
       </value>
     </option>
+    <option name="HTML_CODE">
+      <value />
+    </option>
     <option name="HTML_ENTITY_REFERENCE">
       <value>
         <option name="FOREGROUND" value="eeffff" />
@@ -1353,11 +1355,13 @@
     </option>
     <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
       <value>
-        <option name="FOREGROUND" value="89ddff" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="KOTLIN_IMPLICIT_EXHAUSTIVE_WHEN">
+      <value />
+    </option>
+    <option name="KOTLIN_LABEL">
       <value />
     </option>
     <option name="KOTLIN_MUTABLE_VARIABLE">
@@ -2226,9 +2230,8 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
+        <option name="BACKGROUND" value="3b514d" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="b39613" />
-        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="MESSAGE_ARGUMENT">
@@ -3296,7 +3299,7 @@
         <option name="FOREGROUND" value="c3e88d" />
       </value>
     </option>
-    <option name="SASS_COMMENT" baseAttributes="CSS.COMMENT" />
+    <option name="SASS_COMMENT" baseAttributes="" />
     <option name="SASS_MIXIN">
       <value>
         <option name="FOREGROUND" value="82aaff" />
@@ -3655,6 +3658,7 @@
       <value>
         <option name="FOREGROUND" value="32424a" />
         <option name="BACKGROUND" value="f8e71c" />
+        <option name="ERROR_STRIPE_COLOR" value="ffff28" />
       </value>
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
