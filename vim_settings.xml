@@ -45,10 +45,10 @@
         <entry>action PreviousTab</entry>
         <entry>action SelectInProjectView</entry>
         <entry encoding="base64">c2V0IHNob3djbWQg</entry>
-        <entry>nohls</entry>
         <entry>a</entry>
-        <entry>action Back</entry>
         <entry>action Annotate</entry>
+        <entry>nohls</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -112,11 +112,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/common/Jqns.php" timestamp="1586486004845">
-        <mark key="[" line="97" column="28" />
-        <mark key="]" line="97" column="28" />
-        <mark key="." line="97" column="28" />
-        <mark key="^" line="97" column="19" />
+      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/common/Jqns.php" timestamp="1586496655867">
+        <mark key="[" line="99" column="38" />
+        <mark key="]" line="100" column="25" />
+        <mark key="." line="100" column="24" />
+        <mark key="^" line="100" column="25" />
       </file>
       <file name="$USER_HOME$/Develop/Docker/loanmarket/common/service/unionlogin/PreFilterService.php" timestamp="1586421449245">
         <mark key="'" line="54" column="40" />
@@ -162,6 +162,9 @@
         <mark key="." line="59" column="0" />
         <mark key="^" line="59" column="1" />
       </file>
+      <file name="$USER_HOME$/Develop/Docker/loanmarket/common/service/SystemConfig.php" timestamp="1586496950236">
+        <mark key="'" line="89" column="31" />
+      </file>
       <file name="$USER_HOME$/Develop/Docker/839891627.github.io/source/_posts/docker环境配置phpstorm+xdebug.md" timestamp="1586434355233">
         <mark key="[" line="26" column="14" />
         <mark key="]" line="27" column="2" />
@@ -183,6 +186,7 @@
         <mark key="]" line="6" column="8" />
         <mark key="." line="6" column="8" />
       </file>
+      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/config/local/jqns.php" timestamp="1586496756764" />
       <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/controllers/MiddleController.php" timestamp="1586424080339">
         <mark key="[" line="201" column="41" />
         <mark key="]" line="201" column="58" />
@@ -203,7 +207,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="8" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/controllers/BaseController.php" />
       <jump line="90" column="17" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/controllers/MiddleController.php" />
       <jump line="56" column="17" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/controllers/MiddleController.php" />
       <jump line="149" column="20" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/controllers/MiddleController.php" />
@@ -303,6 +306,7 @@
       <jump line="68" column="15" filename="$USER_HOME$/Develop/Docker/loanmarket/serviceapi/controllers/BaseController.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/Docker/loanmarket/serviceapi/controllers/BaseController.php" />
       <jump line="1216" column="28" filename="$USER_HOME$/Develop/Docker/loanmarket/common/service/Loanmarket.php" />
+      <jump line="89" column="31" filename="$USER_HOME$/Develop/Docker/loanmarket/common/service/SystemConfig.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -311,7 +315,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>&quot;2020-04-10 10:34:00&quot;,&quot;message_tag&quot;:&quot;ua_api\\service\\gateways\\CreditGateway&quot;,&quot;message&quot;:{&quot;request&quot;:{&quot;url&quot;:&quot;http:\/\/dev-</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -326,7 +330,7 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;2020-04-10 10:34:00&quot;,&quot;message_tag&quot;:&quot;ua_api\\service\\gateways\\CreditGateway&quot;,&quot;message&quot;:{&quot;request&quot;:{&quot;url&quot;:&quot;http:\/\/dev-</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1dG1fc291cmNlXD4=</text>
@@ -335,7 +339,7 @@
         <text encoding="base64">ICAgICAgICAgICAgJ0FwcC1OYW1lJyAgICAgPT4gSnFuc0NvbnN0YW50czo6QVBQX05BTUUsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZWNobyAxO2RpZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -353,28 +357,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3FhLWVudicgICAgID0+ICdxYTQnCg==</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZWNobyAxO2RpZTsK</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkcGFyYW1zWydpZGNhcmRfbm8nXSA9ICRwZXJzb25bJ2lkX2NhcmRfbnVtYmVyJ107CiAgICAgICAgJHBhcmFtc1snbmFtZSddID0gJHBlcnNvblsnbmFtZSddOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkaW5mbyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -508,13 +512,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkcGFyYW1zWydpZGNhcmRfbm8nXSA9ICRwZXJzb25bJ2lkX2NhcmRfbnVtYmVyJ107CiAgICAgICAgJHBhcmFtc1snbmFtZSddID0gJHBlcnNvblsnbmFtZSddOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGYgPSAkciA9IDA7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkaW5mbyk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Annotate</text>
+        <text>action Back</text>
       </register>
     </registers>
   </component>
@@ -526,7 +530,7 @@
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
