@@ -1,7 +1,7 @@
 <application>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter id="018dbb28-ec00-4204-9d28-dee33ec22b18" name="php71" home="docker-compose://DATA" debugger_id="php.debugger.XDebug">
+      <interpreter id="001b46a9-28fb-46dd-a89c-b0ae89c1284f" name="php71" home="docker-compose://DATA" debugger_id="php.debugger.XDebug">
         <remote_data DOCKER_ACCOUNT_NAME="Docker" DOCKER_COMPOSE_SERVICE_NAME="php71" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="php" HELPERS_PATH="/opt/.phpstorm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false">
           <dockerComposeConfigurationPaths>
             <item value="$USER_HOME$/Develop/Docker/dnmp/docker-compose.yml" />
