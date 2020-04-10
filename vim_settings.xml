@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxYWUZfQVBJX0dBVEVXQVlfVE9LRU5cPg==</entry>
         <entry encoding="base64">XDx1YVw+</entry>
         <entry encoding="base64">XDxyY3NHYXRld2F5XD4=</entry>
         <entry encoding="base64">XDxiYXNlSW5mb1w+</entry>
@@ -27,13 +26,13 @@
         <entry>source_type</entry>
         <entry encoding="base64">XDxhcHBcPg==</entry>
         <entry encoding="base64">XDxjbGllbnRVc2VyXD4=</entry>
+        <entry encoding="base64">XDx1dG1fc291cmNlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>vs</entry>
         <entry>action NextSplitter</entry>
         <entry>action RenameElement</entry>
-        <entry>action Annotate</entry>
         <entry>.,.+1nohls</entry>
         <entry>action CloseAllEditors</entry>
         <entry>.nohls</entry>
@@ -42,13 +41,14 @@
         <entry>action GotoFile</entry>
         <entry>action FileStructurePopup</entry>
         <entry>wq</entry>
-        <entry>action Back</entry>
         <entry>action NextTab</entry>
         <entry>action PreviousTab</entry>
         <entry>action SelectInProjectView</entry>
         <entry encoding="base64">c2V0IHNob3djbWQg</entry>
         <entry>nohls</entry>
         <entry>a</entry>
+        <entry>action Back</entry>
+        <entry>action Annotate</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -137,8 +137,8 @@
         <mark key="]" line="232" column="0" />
         <mark key="." line="232" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/Docker/loanmarket/common/service/Loanmarket.php" timestamp="1586428190478">
-        <mark key="'" line="1224" column="28" />
+      <file name="$USER_HOME$/Develop/Docker/loanmarket/common/service/Loanmarket.php" timestamp="1586496273081">
+        <mark key="'" line="1216" column="28" />
         <mark key="[" line="1470" column="97" />
         <mark key="]" line="1470" column="97" />
         <mark key="^" line="1470" column="109" />
@@ -198,16 +198,11 @@
         <mark key="]" line="330" column="0" />
         <mark key="." line="330" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/Docker/loanmarket/serviceapi/controllers/BaseController.php" timestamp="1586428760825">
-        <mark key="'" line="21" column="12" />
+      <file name="$USER_HOME$/Develop/Docker/loanmarket/serviceapi/controllers/BaseController.php" timestamp="1586496011790">
+        <mark key="'" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="11" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/controllers/BaseController.php" />
-      <jump line="41" column="15" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/controllers/BaseController.php" />
-      <jump line="50" column="11" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/controllers/BaseController.php" />
-      <jump line="52" column="15" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/controllers/BaseController.php" />
-      <jump line="9" column="30" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/controllers/AsyncController.php" />
       <jump line="69" column="8" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/controllers/BaseController.php" />
       <jump line="90" column="17" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/controllers/MiddleController.php" />
       <jump line="56" column="17" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/controllers/MiddleController.php" />
@@ -303,6 +298,11 @@
       <jump line="1960" column="0" filename="$USER_HOME$/Develop/Docker/dnmp/config/php/php71.ini" />
       <jump line="14" column="37" filename="$USER_HOME$/Develop/Docker/laravel/public/index.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/Docker/laravel/public/index.php" />
+      <jump line="94" column="27" filename="$USER_HOME$/Develop/Docker/loanmarket/serviceapi/controllers/BaseController.php" />
+      <jump line="92" column="32" filename="$USER_HOME$/Develop/Docker/loanmarket/serviceapi/controllers/BaseController.php" />
+      <jump line="68" column="15" filename="$USER_HOME$/Develop/Docker/loanmarket/serviceapi/controllers/BaseController.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Develop/Docker/loanmarket/serviceapi/controllers/BaseController.php" />
+      <jump line="1216" column="28" filename="$USER_HOME$/Develop/Docker/loanmarket/common/service/Loanmarket.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -329,7 +329,7 @@
         <text>&quot;2020-04-10 10:34:00&quot;,&quot;message_tag&quot;:&quot;ua_api\\service\\gateways\\CreditGateway&quot;,&quot;message&quot;:{&quot;request&quot;:{&quot;url&quot;:&quot;http:\/\/dev-</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjbGllbnRVc2VyXD4=</text>
+        <text encoding="base64">XDx1dG1fc291cmNlXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJ0FwcC1OYW1lJyAgICAgPT4gSnFuc0NvbnN0YW50czo6QVBQX05BTUUsCg==</text>
@@ -514,19 +514,19 @@
         <text encoding="base64">ICAgICAgICAgICAgJGYgPSAkciA9IDA7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>nohls</text>
+        <text>action Annotate</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxjbGllbnRVc2VyXD4=</last-search>
+      <last-search encoding="base64">XDx1dG1fc291cmNlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjbGllbnRVc2VyXD4=</last-pattern>
+      <last-pattern encoding="base64">XDx1dG1fc291cmNlXD4=</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
