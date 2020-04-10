@@ -40,15 +40,15 @@
         <entry>action RecentFiles</entry>
         <entry>action GotoFile</entry>
         <entry>action FileStructurePopup</entry>
-        <entry>wq</entry>
-        <entry>action NextTab</entry>
         <entry>action PreviousTab</entry>
         <entry>action SelectInProjectView</entry>
         <entry encoding="base64">c2V0IHNob3djbWQg</entry>
         <entry>a</entry>
         <entry>action Annotate</entry>
-        <entry>nohls</entry>
         <entry>action Back</entry>
+        <entry>nohls</entry>
+        <entry>wq</entry>
+        <entry>action NextTab</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -516,7 +516,7 @@
         <text encoding="base64">ICAgICAgICBkZCgkaW5mbyk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Back</text>
+        <text>action NextTab</text>
       </register>
     </registers>
   </component>
