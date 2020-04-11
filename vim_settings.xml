@@ -47,8 +47,8 @@
         <entry>action FindUsages</entry>
         <entry>action PreviousTab</entry>
         <entry>action Back</entry>
-        <entry>nohls</entry>
         <entry>action RecentFiles</entry>
+        <entry>nohls</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -115,17 +115,19 @@
       <file name="$USER_HOME$/Develop/Docker/loanmarket/backend/models/LoanmarketReport.php" timestamp="1586574489508">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/controllers/CommonController.php" timestamp="1586576351082">
+      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/controllers/CommonController.php" timestamp="1586584644432">
         <mark key="'" line="132" column="20" />
-        <mark key="[" line="126" column="60" />
-        <mark key="]" line="153" column="34" />
-        <mark key="^" line="153" column="34" />
-        <mark key="." line="153" column="33" />
+        <mark key="[" line="126" column="83" />
+        <mark key="]" line="126" column="62" />
+        <mark key="." line="126" column="61" />
+        <mark key="^" line="126" column="62" />
       </file>
       <file name="$USER_HOME$/Develop/Docker/syf-middleware-system/common/services/sms/ChuangRuiYunSms.php" timestamp="1586570448139">
         <mark key="'" line="181" column="14" />
       </file>
-      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/logs/jqns/web_client/20200411.log" timestamp="1586580412274" />
+      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/logs/jqns/web_client/20200411.log" timestamp="1586584913506">
+        <mark key="'" line="69" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/Docker/loanmarket/common/service/Loanmarket.php" timestamp="1586575320459">
         <mark key="'" line="1190" column="25" />
         <mark key="[" line="1197" column="39" />
@@ -189,8 +191,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="116" column="58" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/common/Jqns.php" />
-      <jump line="243" column="65" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/ppd/facade/common/PPDai.php" />
       <jump line="262" column="34" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/ppd/facade/before/Income.php" />
       <jump line="54" column="1" filename="$USER_HOME$/Develop/Docker/loanmarket/common/service/unionlogin/strategies/JqnsStrategy.php" />
       <jump line="58" column="10" filename="$USER_HOME$/Develop/Docker/loanmarket/common/service/unionlogin/strategies/JqnsStrategy.php" />
@@ -289,6 +289,8 @@
       <jump line="1195" column="21" filename="$USER_HOME$/Develop/Docker/loanmarket/common/service/Loanmarket.php" />
       <jump line="1190" column="25" filename="$USER_HOME$/Develop/Docker/loanmarket/common/service/Loanmarket.php" />
       <jump line="132" column="20" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/controllers/CommonController.php" />
+      <jump line="32" column="50" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/logs/jqns/web_client/20200411.log" />
+      <jump line="69" column="0" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/logs/jqns/web_client/20200411.log" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -297,7 +299,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoJHJldFsndGVybV90eXBlJ10gPT0gMCl7CiAgICAgICAgICAgICAgICAkbG9hblRlcm0gPSAkcmV0WydhcHByb3ZhbF90ZXJtJ107CiAgICAgICAgICAgIH1lbHNlewogICAgICAgICAgICAgICAgJGxvYW5UZXJtID0gJHJldFsnbG9hbl90ZXJtX29wdGlvbiddOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -312,16 +314,16 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>list</text>
+        <text>$ret['loan_term_option']??[]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfcGFyc2VMaW1pdFw+</text>
       </register>
-      <register name="0" type="4">
-        <text>$utm['current_utm_source']</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRsb2FuVGVybSA9ICRyZXRbJ2FwcHJvdmFsX3Rlcm0nXTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoJHJldFsndGVybV90eXBlJ10gPT0gMCl7CiAgICAgICAgICAgICAgICAkbG9hblRlcm0gPSAkcmV0WydhcHByb3ZhbF90ZXJtJ107CiAgICAgICAgICAgIH1lbHNlewogICAgICAgICAgICAgICAgJGxvYW5UZXJtID0gJHJldFsnbG9hbl90ZXJtX29wdGlvbiddOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -339,7 +341,7 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAndGVzdCcgICAgICA9PiAnY29tbW9uL3Rlc3QnLCAvLyDmi4nlj5bov5jmrL7nu5PmnpwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
@@ -351,16 +353,16 @@
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAndGVzdCcgICAgICA9PiAnY29tbW9uL3Rlc3QnLCAvLyDmi4nlj5bov5jmrL7nu5PmnpwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJGlzSGl0KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJGl0ZW0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJGlzSGl0KTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -494,13 +496,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZChJKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJGl0ZW0pOwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action RecentFiles</text>
+        <text>nohls</text>
       </register>
     </registers>
   </component>
