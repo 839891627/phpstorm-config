@@ -41,7 +41,6 @@
         <entry>action GotoFile</entry>
         <entry>action KJumpAction.Word0</entry>
         <entry>action SelectInProjectView</entry>
-        <entry>action Annotate</entry>
         <entry>wq</entry>
         <entry>action CloseAllEditors</entry>
         <entry>action Back</entry>
@@ -49,6 +48,7 @@
         <entry>action NextTab</entry>
         <entry>action PreviousTab</entry>
         <entry>nohls</entry>
+        <entry>action Annotate</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -125,8 +125,12 @@
         <mark key="^" line="153" column="34" />
         <mark key="." line="153" column="33" />
       </file>
+      <file name="$USER_HOME$/Develop/Docker/syf-middleware-system/console/controllers/XyfSmsRetryController.php" timestamp="1586569648328" />
       <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/api/service/gateways/CreditGateway.php" timestamp="1586507460839">
         <mark key="'" line="64" column="15" />
+      </file>
+      <file name="$USER_HOME$/Develop/Docker/syf-middleware-system/common/services/sms/ChuangRuiYunSms.php" timestamp="1586570448139">
+        <mark key="'" line="181" column="14" />
       </file>
       <file name="$USER_HOME$/Develop/Docker/loanmarket/common/service/Loanmarket.php" timestamp="1586496273081">
         <mark key="'" line="1216" column="28" />
@@ -137,18 +141,8 @@
       </file>
       <file name="$USER_HOME$/Develop/Docker/xyf-middleground-system/logs/console/2020-04-10-sms.log" timestamp="1586508826056" />
       <file name="$USER_HOME$/Develop/Docker/loanmarket/common/config/prod/db.php" timestamp="1586505555006" />
-      <file name="$USER_HOME$/Develop/Docker/loanmarket/serviceapi/controllers/BaseController.php" timestamp="1586496011790">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/api/controllers/RouteController.php" timestamp="1586506569712" />
       <file name="$USER_HOME$/Develop/Docker/shoufuyou-sms-system/config/env.prod.template.php" timestamp="1586515848294" />
-      <file name="$USER_HOME$/Develop/Docker/laravel/public/index.php" timestamp="1586485694753">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="59" column="1" />
-        <mark key="]" line="59" column="1" />
-        <mark key="." line="59" column="0" />
-        <mark key="^" line="59" column="1" />
-      </file>
       <file name="$USER_HOME$/Develop/Docker/loanmarket/common/service/SystemConfig.php" timestamp="1586496950236">
         <mark key="'" line="89" column="31" />
       </file>
@@ -178,7 +172,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="51" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/async/Notify.php" />
       <jump line="30" column="27" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/async/Notify.php" />
       <jump line="74" column="13" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/async/Notify.php" />
       <jump line="99" column="4" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/async/Notify.php" />
@@ -278,6 +271,7 @@
       <jump line="98" column="0" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/controllers/CommonController.php" />
       <jump line="153" column="33" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/controllers/CommonController.php" />
       <jump line="185" column="12" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/controllers/CommonController.php" />
+      <jump line="181" column="14" filename="$USER_HOME$/Develop/Docker/syf-middleware-system/common/services/sms/ChuangRuiYunSms.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -489,7 +483,7 @@
         <text encoding="base64">ICAgICAgICBkZCgyKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>nohls</text>
+        <text>action Annotate</text>
       </register>
     </registers>
   </component>
