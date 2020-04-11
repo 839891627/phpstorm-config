@@ -24,12 +24,11 @@
         <entry encoding="base64">XDx1dG1fc291cmNlXD4=</entry>
         <entry encoding="base64">XDx4eWZfZGJcPg==</entry>
         <entry encoding="base64">XDxnZXRBcHBcPg==</entry>
-        <entry encoding="base64">XDxhcHBcPg==</entry>
         <entry encoding="base64">XDxfcGFyc2VWaXNpYmlsaXR5XD4=</entry>
         <entry encoding="base64">XDxfcGFyc2VMaW1pdFw+</entry>
+        <entry encoding="base64">XDxhcHBcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>action RenameElement</entry>
         <entry>.,.+1nohls</entry>
         <entry>.nohls</entry>
         <entry>action FileStructurePopup</entry>
@@ -38,16 +37,17 @@
         <entry>action GotoFile</entry>
         <entry>action CloseAllEditors</entry>
         <entry>action Annotate</entry>
-        <entry>action KJumpAction.Word0</entry>
-        <entry>action NextTab</entry>
-        <entry>action NextSplitter</entry>
-        <entry>wq</entry>
         <entry>action SelectInProjectView</entry>
         <entry>action FindUsages</entry>
-        <entry>action PreviousTab</entry>
-        <entry>action Back</entry>
         <entry>action RecentFiles</entry>
+        <entry>action PreviousTab</entry>
+        <entry>action NextTab</entry>
+        <entry>action KJumpAction.Word0</entry>
+        <entry>action RenameElement</entry>
+        <entry>action Back</entry>
         <entry>vs</entry>
+        <entry>action NextSplitter</entry>
+        <entry>wq</entry>
         <entry>nohls</entry>
       </history-cmd>
       <history-expr />
@@ -112,8 +112,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Develop/Docker/loanmarket/backend/models/LoanmarketReport.php" timestamp="1586574489508">
+      <file name="$USER_HOME$/Develop/Docker/loanmarket/backend/models/LoanmarketReport.php" timestamp="1586586899105">
         <mark key="'" line="0" column="0" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="52" />
       </file>
       <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/controllers/CommonController.php" timestamp="1586584644432">
         <mark key="'" line="132" column="20" />
@@ -142,6 +144,13 @@
         <mark key="." line="185" column="7" />
         <mark key="^" line="185" column="10" />
       </file>
+      <file name="$USER_HOME$/Develop/Docker/loanmarket/serviceapi/controllers/PreFilterController.php" timestamp="1586587002883">
+        <mark key="'" line="85" column="16" />
+        <mark key="[" line="54" column="53" />
+        <mark key="]" line="54" column="49" />
+        <mark key="." line="54" column="48" />
+        <mark key="^" line="54" column="49" />
+      </file>
       <file name="$USER_HOME$/Develop/Docker/xyf-credit-system/credit_api/modules/v1/facade/before/OutCredit.php" timestamp="1586577196944">
         <mark key="[" line="580" column="0" />
         <mark key="]" line="580" column="0" />
@@ -154,27 +163,35 @@
         <mark key="." line="163" column="18" />
         <mark key="^" line="163" column="19" />
       </file>
-      <file name="$USER_HOME$/Develop/Docker/loanmarket/serviceapi/controllers/BaseController.php" timestamp="1586585645923">
-        <mark key="'" line="96" column="16" />
+      <file name="$USER_HOME$/Develop/Docker/loanmarket/serviceapi/controllers/BaseController.php" timestamp="1586586367634">
+        <mark key="'" line="69" column="8" />
+        <mark key="[" line="71" column="83" />
+        <mark key="]" line="71" column="96" />
+        <mark key="." line="71" column="95" />
+        <mark key="^" line="71" column="96" />
       </file>
-      <file name="$USER_HOME$/Develop/Docker/loanmarket/serviceapi/controllers/LoanmarketController.php" timestamp="1586585679876">
-        <mark key="'" line="127" column="0" />
-        <mark key="[" line="234" column="20" />
-        <mark key="]" line="234" column="20" />
-        <mark key="." line="234" column="19" />
-        <mark key="^" line="234" column="20" />
+      <file name="$USER_HOME$/Develop/Docker/loanmarket/serviceapi/controllers/LoanmarketController.php" timestamp="1586585943901">
+        <mark key="'" line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/Docker/loanmarket/serviceapi/controllers/SiteController.php" timestamp="1586585604443">
-        <mark key="[" line="42" column="5" />
-        <mark key="]" line="42" column="4" />
-        <mark key="." line="42" column="3" />
-        <mark key="^" line="42" column="4" />
+      <file name="$USER_HOME$/Develop/Docker/loanmarket/serviceapi/controllers/SiteController.php" timestamp="1586586383651">
+        <mark key="'" line="62" column="30" />
+        <mark key="[" line="60" column="11" />
+        <mark key="]" line="61" column="45" />
+        <mark key="." line="61" column="44" />
+        <mark key="^" line="61" column="45" />
       </file>
       <file name="$USER_HOME$/Develop/Docker/loanmarket/common/models/LoanmarketVisibility.php" timestamp="1586572750684">
         <mark key="[" line="17" column="33" />
         <mark key="]" line="17" column="32" />
         <mark key="^" line="17" column="32" />
         <mark key="." line="17" column="31" />
+      </file>
+      <file name="$USER_HOME$/Develop/Docker/loanmarket/common/service/ClientAccount.php" timestamp="1586586278692">
+        <mark key="'" line="73" column="8" />
+        <mark key="[" line="21" column="31" />
+        <mark key="]" line="21" column="31" />
+        <mark key="." line="21" column="31" />
+        <mark key="^" line="30" column="54" />
       </file>
       <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/logs/jqns/web_client/20200410.log" timestamp="1586576927728">
         <mark key="'" line="274" column="41" />
@@ -195,19 +212,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="8" filename="$USER_HOME$/Develop/Docker/loanmarket/common/service/unionlogin/strategies/JqnsStrategy.php" />
-      <jump line="68" column="228" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/logs/jqns/web_client/20200409.log" />
-      <jump line="62" column="44" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/logs/jqns/web_client/20200409.log" />
-      <jump line="323" column="12" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/before/Income.php" />
-      <jump line="318" column="33" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/before/Income.php" />
-      <jump line="74" column="0" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/logs/jqns/web_client/20200409.log" />
-      <jump line="114" column="53" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/logs/jqns/web_client/20200409.log" />
-      <jump line="123" column="42" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/logs/jqns/web_client/20200409.log" />
-      <jump line="51" column="40" filename="$USER_HOME$/Develop/Docker/loanmarket/common/service/unionlogin/PreFilterService.php" />
-      <jump line="57" column="42" filename="$USER_HOME$/Develop/Docker/loanmarket/serviceapi/controllers/PreFilterController.php" />
-      <jump line="67" column="37" filename="$USER_HOME$/Develop/Docker/loanmarket/serviceapi/controllers/PreFilterController.php" />
-      <jump line="131" column="59" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/logs/jqns/web_client/20200409.log" />
-      <jump line="1462" column="75" filename="$USER_HOME$/Develop/Docker/loanmarket/common/service/Loanmarket.php" />
       <jump line="1435" column="19" filename="$USER_HOME$/Develop/Docker/loanmarket/common/service/Loanmarket.php" />
       <jump line="63" column="38" filename="$USER_HOME$/Develop/Docker/loanmarket/common/unit/Env.php" />
       <jump line="18" column="49" filename="$USER_HOME$/Develop/Docker/loanmarket/serviceapi/controllers/BaseController.php" />
@@ -263,13 +267,10 @@
       <jump line="112" column="33" filename="$USER_HOME$/Develop/Docker/loanmarket/backend/models/LoanmarketReport.php" />
       <jump line="131" column="33" filename="$USER_HOME$/Develop/Docker/loanmarket/backend/models/LoanmarketReport.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/Docker/loanmarket/backend/models/LoanmarketReport.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Develop/Docker/loanmarket/serviceapi/controllers/BaseController.php" />
       <jump line="23" column="12" filename="$USER_HOME$/Develop/Docker/loanmarket/serviceapi/controllers/BaseController.php" />
       <jump line="30" column="28" filename="$USER_HOME$/Develop/Docker/loanmarket/serviceapi/controllers/BaseController.php" />
       <jump line="31" column="31" filename="$USER_HOME$/Develop/Docker/loanmarket/serviceapi/controllers/BaseController.php" />
       <jump line="51" column="26" filename="$USER_HOME$/Develop/Docker/loanmarket/serviceapi/controllers/BaseController.php" />
-      <jump line="86" column="19" filename="$USER_HOME$/Develop/Docker/loanmarket/serviceapi/controllers/BaseController.php" />
-      <jump line="98" column="19" filename="$USER_HOME$/Develop/Docker/loanmarket/serviceapi/controllers/BaseController.php" />
       <jump line="88" column="33" filename="$USER_HOME$/Develop/Docker/loanmarket/serviceapi/controllers/BaseController.php" />
       <jump line="1538" column="20" filename="$USER_HOME$/Develop/Docker/loanmarket/common/service/Loanmarket.php" />
       <jump line="1476" column="9" filename="$USER_HOME$/Develop/Docker/loanmarket/common/service/Loanmarket.php" />
@@ -295,6 +296,22 @@
       <jump line="44" column="6" filename="$USER_HOME$/Develop/Docker/loanmarket/serviceapi/controllers/SiteController.php" />
       <jump line="126" column="0" filename="$USER_HOME$/Develop/Docker/loanmarket/serviceapi/controllers/LoanmarketController.php" />
       <jump line="96" column="16" filename="$USER_HOME$/Develop/Docker/loanmarket/serviceapi/controllers/BaseController.php" />
+      <jump line="221" column="0" filename="$USER_HOME$/Develop/Docker/loanmarket/serviceapi/controllers/LoanmarketController.php" />
+      <jump line="231" column="0" filename="$USER_HOME$/Develop/Docker/loanmarket/serviceapi/controllers/LoanmarketController.php" />
+      <jump line="32" column="0" filename="$USER_HOME$/Develop/Docker/loanmarket/serviceapi/controllers/SiteController.php" />
+      <jump line="29" column="0" filename="$USER_HOME$/Develop/Docker/loanmarket/serviceapi/controllers/LoanmarketController.php" />
+      <jump line="42" column="4" filename="$USER_HOME$/Develop/Docker/loanmarket/serviceapi/controllers/SiteController.php" />
+      <jump line="86" column="19" filename="$USER_HOME$/Develop/Docker/loanmarket/serviceapi/controllers/BaseController.php" />
+      <jump line="98" column="19" filename="$USER_HOME$/Develop/Docker/loanmarket/serviceapi/controllers/BaseController.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Develop/Docker/loanmarket/serviceapi/controllers/BaseController.php" />
+      <jump line="69" column="8" filename="$USER_HOME$/Develop/Docker/loanmarket/serviceapi/controllers/BaseController.php" />
+      <jump line="62" column="15" filename="$USER_HOME$/Develop/Docker/loanmarket/serviceapi/controllers/SiteController.php" />
+      <jump line="73" column="8" filename="$USER_HOME$/Develop/Docker/loanmarket/common/service/ClientAccount.php" />
+      <jump line="61" column="30" filename="$USER_HOME$/Develop/Docker/loanmarket/serviceapi/controllers/SiteController.php" />
+      <jump line="55" column="24" filename="$USER_HOME$/Develop/Docker/loanmarket/serviceapi/controllers/PreFilterController.php" />
+      <jump line="89" column="38" filename="$USER_HOME$/Develop/Docker/loanmarket/serviceapi/controllers/PreFilterController.php" />
+      <jump line="88" column="112" filename="$USER_HOME$/Develop/Docker/loanmarket/serviceapi/controllers/PreFilterController.php" />
+      <jump line="85" column="16" filename="$USER_HOME$/Develop/Docker/loanmarket/serviceapi/controllers/PreFilterController.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -302,8 +319,8 @@
       <register name="a" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+dG9rZW5vcwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -318,16 +335,16 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>password</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfcGFyc2VMaW1pdFw+</text>
+        <text encoding="base64">XDxhcHBcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICog6K6k6K+B5bm26I635Y+WdG9rZW4KICAgICAqIEByZXR1cm4gXHlpaVx3ZWJcUmVzcG9uc2UKICAgICAqIEB0aHJvd3MgXHlpaVxiYXNlXEV4Y2VwdGlvbgogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gYWN0aW9uR2V0VG9rZW4oKQogICAgewogICAgICAgICRwYXJhbXMgPSAkdGhpcy0+cmVxdWVzdC0+cG9zdCgpOwogICAgICAgIENvZGVNZXNzYWdlOjpjaGVja1BhcmFtcygkcGFyYW1zLCBbCiAgICAgICAgICAgICd1c2VybmFtZScgPT4gWyduYW1lJyA9PiAn55So5oi35ZCNJywgJ3R5cGUnID0+ICdyZXF1aXJlZCddLAogICAgICAgICAgICAncGFzc3dvcmQnID0+IFsnbmFtZScgPT4gJ+WvhueggScsICd0eXBlJyA9PiAncmVxdWlyZWQnXSwKICAgICAgICAgICAgJ21vYmlsZScgICA9PiBbJ25hbWUnID0+ICfmiYvmnLrlj7cnLCAnZGVmYXVsdCcgPT4gJyddLAogICAgICAgIF0pOwogICAgICAgICRyZXQgPSBDbGllbnRBY2NvdW50OjpnZXRUb2tlbigkcGFyYW1zKTsKICAgICAgICByZXR1cm4gJHRoaXMtPnN1Y2Nlc3MoJHJldCk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAkY29tbWFuZCA9ICRjb25uZWN0aW9uLT5jcmVhdGVDb21tYW5kKCRzcWwpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+dG9rZW5vcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -345,28 +362,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3VzZXJuYW1lJyA9PiBbJ25hbWUnID0+ICfnlKjmiLflkI0nLCAndHlwZScgPT4gJ3JlcXVpcmVkJ10sCiAgICAgICAgICAgICdwYXNzd29yZCcgPT4gWyduYW1lJyA9PiAn5a+G56CBJywgJ3R5cGUnID0+ICdyZXF1aXJlZCddLAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkcGFyYW1zWydwYXNzd29yZCddID0gCg==</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICog6K6k6K+B5bm26I635Y+WdG9rZW4KICAgICAqIEByZXR1cm4gXHlpaVx3ZWJcUmVzcG9uc2UKICAgICAqIEB0aHJvd3MgXHlpaVxiYXNlXEV4Y2VwdGlvbgogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gYWN0aW9uR2V0KCkKICAgIHsKICAgICAgICAkcGFyYW1zID0gJHRoaXMtPnJlcXVlc3QtPnBvc3QoKTsKICAgICAgICBDb2RlTWVzc2FnZTo6Y2hlY2tQYXJhbXMoJHBhcmFtcywgWwogICAgICAgICAgICAndXNlcm5hbWUnID0+IFsnbmFtZScgPT4gJ+eUqOaIt+WQjScsICd0eXBlJyA9PiAncmVxdWlyZWQnXSwKICAgICAgICAgICAgJ3Bhc3N3b3JkJyA9PiBbJ25hbWUnID0+ICflr4bnoIEnLCAndHlwZScgPT4gJ3JlcXVpcmVkJ10sCiAgICAgICAgICAgICdtb2JpbGUnICAgPT4gWyduYW1lJyA9PiAn5omL5py65Y+3JywgJ2RlZmF1bHQnID0+ICcnXSwKICAgICAgICBdKTsKICAgICAgICAkcmV0ID0gQ2xpZW50QWNjb3VudDo6Z2V0VG9rZW4oJHBhcmFtcyk7CiAgICAgICAgcmV0dXJuICR0aGlzLT5zdWNjZXNzKCRyZXQpOwogICAgfQoK</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICog5qC55o2uYXBw6I635Y+WCiAgICAgKiBAcGFyYW0gc3RyaW5nICRhcHAKICAgICAqIEByZXR1cm4gYXJyYXkKICAgICAqLwogICAgcHVibGljIHN0YXRpYyBmdW5jdGlvbiBnZXRQYXNzd29yZEJ5QXBwKHN0cmluZyAkYXBwKXsKICAgICAgICByZXR1cm4gWwogICAgICAgICAgICAneHlmJyA9PiAneHlmJywKICAgICAgICAgICAgJ3h5ZicgPT4gJ3h5ZicsCiAgICAgICAgXTsKICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoJHJldFsndGVybV90eXBlJ10gPT0gMCl7CiAgICAgICAgICAgICAgICAkbG9hblRlcm0gPSAkcmV0WydhcHByb3ZhbF90ZXJtJ107CiAgICAgICAgICAgIH1lbHNlewogICAgICAgICAgICAgICAgJGxvYW5UZXJtID0gJHJldFsnbG9hbl90ZXJtX29wdGlvbiddOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2Zyb20nID0+IFsnbmFtZScgPT4gJ+eUqOaIt+WQjScsICd0eXBlJyA9PiAncmVxdWlyZWQnXSwK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -500,10 +517,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2Zyb20nID0+IFsnbmFtZScgPT4gJ+eUqOaIt+WQjScsICd0eXBlJyA9PiAncmVxdWlyZWQnXSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAndGVzdCcgICAgICA9PiAnY29tbW9uL3Rlc3QnLCAvLyDmi4nlj5bov5jmrL7nu5PmnpwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2FwcCcgPT4gWyduYW1lJyA9PiAnJywgJ3R5cGUnID0+ICdyZXF1aXJlZCddLAo=</text>
       </register>
       <register name=":" type="4">
         <text>nohls</text>
@@ -512,9 +529,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxfcGFyc2VMaW1pdFw+</last-search>
+      <last-search encoding="base64">XDxhcHBcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfcGFyc2VMaW1pdFw+</last-pattern>
+      <last-pattern encoding="base64">XDxhcHBcPg==</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
