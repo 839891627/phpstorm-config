@@ -39,16 +39,16 @@
         <entry>action Annotate</entry>
         <entry>action SelectInProjectView</entry>
         <entry>action FindUsages</entry>
-        <entry>action RecentFiles</entry>
         <entry>action PreviousTab</entry>
         <entry>action NextTab</entry>
         <entry>action KJumpAction.Word0</entry>
-        <entry>action Back</entry>
         <entry>vs</entry>
         <entry>action NextSplitter</entry>
         <entry>wq</entry>
         <entry>nohls</entry>
         <entry>action RenameElement</entry>
+        <entry>action RecentFiles</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -186,8 +186,8 @@
         <mark key="^" line="17" column="32" />
         <mark key="." line="17" column="31" />
       </file>
-      <file name="$USER_HOME$/Develop/Docker/loanmarket/common/service/ClientAccount.php" timestamp="1586586278692">
-        <mark key="'" line="73" column="8" />
+      <file name="$USER_HOME$/Develop/Docker/loanmarket/common/service/ClientAccount.php" timestamp="1586588115622">
+        <mark key="'" line="30" column="27" />
         <mark key="[" line="21" column="31" />
         <mark key="]" line="21" column="31" />
         <mark key="." line="21" column="31" />
@@ -212,7 +212,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1434" column="32" filename="$USER_HOME$/Develop/Docker/loanmarket/common/service/Loanmarket.php" />
       <jump line="1459" column="33" filename="$USER_HOME$/Develop/Docker/loanmarket/common/service/Loanmarket.php" />
       <jump line="1433" column="20" filename="$USER_HOME$/Develop/Docker/loanmarket/common/service/Loanmarket.php" />
       <jump line="53" column="15" filename="$USER_HOME$/Develop/Docker/loanmarket/serviceapi/controllers/BaseController.php" />
@@ -312,6 +311,7 @@
       <jump line="54" column="27" filename="$USER_HOME$/Develop/Docker/loanmarket/serviceapi/controllers/PreFilterController.php" />
       <jump line="67" column="32" filename="$USER_HOME$/Develop/Docker/loanmarket/serviceapi/controllers/PreFilterController.php" />
       <jump line="80" column="0" filename="$USER_HOME$/Develop/Docker/loanmarket/serviceapi/controllers/PreFilterController.php" />
+      <jump line="30" column="27" filename="$USER_HOME$/Develop/Docker/loanmarket/common/service/ClientAccount.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -523,7 +523,7 @@
         <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+YXBwKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>action RenameElement</text>
+        <text>action Back</text>
       </register>
     </registers>
   </component>
