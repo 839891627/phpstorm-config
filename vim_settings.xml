@@ -35,7 +35,6 @@
         <entry>action FileStructurePopup</entry>
         <entry encoding="base64">c2V0IHNob3djbWQg</entry>
         <entry>a</entry>
-        <entry>action RecentFiles</entry>
         <entry>action GotoFile</entry>
         <entry>action CloseAllEditors</entry>
         <entry>action Annotate</entry>
@@ -49,6 +48,7 @@
         <entry>action PreviousTab</entry>
         <entry>action Back</entry>
         <entry>nohls</entry>
+        <entry>action RecentFiles</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -125,7 +125,7 @@
       <file name="$USER_HOME$/Develop/Docker/syf-middleware-system/common/services/sms/ChuangRuiYunSms.php" timestamp="1586570448139">
         <mark key="'" line="181" column="14" />
       </file>
-      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/logs/jqns/web_client/20200411.log" timestamp="1586577189331" />
+      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/logs/jqns/web_client/20200411.log" timestamp="1586577310896" />
       <file name="$USER_HOME$/Develop/Docker/loanmarket/common/service/Loanmarket.php" timestamp="1586575320459">
         <mark key="'" line="1190" column="25" />
         <mark key="[" line="1197" column="39" />
@@ -500,7 +500,7 @@
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>nohls</text>
+        <text>action RecentFiles</text>
       </register>
     </registers>
   </component>
