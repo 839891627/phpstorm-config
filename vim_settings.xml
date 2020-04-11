@@ -43,12 +43,12 @@
         <entry>action PreviousTab</entry>
         <entry>action NextTab</entry>
         <entry>action KJumpAction.Word0</entry>
-        <entry>action RenameElement</entry>
         <entry>action Back</entry>
         <entry>vs</entry>
         <entry>action NextSplitter</entry>
         <entry>wq</entry>
         <entry>nohls</entry>
+        <entry>action RenameElement</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -144,12 +144,12 @@
         <mark key="." line="185" column="7" />
         <mark key="^" line="185" column="10" />
       </file>
-      <file name="$USER_HOME$/Develop/Docker/loanmarket/serviceapi/controllers/PreFilterController.php" timestamp="1586587002883">
-        <mark key="'" line="85" column="16" />
-        <mark key="[" line="54" column="53" />
-        <mark key="]" line="54" column="49" />
-        <mark key="." line="54" column="48" />
-        <mark key="^" line="54" column="49" />
+      <file name="$USER_HOME$/Develop/Docker/loanmarket/serviceapi/controllers/PreFilterController.php" timestamp="1586587319015">
+        <mark key="'" line="80" column="0" />
+        <mark key="[" line="86" column="7" />
+        <mark key="]" line="87" column="14" />
+        <mark key="." line="87" column="13" />
+        <mark key="^" line="87" column="14" />
       </file>
       <file name="$USER_HOME$/Develop/Docker/xyf-credit-system/credit_api/modules/v1/facade/before/OutCredit.php" timestamp="1586577196944">
         <mark key="[" line="580" column="0" />
@@ -212,9 +212,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1435" column="19" filename="$USER_HOME$/Develop/Docker/loanmarket/common/service/Loanmarket.php" />
-      <jump line="63" column="38" filename="$USER_HOME$/Develop/Docker/loanmarket/common/unit/Env.php" />
-      <jump line="18" column="49" filename="$USER_HOME$/Develop/Docker/loanmarket/serviceapi/controllers/BaseController.php" />
       <jump line="1434" column="32" filename="$USER_HOME$/Develop/Docker/loanmarket/common/service/Loanmarket.php" />
       <jump line="1459" column="33" filename="$USER_HOME$/Develop/Docker/loanmarket/common/service/Loanmarket.php" />
       <jump line="1433" column="20" filename="$USER_HOME$/Develop/Docker/loanmarket/common/service/Loanmarket.php" />
@@ -312,6 +309,9 @@
       <jump line="89" column="38" filename="$USER_HOME$/Develop/Docker/loanmarket/serviceapi/controllers/PreFilterController.php" />
       <jump line="88" column="112" filename="$USER_HOME$/Develop/Docker/loanmarket/serviceapi/controllers/PreFilterController.php" />
       <jump line="85" column="16" filename="$USER_HOME$/Develop/Docker/loanmarket/serviceapi/controllers/PreFilterController.php" />
+      <jump line="54" column="27" filename="$USER_HOME$/Develop/Docker/loanmarket/serviceapi/controllers/PreFilterController.php" />
+      <jump line="67" column="32" filename="$USER_HOME$/Develop/Docker/loanmarket/serviceapi/controllers/PreFilterController.php" />
+      <jump line="80" column="0" filename="$USER_HOME$/Develop/Docker/loanmarket/serviceapi/controllers/PreFilterController.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -319,8 +319,8 @@
       <register name="a" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -335,13 +335,13 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>$userInfo['mobile']??null;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcHBcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkY29tbWFuZCA9ICRjb25uZWN0aW9uLT5jcmVhdGVDb21tYW5kKCRzcWwpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHBhcmFtc1snbmFtZSddID0gJHVzZXJJbmZvWyduYW1lJ10/P251bGw7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -362,28 +362,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAvLyDov5nph4znlKjmiLfnmoTkuInopoHntKDojrflj5bnrZbnlaXosIPmlbTvvIzkuI3lho3nlLHliY3nq6/kvKDlgLzov4fmnaXvvIzogIzmmK/oh6rooYzojrflj5YK</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkcGFyYW1zWydwYXNzd29yZCddID0gCg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcmV0KTsK</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcmV0KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICog5qC55o2uYXBw6I635Y+WCiAgICAgKiBAcGFyYW0gc3RyaW5nICRhcHAKICAgICAqIEByZXR1cm4gYXJyYXkKICAgICAqLwogICAgcHVibGljIHN0YXRpYyBmdW5jdGlvbiBnZXRQYXNzd29yZEJ5QXBwKHN0cmluZyAkYXBwKXsKICAgICAgICByZXR1cm4gWwogICAgICAgICAgICAneHlmJyA9PiAneHlmJywKICAgICAgICAgICAgJ3h5ZicgPT4gJ3h5ZicsCiAgICAgICAgXTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHBhcmFtc1snbmFtZSddID0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAkdXNlckluZm8gPSAkdGhpcy0+Z2V0VXNlcmluZm9CeWRNb2JpbGUoJHRoaXMtPmNsaWVudFVzZXItPm1vYmlsZSwgJHRoaXMtPmFwcCk7CiAgICAgICAgJHBhcmFtc1snaWRjYXJkX25vJ10gPQogICAgICAgICRwYXJhbXNbJ25hbWUnXSA9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2Zyb20nID0+IFsnbmFtZScgPT4gJ+eUqOaIt+WQjScsICd0eXBlJyA9PiAncmVxdWlyZWQnXSwK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+Y2xpZW50VXNlcik7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -517,13 +517,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2Zyb20nID0+IFsnbmFtZScgPT4gJ+eUqOaIt+WQjScsICd0eXBlJyA9PiAncmVxdWlyZWQnXSwK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+YXBwKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2FwcCcgPT4gWyduYW1lJyA9PiAnJywgJ3R5cGUnID0+ICdyZXF1aXJlZCddLAo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+YXBwKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>nohls</text>
+        <text>action RenameElement</text>
       </register>
     </registers>
   </component>
