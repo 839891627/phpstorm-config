@@ -29,7 +29,6 @@
         <entry encoding="base64">XDw0MDEwMDJcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">c2V0IHNob3djbWQg</entry>
         <entry>a</entry>
         <entry>action FindUsages</entry>
         <entry>action KJumpAction.Word0</entry>
@@ -43,11 +42,12 @@
         <entry>action FileStructurePopup</entry>
         <entry>action PreviousTab</entry>
         <entry>action NextTab</entry>
-        <entry>wq</entry>
         <entry>action RecentFiles</entry>
         <entry>action RenameElement</entry>
         <entry>action Back</entry>
+        <entry>action OpenEditorInOppositeTabGroup</entry>
         <entry>action NextSplitter</entry>
+        <entry>wq</entry>
         <entry>nohls</entry>
       </history-cmd>
       <history-expr />
@@ -172,12 +172,16 @@
         <mark key="^" line="90" column="81" />
         <mark key="." line="90" column="80" />
       </file>
-      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/async/Notify.php" timestamp="1586760158918">
-        <mark key="'" line="158" column="9" />
+      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/async/Notify.php" timestamp="1586760901521">
+        <mark key="'" line="120" column="52" />
         <mark key="[" line="86" column="85" />
         <mark key="]" line="86" column="85" />
         <mark key="." line="86" column="84" />
         <mark key="^" line="86" column="85" />
+      </file>
+      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/controllers/AfterController.php" timestamp="1586760937549">
+        <mark key="'" line="74" column="8" />
+        <mark key="[" line="41" column="121" />
       </file>
       <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/common/JqnsConvert.php" timestamp="1586760215006">
         <mark key="'" line="136" column="5" />
@@ -188,8 +192,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="181" column="14" filename="$USER_HOME$/Develop/Docker/syf-middleware-system/common/services/sms/ChuangRuiYunSms.php" />
-      <jump line="26" column="44" filename="$USER_HOME$/Develop/Docker/loanmarket/common/config/main.php" />
       <jump line="102" column="20" filename="$USER_HOME$/Develop/Docker/loanmarket/backend/controllers/LoanmarketMCController.php" />
       <jump line="142" column="28" filename="$USER_HOME$/Develop/Docker/loanmarket/backend/controllers/LoanmarketMCController.php" />
       <jump line="807" column="20" filename="$USER_HOME$/Develop/Docker/loanmarket/common/service/Loanmarket.php" />
@@ -288,6 +290,8 @@
       <jump line="49" column="15" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/controllers/AfterController.php" />
       <jump line="164" column="9" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/async/Notify.php" />
       <jump line="136" column="5" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/common/JqnsConvert.php" />
+      <jump line="120" column="52" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/async/Notify.php" />
+      <jump line="74" column="8" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/controllers/AfterController.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
