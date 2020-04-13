@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>static</entry>
         <entry encoding="base64">XDxCYXNlQ29udHJvbGxlclw+</entry>
         <entry encoding="base64">XDxiYW5rX2FkZHJlc3NcPg==</entry>
         <entry encoding="base64">XDxwbGF0Zm9ybVw+</entry>
@@ -27,6 +26,7 @@
         <entry encoding="base64">XDxhcHBcPg==</entry>
         <entry encoding="base64">XDw0MDEwMDJcPg==</entry>
         <entry>100</entry>
+        <entry encoding="base64">XDxVTklPTl9MT0dJTl9ERUxBWV9TTVNfUVVFVUVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>a</entry>
@@ -38,7 +38,6 @@
         <entry>action FileStructurePopup</entry>
         <entry>action RenameElement</entry>
         <entry>action OpenEditorInOppositeTabGroup</entry>
-        <entry>action Back</entry>
         <entry>action PreviousTab</entry>
         <entry>action NextTab</entry>
         <entry>action SelectInProjectView</entry>
@@ -46,9 +45,10 @@
         <entry>action NextSplitter</entry>
         <entry>wq</entry>
         <entry>action RecentFiles</entry>
-        <entry>nohls</entry>
         <entry>action KJumpAction.Word0</entry>
         <entry>action Annotate</entry>
+        <entry>nohls</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -112,12 +112,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/config/main.php" timestamp="1586763952282">
-        <mark key="'" line="22" column="0" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-        <mark key="^" line="31" column="25" />
+      <file name="$USER_HOME$/Develop/Docker/syf-middleware-system/console/controllers/DelayQueueController.php" timestamp="1586775720643">
+        <mark key="'" line="27" column="10" />
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="^" line="87" column="30" />
+        <mark key="." line="78" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/helper/EmailTarget.php" timestamp="1586765436925">
         <mark key="[" line="20" column="70" />
@@ -191,7 +191,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1517" column="22" filename="$USER_HOME$/Develop/Docker/loanmarket/common/service/Loanmarket.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/Docker/loanmarket/common/service/Loanmarket.php" />
       <jump line="1254" column="28" filename="$USER_HOME$/Develop/Docker/loanmarket/common/service/Loanmarket.php" />
       <jump line="1255" column="28" filename="$USER_HOME$/Develop/Docker/loanmarket/common/service/Loanmarket.php" />
@@ -291,6 +290,7 @@
       <jump line="75" column="37" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/controllers/AfterController.php" />
       <jump line="153" column="28" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/controllers/AfterController.php" />
       <jump line="162" column="55" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/async/Notify.php" />
+      <jump line="27" column="10" filename="$USER_HOME$/Develop/Docker/syf-middleware-system/console/controllers/DelayQueueController.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -317,7 +317,7 @@
         <text encoding="base64">ICogMTAwLA==</text>
       </register>
       <register name="/" type="4">
-        <text>100</text>
+        <text encoding="base64">XDxVTklPTl9MT0dJTl9ERUxBWV9TTVNfUVVFVUVcPg==</text>
       </register>
       <register name="0" type="4">
         <text>'utm_blacklist'</text>
@@ -502,15 +502,15 @@
         <text encoding="base64">ICAgICAgICBkCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Annotate</text>
+        <text>action Back</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>100</last-search>
+      <last-search encoding="base64">XDxVTklPTl9MT0dJTl9ERUxBWV9TTVNfUVVFVUVcPg==</last-search>
       <last-offset />
-      <last-pattern>100</last-pattern>
+      <last-pattern encoding="base64">XDxVTklPTl9MT0dJTl9ERUxBWV9TTVNfUVVFVUVcPg==</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
