@@ -38,7 +38,6 @@
         <entry>action FileStructurePopup</entry>
         <entry>action RenameElement</entry>
         <entry>action OpenEditorInOppositeTabGroup</entry>
-        <entry>action Annotate</entry>
         <entry>action Back</entry>
         <entry>action PreviousTab</entry>
         <entry>action NextTab</entry>
@@ -49,6 +48,7 @@
         <entry>action RecentFiles</entry>
         <entry>nohls</entry>
         <entry>action KJumpAction.Word0</entry>
+        <entry>action Annotate</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -502,7 +502,7 @@
         <text encoding="base64">ICAgICAgICBkCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action KJumpAction.Word0</text>
+        <text>action Annotate</text>
       </register>
     </registers>
   </component>
