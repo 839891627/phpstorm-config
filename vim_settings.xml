@@ -42,13 +42,13 @@
         <entry>action NextTab</entry>
         <entry>vs</entry>
         <entry>action NextSplitter</entry>
-        <entry>wq</entry>
         <entry>action RecentFiles</entry>
         <entry>action KJumpAction.Word0</entry>
         <entry>nohls</entry>
         <entry>action Back</entry>
         <entry>action SelectInProjectView</entry>
         <entry>action Annotate</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -119,11 +119,15 @@
         <mark key="^" line="87" column="30" />
         <mark key="." line="78" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/Docker/loanmarket/common/service/Loanmarket.php" timestamp="1586778265754" />
       <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/helper/EmailTarget.php" timestamp="1586765436925">
         <mark key="[" line="20" column="70" />
         <mark key="]" line="15" column="28" />
         <mark key="." line="15" column="27" />
         <mark key="^" line="15" column="28" />
+      </file>
+      <file name="$USER_HOME$/Develop/Docker/xinyongfei-app-api/lib/Models/Loanmarket.php" timestamp="1586778374787">
+        <mark key="'" line="37" column="4" />
       </file>
       <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/logs/jqns/web_client/20200413.log" timestamp="1586768739559">
         <mark key="'" line="61" column="46" />
@@ -142,11 +146,6 @@
       </file>
       <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/config/prod/main.php" timestamp="1586765167606" />
       <file name="$USER_HOME$/Develop/Docker/syf-middleware-system/common/config/prod/redis.php" timestamp="1586777285444" />
-      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/config/local/params.php" timestamp="1586764848746">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
       <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/config/local/jqns.php" timestamp="1586765398143">
         <mark key="'" line="1" column="7" />
         <mark key="[" line="45" column="46" />
@@ -180,14 +179,8 @@
         <mark key="^" line="154" column="64" />
         <mark key="." line="154" column="63" />
       </file>
-      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/common/logging/EmailTarget.php" timestamp="1586765000231">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Develop/Docker/loanmarket/common/service/Loanmarket.php" />
       <jump line="1254" column="28" filename="$USER_HOME$/Develop/Docker/loanmarket/common/service/Loanmarket.php" />
       <jump line="1255" column="28" filename="$USER_HOME$/Develop/Docker/loanmarket/common/service/Loanmarket.php" />
       <jump line="251" column="22" filename="$USER_HOME$/Develop/Docker/loanmarket/common/service/Loanmarket.php" />
@@ -287,6 +280,7 @@
       <jump line="153" column="28" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/controllers/AfterController.php" />
       <jump line="162" column="55" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/async/Notify.php" />
       <jump line="27" column="10" filename="$USER_HOME$/Develop/Docker/syf-middleware-system/console/controllers/DelayQueueController.php" />
+      <jump line="37" column="4" filename="$USER_HOME$/Develop/Docker/xinyongfei-app-api/lib/Models/Loanmarket.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -498,7 +492,7 @@
         <text encoding="base64">ICAgICAgICBkCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Annotate</text>
+        <text>wq</text>
       </register>
     </registers>
   </component>
