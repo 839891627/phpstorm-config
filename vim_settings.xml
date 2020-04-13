@@ -29,8 +29,6 @@
         <entry encoding="base64">XDw0MDEwMDJcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>.,.+1nohls</entry>
-        <entry>.nohls</entry>
         <entry>action FileStructurePopup</entry>
         <entry encoding="base64">c2V0IHNob3djbWQg</entry>
         <entry>a</entry>
@@ -44,11 +42,13 @@
         <entry>action GotoFile</entry>
         <entry>wq</entry>
         <entry>action RecentFiles</entry>
-        <entry>vs</entry>
-        <entry>action SelectInProjectView</entry>
-        <entry>action Annotate</entry>
         <entry>action Back</entry>
+        <entry>action SelectInProjectView</entry>
         <entry>nohls</entry>
+        <entry>vs</entry>
+        <entry>q</entry>
+        <entry>sp</entry>
+        <entry>action Annotate</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -122,7 +122,8 @@
       <file name="$USER_HOME$/Develop/Docker/syf-middleware-system/console/controllers/XyfSmsRetryController.php" timestamp="1586749888029">
         <mark key="'" line="97" column="42" />
       </file>
-      <file name="$USER_HOME$/Develop/Docker/syf-middleware-system/console/controllers/DelayQueueController.php" timestamp="1586746411899">
+      <file name="$USER_HOME$/Develop/Docker/syf-middleware-system/console/controllers/DelayQueueController.php" timestamp="1586756552918">
+        <mark key="'" line="229" column="0" />
         <mark key="[" line="78" column="0" />
         <mark key="]" line="78" column="0" />
         <mark key="^" line="87" column="30" />
@@ -144,6 +145,9 @@
         <mark key="'" line="114" column="44" />
       </file>
       <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/logs/jqns/web_client/20200413.log" timestamp="1586749216291" />
+      <file name="$USER_HOME$/Desktop/20200408.log" timestamp="1586756537333">
+        <mark key="'" line="5132" column="48" />
+      </file>
       <file name="$USER_HOME$/Develop/Docker/syf-middleware-system/common/config/local/db.php" timestamp="1586745832526">
         <mark key="[" line="7" column="23" />
         <mark key="]" line="7" column="23" />
@@ -178,12 +182,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="15" filename="$USER_HOME$/Develop/Docker/loanmarket/serviceapi/controllers/BaseController.php" />
-      <jump line="1216" column="28" filename="$USER_HOME$/Develop/Docker/loanmarket/common/service/Loanmarket.php" />
-      <jump line="89" column="31" filename="$USER_HOME$/Develop/Docker/loanmarket/common/service/SystemConfig.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/common/JqnsConvert.php" />
-      <jump line="72" column="779" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/logs/jqns/web_client/20200410.log" />
-      <jump line="93" column="17" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/api/service/gateways/CreditGateway.php" />
       <jump line="64" column="15" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/api/service/gateways/CreditGateway.php" />
       <jump line="182" column="39" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/logs/jqns/web_client/20200410.log" />
       <jump line="196" column="41" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/logs/jqns/web_client/20200410.log" />
@@ -278,6 +276,12 @@
       <jump line="172" column="27" filename="$USER_HOME$/Develop/Docker/syf-middleware-system/common/models/SmsRetryRecord.php" />
       <jump line="106" column="58" filename="$USER_HOME$/Develop/Docker/syf-middleware-system/console/controllers/XyfSmsRetryController.php" />
       <jump line="97" column="42" filename="$USER_HOME$/Develop/Docker/syf-middleware-system/console/controllers/XyfSmsRetryController.php" />
+      <jump line="176" column="8" filename="$USER_HOME$/Develop/Docker/syf-middleware-system/console/controllers/DelayQueueController.php" />
+      <jump line="79" column="17" filename="$USER_HOME$/Develop/Docker/syf-middleware-system/console/controllers/DelayQueueController.php" />
+      <jump line="82" column="34" filename="$USER_HOME$/Develop/Docker/syf-middleware-system/console/controllers/DelayQueueController.php" />
+      <jump line="229" column="0" filename="$USER_HOME$/Develop/Docker/syf-middleware-system/console/controllers/DelayQueueController.php" />
+      <jump line="66" column="10" filename="$USER_HOME$/Desktop/20200408.log" />
+      <jump line="5132" column="48" filename="$USER_HOME$/Desktop/20200408.log" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -489,7 +493,7 @@
         <text encoding="base64">ICAgICAgICBkZCgkcmV0KTsK</text>
       </register>
       <register name=":" type="4">
-        <text>nohls</text>
+        <text>action Annotate</text>
       </register>
     </registers>
   </component>
