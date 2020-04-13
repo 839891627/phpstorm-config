@@ -46,9 +46,9 @@
         <entry>vs</entry>
         <entry>action NextSplitter</entry>
         <entry>wq</entry>
-        <entry>action KJumpAction.Word0</entry>
         <entry>action RecentFiles</entry>
         <entry>nohls</entry>
+        <entry>action KJumpAction.Word0</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -112,25 +112,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/api/config/local/main.php" timestamp="1586763814273">
-        <mark key="'" line="41" column="0" />
-        <mark key="[" line="3" column="17" />
-        <mark key="]" line="3" column="17" />
-        <mark key="." line="3" column="17" />
-      </file>
-      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/common/config/main.php" timestamp="1586763619869">
-        <mark key="'" line="102" column="17" />
-        <mark key="[" line="103" column="0" />
-        <mark key="]" line="133" column="18" />
-        <mark key="." line="103" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/Module.php" timestamp="1586762373048">
-        <mark key="'" line="15" column="0" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="15" column="36" />
-        <mark key="." line="10" column="0" />
-      </file>
       <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/config/main.php" timestamp="1586763952282">
         <mark key="'" line="22" column="0" />
         <mark key="[" line="30" column="0" />
@@ -147,6 +128,12 @@
       <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/logs/jqns/web_client/20200413.log" timestamp="1586768739559">
         <mark key="'" line="61" column="46" />
       </file>
+      <file name="$USER_HOME$/Develop/Docker/loanmarket/common/models/Loanmarket.php" timestamp="1586770581032">
+        <mark key="[" line="177" column="31" />
+        <mark key="]" line="177" column="37" />
+        <mark key="^" line="177" column="37" />
+        <mark key="." line="177" column="36" />
+      </file>
       <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/config/local/main.php" timestamp="1586765130715">
         <mark key="[" line="6" column="40" />
         <mark key="]" line="11" column="44" />
@@ -154,22 +141,10 @@
         <mark key="^" line="11" column="44" />
       </file>
       <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/config/prod/main.php" timestamp="1586765167606" />
-      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/api/config/prod/main.php" timestamp="1586762719670">
-        <mark key="'" line="2" column="51" />
-        <mark key="[" line="18" column="39" />
-        <mark key="]" line="18" column="43" />
-        <mark key="." line="18" column="42" />
-        <mark key="^" line="18" column="43" />
-      </file>
       <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/config/local/params.php" timestamp="1586764848746">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/vendor/xyf/lib/src/commonSms/CommonSms.php" timestamp="1586763237999">
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="0" />
-        <mark key="." line="71" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/common/config/local/main.php" timestamp="1586764114898">
         <mark key="[" line="1" column="8" />
@@ -324,7 +299,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICogMTAwLA==</text>
+        <text>'utm_blacklist'</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -344,8 +319,8 @@
       <register name="/" type="4">
         <text>100</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVzID0gKG5ldyBDcmVkaXRHYXRld2F5KCdhZnRlci5vdXRCaWxsLnJlcGF5Q29tbWl0JykpLT5kb1JlcXVlc3QoWwogICAgICAgICAgICAnb3JkZXJfbm8nICAgPT4gJHRoaXMtPmJpekRhdGFbJ29yZGVyX25vJ10sCiAgICAgICAgICAgICdwZXJpb2Rfbm9zJyA9PiAkdGhpcy0+Yml6RGF0YVsncGVyaW9kX25vJ10gPT0gJ2FsbCcgPyAnYWxsJyA6ICR0aGlzLT5iaXpEYXRhWydwZXJpb2Rfbm8nXSwKICAgICAgICBdKTsKICAgICAgICBpZiAoJHJlc1snc3RhdHVzJ10gIT0gMSkgewogICAgICAgICAgICByZXR1cm4gJHRoaXMtPmZhaWxlZCgkcmVzWydtZXNzYWdlJ10pOwogICAgICAgIH0KCiAgICAgICAgJHJlcGF5U3RhdHVzTWFwID0gWwogICAgICAgICAgICAwID0+IDEsCiAgICAgICAgICAgIDEgPT4gMCwKICAgICAgICBdOwoKICAgICAgICByZXR1cm4gJHRoaXMtPnN1Y2Nlc3MoWwogICAgICAgICAgICAncmVwYXlfc3RhdHVzJyA9PiAkcmVwYXlTdGF0dXNNYXBbJHJlc1sncmVzcG9uc2UnXVsncmVwYXlfc3RhdHVzJ11dLAogICAgICAgIF0pOwo=</text>
+      <register name="0" type="4">
+        <text>'utm_blacklist'</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -527,7 +502,7 @@
         <text encoding="base64">ICAgICAgICBkCg==</text>
       </register>
       <register name=":" type="4">
-        <text>nohls</text>
+        <text>action KJumpAction.Word0</text>
       </register>
     </registers>
   </component>
