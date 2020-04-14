@@ -46,9 +46,9 @@
         <entry>action NextSplitter</entry>
         <entry>action PreviousTab</entry>
         <entry>action CloseAllEditors</entry>
-        <entry>nohls</entry>
         <entry>wq</entry>
         <entry>action Back</entry>
+        <entry>nohls</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -116,12 +116,12 @@
       <file name="$USER_HOME$/Develop/Docker/xinyongfei-app-api/lib/Controllers/UserController.php" timestamp="1586834013695">
         <mark key="'" line="80" column="40" />
       </file>
-      <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/shoufuyou/Util/SfyWebClient.php" timestamp="1586834227550">
-        <mark key="'" line="350" column="91" />
-        <mark key="[" line="350" column="94" />
-        <mark key="]" line="350" column="116" />
-        <mark key="." line="350" column="115" />
-        <mark key="^" line="350" column="116" />
+      <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/shoufuyou/Util/SfyWebClient.php" timestamp="1586835111098">
+        <mark key="'" line="468" column="0" />
+        <mark key="[" line="468" column="0" />
+        <mark key="]" line="468" column="1" />
+        <mark key="." line="468" column="142" />
+        <mark key="^" line="468" column="1" />
       </file>
       <file name="$USER_HOME$/Develop/Docker/syf-middleware-system/common/config/prod/redis.php" timestamp="1586777285444" />
       <file name="$USER_HOME$/Develop/Docker/shoufuyou-sms-system/lib/Router.php" timestamp="1586829041260">
@@ -180,8 +180,6 @@
       <file name="$USER_HOME$/Develop/Docker/shoufuyou-sms-system/log/EMay/20200414.log" timestamp="1586828243017" />
     </filemarks>
     <jumps>
-      <jump line="69" column="8" filename="$USER_HOME$/Develop/Docker/loanmarket/serviceapi/controllers/BaseController.php" />
-      <jump line="62" column="15" filename="$USER_HOME$/Develop/Docker/loanmarket/serviceapi/controllers/SiteController.php" />
       <jump line="73" column="8" filename="$USER_HOME$/Develop/Docker/loanmarket/common/service/ClientAccount.php" />
       <jump line="61" column="30" filename="$USER_HOME$/Develop/Docker/loanmarket/serviceapi/controllers/SiteController.php" />
       <jump line="55" column="24" filename="$USER_HOME$/Develop/Docker/loanmarket/serviceapi/controllers/PreFilterController.php" />
@@ -280,6 +278,8 @@
       <jump line="356" column="48" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/shoufuyou/Util/SfyWebClient.php" />
       <jump line="80" column="40" filename="$USER_HOME$/Develop/Docker/xinyongfei-app-api/lib/Controllers/UserController.php" />
       <jump line="350" column="91" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/shoufuyou/Util/SfyWebClient.php" />
+      <jump line="352" column="21" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/shoufuyou/Util/SfyWebClient.php" />
+      <jump line="468" column="0" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/shoufuyou/Util/SfyWebClient.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -491,7 +491,7 @@
         <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJHJlKTtkaWU7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Back</text>
+        <text>nohls</text>
       </register>
     </registers>
   </component>
