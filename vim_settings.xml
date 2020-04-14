@@ -180,6 +180,11 @@
         <mark key="." line="136" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/logs/other/web_client/20200414.log" timestamp="1586850076091" />
+      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/controllers/BaseController.php" timestamp="1586861339228">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="12" />
+        <mark key="." line="28" column="12" />
+      </file>
       <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/config/local/jqns.php" timestamp="1586852076413">
         <mark key="'" line="1" column="7" />
         <mark key="[" line="14" column="0" />
@@ -187,12 +192,12 @@
         <mark key="^" line="2" column="30" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/controllers/MiddleController.php" timestamp="1586858893780">
-        <mark key="'" line="169" column="40" />
-        <mark key="[" line="175" column="113" />
-        <mark key="]" line="175" column="116" />
-        <mark key="." line="175" column="115" />
-        <mark key="^" line="175" column="116" />
+      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/controllers/MiddleController.php" timestamp="1586861399791">
+        <mark key="'" line="291" column="26" />
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
+        <mark key="^" line="286" column="77" />
       </file>
       <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/Bootstrap.php" timestamp="1586857863809">
         <mark key="[" line="19" column="17" />
@@ -208,9 +213,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="106" column="58" filename="$USER_HOME$/Develop/Docker/syf-middleware-system/console/controllers/XyfSmsRetryController.php" />
-      <jump line="97" column="42" filename="$USER_HOME$/Develop/Docker/syf-middleware-system/console/controllers/XyfSmsRetryController.php" />
-      <jump line="176" column="8" filename="$USER_HOME$/Develop/Docker/syf-middleware-system/console/controllers/DelayQueueController.php" />
       <jump line="79" column="17" filename="$USER_HOME$/Develop/Docker/syf-middleware-system/console/controllers/DelayQueueController.php" />
       <jump line="82" column="34" filename="$USER_HOME$/Develop/Docker/syf-middleware-system/console/controllers/DelayQueueController.php" />
       <jump line="229" column="0" filename="$USER_HOME$/Develop/Docker/syf-middleware-system/console/controllers/DelayQueueController.php" />
@@ -308,6 +310,9 @@
       <jump line="143" column="26" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/helper/HttpClient.php" />
       <jump line="23" column="6" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/common/logging/FileTarget.php" />
       <jump line="169" column="40" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/controllers/MiddleController.php" />
+      <jump line="133" column="56" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/controllers/MiddleController.php" />
+      <jump line="47" column="26" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/controllers/MiddleController.php" />
+      <jump line="291" column="26" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/controllers/MiddleController.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -315,8 +320,8 @@
       <register name="a" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>总</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgkYml6RGF0YSk7Cg==</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -337,10 +342,10 @@
         <text encoding="base64">XDxhcHBJZFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc29ydCgkYml6RGF0YVsnbG9hbl90ZXJtX29wdGlvbiddKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmJpekRhdGEgPSBqc29uX2RlY29kZShZaWk6OiRhcHAtPnJlcXVlc3QtPnBvc3QoJ2Jpel9kYXRhJyksIHRydWUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdsb2FuX3Rlcm1zJyAgICAgPT4gJHJldFsndGVybV90eXBlJ10gPT0gMCA/IFskcmV0WydhcHByb3ZhbF90ZXJtJ11dIDogc29ydCgkcmV0Wydsb2FuX3Rlcm1fb3B0aW9uJ10pLCAvLyDlrqHmibnmnJ/pmZDigJ1bMSwyLDNd4oCdCg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkYml6RGF0YSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -358,28 +363,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnbG9hbl90ZXJtcycgICAgID0+ICRiaXpEYXRhWydsb2FuX3Rlcm1fb3B0aW9uJ10sIC8vIOWuoeaJueacn+mZkOKAnVsxLDIsM13igJ0K</text>
+        <text encoding="base64">ICAgICAgICAvLyBpZiAoRW52OjpnZXRFbnYoKSA9PSAnbG9jYWwnKSB7CiAgICAgICAgLy8gICAgIC8vIOacrOWcsOW/veeVpeWKoOWvhgogICAgICAgIC8vICAgICByZXR1cm4gJHRoaXMtPmJpekRhdGE7CiAgICAgICAgLy8gfQo=</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+Yml6RGF0YSkK</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPmJpekRhdGEgPSBqc29uX2RlY29kZShZaWk6OiRhcHAtPnJlcXVlc3QtPnBvc3QoJ2Jpel9kYXRhJyksIHRydWUpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdsb2FuX3Rlcm1zJyAgICAgPT4gJHJldFsndGVybV90eXBlJ10gPT0gMCA/IFskcmV0WydhcHByb3ZhbF90ZXJtJ11dIDogc29ydCgkcmV0Wydsb2FuX3Rlcm1fb3B0aW9uJ10pLCAvLyDlrqHmibnmnJ/pmZDigJ1bMSwyLDNd4oCdCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y3VybCBodHRwOi8vMTE2LjI0Ny4xMDUuMTk0OjE4MTE5L2xvYW4vYXBpL3N0YXR1cyAtWCBQT1NUIC1kICd7ImFwcF9pZCI6InhpbnlvbmdmZWkiLCJiaXpfZGF0YSI6ICJ7XCJvcmRlcl9ub1wiOlwiMTJHOTY5NTJJNkM5ODJGXCIsXCJvcmRlcl9zdGF0dXNcIjoxMTAsXCJ1cGRhdGVfdGltZVwiOjE1ODY4NTA4NTAxMzh9IiwgICJ0aW1lc3RhbXAiOiAxNTg2ODUwODUwLCJzaWduIjogInJ5eWR5N2xsbURpM1pERjNieGhCVm1valhRa0tzcG8wM3FqWTIxRFhuZ0FnWDZJQ3VETysrQjY1MDZIbVlFWFRKOVNYTFVtbEV2Nks5Ym1NN3RnemV2eWxmT052RWEzZHp1U3BiclozbVNnaGxnUCsxZkZmbnQwRzgxOEVMdFlOTzVCTlBnS1I3enNITVd4aVpoUEpRbW8vRC9HWGtCMWlERlNHajJyZDVucz0ifScgLS1oZWFkZXIgIkNvbnRlbnQtVHlwZTogYXBwbGljYXRpb24vanNvbiIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnbG9hbl90ZXJtcycgICAgID0+ICRiaXpEYXRhWydsb2FuX3Rlcm1fb3B0aW9uJ10sIC8vIOWuoeaJueacn+mZkOKAnVsxLDIsM13igJ0K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -513,10 +518,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICd1cmwnICAgICAgID0+ICdodHRwOi8vMTE2LjI0Ny4xMDUuMTk0OjE4MTE5L2xvYW4vYXBpJywK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkbWVzc2FnZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>nohls</text>
