@@ -44,11 +44,11 @@
         <entry>.nohls</entry>
         <entry>action KJumpAction.Word0</entry>
         <entry>action NextSplitter</entry>
-        <entry>wq</entry>
-        <entry>action Back</entry>
         <entry>action PreviousTab</entry>
         <entry>action CloseAllEditors</entry>
         <entry>nohls</entry>
+        <entry>wq</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -113,6 +113,16 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Develop/Docker/loanmarket/common/service/Loanmarket.php" timestamp="1586778265754" />
+      <file name="$USER_HOME$/Develop/Docker/xinyongfei-app-api/lib/Controllers/UserController.php" timestamp="1586834013695">
+        <mark key="'" line="80" column="40" />
+      </file>
+      <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/shoufuyou/Util/SfyWebClient.php" timestamp="1586834227550">
+        <mark key="'" line="350" column="91" />
+        <mark key="[" line="350" column="94" />
+        <mark key="]" line="350" column="116" />
+        <mark key="." line="350" column="115" />
+        <mark key="^" line="350" column="116" />
+      </file>
       <file name="$USER_HOME$/Develop/Docker/syf-middleware-system/common/config/prod/redis.php" timestamp="1586777285444" />
       <file name="$USER_HOME$/Develop/Docker/shoufuyou-sms-system/lib/Router.php" timestamp="1586829041260">
         <mark key="[" line="20" column="31" />
@@ -170,9 +180,6 @@
       <file name="$USER_HOME$/Develop/Docker/shoufuyou-sms-system/log/EMay/20200414.log" timestamp="1586828243017" />
     </filemarks>
     <jumps>
-      <jump line="86" column="19" filename="$USER_HOME$/Develop/Docker/loanmarket/serviceapi/controllers/BaseController.php" />
-      <jump line="98" column="19" filename="$USER_HOME$/Develop/Docker/loanmarket/serviceapi/controllers/BaseController.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Develop/Docker/loanmarket/serviceapi/controllers/BaseController.php" />
       <jump line="69" column="8" filename="$USER_HOME$/Develop/Docker/loanmarket/serviceapi/controllers/BaseController.php" />
       <jump line="62" column="15" filename="$USER_HOME$/Develop/Docker/loanmarket/serviceapi/controllers/SiteController.php" />
       <jump line="73" column="8" filename="$USER_HOME$/Develop/Docker/loanmarket/common/service/ClientAccount.php" />
@@ -270,6 +277,9 @@
       <jump line="105" column="23" filename="$USER_HOME$/Develop/Docker/shoufuyou-sms-system/lib/Controllers/SmsController.php" />
       <jump line="97" column="27" filename="$USER_HOME$/Develop/Docker/shoufuyou-sms-system/lib/Controllers/SmsController.php" />
       <jump line="123" column="17" filename="$USER_HOME$/Develop/Docker/shoufuyou-sms-system/lib/Controllers/SmsController.php" />
+      <jump line="356" column="48" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/shoufuyou/Util/SfyWebClient.php" />
+      <jump line="80" column="40" filename="$USER_HOME$/Develop/Docker/xinyongfei-app-api/lib/Controllers/UserController.php" />
+      <jump line="350" column="91" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/shoufuyou/Util/SfyWebClient.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -278,7 +288,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>getToken</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -293,7 +303,7 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>getToken</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGFubmVsXD4=</text>
@@ -302,7 +312,7 @@
         <text encoding="base64">ICAgICAgICAgICAgJ3Rlc3QnID0+ICdzbXMvdGVzdCcsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkX1JFUVVFU1QpO2RpZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -320,28 +330,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YmI4MWMzZThmNjFmNDgwZmU1MGZkNTg3ZWJlZGZmNjkKYmI4MWMzZThmNjFmNDgwZmU1MGZkNTg3ZWJlZGZmNjkK</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGh0dHA6Ly8xMTYuMjQ3LjEwNS4xOTQ6MTgxMTkvbG9hbi9hcGkvCg==</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkX1JFUVVFU1QpO2RpZTsK</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcmVzKTtkaWU7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJHNyKTtkaWU7Cg==</text>
+        <text encoding="base64">ICAgIGh0dHA6Ly8xMTYuMjQ3LjEwNS4xOTQ6MTgxMTkvbG9hbi9hcGkvCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcmVzKTtkaWU7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJHJlKTtkaWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJHNyKTtkaWU7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -475,13 +485,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcmVzKTtkaWU7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcmVzKTtkaWU7awo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJHJlKTtkaWU7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>nohls</text>
+        <text>action Back</text>
       </register>
     </registers>
   </component>
