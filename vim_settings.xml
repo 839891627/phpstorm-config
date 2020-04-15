@@ -139,7 +139,7 @@
         <mark key="]" line="136" column="0" />
         <mark key="." line="136" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/logs/jqns/web_client/20200415.log" timestamp="1586938410546" />
+      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/logs/jqns/web_client/20200415.log" timestamp="1586942854100" />
       <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/config/local/jqns.php" timestamp="1586852076413">
         <mark key="'" line="1" column="7" />
         <mark key="[" line="14" column="0" />
@@ -186,16 +186,14 @@
         <mark key="]" line="1" column="58" />
         <mark key="." line="1" column="58" />
       </file>
-      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/common/JqnsConvert.php" timestamp="1586931540642">
-        <mark key="'" line="105" column="0" />
-        <mark key="[" line="80" column="30" />
-        <mark key="]" line="80" column="35" />
-        <mark key="." line="80" column="34" />
-        <mark key="^" line="80" column="35" />
+      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/common/JqnsConvert.php" timestamp="1586942116451">
+        <mark key="'" line="89" column="16" />
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="102" column="0" />
+        <mark key="." line="102" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="48" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/common/config/local/main.php" />
       <jump line="2" column="0" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/common/config/local/main.php" />
       <jump line="5" column="16" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/api/config/local/main.php" />
       <jump line="102" column="17" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/common/config/main.php" />
@@ -295,6 +293,7 @@
       <jump line="23" column="0" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/traits/MiddleGroundTokenTrait.php" />
       <jump line="217" column="30" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/controllers/MiddleController.php" />
       <jump line="281" column="0" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/controllers/MiddleController.php" />
+      <jump line="89" column="16" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/common/JqnsConvert.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -303,7 +302,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJHJlZGlzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgJ2F1ZGl0X3BlbmRpbmcnOiAvLyDlrqHmoLjkuK0KICAgICAgICAgICAgICAgICAgICByZXR1cm4gMTgwOwo=</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -318,16 +317,16 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>110</text>
+        <text>audit_pending</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3dpdGNoICgkc3RhdHVzKSB7CiAgICAgICAgICAgICAgICBjYXNlICdhdWRpdF9zdWNjZXNzJzogIC8vIOWuoeaguOaIkOWKnwogICAgICAgICAgICAgICAgICAgIHJldHVybiA3MDE7CiAgICAgICAgICAgICAgICBjYXNlICdhdWRpdF9mYWlsZWQnOiAgIC8vIOWuoeaguOWksei0pQogICAgICAgICAgICAgICAgICAgIHJldHVybiAxMTA7CiAgICAgICAgICAgICAgICBjYXNlICdyZW1pdF9zdWNjZXNzJzogIC8vIOaUvuasvuaIkOWKnwogICAgICAgICAgICAgICAgY2FzZSAndW5wYWlkJzogIC8v6LSm5Y2V6L+Y5qy+5LitCiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIDE3MDsKICAgICAgICAgICAgICAgIGNhc2UgJ3JlbWl0X2ZhaWxlZCc6ICAgLy8g5pS+5qy+5aSx6LSlCiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIDE2OTsKICAgICAgICAgICAgICAgIGNhc2UgJ3BheV9vZmYnOiAgICAgICAgLy8g55So5oi36L+Y5riF5YWo6YOo5qyg5qy+CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIDIwMDsKICAgICAgICAgICAgICAgIGNhc2UgJ292ZXJkdWUnOiAgICAgICAgLy8g6LSm5Y2V5bey6YC+5pyfCiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIDE4MDsKICAgICAgICAgICAgICAgIGRlZmF1bHQ6CiAgICAgICAgICAgICAgICAgICAgdGhyb3cgbmV3IFxFeGNlcHRpb24oJ+acquefpeeKtuaAge+8micgLiAkc3RhdHVzKTsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgJ2F1ZGl0X3BlbmRpbmcnOiAvLyDlrqHmoLjkuK0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJHJlZGlzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgJ2F1ZGl0X3BlbmRpbmcnOiAvLyDlrqHmoLjkuK0KICAgICAgICAgICAgICAgICAgICByZXR1cm4gMTgwOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -345,28 +344,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJG1vZGVsKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgJ2F1ZGl0X3BlbmRpbmcnOiAvLyDlrqHmoLjkuK0K</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcmVzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJHJlZGlzKTsK</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkb3JkZXJObywgJHVhKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJG1vZGVsKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRvcmRlck5vKTsK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBkZCgkcmVzKTsK</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgkb3JkZXJObywgJHVhKTsK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgJ3JlbWl0X2ZhaWxlZCc6ICAgLy8g5pS+5qy+5aSx6LSlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRvcmRlck5vKTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -500,10 +499,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gMTY5Owo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcmVzKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgJ2F1ZGl0X2ZhaWxlZCc6ICAgLy8g5a6h5qC45aSx6LSlCiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIDE2OTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgJ3JlbWl0X2ZhaWxlZCc6ICAgLy8g5pS+5qy+5aSx6LSlCg==</text>
       </register>
       <register name=":" type="4">
         <text>nohls</text>
