@@ -38,7 +38,6 @@
         <entry encoding="base64">JzwsJz5zLzovPT4vZw==</entry>
         <entry>action PreviousTab</entry>
         <entry>action Forward</entry>
-        <entry>action SelectInProjectView</entry>
         <entry>action NextTab</entry>
         <entry>action OpenEditorInOppositeTabGroup</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
@@ -48,6 +47,7 @@
         <entry>action NextSplitter</entry>
         <entry>action RecentFiles</entry>
         <entry>wq</entry>
+        <entry>action SelectInProjectView</entry>
         <entry>nohls</entry>
       </history-cmd>
       <history-expr />
@@ -123,12 +123,12 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/traits/MiddleGroundTokenTrait.php" timestamp="1586919247377">
+      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/traits/MiddleGroundTokenTrait.php" timestamp="1586920508752">
         <mark key="'" line="36" column="25" />
-        <mark key="[" line="36" column="37" />
-        <mark key="]" line="36" column="48" />
-        <mark key="." line="36" column="47" />
-        <mark key="^" line="36" column="48" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="23" column="8" />
       </file>
       <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/common/config/local/bootstrap.php" timestamp="1586851742742">
         <mark key="[" line="1" column="58" />
@@ -179,11 +179,11 @@
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="34" />
       </file>
-      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/controllers/MiddleController.php" timestamp="1586865191689">
+      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/controllers/MiddleController.php" timestamp="1586921003910">
         <mark key="'" line="82" column="33" />
-        <mark key="[" line="48" column="52" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
+        <mark key="[" line="215" column="0" />
+        <mark key="]" line="215" column="0" />
+        <mark key="." line="215" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/Bootstrap.php" timestamp="1586864431928">
         <mark key="[" line="19" column="17" />
@@ -306,8 +306,8 @@
       <register name="a" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyAnc3RhdHVzJyAgICA9PiAyLAo=</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -322,7 +322,7 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text encoding="base64">IC4gJzptOicgLiAkY3JlZGl0VXNlclsnbW9iaWxlJ107</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXREZWNyeXB0ZWREYXRhXD4=</text>
@@ -331,7 +331,7 @@
         <text encoding="base64">ICAgICAgICAgICAgaXNzZXQoJHJldFsnbG9hbl90ZXJtX29wdGlvbiddKSAmJiBzb3J0KCRyZXRbJ2xvYW5fdGVybV9vcHRpb24nXSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgICAgICAgcmV0dXJuIFRva2VuSGVscGVyOjpnZXRMb2dpbkluZm8oJHVhLCAkb3JkZXJObyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyAnc3RhdHVzJyAgICA9PiAyLAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -349,28 +349,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc29ydCgkYml6RGF0YVsnbG9hbl90ZXJtX29wdGlvbiddKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcmVzKTsK</text>
+        <text encoding="base64">ICAgICAgICAkbW9kZWwgPSBDYXNoT3V0T3JkZXJSZWdNb2RlbDo6Z2V0QnlPcmRlck5vQW5kVWEoJG9yZGVyTm8sICR1YSk7CiAgICAgICAgaWYgKGVtcHR5KCRtb2RlbCkpIHsKICAgICAgICAgICAgdGhyb3cgbmV3IFxFeGNlcHRpb24oIuayoeacieazqOWGjOiusOW9lSIpOwogICAgICAgIH0K</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJHJlcyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJHJlcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkY3JlZGl0VXNlciA9IENyZWRpdFVzZXJNb2RlbDo6ZmluZE9uZShbJ2lkJyA9PiAkbW9kZWxbJ3VzZXJfaWQnXV0pOwogICAgICAgIGlmIChlbXB0eSgkY3JlZGl0VXNlcikpIHsKICAgICAgICAgICAgdGhyb3cgbmV3IFxFeGNlcHRpb24oIuayoeacieivpeeUqOaItyIpOwogICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgyKTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyAgICAgICAgcmV0dXJuIFRva2VuSGVscGVyOjpnZXRMb2dpbkluZm8oJHVhLCAkb3JkZXJObyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcmVzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc29ydCgkYml6RGF0YVsnbG9hbl90ZXJtX29wdGlvbiddKTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -504,10 +504,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcmVkaXMpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcmVzKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJGEpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJHJlcyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>nohls</text>
