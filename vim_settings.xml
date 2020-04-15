@@ -47,8 +47,8 @@
         <entry>action Annotate</entry>
         <entry>action SelectInProjectView</entry>
         <entry>action Back</entry>
-        <entry encoding="base64">JzwsJz5zLyIvXFwiL2c=</entry>
         <entry>nohls</entry>
+        <entry encoding="base64">JzwsJz5zLyIvXFwiL2c=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -160,7 +160,7 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/controllers/MiddleController.php" timestamp="1586938126416">
+      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/controllers/MiddleController.php" timestamp="1586943633807">
         <mark key="[" line="279" column="1" />
       </file>
       <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/Bootstrap.php" timestamp="1586864431928">
@@ -194,8 +194,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/common/config/local/main.php" />
-      <jump line="5" column="16" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/api/config/local/main.php" />
       <jump line="102" column="17" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/common/config/main.php" />
       <jump line="25" column="0" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/config/main.php" />
       <jump line="2" column="0" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/api/config/local/main.php" />
@@ -294,6 +292,8 @@
       <jump line="217" column="30" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/controllers/MiddleController.php" />
       <jump line="281" column="0" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/controllers/MiddleController.php" />
       <jump line="89" column="16" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/common/JqnsConvert.php" />
+      <jump line="93" column="50" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/controllers/MiddleController.php" />
+      <jump line="280" column="1543" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/controllers/MiddleController.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -505,7 +505,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgJ3JlbWl0X2ZhaWxlZCc6ICAgLy8g5pS+5qy+5aSx6LSlCg==</text>
       </register>
       <register name=":" type="4">
-        <text>nohls</text>
+        <text encoding="base64">JzwsJz5zLyIvXFwiL2c=</text>
       </register>
     </registers>
   </component>
@@ -517,7 +517,7 @@
       <last-replace>\\&quot;</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
