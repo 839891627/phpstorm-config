@@ -34,7 +34,6 @@
         <entry>action RenameElement</entry>
         <entry>.nohls</entry>
         <entry>action CloseAllEditors</entry>
-        <entry>action Annotate</entry>
         <entry encoding="base64">JzwsJz5zLzovPT4vZw==</entry>
         <entry>action PreviousTab</entry>
         <entry>action Forward</entry>
@@ -49,6 +48,7 @@
         <entry>action SelectInProjectView</entry>
         <entry>nohls</entry>
         <entry>action RecentFiles</entry>
+        <entry>action Annotate</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -117,11 +117,6 @@
         <mark key="[" line="128" column="0" />
         <mark key="]" line="128" column="0" />
         <mark key="." line="128" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/common/logging/AccessLog.php" timestamp="1586851717595">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/traits/MiddleGroundTokenTrait.php" timestamp="1586920508752">
         <mark key="'" line="36" column="25" />
@@ -510,7 +505,7 @@
         <text encoding="base64">ICAgICAgICAgICAgZGQoJHJlcyk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action RecentFiles</text>
+        <text>action Annotate</text>
       </register>
     </registers>
   </component>
