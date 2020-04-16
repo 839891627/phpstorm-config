@@ -34,12 +34,9 @@
         <entry>action Forward</entry>
         <entry>action OpenEditorInOppositeTabGroup</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
-        <entry>action KJumpAction.Word0</entry>
         <entry>action Annotate</entry>
         <entry encoding="base64">JzwsJz5zLyIvXFwiL2c=</entry>
         <entry>action RenameElement</entry>
-        <entry>vs</entry>
-        <entry>action NextSplitter</entry>
         <entry>.nohls</entry>
         <entry>action RecentFiles</entry>
         <entry>action NextTab</entry>
@@ -47,8 +44,11 @@
         <entry>action PreviousTab</entry>
         <entry>wq</entry>
         <entry>action Back</entry>
-        <entry>nohls</entry>
         <entry>action SelectInProjectView</entry>
+        <entry>vs</entry>
+        <entry>action NextSplitter</entry>
+        <entry>nohls</entry>
+        <entry>action KJumpAction.Word0</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -115,11 +115,12 @@
       <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/shoufuyou/Util/Limit.php" timestamp="1587026351048">
         <mark key="'" line="5" column="28" />
       </file>
-      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/common/Jqns.php" timestamp="1587029600116">
-        <mark key="'" line="141" column="40" />
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="0" />
-        <mark key="." line="80" column="0" />
+      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/common/Jqns.php" timestamp="1587036199172">
+        <mark key="'" line="110" column="0" />
+        <mark key="[" line="132" column="36" />
+        <mark key="]" line="132" column="37" />
+        <mark key="." line="132" column="37" />
+        <mark key="^" line="132" column="84" />
       </file>
       <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/ppd/facade/common/PPDai.php" timestamp="1587029446146">
         <mark key="[" line="82" column="0" />
@@ -194,6 +195,11 @@
         <mark key="." line="160" column="0" />
         <mark key="^" line="160" column="2377" />
       </file>
+      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/before/Income.php" timestamp="1587036170573">
+        <mark key="'" line="66" column="31" />
+        <mark key="[" line="143" column="41" />
+        <mark key="]" line="143" column="51" />
+      </file>
       <file name="$USER_HOME$/Develop/Docker/shoufuyou-fund-system/lib/Controllers/RouteController.php" timestamp="1587032988344">
         <mark key="[" line="28" column="30" />
         <mark key="]" line="28" column="31" />
@@ -202,8 +208,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="81" column="65" filename="$USER_HOME$/Develop/Docker/shoufuyou-sms-system/lib/Models/SmsDispatcher.php" />
-      <jump line="40" column="63" filename="$USER_HOME$/Develop/Docker/shoufuyou-sms-system/lib/Models/SmsDispatcher.php" />
       <jump line="226" column="17" filename="$USER_HOME$/Develop/Docker/shoufuyou-sms-system/lib/Models/Sms.php" />
       <jump line="196" column="34" filename="$USER_HOME$/Develop/Docker/shoufuyou-sms-system/lib/Models/Sms.php" />
       <jump line="48" column="43" filename="$USER_HOME$/Develop/Docker/shoufuyou-sms-system/lib/Controllers/SmsController.php" />
@@ -302,6 +306,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Develop/Docker/shoufuyou-console/lib/Router.php" />
       <jump line="170" column="12" filename="$USER_HOME$/Develop/Docker/syf-middleware-system/console/controllers/DelayQueueController.php" />
       <jump line="25" column="10" filename="$USER_HOME$/Develop/Docker/shoufuyou-sms-system/service/YunFengSms.php" />
+      <jump line="110" column="0" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/common/Jqns.php" />
+      <jump line="66" column="31" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/before/Income.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -309,8 +315,8 @@
       <register name="a" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICRyZXNwb25zZTsK</text>
+      <register name="&quot;" type="4">
+        <text>divice_info</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -325,13 +331,13 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>342</text>
+        <text>divice_info</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxHUk9VUF9DT0RFXD4=</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">WwogICAgICAgICAgICAnb3JkZXJfbm8nICAgPT4gJHRoaXMtPmJpekRhdGFbJ29yZGVyX25vJ10sCiAgICAgICAgICAgICdwZXJpb2Rfbm9zJyA9PiAkdGhpcy0+Yml6RGF0YVsncGVyaW9kX25vJ10gPT0gJ2FsbCcgPyAnYWxsJyA6IChzdHJpbmcpJHRoaXMtPmJpekRhdGFbJ3BlcmlvZF9ubyddLAogICAgICAgIF0=</text>
+        <text>device_info</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICRyZXNwb25zZTsK</text>
@@ -513,7 +519,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICdjb2RlJyA9PiAkY29kZSwKICAgICAgICAgICAgXTsKICAgICAgICAgICAgaWYgKCRtc2cpIHsKICAgICAgICAgICAgICAgICRyZXNwb25zZS0+ZGF0YVsnbXNnJ10gPSAkbXNnOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGlmICgkZGF0YSkgewogICAgICAgICAgICAgICAgJHJlc3BvbnNlLT5kYXRhWydkYXRhJ10gPSAkZGF0YTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action SelectInProjectView</text>
+        <text>action KJumpAction.Word0</text>
       </register>
     </registers>
   </component>
