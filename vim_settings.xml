@@ -43,12 +43,12 @@
         <entry>action NextTab</entry>
         <entry encoding="base64">JzwsJz5zLyIvXFwiL2c=</entry>
         <entry>action RenameElement</entry>
-        <entry>action Back</entry>
         <entry>vs</entry>
         <entry>action PreviousTab</entry>
         <entry>action NextSplitter</entry>
         <entry>wq</entry>
         <entry>nohls</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -495,7 +495,7 @@
         <text encoding="base64">ICAgICAgICAgICAgJHJvd1snZXZlbnRfaWQnXSA9ICRyb3dbJ3NvdXJjZV90eXBlJ10sCg==</text>
       </register>
       <register name=":" type="4">
-        <text>nohls</text>
+        <text>action Back</text>
       </register>
     </registers>
   </component>
