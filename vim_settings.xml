@@ -39,7 +39,6 @@
         <entry>action KJumpAction.Word0</entry>
         <entry>action RecentFiles</entry>
         <entry>action Annotate</entry>
-        <entry>action SelectInProjectView</entry>
         <entry>action NextTab</entry>
         <entry encoding="base64">JzwsJz5zLyIvXFwiL2c=</entry>
         <entry>action RenameElement</entry>
@@ -47,8 +46,9 @@
         <entry>action PreviousTab</entry>
         <entry>action NextSplitter</entry>
         <entry>wq</entry>
-        <entry>nohls</entry>
         <entry>action Back</entry>
+        <entry>action SelectInProjectView</entry>
+        <entry>nohls</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -160,21 +160,24 @@
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="34" />
       </file>
-      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/controllers/MiddleController.php" timestamp="1586943633807">
-        <mark key="[" line="279" column="1" />
+      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/controllers/MiddleController.php" timestamp="1587025533701">
+        <mark key="[" line="147" column="41" />
+        <mark key="]" line="147" column="48" />
+        <mark key="^" line="147" column="48" />
+        <mark key="." line="147" column="47" />
       </file>
-      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/async/Notify.php" timestamp="1587003316947">
-        <mark key="[" line="168" column="0" />
-        <mark key="]" line="168" column="0" />
-        <mark key="." line="168" column="0" />
-        <mark key="^" line="168" column="0" />
+      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/async/Notify.php" timestamp="1587025580292">
+        <mark key="[" line="227" column="34" />
+        <mark key="]" line="227" column="41" />
+        <mark key="." line="227" column="40" />
+        <mark key="^" line="227" column="41" />
       </file>
-      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/controllers/AfterController.php" timestamp="1587003413520">
+      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/controllers/AfterController.php" timestamp="1587025553313">
         <mark key="'" line="38" column="21" />
-        <mark key="[" line="150" column="0" />
-        <mark key="]" line="150" column="0" />
-        <mark key="^" line="150" column="0" />
-        <mark key="." line="150" column="0" />
+        <mark key="[" line="145" column="44" />
+        <mark key="]" line="145" column="51" />
+        <mark key="^" line="145" column="51" />
+        <mark key="." line="145" column="50" />
       </file>
       <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/common/JqnsConvert.php" timestamp="1586942116451">
         <mark key="'" line="89" column="16" />
@@ -495,7 +498,7 @@
         <text encoding="base64">ICAgICAgICAgICAgJHJvd1snZXZlbnRfaWQnXSA9ICRyb3dbJ3NvdXJjZV90eXBlJ10sCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Back</text>
+        <text>nohls</text>
       </register>
     </registers>
   </component>
@@ -507,7 +510,7 @@
       <last-replace>\\&quot;</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
