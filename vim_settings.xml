@@ -41,14 +41,14 @@
         <entry>vs</entry>
         <entry>action NextSplitter</entry>
         <entry>action SelectInProjectView</entry>
-        <entry>action Back</entry>
         <entry>.nohls</entry>
         <entry>action RecentFiles</entry>
         <entry>action NextTab</entry>
-        <entry>action PreviousTab</entry>
         <entry>action GotoFile</entry>
-        <entry>nohls</entry>
+        <entry>action Back</entry>
+        <entry>action PreviousTab</entry>
         <entry>wq</entry>
+        <entry>nohls</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -115,11 +115,16 @@
       <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/shoufuyou/Util/Limit.php" timestamp="1587026351048">
         <mark key="'" line="5" column="28" />
       </file>
-      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/common/Jqns.php" timestamp="1586937832753">
-        <mark key="'" line="133" column="40" />
-        <mark key="[" line="132" column="0" />
-        <mark key="]" line="132" column="0" />
-        <mark key="." line="132" column="0" />
+      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/common/Jqns.php" timestamp="1587029600116">
+        <mark key="'" line="141" column="40" />
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="." line="80" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/ppd/facade/common/PPDai.php" timestamp="1587029446146">
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="82" column="0" />
+        <mark key="." line="82" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Docker/loanmarket/common/service/Loanmarket.php" timestamp="1587019796762">
         <mark key="'" line="1198" column="21" />
@@ -133,12 +138,6 @@
       <file name="$USER_HOME$/Develop/Docker/loanmarket/common/unit/XyfWebClient.php" timestamp="1587017331771">
         <mark key="'" line="67" column="40" />
       </file>
-      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/traits/MiddleGroundTokenTrait.php" timestamp="1586937878762">
-        <mark key="'" line="23" column="0" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
-      </file>
       <file name="$USER_HOME$/Develop/Docker/loanmarket/serviceapi/controllers/BaseController.php" timestamp="1587018262628">
         <mark key="'" line="45" column="12" />
         <mark key="[" line="160" column="0" />
@@ -146,12 +145,16 @@
         <mark key="." line="160" column="0" />
         <mark key="^" line="160" column="2377" />
       </file>
+      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/controllers/BaseController.php" timestamp="1587029493333">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="12" />
+        <mark key="." line="28" column="12" />
+      </file>
       <file name="$USER_HOME$/Develop/Docker/shoufuyou-sms-system/lib/Models/Sms.php" timestamp="1587027396823">
         <mark key="[" line="153" column="0" />
         <mark key="]" line="153" column="0" />
         <mark key="." line="153" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/logs/jqns/web_client/20200415.log" timestamp="1586942854100" />
       <file name="$USER_HOME$/Develop/Docker/loanmarket/serviceapi/controllers/AppController.php" timestamp="1587014407644">
         <mark key="'" line="94" column="45" />
         <mark key="[" line="96" column="31" />
@@ -185,12 +188,6 @@
         <mark key="]" line="92" column="0" />
         <mark key="^" line="88" column="13" />
         <mark key="." line="92" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/common/JqnsConvert.php" timestamp="1586942116451">
-        <mark key="'" line="89" column="16" />
-        <mark key="[" line="102" column="0" />
-        <mark key="]" line="102" column="0" />
-        <mark key="." line="102" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -302,7 +299,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhc2RmYWRzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICRyZXNwb25zZTsK</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -326,7 +323,7 @@
         <text encoding="base64">WwogICAgICAgICAgICAnb3JkZXJfbm8nICAgPT4gJHRoaXMtPmJpekRhdGFbJ29yZGVyX25vJ10sCiAgICAgICAgICAgICdwZXJpb2Rfbm9zJyA9PiAkdGhpcy0+Yml6RGF0YVsncGVyaW9kX25vJ10gPT0gJ2FsbCcgPyAnYWxsJyA6IChzdHJpbmcpJHRoaXMtPmJpekRhdGFbJ3BlcmlvZF9ubyddLAogICAgICAgIF0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhc2RmYWRzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICRyZXNwb25zZTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -344,28 +341,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB4LzEwMAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGllOwo=</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZmxvYXR2YWwoYmNkaXYoJGFtb3VudCwgMTAwLCAkc2NhbGUpKTsKICAgICAgICB4LzEwMAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoMik7Cg==</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcmVzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBdKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICRyZXNwb25zZTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZChbCiAgICAgICAgICAgICdvcmRlcl9ubycgICA9PiAkdGhpcy0+Yml6RGF0YVsnb3JkZXJfbm8nXSwKICAgICAgICAgICAgJ3BlcmlvZF9ub3MnID0+ICR0aGlzLT5iaXpEYXRhWydwZXJpb2Rfbm8nXSA9PSAnYWxsJyA/ICdhbGwnIDogKHN0cmluZykkdGhpcy0+Yml6RGF0YVsncGVyaW9kX25vJ10sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgMTMxMjIzMTUyMTlkYXlfbW9iaWxlX2xpbWl0CiAgICAgICAgICAgIGJ2czFkY20yMmhlMnEwczd2dXEyNGt1aTg2ZGF5X3Nlc3Npb25pZF9saW1pdHNtc3RwbDU1NjgwOAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -499,13 +496,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeHlmMTMxMjIzMTUyMTlkYXlfbW9iaWxlX2xpbWl0c21zdHBsNTU2ODA4Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEV4Y2VwdGlvbign6aqM562+5aSx6LSlJyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc21zdHBsNTU2ODA4Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdjb2RlJyA9PiAkY29kZSwKICAgICAgICAgICAgXTsKICAgICAgICAgICAgaWYgKCRtc2cpIHsKICAgICAgICAgICAgICAgICRyZXNwb25zZS0+ZGF0YVsnbXNnJ10gPSAkbXNnOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGlmICgkZGF0YSkgewogICAgICAgICAgICAgICAgJHJlc3BvbnNlLT5kYXRhWydkYXRhJ10gPSAkZGF0YTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>nohls</text>
       </register>
     </registers>
   </component>
