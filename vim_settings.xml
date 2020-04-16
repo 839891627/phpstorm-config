@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDx1dG1fc291cmNlXD4=</entry>
-        <entry encoding="base64">XDx4eWZfZGJcPg==</entry>
         <entry encoding="base64">XDxnZXRBcHBcPg==</entry>
         <entry encoding="base64">XDxfcGFyc2VWaXNpYmlsaXR5XD4=</entry>
         <entry encoding="base64">XDxfcGFyc2VMaW1pdFw+</entry>
@@ -27,6 +25,8 @@
         <entry encoding="base64">XDxhcHBJZFw+</entry>
         <entry encoding="base64">XDxnZXREZWNyeXB0ZWREYXRhXD4=</entry>
         <entry>&quot;</entry>
+        <entry encoding="base64">XDxjYW5fcmVwYXlfdGltZVw+</entry>
+        <entry encoding="base64">XDxhbW91bnRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>action FileStructurePopup</entry>
@@ -34,9 +34,7 @@
         <entry>.nohls</entry>
         <entry>action CloseAllEditors</entry>
         <entry encoding="base64">JzwsJz5zLzovPT4vZw==</entry>
-        <entry>action PreviousTab</entry>
         <entry>action Forward</entry>
-        <entry>action NextTab</entry>
         <entry>action OpenEditorInOppositeTabGroup</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>vs</entry>
@@ -47,8 +45,10 @@
         <entry>action Annotate</entry>
         <entry>action SelectInProjectView</entry>
         <entry>action Back</entry>
-        <entry>nohls</entry>
         <entry encoding="base64">JzwsJz5zLyIvXFwiL2c=</entry>
+        <entry>action NextTab</entry>
+        <entry>nohls</entry>
+        <entry>action PreviousTab</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -169,11 +169,18 @@
         <mark key="^" line="30" column="62" />
         <mark key="." line="19" column="18" />
       </file>
-      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/async/Notify.php" timestamp="1586919221676">
-        <mark key="[" line="76" column="57" />
-        <mark key="]" line="76" column="64" />
-        <mark key="." line="76" column="63" />
-        <mark key="^" line="76" column="64" />
+      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/async/Notify.php" timestamp="1587003316947">
+        <mark key="[" line="168" column="0" />
+        <mark key="]" line="168" column="0" />
+        <mark key="." line="168" column="0" />
+        <mark key="^" line="168" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/controllers/AfterController.php" timestamp="1587003413520">
+        <mark key="'" line="38" column="21" />
+        <mark key="[" line="150" column="0" />
+        <mark key="]" line="150" column="0" />
+        <mark key="^" line="150" column="0" />
+        <mark key="." line="150" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/config/dev/jqns.php" timestamp="1586852072521">
         <mark key="[" line="13" column="0" />
@@ -194,9 +201,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="102" column="17" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/common/config/main.php" />
-      <jump line="25" column="0" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/config/main.php" />
-      <jump line="2" column="0" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/api/config/local/main.php" />
       <jump line="41" column="0" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/api/config/local/main.php" />
       <jump line="38" column="0" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/common/config/local/main.php" />
       <jump line="41" column="4" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/config/local/main.php" />
@@ -294,6 +298,9 @@
       <jump line="89" column="16" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/common/JqnsConvert.php" />
       <jump line="93" column="50" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/controllers/MiddleController.php" />
       <jump line="280" column="1543" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/controllers/MiddleController.php" />
+      <jump line="148" column="25" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/controllers/AfterController.php" />
+      <jump line="37" column="21" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/controllers/AfterController.php" />
+      <jump line="38" column="21" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/controllers/AfterController.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -302,7 +309,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgJ2F1ZGl0X3BlbmRpbmcnOiAvLyDlrqHmoLjkuK0KICAgICAgICAgICAgICAgICAgICByZXR1cm4gMTgwOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -320,13 +327,13 @@
         <text>audit_pending</text>
       </register>
       <register name="/" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">XDxhbW91bnRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgJ2F1ZGl0X3BlbmRpbmcnOiAvLyDlrqHmoLjkuK0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ2Nhbl9yZXBheV90aW1lJyA9PiBzdHJ0b3RpbWUoJHZhbHVlWydzdGFydF90aW1lJ10pLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgJ2F1ZGl0X3BlbmRpbmcnOiAvLyDlrqHmoLjkuK0KICAgICAgICAgICAgICAgICAgICByZXR1cm4gMTgwOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -344,28 +351,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgJ2F1ZGl0X3BlbmRpbmcnOiAvLyDlrqHmoLjkuK0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ2Ftb3VudCcgICAgICAgICA9PiAkdmFsdWVbJ2Ftb3VudCddLAo=</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJHJlZGlzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJG1vZGVsKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdhbW91bnQnICAgICAgICAgPT4gJHZhbHVlWydhbW91bnQnXSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcmVzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdjYW5fcmVwYXlfdGltZScgPT4gJHZhbHVlWydzdGFydF90aW1lJ10sCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkb3JkZXJObywgJHVhKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ2Nhbl9yZXBheV90aW1lJyA9PiAkdmFsdWVbJ3N0YXJ0X3RpbWUnXSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRvcmRlck5vKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgJ2F1ZGl0X3BlbmRpbmcnOiAvLyDlrqHmoLjkuK0KICAgICAgICAgICAgICAgICAgICByZXR1cm4gMTgwOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -499,25 +506,25 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcmVzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgJ2F1ZGl0X3BlbmRpbmcnOiAvLyDlrqHmoLjkuK0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgJ3JlbWl0X2ZhaWxlZCc6ICAgLy8g5pS+5qy+5aSx6LSlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJHJlZGlzKTsK</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zLyIvXFwiL2c=</text>
+        <text>action PreviousTab</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>&quot;</last-search>
+      <last-search encoding="base64">XDxhbW91bnRcPg==</last-search>
       <last-offset />
-      <last-pattern>&quot;</last-pattern>
+      <last-pattern encoding="base64">XDxhbW91bnRcPg==</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
