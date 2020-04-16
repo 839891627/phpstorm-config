@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRBcHBcPg==</entry>
         <entry encoding="base64">XDxfcGFyc2VWaXNpYmlsaXR5XD4=</entry>
         <entry encoding="base64">XDxfcGFyc2VMaW1pdFw+</entry>
         <entry encoding="base64">XDxhcHBcPg==</entry>
@@ -27,6 +26,7 @@
         <entry>&quot;</entry>
         <entry encoding="base64">XDxjYW5fcmVwYXlfdGltZVw+</entry>
         <entry encoding="base64">XDxhbW91bnRcPg==</entry>
+        <entry encoding="base64">XDx2ZXJzaW9uX2NvZGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>action FileStructurePopup</entry>
@@ -44,11 +44,11 @@
         <entry>action RecentFiles</entry>
         <entry>action Annotate</entry>
         <entry>action SelectInProjectView</entry>
-        <entry>action Back</entry>
         <entry encoding="base64">JzwsJz5zLyIvXFwiL2c=</entry>
         <entry>action NextTab</entry>
-        <entry>nohls</entry>
         <entry>action PreviousTab</entry>
+        <entry>action Back</entry>
+        <entry>nohls</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -118,9 +118,6 @@
         <mark key="]" line="132" column="0" />
         <mark key="." line="132" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/logs/jqns/web_client/20200414.log" timestamp="1586851868004">
-        <mark key="'" line="85" column="66" />
-      </file>
       <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/controllers/CommonController.php" timestamp="1586931549512">
         <mark key="'" line="133" column="20" />
         <mark key="[" line="88" column="81" />
@@ -128,24 +125,27 @@
         <mark key="." line="88" column="84" />
         <mark key="^" line="88" column="85" />
       </file>
+      <file name="$USER_HOME$/Develop/Docker/loanmarket/common/unit/XyfWebClient.php" timestamp="1587005552548">
+        <mark key="'" line="248" column="27" />
+      </file>
+      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/traits/MiddleGroundTokenTrait.php" timestamp="1586937878762">
+        <mark key="'" line="23" column="0" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/controllers/BaseController.php" timestamp="1586861339228">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="12" />
         <mark key="." line="28" column="12" />
       </file>
-      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/common/logging/FileTarget.php" timestamp="1586852653753">
-        <mark key="'" line="23" column="6" />
-        <mark key="[" line="136" column="0" />
-        <mark key="]" line="136" column="0" />
-        <mark key="." line="136" column="0" />
-      </file>
       <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/logs/jqns/web_client/20200415.log" timestamp="1586942854100" />
-      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/config/local/jqns.php" timestamp="1586852076413">
-        <mark key="'" line="1" column="7" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="2" column="30" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/Develop/Docker/loanmarket/serviceapi/controllers/AppController.php" timestamp="1587006788102">
+        <mark key="'" line="94" column="45" />
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="102" column="0" />
+        <mark key="." line="102" column="0" />
+        <mark key="^" line="95" column="51" />
       </file>
       <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/service/gateways/MiddlegroundGateway.php" timestamp="1586918415072">
         <mark key="'" line="59" column="20" />
@@ -153,12 +153,6 @@
       <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/helper/TokenHelper.php" timestamp="1586918446152">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="34" />
-      </file>
-      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/traits/MiddleGroundTokenTrait.php" timestamp="1586937878762">
-        <mark key="'" line="23" column="0" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/controllers/MiddleController.php" timestamp="1586943633807">
         <mark key="[" line="279" column="1" />
@@ -182,17 +176,6 @@
         <mark key="^" line="150" column="0" />
         <mark key="." line="150" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/config/dev/jqns.php" timestamp="1586852072521">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="59" />
-        <mark key="." line="2" column="29" />
-        <mark key="^" line="2" column="30" />
-      </file>
-      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/common/config/local/bootstrap.php" timestamp="1586851742742">
-        <mark key="[" line="1" column="58" />
-        <mark key="]" line="1" column="58" />
-        <mark key="." line="1" column="58" />
-      </file>
       <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/common/JqnsConvert.php" timestamp="1586942116451">
         <mark key="'" line="89" column="16" />
         <mark key="[" line="102" column="0" />
@@ -201,9 +184,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="0" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/api/config/local/main.php" />
-      <jump line="38" column="0" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/common/config/local/main.php" />
-      <jump line="41" column="4" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/config/local/main.php" />
       <jump line="5" column="20" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/config/local/main.php" />
       <jump line="25" column="24" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/config/local/main.php" />
       <jump line="1" column="7" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/config/local/jqns.php" />
@@ -301,6 +281,9 @@
       <jump line="148" column="25" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/controllers/AfterController.php" />
       <jump line="37" column="21" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/controllers/AfterController.php" />
       <jump line="38" column="21" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/controllers/AfterController.php" />
+      <jump line="102" column="27" filename="$USER_HOME$/Develop/Docker/loanmarket/serviceapi/controllers/AppController.php" />
+      <jump line="248" column="27" filename="$USER_HOME$/Develop/Docker/loanmarket/common/unit/XyfWebClient.php" />
+      <jump line="94" column="45" filename="$USER_HOME$/Develop/Docker/loanmarket/serviceapi/controllers/AppController.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -309,7 +292,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkZGF0YSk7Cg==</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -327,13 +310,13 @@
         <text>audit_pending</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhbW91bnRcPg==</text>
+        <text encoding="base64">XDx2ZXJzaW9uX2NvZGVcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ2Nhbl9yZXBheV90aW1lJyA9PiBzdHJ0b3RpbWUoJHZhbHVlWydzdGFydF90aW1lJ10pLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkZGF0YSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -351,7 +334,7 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ2Ftb3VudCcgICAgICAgICA9PiAkdmFsdWVbJ2Ftb3VudCddLAo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkZGF0YSk7Cg==</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
@@ -363,16 +346,16 @@
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdhbW91bnQnICAgICAgICAgPT4gJHZhbHVlWydhbW91bnQnXSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ2Ftb3VudCcgICAgICAgICA9PiAkdmFsdWVbJ2Ftb3VudCddLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdjYW5fcmVwYXlfdGltZScgPT4gJHZhbHVlWydzdGFydF90aW1lJ10sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ2Nhbl9yZXBheV90aW1lJyA9PiAkdmFsdWVbJ3N0YXJ0X3RpbWUnXSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdhbW91bnQnICAgICAgICAgPT4gJHZhbHVlWydhbW91bnQnXSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgJ2F1ZGl0X3BlbmRpbmcnOiAvLyDlrqHmoLjkuK0KICAgICAgICAgICAgICAgICAgICByZXR1cm4gMTgwOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdjYW5fcmVwYXlfdGltZScgPT4gJHZhbHVlWydzdGFydF90aW1lJ10sCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -506,25 +489,25 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgJ2F1ZGl0X3BlbmRpbmcnOiAvLyDlrqHmoLjkuK0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ2Nhbl9yZXBheV90aW1lJyA9PiAkdmFsdWVbJ3N0YXJ0X3RpbWUnXSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJHJlZGlzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgJ2F1ZGl0X3BlbmRpbmcnOiAvLyDlrqHmoLjkuK0KICAgICAgICAgICAgICAgICAgICByZXR1cm4gMTgwOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action PreviousTab</text>
+        <text>nohls</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxhbW91bnRcPg==</last-search>
+      <last-search encoding="base64">XDx2ZXJzaW9uX2NvZGVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhbW91bnRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDx2ZXJzaW9uX2NvZGVcPg==</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
