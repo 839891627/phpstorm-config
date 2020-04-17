@@ -42,13 +42,13 @@
         <entry>action PreviousTab</entry>
         <entry>vs</entry>
         <entry>action NextSplitter</entry>
-        <entry>action SelectInProjectView</entry>
         <entry>wq</entry>
         <entry>action Back</entry>
         <entry>action RecentFiles</entry>
         <entry>action KJumpAction</entry>
         <entry>action KJumpAction.Word0</entry>
         <entry>nohls</entry>
+        <entry>action SelectInProjectView</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -134,6 +134,7 @@
       <file name="$USER_HOME$/Develop/Docker/syf-middleware-system/console/controllers/DelayQueueController.php" timestamp="1587039184696">
         <mark key="'" line="170" column="12" />
       </file>
+      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/config/main.php" timestamp="1587094363086" />
       <file name="$USER_HOME$/Develop/Docker/dnmp/config/php/php71.ini" timestamp="1587089656211">
         <mark key="'" line="10" column="29" />
       </file>
@@ -149,6 +150,7 @@
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/helper/EmailTarget.php" timestamp="1587094441931" />
       <file name="$USER_HOME$/Develop/Docker/dnmp/README.MD" timestamp="1587091780423">
         <mark key="[" line="40" column="116" />
         <mark key="]" line="41" column="0" />
@@ -183,31 +185,13 @@
       </file>
       <file name="$USER_HOME$/Desktop/20200416.log.0" timestamp="1587039565898" />
       <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/controllers/MiddleController.php" timestamp="1587092617850">
-        <mark key="'" line="249" column="36" />
-        <mark key="[" line="249" column="43" />
-        <mark key="]" line="249" column="43" />
-        <mark key="^" line="249" column="41" />
-        <mark key="." line="249" column="43" />
+        <mark key="'" line="10" column="36" />
+        <mark key="[" line="10" column="43" />
+        <mark key="]" line="10" column="43" />
+        <mark key="^" line="10" column="41" />
+        <mark key="." line="10" column="43" />
       </file>
-      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/common/helper/UtilHelper.php" timestamp="1587028492331">
-        <mark key="[" line="190" column="0" />
-        <mark key="]" line="190" column="0" />
-        <mark key="." line="190" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/async/Notify.php" timestamp="1587027955328">
-        <mark key="'" line="189" column="0" />
-        <mark key="[" line="155" column="29" />
-        <mark key="]" line="155" column="33" />
-        <mark key="." line="155" column="32" />
-        <mark key="^" line="155" column="33" />
-      </file>
-      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/controllers/AfterController.php" timestamp="1587028250459">
-        <mark key="'" line="24" column="13" />
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="92" column="0" />
-        <mark key="^" line="88" column="13" />
-        <mark key="." line="92" column="0" />
-      </file>
+      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/common/logging/EmailTarget.php" timestamp="1587094412701" />
       <file name="$USER_HOME$/Develop/Docker/shoufuyou-fund-system/lib/Controllers/RouteController.php" timestamp="1587032988344">
         <mark key="[" line="28" column="30" />
         <mark key="]" line="28" column="31" />
@@ -527,7 +511,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>nohls</text>
+        <text>action SelectInProjectView</text>
       </register>
     </registers>
   </component>
