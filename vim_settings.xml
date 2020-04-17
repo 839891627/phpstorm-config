@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRBY2NvdW50XD4=</entry>
         <entry encoding="base64">XDxjaGFubmVsXD4=</entry>
         <entry>gps</entry>
         <entry>ip</entry>
@@ -27,6 +26,7 @@
         <entry encoding="base64">XDxHUk9VUF9DT0RFXD4=</entry>
         <entry>all</entry>
         <entry encoding="base64">XDxtY3J5cHRcPg==</entry>
+        <entry>swoole</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzovPT4vZw==</entry>
@@ -42,13 +42,13 @@
         <entry>action PreviousTab</entry>
         <entry>vs</entry>
         <entry>action NextSplitter</entry>
-        <entry>wq</entry>
         <entry>action Back</entry>
         <entry>action KJumpAction</entry>
         <entry>action KJumpAction.Word0</entry>
         <entry>action SelectInProjectView</entry>
         <entry>nohls</entry>
         <entry>action RecentFiles</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -163,11 +163,12 @@
         <mark key="." line="61" column="0" />
         <mark key="^" line="61" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/Docker/dnmp/config/php/php73.ini" timestamp="1587091262292">
-        <mark key="'" line="1792" column="1" />
-        <mark key="[" line="1957" column="57" />
-        <mark key="]" line="1957" column="65" />
-        <mark key="." line="1957" column="57" />
+      <file name="$USER_HOME$/Develop/Docker/dnmp/config/php/php73.ini" timestamp="1587102838661">
+        <mark key="'" line="1947" column="72" />
+        <mark key="[" line="1960" column="0" />
+        <mark key="]" line="1960" column="26" />
+        <mark key="." line="1960" column="25" />
+        <mark key="^" line="1960" column="26" />
       </file>
       <file name="$USER_HOME$/Develop/Docker/shoufuyou-sms-system/service/YunFengSms.php" timestamp="1587034602903">
         <mark key="'" line="25" column="10" />
@@ -190,8 +191,6 @@
       <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/common/JqnsConvert.php" timestamp="1587095566400" />
     </filemarks>
     <jumps>
-      <jump line="11" column="61" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/logs/jqns/access/20200414.log" />
-      <jump line="58" column="12" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/before/Income.php" />
       <jump line="74" column="22" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/before/Income.php" />
       <jump line="193" column="57" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/before/Income.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/before/Income.php" />
@@ -285,11 +284,13 @@
       <jump line="22" column="8" filename="$USER_HOME$/Develop/Docker/dnmp/docker-compose.yml" />
       <jump line="15" column="23" filename="$USER_HOME$/Develop/Docker/dnmp/config/php/php73.ini" />
       <jump line="10" column="29" filename="$USER_HOME$/Develop/Docker/dnmp/config/php/php71.ini" />
-      <jump line="1955" column="0" filename="$USER_HOME$/Develop/Docker/dnmp/config/php/php73.ini" />
-      <jump line="1956" column="66" filename="$USER_HOME$/Develop/Docker/dnmp/config/php/php73.ini" />
       <jump line="251" column="36" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/controllers/MiddleController.php" />
       <jump line="1792" column="1" filename="$USER_HOME$/Develop/Docker/dnmp/config/php/php73.ini" />
       <jump line="1196" column="21" filename="$USER_HOME$/Develop/Docker/loanmarket/common/service/Loanmarket.php" />
+      <jump line="1956" column="5" filename="$USER_HOME$/Develop/Docker/dnmp/config/php/php73.ini" />
+      <jump line="0" column="0" filename="$USER_HOME$/Develop/Docker/dnmp/config/php/php73.ini" />
+      <jump line="1955" column="66" filename="$USER_HOME$/Develop/Docker/dnmp/config/php/php73.ini" />
+      <jump line="1947" column="72" filename="$USER_HOME$/Develop/Docker/dnmp/config/php/php73.ini" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -316,7 +317,7 @@
         <text>验证码输入有误或失效，请重新输入</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtY3J5cHRcPg==</text>
+        <text>swoole</text>
       </register>
       <register name="0" type="4">
         <text>20180731</text>
@@ -501,19 +502,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action RecentFiles</text>
+        <text>wq</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxtY3J5cHRcPg==</last-search>
+      <last-search>swoole</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtY3J5cHRcPg==</last-pattern>
+      <last-pattern>swoole</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
