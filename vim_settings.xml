@@ -18,7 +18,6 @@
         <entry encoding="base64">XDxjYW5fcmVwYXlfdGltZVw+</entry>
         <entry encoding="base64">XDxhbW91bnRcPg==</entry>
         <entry encoding="base64">XDx2ZXJzaW9uX2NvZGVcPg==</entry>
-        <entry>&quot;</entry>
         <entry>token</entry>
         <entry encoding="base64">XDxfYXR0YWNoVG9rZW5cPg==</entry>
         <entry encoding="base64">XDxkYXRhXD4=</entry>
@@ -27,6 +26,7 @@
         <entry>all</entry>
         <entry encoding="base64">XDxtY3J5cHRcPg==</entry>
         <entry>swoole</entry>
+        <entry>&quot;</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzovPT4vZw==</entry>
@@ -34,7 +34,6 @@
         <entry>action OpenEditorInOppositeTabGroup</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>action Annotate</entry>
-        <entry encoding="base64">JzwsJz5zLyIvXFwiL2c=</entry>
         <entry>action RenameElement</entry>
         <entry>.nohls</entry>
         <entry>action NextTab</entry>
@@ -49,6 +48,7 @@
         <entry>nohls</entry>
         <entry>action RecentFiles</entry>
         <entry>wq</entry>
+        <entry encoding="base64">JzwsJz5zLyIvXFwiL2c=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -133,6 +133,13 @@
       <file name="$USER_HOME$/Develop/Docker/dnmp/config/php/php71.ini" timestamp="1587089656211">
         <mark key="'" line="10" column="29" />
       </file>
+      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/common/config/bootstrap.php" timestamp="1587103761787">
+        <mark key="'" line="8" column="1568" />
+        <mark key="[" line="6" column="63" />
+        <mark key="]" line="8" column="1569" />
+        <mark key="^" line="8" column="1569" />
+        <mark key="." line="8" column="1568" />
+      </file>
       <file name="$USER_HOME$/Develop/Docker/dnmp/docker-compose.yml" timestamp="1587089616750">
         <mark key="'" line="22" column="8" />
         <mark key="[" line="38" column="0" />
@@ -150,11 +157,6 @@
         <mark key="'" line="66" column="31" />
         <mark key="[" line="143" column="41" />
         <mark key="]" line="143" column="51" />
-      </file>
-      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/controllers/BaseController.php" timestamp="1587029493333">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="12" />
-        <mark key="." line="28" column="12" />
       </file>
       <file name="$USER_HOME$/Desktop/20200416.log" timestamp="1587037054608">
         <mark key="'" line="38" column="859" />
@@ -191,7 +193,6 @@
       <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/common/JqnsConvert.php" timestamp="1587095566400" />
     </filemarks>
     <jumps>
-      <jump line="74" column="22" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/before/Income.php" />
       <jump line="193" column="57" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/before/Income.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/before/Income.php" />
       <jump line="165" column="36" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/before/Income.php" />
@@ -291,6 +292,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/Develop/Docker/dnmp/config/php/php73.ini" />
       <jump line="1955" column="66" filename="$USER_HOME$/Develop/Docker/dnmp/config/php/php73.ini" />
       <jump line="1947" column="72" filename="$USER_HOME$/Develop/Docker/dnmp/config/php/php73.ini" />
+      <jump line="8" column="1568" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/common/config/bootstrap.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -317,7 +319,7 @@
         <text>验证码输入有误或失效，请重新输入</text>
       </register>
       <register name="/" type="4">
-        <text>swoole</text>
+        <text>&quot;</text>
       </register>
       <register name="0" type="4">
         <text>20180731</text>
@@ -502,15 +504,15 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text encoding="base64">JzwsJz5zLyIvXFwiL2c=</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>swoole</last-search>
+      <last-search>&quot;</last-search>
       <last-offset />
-      <last-pattern>swoole</last-pattern>
+      <last-pattern>&quot;</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
