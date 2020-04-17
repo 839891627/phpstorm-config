@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>collection</entry>
         <entry encoding="base64">XDxnZXRBY2NvdW50XD4=</entry>
         <entry encoding="base64">XDxjaGFubmVsXD4=</entry>
         <entry>gps</entry>
@@ -27,6 +26,7 @@
         <entry>ver</entry>
         <entry encoding="base64">XDxHUk9VUF9DT0RFXD4=</entry>
         <entry>all</entry>
+        <entry encoding="base64">XDxtY3J5cHRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>action CloseAllEditors</entry>
@@ -41,14 +41,14 @@
         <entry>action NextTab</entry>
         <entry>action GotoFile</entry>
         <entry>action PreviousTab</entry>
-        <entry>wq</entry>
         <entry>vs</entry>
         <entry>action NextSplitter</entry>
-        <entry>action KJumpAction.Word0</entry>
-        <entry>action SelectInProjectView</entry>
         <entry>nohls</entry>
         <entry>action Back</entry>
         <entry>action RecentFiles</entry>
+        <entry>action SelectInProjectView</entry>
+        <entry>wq</entry>
+        <entry>action KJumpAction.Word0</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -112,9 +112,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/shoufuyou/Util/Limit.php" timestamp="1587026351048">
-        <mark key="'" line="5" column="28" />
-      </file>
       <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/common/Jqns.php" timestamp="1587036199172">
         <mark key="'" line="110" column="0" />
         <mark key="[" line="132" column="36" />
@@ -133,6 +130,26 @@
       <file name="$USER_HOME$/Develop/Docker/syf-middleware-system/console/controllers/DelayQueueController.php" timestamp="1587039184696">
         <mark key="'" line="170" column="12" />
       </file>
+      <file name="$USER_HOME$/Develop/Docker/dnmp/config/php/php71.ini" timestamp="1587089656211">
+        <mark key="'" line="10" column="29" />
+      </file>
+      <file name="$USER_HOME$/Develop/Docker/shoufuyou-console/lib/Router.php" timestamp="1587028968818">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="408" column="44" />
+        <mark key="]" line="408" column="46" />
+        <mark key="." line="408" column="46" />
+      </file>
+      <file name="$USER_HOME$/Develop/Docker/dnmp/docker-compose.yml" timestamp="1587089616750">
+        <mark key="'" line="22" column="8" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/before/Income.php" timestamp="1587088987112">
+        <mark key="'" line="66" column="31" />
+        <mark key="[" line="143" column="41" />
+        <mark key="]" line="143" column="51" />
+      </file>
       <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/controllers/BaseController.php" timestamp="1587029493333">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="12" />
@@ -150,14 +167,11 @@
         <mark key="." line="61" column="0" />
         <mark key="^" line="61" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/Docker/shoufuyou-console/lib/Router.php" timestamp="1587028968818">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="408" column="44" />
-        <mark key="]" line="408" column="46" />
-        <mark key="." line="408" column="46" />
-      </file>
-      <file name="$USER_HOME$/Develop/Docker/loanmarket/common/unit/XyfWebClient.php" timestamp="1587017331771">
-        <mark key="'" line="67" column="40" />
+      <file name="$USER_HOME$/Develop/Docker/dnmp/config/php/php73.ini" timestamp="1587089673102">
+        <mark key="'" line="1956" column="66" />
+        <mark key="[" line="1956" column="0" />
+        <mark key="]" line="1956" column="0" />
+        <mark key="." line="1956" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Docker/shoufuyou-sms-system/service/YunFengSms.php" timestamp="1587034602903">
         <mark key="'" line="25" column="10" />
@@ -189,18 +203,6 @@
         <mark key="^" line="88" column="13" />
         <mark key="." line="92" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/Docker/loanmarket/serviceapi/controllers/BaseController.php" timestamp="1587018262628">
-        <mark key="'" line="45" column="12" />
-        <mark key="[" line="160" column="0" />
-        <mark key="]" line="160" column="0" />
-        <mark key="." line="160" column="0" />
-        <mark key="^" line="160" column="2377" />
-      </file>
-      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/before/Income.php" timestamp="1587088987112">
-        <mark key="'" line="66" column="31" />
-        <mark key="[" line="143" column="41" />
-        <mark key="]" line="143" column="51" />
-      </file>
       <file name="$USER_HOME$/Develop/Docker/shoufuyou-fund-system/lib/Controllers/RouteController.php" timestamp="1587032988344">
         <mark key="[" line="28" column="30" />
         <mark key="]" line="28" column="31" />
@@ -209,11 +211,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="356" column="48" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/shoufuyou/Util/SfyWebClient.php" />
-      <jump line="80" column="40" filename="$USER_HOME$/Develop/Docker/xinyongfei-app-api/lib/Controllers/UserController.php" />
-      <jump line="350" column="91" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/shoufuyou/Util/SfyWebClient.php" />
-      <jump line="352" column="21" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/shoufuyou/Util/SfyWebClient.php" />
-      <jump line="468" column="0" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/shoufuyou/Util/SfyWebClient.php" />
       <jump line="66" column="29" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/common/Jqns.php" />
       <jump line="69" column="24" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/common/Jqns.php" />
       <jump line="65" column="41" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/common/Jqns.php" />
@@ -309,6 +306,11 @@
       <jump line="11" column="2470" filename="$USER_HOME$/Desktop/20200416.log" />
       <jump line="38" column="859" filename="$USER_HOME$/Desktop/20200416.log" />
       <jump line="1523" column="39" filename="$USER_HOME$/Develop/Docker/loanmarket/common/service/Loanmarket.php" />
+      <jump line="22" column="8" filename="$USER_HOME$/Develop/Docker/dnmp/docker-compose.yml" />
+      <jump line="15" column="23" filename="$USER_HOME$/Develop/Docker/dnmp/config/php/php73.ini" />
+      <jump line="10" column="29" filename="$USER_HOME$/Develop/Docker/dnmp/config/php/php71.ini" />
+      <jump line="1955" column="0" filename="$USER_HOME$/Develop/Docker/dnmp/config/php/php73.ini" />
+      <jump line="1956" column="66" filename="$USER_HOME$/Develop/Docker/dnmp/config/php/php73.ini" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -317,7 +319,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">eyJ0aW1lIjoiMjAyMC0wNC0xNiAxOToxNjowNiIsIm1lc3NhZ2UiOnsicmVxdWVzdCI6eyJ1cmwiOiJcL2pxbnNcL2xvYW5cL2FwaVwvcmVwYXkiLCJoZWFkZXIiOnsiY29udGVudC10eXBlIjoiYXBwbGljYXRpb25cL2pzb24iLCJjb250ZW50LWxlbmd0aCI6IjU3NSIsImNvbm5lY3Rpb24iOiJrZWVwLWFsaXZlIiwiYWNjZXB0IjoiKlwvKiIsImFjY2VwdC1lbmNvZGluZyI6Imd6aXAsIGRlZmxhdGUiLCJ1c2VyLWFnZW50IjoicHl0aG9uLXJlcXVlc3RzXC8yLjEzLjAiLCJob3N0IjoiZGV2LWdhdGV3YXktdWEtYXBpLnhpbnlvbmdmZWkuY24ifSwicGFyYW1zIjp7ImFwcF9pZCI6InhpbnlvbmdmZWkiLCJiaXpfZGF0YSI6IntcIm9yZGVyX25vXCI6XCIxOEg5Njk1Mkk2Qzk4MlVcIixcInJldHVybl91cmxcIjpcImh0dHA6XC9cLzE5Mi4xNjguMTAuMjA6MTgxMTlcL2xvYW5cL3JldHVyblwveGlueW9uZ2ZlaVwvcmVwYXlfcmV0dXJuXC8xOEg5Njk1Mkk2Qzk4MlVcIixcInBlcmlvZF9ub1wiOlwiYWxsXCJ9IiwidGltZXN0YW1wIjoxNTg3MDM1NzU1LCJzaWduIjoicTJHMzg3dENLTU5vOFpXcThscE1MdlE5V0lvV0NLUGlhcllGUUJHYmpnc0RjaXEwaUliZExrbURpcSs5d3pmQytkZVdsVU5QY21uXC9Gek9tRHJ4SVBSVUlIWjhHZ2NKa0tpdUwxa3c2M05EeU9VWmFybjNWcjZyNEFkcjBkcitnY2dPa1YxeXFCNXBoRTRpdGFHeXhOb1R6NGhscGVHQkptaEpRdnhTT1djZ1JiZW1TVkxEb0RVcm1PdTBrNGFtMTV3OTZzaUZaVzRvZ1RPbTE4MjFXXC9nYm9xTk5DenhvNU9VUkxFcGltRFV3YWdIS2RsdHRncE8wTG42b291XC9FV0Zmcnk1Y1NaMVhYNFRDM3dsWG5NdzhiTEt2XC85TktmV24ydVVCZEFrR0lDQ0wzRGhzbHNtY3MzNHZOZWZ0TjVhb1wvd3lldzFNeWxXM0tNNWtYM0NnZ2c9PSJ9fSwicmVzcG9uc2UiOiJbY29kZSAtMV1jVVJMIGVycm9yIDI4OiBPcGVyYXRpb24gdGltZWQgb3V0IGFmdGVyIDEwMDAxIG1pbGxpc2Vjb25kcyB3aXRoIDAgb3V0IG9mIC0xIGJ5dGVzIHJlY2VpdmVkIChzZWUgaHR0cHM6XC9cL2N1cmwuaGF4eC5zZVwvbGliY3VybFwvY1wvbGliY3VybC1lcnJvcnMuaHRtbCkgaW4gXC9kYXRhXC9jb2RlXC9yZWxlYXNlc1wveHlmLWFwaS1nYXRld2F5XC91YV9hcGlcL2hlbHBlclwvSHR0cENsaWVudC5waHA6MTYxIFN0YWNrIHRyYWNlOlxuIzAgXC9kYXRhXC9jb2RlXC9yZWxlYXNlc1wveHlmLWFwaS1nYXRld2F5XC91YV9hcGlcL2hlbHBlclwvSHR0cENsaWVudC5waHAoMTI2KTogdWFfYXBpXFxzZXJ2aWNlXFxnYXRld2F5c1xcQ3JlZGl0R2F0ZXdheS0+cmVxdWVzdCgncG9zdCcsICdodHRwOlwvXC9kZXYtY3JlZC4uLicsIEFycmF5KVxuIzEgXC9kYXRhXC9jb2RlXC9yZWxlYXNlc1wveHlmLWFwaS1nYXRld2F5XC91YV9hcGlcL3NlcnZpY2VcL2dhdGV3YXlzXC9DcmVkaXRHYXRld2F5LnBocCg3Myk6IHVhX2FwaVxcc2VydmljZVxcZ2F0ZXdheXNcXENyZWRpdEdhdGV3YXktPnBvc3RKc29uKCdodHRwOlwvXC9kZXYtY3JlZC4uLicsIEFycmF5LCBBcnJheSlcbiMyIFwvZGF0YVwvY29kZVwvcmVsZWFzZXNcL3h5Zi1hcGktZ2F0ZXdheVwvdWFfYXBpXC9tb2R1bGVzXC9qcW5zXC9jb250cm9sbGVyc1wvQWZ0ZXJDb250cm9sbGVyLnBocCg5MSk6IHVhX2FwaVxcc2VydmljZVxcZ2F0ZXdheXNcXENyZWRpdEdhdGV3YXktPmRvUmVxdWVzdChBcnJheSlcbiMzIFtpbnRlcm5hbCBmdW5jdGlvbl06IHVhX2FwaVxcbW9kdWxlc1xcanFuc1xcY29udHJvbGxlcnNcXEFmdGVyQ29udHJvbGxlci0+YWN0aW9uUmVwYXkoKVxuIzQgXC9kYXRhXC9jb2RlXC9yZWxlYXNlc1wveHlmLWFwaS1nYXRld2F5XC92ZW5kb3JcL3lpaXNvZnRcL3lpaTJcL2Jhc2VcL0lubGluZUFjdGlvbi5waHAoNTcpOiBjYWxsX3VzZXJfZnVuY19hcnJheShBcnJheSwgQXJyYXkpXG4jNSBcL2RhdGFcL2NvZGVcL3JlbGVhc2VzXC94eWYtYXBpLWdhdGV3YXlcL3ZlbmRvclwveWlpc29mdFwveWlpMlwvYmFzZVwvQ29udHJvbGxlci5waHAoMTU3KTogeWlpXFxiYXNlXFxJbmxpbmVBY3Rpb24tPnJ1bldpdGhQYXJhbXMoQXJyYXkpXG4jNiBcL2RhdGFcL2NvZGVcL3JlbGVhc2VzXC94eWYtYXBpLWdhdGV3YXlcL3VhX2FwaVwvY29udHJvbGxlcnNcL0Jhc2VDb250cm9sbGVyLnBocCg5MCk6IHlpaVxcYmFzZVxcQ29udHJvbGxlci0+cnVuQWN0aW9uKCdyZXBheScsIEFycmF5KVxuIzcgXC9kYXRhXC9jb2RlXC9yZWxlYXNlc1wveHlmLWFwaS1nYXRld2F5XC92ZW5kb3JcL3lpaXNvZnRcL3lpaTJcL2Jhc2VcL01vZHVsZS5waHAoNTI4KTogdWFfYXBpXFxjb250cm9sbGVyc1xcQmFzZUNvbnRyb2xsZXItPnJ1bkFjdGlvbigncmVwYXknLCBBcnJheSlcbiM4IFwvZGF0YVwvY29kZVwvcmVsZWFzZXNcL3h5Zi1hcGktZ2F0ZXdheVwvdmVuZG9yXC95aWlzb2Z0XC95aWkyXC93ZWJcL0FwcGxpY2F0aW9uLnBocCgxMDMpOiB5aWlcXGJhc2VcXE1vZHVsZS0+cnVuQWN0aW9uKCdqcW5zXC9hZnRlclwvcmVwYS4uLicsIEFycmF5KVxuIzkgXC9kYXRhXC9jb2RlXC9yZWxlYXNlc1wveHlmLWFwaS1nYXRld2F5XC92ZW5kb3JcL3lpaXNvZnRcL3lpaTJcL2Jhc2VcL0FwcGxpY2F0aW9uLnBocCgzODYpOiB5aWlcXHdlYlxcQXBwbGljYXRpb24tPmhhbmRsZVJlcXVlc3QoT2JqZWN0KHlpaVxcd2ViXFxSZXF1ZXN0KSlcbiMxMCBcL2RhdGFcL2NvZGVcL3JlbGVhc2VzXC94eWYtYXBpLWdhdGV3YXlcL3VhX2FwaVwvd2ViXC9pbmRleC5waHAoMTkpOiB5aWlcXGJhc2VcXEFwcGxpY2F0aW9uLT5ydW4oKVxuIzExIHttYWlufSJ9LCJpcCI6IjExNi4yNDcuMTA1LjE5NCIsImxldmVsIjoiaW5mbyIsImhvc3RfbmFtZSI6InBocC1kZXYtMSIsImNhdGVnb3J5IjoiYWNjZXNzIiwiZGVidWciOlsiaW4gXC9kYXRhXC9jb2RlXC9yZWxlYXNlc1wveHlmLWFwaS1nYXRld2F5XC9jb21tb25cL2xvZ2dpbmdcL0FjY2Vzc0xvZy5waHA6MjMiLCJpbiBcL2RhdGFcL2NvZGVcL3JlbGVhc2VzXC94eWYtYXBpLWdhdGV3YXlcL3VhX2FwaVwvY29udHJvbGxlcnNcL0Jhc2VDb250cm9sbGVyLnBocDo3MSIsImluIFwvZGF0YVwvY29kZVwvcmVsZWFzZXNcL3h5Zi1hcGktZ2F0ZXdheVwvdWFfYXBpXC9jb250cm9sbGVyc1wvQmFzZUNvbnRyb2xsZXIucGhwOjk0Il19Cg==</text>
+        <text encoding="base64">CiAgICAgICAgICBwb3J0czoKICAgICAgICAgIC0gOTUwMTo5NTAxCg==</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -335,13 +337,13 @@
         <text>divice_info</text>
       </register>
       <register name="/" type="4">
-        <text>all</text>
+        <text encoding="base64">XDxtY3J5cHRcPg==</text>
       </register>
       <register name="0" type="4">
         <text>device_info</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">eyJ0aW1lIjoiMjAyMC0wNC0xNiAxOToxNjowNiIsIm1lc3NhZ2UiOnsicmVxdWVzdCI6eyJ1cmwiOiJcL2pxbnNcL2xvYW5cL2FwaVwvcmVwYXkiLCJoZWFkZXIiOnsiY29udGVudC10eXBlIjoiYXBwbGljYXRpb25cL2pzb24iLCJjb250ZW50LWxlbmd0aCI6IjU3NSIsImNvbm5lY3Rpb24iOiJrZWVwLWFsaXZlIiwiYWNjZXB0IjoiKlwvKiIsImFjY2VwdC1lbmNvZGluZyI6Imd6aXAsIGRlZmxhdGUiLCJ1c2VyLWFnZW50IjoicHl0aG9uLXJlcXVlc3RzXC8yLjEzLjAiLCJob3N0IjoiZGV2LWdhdGV3YXktdWEtYXBpLnhpbnlvbmdmZWkuY24ifSwicGFyYW1zIjp7ImFwcF9pZCI6InhpbnlvbmdmZWkiLCJiaXpfZGF0YSI6IntcIm9yZGVyX25vXCI6XCIxOEg5Njk1Mkk2Qzk4MlVcIixcInJldHVybl91cmxcIjpcImh0dHA6XC9cLzE5Mi4xNjguMTAuMjA6MTgxMTlcL2xvYW5cL3JldHVyblwveGlueW9uZ2ZlaVwvcmVwYXlfcmV0dXJuXC8xOEg5Njk1Mkk2Qzk4MlVcIixcInBlcmlvZF9ub1wiOlwiYWxsXCJ9IiwidGltZXN0YW1wIjoxNTg3MDM1NzU1LCJzaWduIjoicTJHMzg3dENLTU5vOFpXcThscE1MdlE5V0lvV0NLUGlhcllGUUJHYmpnc0RjaXEwaUliZExrbURpcSs5d3pmQytkZVdsVU5QY21uXC9Gek9tRHJ4SVBSVUlIWjhHZ2NKa0tpdUwxa3c2M05EeU9VWmFybjNWcjZyNEFkcjBkcitnY2dPa1YxeXFCNXBoRTRpdGFHeXhOb1R6NGhscGVHQkptaEpRdnhTT1djZ1JiZW1TVkxEb0RVcm1PdTBrNGFtMTV3OTZzaUZaVzRvZ1RPbTE4MjFXXC9nYm9xTk5DenhvNU9VUkxFcGltRFV3YWdIS2RsdHRncE8wTG42b291XC9FV0Zmcnk1Y1NaMVhYNFRDM3dsWG5NdzhiTEt2XC85TktmV24ydVVCZEFrR0lDQ0wzRGhzbHNtY3MzNHZOZWZ0TjVhb1wvd3lldzFNeWxXM0tNNWtYM0NnZ2c9PSJ9fSwicmVzcG9uc2UiOiJbY29kZSAtMV1jVVJMIGVycm9yIDI4OiBPcGVyYXRpb24gdGltZWQgb3V0IGFmdGVyIDEwMDAxIG1pbGxpc2Vjb25kcyB3aXRoIDAgb3V0IG9mIC0xIGJ5dGVzIHJlY2VpdmVkIChzZWUgaHR0cHM6XC9cL2N1cmwuaGF4eC5zZVwvbGliY3VybFwvY1wvbGliY3VybC1lcnJvcnMuaHRtbCkgaW4gXC9kYXRhXC9jb2RlXC9yZWxlYXNlc1wveHlmLWFwaS1nYXRld2F5XC91YV9hcGlcL2hlbHBlclwvSHR0cENsaWVudC5waHA6MTYxIFN0YWNrIHRyYWNlOlxuIzAgXC9kYXRhXC9jb2RlXC9yZWxlYXNlc1wveHlmLWFwaS1nYXRld2F5XC91YV9hcGlcL2hlbHBlclwvSHR0cENsaWVudC5waHAoMTI2KTogdWFfYXBpXFxzZXJ2aWNlXFxnYXRld2F5c1xcQ3JlZGl0R2F0ZXdheS0+cmVxdWVzdCgncG9zdCcsICdodHRwOlwvXC9kZXYtY3JlZC4uLicsIEFycmF5KVxuIzEgXC9kYXRhXC9jb2RlXC9yZWxlYXNlc1wveHlmLWFwaS1nYXRld2F5XC91YV9hcGlcL3NlcnZpY2VcL2dhdGV3YXlzXC9DcmVkaXRHYXRld2F5LnBocCg3Myk6IHVhX2FwaVxcc2VydmljZVxcZ2F0ZXdheXNcXENyZWRpdEdhdGV3YXktPnBvc3RKc29uKCdodHRwOlwvXC9kZXYtY3JlZC4uLicsIEFycmF5LCBBcnJheSlcbiMyIFwvZGF0YVwvY29kZVwvcmVsZWFzZXNcL3h5Zi1hcGktZ2F0ZXdheVwvdWFfYXBpXC9tb2R1bGVzXC9qcW5zXC9jb250cm9sbGVyc1wvQWZ0ZXJDb250cm9sbGVyLnBocCg5MSk6IHVhX2FwaVxcc2VydmljZVxcZ2F0ZXdheXNcXENyZWRpdEdhdGV3YXktPmRvUmVxdWVzdChBcnJheSlcbiMzIFtpbnRlcm5hbCBmdW5jdGlvbl06IHVhX2FwaVxcbW9kdWxlc1xcanFuc1xcY29udHJvbGxlcnNcXEFmdGVyQ29udHJvbGxlci0+YWN0aW9uUmVwYXkoKVxuIzQgXC9kYXRhXC9jb2RlXC9yZWxlYXNlc1wveHlmLWFwaS1nYXRld2F5XC92ZW5kb3JcL3lpaXNvZnRcL3lpaTJcL2Jhc2VcL0lubGluZUFjdGlvbi5waHAoNTcpOiBjYWxsX3VzZXJfZnVuY19hcnJheShBcnJheSwgQXJyYXkpXG4jNSBcL2RhdGFcL2NvZGVcL3JlbGVhc2VzXC94eWYtYXBpLWdhdGV3YXlcL3ZlbmRvclwveWlpc29mdFwveWlpMlwvYmFzZVwvQ29udHJvbGxlci5waHAoMTU3KTogeWlpXFxiYXNlXFxJbmxpbmVBY3Rpb24tPnJ1bldpdGhQYXJhbXMoQXJyYXkpXG4jNiBcL2RhdGFcL2NvZGVcL3JlbGVhc2VzXC94eWYtYXBpLWdhdGV3YXlcL3VhX2FwaVwvY29udHJvbGxlcnNcL0Jhc2VDb250cm9sbGVyLnBocCg5MCk6IHlpaVxcYmFzZVxcQ29udHJvbGxlci0+cnVuQWN0aW9uKCdyZXBheScsIEFycmF5KVxuIzcgXC9kYXRhXC9jb2RlXC9yZWxlYXNlc1wveHlmLWFwaS1nYXRld2F5XC92ZW5kb3JcL3lpaXNvZnRcL3lpaTJcL2Jhc2VcL01vZHVsZS5waHAoNTI4KTogdWFfYXBpXFxjb250cm9sbGVyc1xcQmFzZUNvbnRyb2xsZXItPnJ1bkFjdGlvbigncmVwYXknLCBBcnJheSlcbiM4IFwvZGF0YVwvY29kZVwvcmVsZWFzZXNcL3h5Zi1hcGktZ2F0ZXdheVwvdmVuZG9yXC95aWlzb2Z0XC95aWkyXC93ZWJcL0FwcGxpY2F0aW9uLnBocCgxMDMpOiB5aWlcXGJhc2VcXE1vZHVsZS0+cnVuQWN0aW9uKCdqcW5zXC9hZnRlclwvcmVwYS4uLicsIEFycmF5KVxuIzkgXC9kYXRhXC9jb2RlXC9yZWxlYXNlc1wveHlmLWFwaS1nYXRld2F5XC92ZW5kb3JcL3lpaXNvZnRcL3lpaTJcL2Jhc2VcL0FwcGxpY2F0aW9uLnBocCgzODYpOiB5aWlcXHdlYlxcQXBwbGljYXRpb24tPmhhbmRsZVJlcXVlc3QoT2JqZWN0KHlpaVxcd2ViXFxSZXF1ZXN0KSlcbiMxMCBcL2RhdGFcL2NvZGVcL3JlbGVhc2VzXC94eWYtYXBpLWdhdGV3YXlcL3VhX2FwaVwvd2ViXC9pbmRleC5waHAoMTkpOiB5aWlcXGJhc2VcXEFwcGxpY2F0aW9uLT5ydW4oKVxuIzExIHttYWlufSJ9LCJpcCI6IjExNi4yNDcuMTA1LjE5NCIsImxldmVsIjoiaW5mbyIsImhvc3RfbmFtZSI6InBocC1kZXYtMSIsImNhdGVnb3J5IjoiYWNjZXNzIiwiZGVidWciOlsiaW4gXC9kYXRhXC9jb2RlXC9yZWxlYXNlc1wveHlmLWFwaS1nYXRld2F5XC9jb21tb25cL2xvZ2dpbmdcL0FjY2Vzc0xvZy5waHA6MjMiLCJpbiBcL2RhdGFcL2NvZGVcL3JlbGVhc2VzXC94eWYtYXBpLWdhdGV3YXlcL3VhX2FwaVwvY29udHJvbGxlcnNcL0Jhc2VDb250cm9sbGVyLnBocDo3MSIsImluIFwvZGF0YVwvY29kZVwvcmVsZWFzZXNcL3h5Zi1hcGktZ2F0ZXdheVwvdWFfYXBpXC9jb250cm9sbGVyc1wvQmFzZUNvbnRyb2xsZXIucGhwOjk0Il19Cg==</text>
+        <text encoding="base64">CiAgICAgICAgICBwb3J0czoKICAgICAgICAgIC0gOTUwMTo5NTAxCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -359,25 +361,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICRyZXNwb25zZTsK</text>
+        <text encoding="base64">ICAgIHBvcnRzOgogICAgICAtIDk1MDE6OTUwMQo=</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGllOwo=</text>
+        <text encoding="base64">eyJ0aW1lIjoiMjAyMC0wNC0xNiAxOToxNjowNiIsIm1lc3NhZ2UiOnsicmVxdWVzdCI6eyJ1cmwiOiJcL2pxbnNcL2xvYW5cL2FwaVwvcmVwYXkiLCJoZWFkZXIiOnsiY29udGVudC10eXBlIjoiYXBwbGljYXRpb25cL2pzb24iLCJjb250ZW50LWxlbmd0aCI6IjU3NSIsImNvbm5lY3Rpb24iOiJrZWVwLWFsaXZlIiwiYWNjZXB0IjoiKlwvKiIsImFjY2VwdC1lbmNvZGluZyI6Imd6aXAsIGRlZmxhdGUiLCJ1c2VyLWFnZW50IjoicHl0aG9uLXJlcXVlc3RzXC8yLjEzLjAiLCJob3N0IjoiZGV2LWdhdGV3YXktdWEtYXBpLnhpbnlvbmdmZWkuY24ifSwicGFyYW1zIjp7ImFwcF9pZCI6InhpbnlvbmdmZWkiLCJiaXpfZGF0YSI6IntcIm9yZGVyX25vXCI6XCIxOEg5Njk1Mkk2Qzk4MlVcIixcInJldHVybl91cmxcIjpcImh0dHA6XC9cLzE5Mi4xNjguMTAuMjA6MTgxMTlcL2xvYW5cL3JldHVyblwveGlueW9uZ2ZlaVwvcmVwYXlfcmV0dXJuXC8xOEg5Njk1Mkk2Qzk4MlVcIixcInBlcmlvZF9ub1wiOlwiYWxsXCJ9IiwidGltZXN0YW1wIjoxNTg3MDM1NzU1LCJzaWduIjoicTJHMzg3dENLTU5vOFpXcThscE1MdlE5V0lvV0NLUGlhcllGUUJHYmpnc0RjaXEwaUliZExrbURpcSs5d3pmQytkZVdsVU5QY21uXC9Gek9tRHJ4SVBSVUlIWjhHZ2NKa0tpdUwxa3c2M05EeU9VWmFybjNWcjZyNEFkcjBkcitnY2dPa1YxeXFCNXBoRTRpdGFHeXhOb1R6NGhscGVHQkptaEpRdnhTT1djZ1JiZW1TVkxEb0RVcm1PdTBrNGFtMTV3OTZzaUZaVzRvZ1RPbTE4MjFXXC9nYm9xTk5DenhvNU9VUkxFcGltRFV3YWdIS2RsdHRncE8wTG42b291XC9FV0Zmcnk1Y1NaMVhYNFRDM3dsWG5NdzhiTEt2XC85TktmV24ydVVCZEFrR0lDQ0wzRGhzbHNtY3MzNHZOZWZ0TjVhb1wvd3lldzFNeWxXM0tNNWtYM0NnZ2c9PSJ9fSwicmVzcG9uc2UiOiJbY29kZSAtMV1jVVJMIGVycm9yIDI4OiBPcGVyYXRpb24gdGltZWQgb3V0IGFmdGVyIDEwMDAxIG1pbGxpc2Vjb25kcyB3aXRoIDAgb3V0IG9mIC0xIGJ5dGVzIHJlY2VpdmVkIChzZWUgaHR0cHM6XC9cL2N1cmwuaGF4eC5zZVwvbGliY3VybFwvY1wvbGliY3VybC1lcnJvcnMuaHRtbCkgaW4gXC9kYXRhXC9jb2RlXC9yZWxlYXNlc1wveHlmLWFwaS1nYXRld2F5XC91YV9hcGlcL2hlbHBlclwvSHR0cENsaWVudC5waHA6MTYxIFN0YWNrIHRyYWNlOlxuIzAgXC9kYXRhXC9jb2RlXC9yZWxlYXNlc1wveHlmLWFwaS1nYXRld2F5XC91YV9hcGlcL2hlbHBlclwvSHR0cENsaWVudC5waHAoMTI2KTogdWFfYXBpXFxzZXJ2aWNlXFxnYXRld2F5c1xcQ3JlZGl0R2F0ZXdheS0+cmVxdWVzdCgncG9zdCcsICdodHRwOlwvXC9kZXYtY3JlZC4uLicsIEFycmF5KVxuIzEgXC9kYXRhXC9jb2RlXC9yZWxlYXNlc1wveHlmLWFwaS1nYXRld2F5XC91YV9hcGlcL3NlcnZpY2VcL2dhdGV3YXlzXC9DcmVkaXRHYXRld2F5LnBocCg3Myk6IHVhX2FwaVxcc2VydmljZVxcZ2F0ZXdheXNcXENyZWRpdEdhdGV3YXktPnBvc3RKc29uKCdodHRwOlwvXC9kZXYtY3JlZC4uLicsIEFycmF5LCBBcnJheSlcbiMyIFwvZGF0YVwvY29kZVwvcmVsZWFzZXNcL3h5Zi1hcGktZ2F0ZXdheVwvdWFfYXBpXC9tb2R1bGVzXC9qcW5zXC9jb250cm9sbGVyc1wvQWZ0ZXJDb250cm9sbGVyLnBocCg5MSk6IHVhX2FwaVxcc2VydmljZVxcZ2F0ZXdheXNcXENyZWRpdEdhdGV3YXktPmRvUmVxdWVzdChBcnJheSlcbiMzIFtpbnRlcm5hbCBmdW5jdGlvbl06IHVhX2FwaVxcbW9kdWxlc1xcanFuc1xcY29udHJvbGxlcnNcXEFmdGVyQ29udHJvbGxlci0+YWN0aW9uUmVwYXkoKVxuIzQgXC9kYXRhXC9jb2RlXC9yZWxlYXNlc1wveHlmLWFwaS1nYXRld2F5XC92ZW5kb3JcL3lpaXNvZnRcL3lpaTJcL2Jhc2VcL0lubGluZUFjdGlvbi5waHAoNTcpOiBjYWxsX3VzZXJfZnVuY19hcnJheShBcnJheSwgQXJyYXkpXG4jNSBcL2RhdGFcL2NvZGVcL3JlbGVhc2VzXC94eWYtYXBpLWdhdGV3YXlcL3ZlbmRvclwveWlpc29mdFwveWlpMlwvYmFzZVwvQ29udHJvbGxlci5waHAoMTU3KTogeWlpXFxiYXNlXFxJbmxpbmVBY3Rpb24tPnJ1bldpdGhQYXJhbXMoQXJyYXkpXG4jNiBcL2RhdGFcL2NvZGVcL3JlbGVhc2VzXC94eWYtYXBpLWdhdGV3YXlcL3VhX2FwaVwvY29udHJvbGxlcnNcL0Jhc2VDb250cm9sbGVyLnBocCg5MCk6IHlpaVxcYmFzZVxcQ29udHJvbGxlci0+cnVuQWN0aW9uKCdyZXBheScsIEFycmF5KVxuIzcgXC9kYXRhXC9jb2RlXC9yZWxlYXNlc1wveHlmLWFwaS1nYXRld2F5XC92ZW5kb3JcL3lpaXNvZnRcL3lpaTJcL2Jhc2VcL01vZHVsZS5waHAoNTI4KTogdWFfYXBpXFxjb250cm9sbGVyc1xcQmFzZUNvbnRyb2xsZXItPnJ1bkFjdGlvbigncmVwYXknLCBBcnJheSlcbiM4IFwvZGF0YVwvY29kZVwvcmVsZWFzZXNcL3h5Zi1hcGktZ2F0ZXdheVwvdmVuZG9yXC95aWlzb2Z0XC95aWkyXC93ZWJcL0FwcGxpY2F0aW9uLnBocCgxMDMpOiB5aWlcXGJhc2VcXE1vZHVsZS0+cnVuQWN0aW9uKCdqcW5zXC9hZnRlclwvcmVwYS4uLicsIEFycmF5KVxuIzkgXC9kYXRhXC9jb2RlXC9yZWxlYXNlc1wveHlmLWFwaS1nYXRld2F5XC92ZW5kb3JcL3lpaXNvZnRcL3lpaTJcL2Jhc2VcL0FwcGxpY2F0aW9uLnBocCgzODYpOiB5aWlcXHdlYlxcQXBwbGljYXRpb24tPmhhbmRsZVJlcXVlc3QoT2JqZWN0KHlpaVxcd2ViXFxSZXF1ZXN0KSlcbiMxMCBcL2RhdGFcL2NvZGVcL3JlbGVhc2VzXC94eWYtYXBpLWdhdGV3YXlcL3VhX2FwaVwvd2ViXC9pbmRleC5waHAoMTkpOiB5aWlcXGJhc2VcXEFwcGxpY2F0aW9uLT5ydW4oKVxuIzExIHttYWlufSJ9LCJpcCI6IjExNi4yNDcuMTA1LjE5NCIsImxldmVsIjoiaW5mbyIsImhvc3RfbmFtZSI6InBocC1kZXYtMSIsImNhdGVnb3J5IjoiYWNjZXNzIiwiZGVidWciOlsiaW4gXC9kYXRhXC9jb2RlXC9yZWxlYXNlc1wveHlmLWFwaS1nYXRld2F5XC9jb21tb25cL2xvZ2dpbmdcL0FjY2Vzc0xvZy5waHA6MjMiLCJpbiBcL2RhdGFcL2NvZGVcL3JlbGVhc2VzXC94eWYtYXBpLWdhdGV3YXlcL3VhX2FwaVwvY29udHJvbGxlcnNcL0Jhc2VDb250cm9sbGVyLnBocDo3MSIsImluIFwvZGF0YVwvY29kZVwvcmVsZWFzZXNcL3h5Zi1hcGktZ2F0ZXdheVwvdWFfYXBpXC9jb250cm9sbGVyc1wvQmFzZUNvbnRyb2xsZXIucGhwOjk0Il19Cg==</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoMik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICRyZXNwb25zZTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGllOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICRyZXNwb25zZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoMik7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -514,25 +516,25 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICRyZXNwb25zZTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEV4Y2VwdGlvbign6aqM562+5aSx6LSlJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action RecentFiles</text>
+        <text>action KJumpAction.Word0</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>all</last-search>
+      <last-search encoding="base64">XDxtY3J5cHRcPg==</last-search>
       <last-offset />
-      <last-pattern>all</last-pattern>
+      <last-pattern encoding="base64">XDxtY3J5cHRcPg==</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
