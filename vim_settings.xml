@@ -206,15 +206,14 @@
         <mark key="^" line="177" column="1569" />
         <mark key="." line="177" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/Docker/hyperf-skeleton/app/Annotation/Foo.php" timestamp="1587380465903">
-        <mark key="[" line="19" column="10" />
-        <mark key="]" line="19" column="40" />
-        <mark key="^" line="19" column="40" />
-        <mark key="." line="19" column="39" />
+      <file name="$USER_HOME$/Develop/Docker/hyperf-skeleton/app/Annotation/Foo.php" timestamp="1587381736358">
+        <mark key="[" line="18" column="37" />
+        <mark key="]" line="19" column="1" />
+        <mark key="^" line="19" column="1" />
+        <mark key="." line="19" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="40" filename="$USER_HOME$/Develop/Docker/loanmarket/common/unit/XyfWebClient.php" />
       <jump line="1495" column="34" filename="$USER_HOME$/Develop/Docker/loanmarket/common/service/Loanmarket.php" />
       <jump line="159" column="0" filename="$USER_HOME$/Develop/Docker/loanmarket/serviceapi/controllers/BaseController.php" />
       <jump line="45" column="12" filename="$USER_HOME$/Develop/Docker/loanmarket/serviceapi/controllers/BaseController.php" />
@@ -314,6 +313,7 @@
       <jump line="229" column="17" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/async/Notify.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/async/Notify.php" />
       <jump line="173" column="44" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/async/Notify.php" />
+      <jump line="20" column="0" filename="$USER_HOME$/Develop/Docker/hyperf-skeleton/app/Annotation/Foo.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -321,8 +321,8 @@
       <register name="a" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>extends AbstractAnnotation</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ewoKICAgIC8qKgogICAgICogQGluaGVyaXREb2MKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGNvbGxlY3RDbGFzcyhzdHJpbmcgJGNsYXNzTmFtZSk6IHZvaWQKICAgIHsKICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgY29sbGVjdENsYXNzKCkgbWV0aG9kLgogICAgfQoKICAgIC8qKgogICAgICogQGluaGVyaXREb2MKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGNvbGxlY3RNZXRob2Qoc3RyaW5nICRjbGFzc05hbWUsID9zdHJpbmcgJHRhcmdldCk6IHZvaWQKICAgIHsKICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgY29sbGVjdE1ldGhvZCgpIG1ldGhvZC4KICAgIH0KCiAgICAvKioKICAgICAqIEBpbmhlcml0RG9jCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBjb2xsZWN0UHJvcGVydHkoc3RyaW5nICRjbGFzc05hbWUsID9zdHJpbmcgJHRhcmdldCk6IHZvaWQKICAgIHsKICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgY29sbGVjdFByb3BlcnR5KCkgbWV0aG9kLgogICAgfQo=</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -337,7 +337,7 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>extends AbstractAnnotation</text>
+        <text>implements AnnotationInterface</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdWNjZXNzX3RpbWVcPg==</text>
@@ -346,7 +346,7 @@
         <text>$res['response']['status'] == 1</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJzEnOwo=</text>
+        <text encoding="base64">ewoKICAgIC8qKgogICAgICogQGluaGVyaXREb2MKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGNvbGxlY3RDbGFzcyhzdHJpbmcgJGNsYXNzTmFtZSk6IHZvaWQKICAgIHsKICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgY29sbGVjdENsYXNzKCkgbWV0aG9kLgogICAgfQoKICAgIC8qKgogICAgICogQGluaGVyaXREb2MKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGNvbGxlY3RNZXRob2Qoc3RyaW5nICRjbGFzc05hbWUsID9zdHJpbmcgJHRhcmdldCk6IHZvaWQKICAgIHsKICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgY29sbGVjdE1ldGhvZCgpIG1ldGhvZC4KICAgIH0KCiAgICAvKioKICAgICAqIEBpbmhlcml0RG9jCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBjb2xsZWN0UHJvcGVydHkoc3RyaW5nICRjbGFzc05hbWUsID9zdHJpbmcgJHRhcmdldCk6IHZvaWQKICAgIHsKICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgY29sbGVjdFByb3BlcnR5KCkgbWV0aG9kLgogICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -364,28 +364,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgcHJvY2VzcygpIG1ldGhvZC4K</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJzEnOwo=</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkY29kZU1hcCA9IFsKICAgICAgICAgICAgMCA9PiAwLC8vIOaIkOWKnwogICAgICAgICAgICAyID0+IDEsIC8vIOmcgOimgemHjeaWsOe7keWNoQogICAgICAgICAgICAxID0+IDIsIC8vIOmqjOivgeeggemUmeivrwogICAgICAgIF07Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgcHJvY2VzcygpIG1ldGhvZC4K</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkY29kZU1hcCA9IFsKICAgICAgICAgICAgMCA9PiAwLC8vIOaIkOWKnwogICAgICAgICAgICAyID0+IDEsIC8vIOmcgOimgemHjeaWsOe7keWNoQogICAgICAgICAgICAxID0+IDIsIC8vIOmqjOivgeeggemUmeivrwogICAgICAgIF07Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICR0aGlzLT5zdWNjZXNzKFsKICAgICAgICAgICAgICAgICdzdGF0dXMnID0+ICRjb2RlTWFwWyRyZXNbJ3Jlc3BvbnNlJ11bJ3N0YXR1cyddXSA/PyAxLAogICAgICAgICAgICBdKTsK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICR0aGlzLT5zdWNjZXNzKFsKICAgICAgICAgICAgICAgICdzdGF0dXMnID0+ICRjb2RlTWFwWyRyZXNbJ3Jlc3BvbnNlJ11bJ3N0YXR1cyddXSA/PyAxLAogICAgICAgICAgICBdKTsK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -519,10 +519,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobyAyO2RpZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJHIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWNobyAyO2RpZTsK</text>
       </register>
       <register name=":" type="4">
         <text>nohls</text>
@@ -537,7 +537,7 @@
       <last-replace>\\&quot;</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
