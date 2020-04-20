@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXREZWNyeXB0ZWREYXRhXD4=</entry>
         <entry encoding="base64">XDxjYW5fcmVwYXlfdGltZVw+</entry>
         <entry encoding="base64">XDxhbW91bnRcPg==</entry>
         <entry encoding="base64">XDx2ZXJzaW9uX2NvZGVcPg==</entry>
@@ -26,6 +25,7 @@
         <entry encoding="base64">XDxtb2JpbGVcPg==</entry>
         <entry>701</entry>
         <entry encoding="base64">XDxnZXRUb3RhbFV2XD4=</entry>
+        <entry encoding="base64">XDxub3RpZnlcPg==</entry>
         <entry encoding="base64">XDxzdWNjZXNzX3RpbWVcPg==</entry>
       </history-search>
       <history-cmd>
@@ -192,12 +192,12 @@
         <mark key="." line="98" column="43" />
         <mark key="^" line="104" column="39" />
       </file>
-      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/async/Notify.php" timestamp="1587380912099">
-        <mark key="'" line="173" column="44" />
-        <mark key="[" line="122" column="34" />
-        <mark key="]" line="122" column="83" />
-        <mark key="^" line="122" column="83" />
-        <mark key="." line="122" column="82" />
+      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/async/Notify.php" timestamp="1587383287438">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="174" column="39" />
+        <mark key="]" line="175" column="28" />
+        <mark key="^" line="175" column="28" />
+        <mark key="." line="175" column="27" />
       </file>
       <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/common/JqnsConvert.php" timestamp="1587364583228">
         <mark key="'" line="109" column="27" />
@@ -214,9 +214,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1495" column="34" filename="$USER_HOME$/Develop/Docker/loanmarket/common/service/Loanmarket.php" />
-      <jump line="159" column="0" filename="$USER_HOME$/Develop/Docker/loanmarket/serviceapi/controllers/BaseController.php" />
-      <jump line="45" column="12" filename="$USER_HOME$/Develop/Docker/loanmarket/serviceapi/controllers/BaseController.php" />
       <jump line="1497" column="28" filename="$USER_HOME$/Develop/Docker/loanmarket/common/service/Loanmarket.php" />
       <jump line="1520" column="31" filename="$USER_HOME$/Develop/Docker/loanmarket/common/service/Loanmarket.php" />
       <jump line="1549" column="31" filename="$USER_HOME$/Develop/Docker/loanmarket/common/service/Loanmarket.php" />
@@ -309,11 +306,14 @@
       <jump line="1107" column="4" filename="$USER_HOME$/Develop/Docker/loanmarket/common/service/Loanmarket.php" />
       <jump line="103" column="30" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/controllers/MiddleController.php" />
       <jump line="107" column="36" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/controllers/MiddleController.php" />
-      <jump line="210" column="25" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/async/Notify.php" />
-      <jump line="229" column="17" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/async/Notify.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/async/Notify.php" />
-      <jump line="173" column="44" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/async/Notify.php" />
       <jump line="20" column="0" filename="$USER_HOME$/Develop/Docker/hyperf-skeleton/app/Annotation/Foo.php" />
+      <jump line="179" column="32" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/async/Notify.php" />
+      <jump line="222" column="32" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/async/Notify.php" />
+      <jump line="210" column="20" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/async/Notify.php" />
+      <jump line="229" column="17" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/async/Notify.php" />
+      <jump line="157" column="12" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/async/Notify.php" />
+      <jump line="173" column="17" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/async/Notify.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/async/Notify.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -322,7 +322,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ewoKICAgIC8qKgogICAgICogQGluaGVyaXREb2MKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGNvbGxlY3RDbGFzcyhzdHJpbmcgJGNsYXNzTmFtZSk6IHZvaWQKICAgIHsKICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgY29sbGVjdENsYXNzKCkgbWV0aG9kLgogICAgfQoKICAgIC8qKgogICAgICogQGluaGVyaXREb2MKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGNvbGxlY3RNZXRob2Qoc3RyaW5nICRjbGFzc05hbWUsID9zdHJpbmcgJHRhcmdldCk6IHZvaWQKICAgIHsKICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgY29sbGVjdE1ldGhvZCgpIG1ldGhvZC4KICAgIH0KCiAgICAvKioKICAgICAqIEBpbmhlcml0RG9jCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBjb2xsZWN0UHJvcGVydHkoc3RyaW5nICRjbGFzc05hbWUsID9zdHJpbmcgJHRhcmdldCk6IHZvaWQKICAgIHsKICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgY29sbGVjdFByb3BlcnR5KCkgbWV0aG9kLgogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdzdWNjZXNzX3RpbWUnICAgPT4gJHZhbHVlWydzdWNjZXNzX3RpbWUnXSwK</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -346,7 +346,7 @@
         <text>$res['response']['status'] == 1</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ewoKICAgIC8qKgogICAgICogQGluaGVyaXREb2MKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGNvbGxlY3RDbGFzcyhzdHJpbmcgJGNsYXNzTmFtZSk6IHZvaWQKICAgIHsKICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgY29sbGVjdENsYXNzKCkgbWV0aG9kLgogICAgfQoKICAgIC8qKgogICAgICogQGluaGVyaXREb2MKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGNvbGxlY3RNZXRob2Qoc3RyaW5nICRjbGFzc05hbWUsID9zdHJpbmcgJHRhcmdldCk6IHZvaWQKICAgIHsKICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgY29sbGVjdE1ldGhvZCgpIG1ldGhvZC4KICAgIH0KCiAgICAvKioKICAgICAqIEBpbmhlcml0RG9jCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBjb2xsZWN0UHJvcGVydHkoc3RyaW5nICRjbGFzc05hbWUsID9zdHJpbmcgJHRhcmdldCk6IHZvaWQKICAgIHsKICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgY29sbGVjdFByb3BlcnR5KCkgbWV0aG9kLgogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdzdWNjZXNzX3RpbWUnICAgPT4gJHZhbHVlWydzdWNjZXNzX3RpbWUnXSwK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -364,28 +364,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJzEnOwo=</text>
+        <text encoding="base64">ewoKICAgIC8qKgogICAgICogQGluaGVyaXREb2MKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGNvbGxlY3RDbGFzcyhzdHJpbmcgJGNsYXNzTmFtZSk6IHZvaWQKICAgIHsKICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgY29sbGVjdENsYXNzKCkgbWV0aG9kLgogICAgfQoKICAgIC8qKgogICAgICogQGluaGVyaXREb2MKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGNvbGxlY3RNZXRob2Qoc3RyaW5nICRjbGFzc05hbWUsID9zdHJpbmcgJHRhcmdldCk6IHZvaWQKICAgIHsKICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgY29sbGVjdE1ldGhvZCgpIG1ldGhvZC4KICAgIH0KCiAgICAvKioKICAgICAqIEBpbmhlcml0RG9jCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBjb2xsZWN0UHJvcGVydHkoc3RyaW5nICRjbGFzc05hbWUsID9zdHJpbmcgJHRhcmdldCk6IHZvaWQKICAgIHsKICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgY29sbGVjdFByb3BlcnR5KCkgbWV0aG9kLgogICAgfQo=</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgcHJvY2VzcygpIG1ldGhvZC4K</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJzEnOwo=</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkY29kZU1hcCA9IFsKICAgICAgICAgICAgMCA9PiAwLC8vIOaIkOWKnwogICAgICAgICAgICAyID0+IDEsIC8vIOmcgOimgemHjeaWsOe7keWNoQogICAgICAgICAgICAxID0+IDIsIC8vIOmqjOivgeeggemUmeivrwogICAgICAgIF07Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgcHJvY2VzcygpIG1ldGhvZC4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkY29kZU1hcCA9IFsKICAgICAgICAgICAgMCA9PiAwLC8vIOaIkOWKnwogICAgICAgICAgICAyID0+IDEsIC8vIOmcgOimgemHjeaWsOe7keWNoQogICAgICAgICAgICAxID0+IDIsIC8vIOmqjOivgeeggemUmeivrwogICAgICAgIF07Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICR0aGlzLT5zdWNjZXNzKFsKICAgICAgICAgICAgICAgICdzdGF0dXMnID0+ICRjb2RlTWFwWyRyZXNbJ3Jlc3BvbnNlJ11bJ3N0YXR1cyddXSA/PyAxLAogICAgICAgICAgICBdKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICR0aGlzLT5zdWNjZXNzKFsKICAgICAgICAgICAgICAgICdzdGF0dXMnID0+ICRjb2RlTWFwWyRyZXNbJ3Jlc3BvbnNlJ11bJ3N0YXR1cyddXSA/PyAxLAogICAgICAgICAgICBdKTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -519,10 +519,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobyAyO2RpZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>nohls</text>
