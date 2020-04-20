@@ -112,12 +112,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/common/Jqns.php" timestamp="1587351962436">
-        <mark key="[" line="57" column="58" />
-        <mark key="]" line="57" column="61" />
-        <mark key="^" line="57" column="61" />
-        <mark key="." line="57" column="60" />
-      </file>
       <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/controllers/CommonController.php" timestamp="1587354198583">
         <mark key="'" line="18" column="0" />
       </file>
@@ -148,6 +142,13 @@
         <mark key="^" line="41" column="51" />
         <mark key="." line="41" column="50" />
       </file>
+      <file name="$USER_HOME$/Develop/Docker/hyperf-skeleton/app/Controller/IndexController.php" timestamp="1587379725988">
+        <mark key="'" line="27" column="30" />
+        <mark key="[" line="21" column="30" />
+        <mark key="]" line="22" column="9" />
+        <mark key="." line="22" column="8" />
+        <mark key="^" line="22" column="9" />
+      </file>
       <file name="$USER_HOME$/Develop/Docker/loanmarket/common/models/LoanmarketRedbagSendRecord.php" timestamp="1587362583576" />
       <file name="$USER_HOME$/Develop/Docker/loanmarket/common/service/unionlogin/UnionLoginAgent.php" timestamp="1587362805299">
         <mark key="'" line="27" column="30" />
@@ -161,7 +162,7 @@
       <file name="$USER_HOME$/Develop/Docker/loanmarket/common/unit/Redis.php" timestamp="1587368682956">
         <mark key="'" line="42" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1587377083503">
+      <file name="/Dummy.txt" timestamp="1587379966933">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Docker/loanmarket/serviceapi/controllers/LoanmarketController.php" timestamp="1587362692970">
@@ -178,11 +179,11 @@
         <mark key="." line="19" column="33" />
         <mark key="^" line="13" column="26" />
       </file>
-      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/api/controllers/AppController.php" timestamp="1587348063999">
-        <mark key="[" line="57" column="50" />
-        <mark key="]" line="57" column="51" />
-        <mark key="." line="57" column="50" />
-        <mark key="^" line="57" column="51" />
+      <file name="$USER_HOME$/Develop/Docker/hyperf-skeleton/app/Aspect/IndexAspect.php" timestamp="1587379170277">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="23" column="23" />
+        <mark key="^" line="23" column="23" />
+        <mark key="." line="23" column="22" />
       </file>
       <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/controllers/MiddleController.php" timestamp="1587373050201">
         <mark key="'" line="102" column="36" />
@@ -204,6 +205,12 @@
         <mark key="]" line="177" column="0" />
         <mark key="^" line="177" column="1569" />
         <mark key="." line="177" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/Docker/hyperf-skeleton/app/Annotation/Foo.php" timestamp="1587380465903">
+        <mark key="[" line="19" column="10" />
+        <mark key="]" line="19" column="40" />
+        <mark key="^" line="19" column="40" />
+        <mark key="." line="19" column="39" />
       </file>
     </filemarks>
     <jumps>
@@ -315,7 +322,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>需要重新输入验证码</text>
+        <text>extends AbstractAnnotation</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -330,7 +337,7 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>需要重新输入验证码</text>
+        <text>extends AbstractAnnotation</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRUb3RhbFV2XD4=</text>
@@ -339,7 +346,7 @@
         <text>$res['response']['status'] == 1</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkY29kZU1hcCA9IFsKICAgICAgICAgICAgMCA9PiAwLC8vIOaIkOWKnwogICAgICAgICAgICAyID0+IDEsIC8vIOmcgOimgemHjeaWsOe7keWNoQogICAgICAgICAgICAxID0+IDIsIC8vIOmqjOivgeeggemUmeivrwogICAgICAgIF07Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJzEnOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -357,13 +364,13 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgcHJvY2VzcygpIG1ldGhvZC4K</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICR0aGlzLT5zdWNjZXNzKFsKICAgICAgICAgICAgICAgICdzdGF0dXMnID0+ICRjb2RlTWFwWyRyZXNbJ3Jlc3BvbnNlJ11bJ3N0YXR1cyddXSA/PyAxLAogICAgICAgICAgICBdKTsK</text>
+        <text encoding="base64">ICAgICAgICAkY29kZU1hcCA9IFsKICAgICAgICAgICAgMCA9PiAwLC8vIOaIkOWKnwogICAgICAgICAgICAyID0+IDEsIC8vIOmcgOimgemHjeaWsOe7keWNoQogICAgICAgICAgICAxID0+IDIsIC8vIOmqjOivgeeggemUmeivrwogICAgICAgIF07Cg==</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
@@ -372,13 +379,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICR0aGlzLT5zdWNjZXNzKFsKICAgICAgICAgICAgICAgICdzdGF0dXMnID0+ICRjb2RlTWFwWyRyZXNbJ3Jlc3BvbnNlJ11bJ3N0YXR1cyddXSA/PyAxLAogICAgICAgICAgICBdKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobyAyO2RpZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJHIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -512,10 +519,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobyAzO2RpZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWNobyAyO2RpZTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJHIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>nohls</text>
