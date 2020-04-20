@@ -31,10 +31,8 @@
       <history-cmd>
         <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>action RenameElement</entry>
-        <entry>.nohls</entry>
         <entry>action GotoFile</entry>
         <entry>action KJumpAction</entry>
-        <entry>action KJumpAction.Word0</entry>
         <entry>action RecentFiles</entry>
         <entry encoding="base64">JzwsJz5zLyIvXFwiL2c=</entry>
         <entry>action Annotate</entry>
@@ -47,7 +45,9 @@
         <entry>action NextSplitter</entry>
         <entry>wq</entry>
         <entry>action Forward</entry>
+        <entry>.nohls</entry>
         <entry>action Back</entry>
+        <entry>action KJumpAction.Word0</entry>
         <entry>nohls</entry>
       </history-cmd>
       <history-expr />
@@ -173,7 +173,6 @@
         <mark key="^" line="80" column="93" />
         <mark key="." line="80" column="92" />
       </file>
-      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/api/config/test/main.php" timestamp="1587347994125" />
       <file name="$USER_HOME$/Develop/Docker/loanmarket/common/models/LoanmarketVisibility.php" timestamp="1587363526723">
         <mark key="'" line="22" column="6" />
         <mark key="[" line="19" column="33" />
@@ -181,17 +180,18 @@
         <mark key="." line="19" column="33" />
         <mark key="^" line="13" column="26" />
       </file>
-      <file name="$USER_HOME$/Develop/Docker/loanmarket/common/service/ClientAccount.php" timestamp="1587118918614">
-        <mark key="[" line="30" column="57" />
-        <mark key="]" line="30" column="61" />
-        <mark key="." line="30" column="60" />
-        <mark key="^" line="30" column="61" />
-      </file>
       <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/api/controllers/AppController.php" timestamp="1587348063999">
         <mark key="[" line="57" column="50" />
         <mark key="]" line="57" column="51" />
         <mark key="." line="57" column="50" />
         <mark key="^" line="57" column="51" />
+      </file>
+      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/controllers/MiddleController.php" timestamp="1587373050201">
+        <mark key="'" line="102" column="36" />
+        <mark key="[" line="98" column="43" />
+        <mark key="]" line="98" column="43" />
+        <mark key="." line="98" column="43" />
+        <mark key="^" line="104" column="39" />
       </file>
       <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/async/Notify.php" timestamp="1587355704827">
         <mark key="'" line="122" column="57" />
@@ -209,8 +209,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="248" column="27" filename="$USER_HOME$/Develop/Docker/loanmarket/common/unit/XyfWebClient.php" />
-      <jump line="94" column="45" filename="$USER_HOME$/Develop/Docker/loanmarket/serviceapi/controllers/AppController.php" />
       <jump line="59" column="0" filename="$USER_HOME$/Develop/Docker/loanmarket/serviceapi/controllers/BaseController.php" />
       <jump line="162" column="2376" filename="$USER_HOME$/Develop/Docker/loanmarket/serviceapi/controllers/BaseController.php" />
       <jump line="160" column="0" filename="$USER_HOME$/Develop/Docker/loanmarket/serviceapi/controllers/BaseController.php" />
@@ -309,6 +307,8 @@
       <jump line="1113" column="15" filename="$USER_HOME$/Develop/Docker/loanmarket/common/service/Loanmarket.php" />
       <jump line="1130" column="4" filename="$USER_HOME$/Develop/Docker/loanmarket/common/service/Loanmarket.php" />
       <jump line="1107" column="4" filename="$USER_HOME$/Develop/Docker/loanmarket/common/service/Loanmarket.php" />
+      <jump line="103" column="30" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/controllers/MiddleController.php" />
+      <jump line="107" column="36" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/controllers/MiddleController.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -317,7 +317,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>需要重新输入验证码</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -332,16 +332,16 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>需要重新输入验证码</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRUb3RhbFV2XD4=</text>
       </register>
       <register name="0" type="4">
-        <text>date('H:i', strtotime($start))</text>
+        <text>$res['response']['status'] == 1</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobyAyO2RpZTsK</text>
+        <text encoding="base64">ICAgICAgICAkY29kZU1hcCA9IFsKICAgICAgICAgICAgMCA9PiAwLC8vIOaIkOWKnwogICAgICAgICAgICAyID0+IDEsIC8vIOmcgOimgemHjeaWsOe7keWNoQogICAgICAgICAgICAxID0+IDIsIC8vIOmqjOivgeeggemUmeivrwogICAgICAgIF07Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -359,13 +359,13 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJHIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobyAzO2RpZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICR0aGlzLT5zdWNjZXNzKFsKICAgICAgICAgICAgICAgICdzdGF0dXMnID0+ICRjb2RlTWFwWyRyZXNbJ3Jlc3BvbnNlJ11bJ3N0YXR1cyddXSA/PyAxLAogICAgICAgICAgICBdKTsK</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
@@ -374,13 +374,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICRyWyd0b3RhbF91diddOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWNobyAyO2RpZTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAkclsndG90YWxfdXYnXTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJHIpOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -514,10 +514,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHJlZGlzLT5zZXRleCgkdXZLZXksIDEwLCAkKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWNobyAzO2RpZTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIDA7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>nohls</text>
