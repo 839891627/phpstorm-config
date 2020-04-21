@@ -46,9 +46,9 @@
         <entry>action Forward</entry>
         <entry>.nohls</entry>
         <entry>action KJumpAction.Word0</entry>
-        <entry>action SelectInProjectView</entry>
         <entry>action Back</entry>
         <entry>nohls</entry>
+        <entry>action SelectInProjectView</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -112,6 +112,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/api/controllers/UserController.php" timestamp="1587435007354">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/Docker/loanmarket/common/service/Loanmarket.php" timestamp="1587370797547">
         <mark key="'" line="1107" column="4" />
         <mark key="[" line="1126" column="74" />
@@ -125,6 +130,11 @@
         <mark key="]" line="73" column="40" />
         <mark key="^" line="73" column="40" />
         <mark key="." line="73" column="39" />
+      </file>
+      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/config/test/jqns.php" timestamp="1587434806651">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Docker/loanmarket/backend/controllers/LoanmarketMCController.php" timestamp="1587364374067">
         <mark key="'" line="143" column="28" />
@@ -146,15 +156,11 @@
         <mark key="." line="22" column="8" />
         <mark key="^" line="22" column="9" />
       </file>
-      <file name="$USER_HOME$/Develop/Docker/loanmarket/common/models/LoanmarketRedbagSendRecord.php" timestamp="1587362583576" />
       <file name="$USER_HOME$/Develop/Docker/loanmarket/common/service/unionlogin/UnionLoginAgent.php" timestamp="1587362805299">
         <mark key="'" line="27" column="30" />
       </file>
       <file name="$USER_HOME$/Develop/Docker/loanmarket/serviceapi/controllers/BaseController.php" timestamp="1587363278822">
         <mark key="'" line="24" column="12" />
-      </file>
-      <file name="$USER_HOME$/Develop/Docker/loanmarket/common/service/Redbag.php" timestamp="1587362527602">
-        <mark key="'" line="39" column="62" />
       </file>
       <file name="$USER_HOME$/Develop/Docker/loanmarket/common/unit/Redis.php" timestamp="1587368682956">
         <mark key="'" line="42" column="27" />
@@ -162,12 +168,10 @@
       <file name="/Dummy.txt" timestamp="1587379966933">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/Docker/loanmarket/serviceapi/controllers/LoanmarketController.php" timestamp="1587362692970">
-        <mark key="'" line="81" column="20" />
-        <mark key="[" line="80" column="71" />
-        <mark key="]" line="80" column="93" />
-        <mark key="^" line="80" column="93" />
-        <mark key="." line="80" column="92" />
+      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/api/config/dev/params.php" timestamp="1587435033596">
+        <mark key="[" line="6" column="39" />
+        <mark key="]" line="6" column="39" />
+        <mark key="." line="6" column="39" />
       </file>
       <file name="$USER_HOME$/Develop/Docker/loanmarket/common/models/LoanmarketVisibility.php" timestamp="1587363526723">
         <mark key="'" line="22" column="6" />
@@ -182,6 +186,7 @@
         <mark key="^" line="23" column="23" />
         <mark key="." line="23" column="22" />
       </file>
+      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/config/local/jqns.php" timestamp="1587434713707" />
       <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/controllers/MiddleController.php" timestamp="1587373050201">
         <mark key="'" line="102" column="36" />
         <mark key="[" line="98" column="43" />
@@ -211,7 +216,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1497" column="28" filename="$USER_HOME$/Develop/Docker/loanmarket/common/service/Loanmarket.php" />
       <jump line="1520" column="31" filename="$USER_HOME$/Develop/Docker/loanmarket/common/service/Loanmarket.php" />
       <jump line="1549" column="31" filename="$USER_HOME$/Develop/Docker/loanmarket/common/service/Loanmarket.php" />
       <jump line="1198" column="21" filename="$USER_HOME$/Develop/Docker/loanmarket/common/service/Loanmarket.php" />
@@ -311,6 +315,7 @@
       <jump line="157" column="12" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/async/Notify.php" />
       <jump line="173" column="17" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/async/Notify.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/async/Notify.php" />
+      <jump line="46" column="0" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/api/controllers/UserController.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -319,7 +324,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">J3N1Y2Nlc3NfdGltZScgPT4=</text>
+        <text>ev</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -334,7 +339,7 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">J3N1Y2Nlc3NfdGltZScgPT4=</text>
+        <text>ev</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdWNjZXNzX3RpbWVcPg==</text>
@@ -343,7 +348,7 @@
         <text>success_time</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">CiAgICAvKioKICAgICAqIOWPkemAgeivremfs+efreS/oemqjOivgeeggQogICAgICogQHJldHVybiBceWlpXGNvbnNvbGVcUmVzcG9uc2V8UmVzcG9uc2UKICAgICAqIEB0aHJvd3MgRXhjZXB0aW9uCiAgICAgKiBAdGhyb3dzIFJlcXVlc3RFeGNlcHRpb24KICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGFjdGlvblNlbmRWb2ljZSgpCiAgICB7CiAgICAgICAgJHRoaXMtPnZhbGlkYXRlKFsKICAgICAgICAgICAgJ21vYmlsZScgPT4gWyd0eXBlJyA9PiAnc3RyaW5nJ10sCiAgICAgICAgXSk7CgogICAgICAgICRyZXQgPSAobmV3IE1pZGRsZWdyb3VuZEdhdGV3YXkoKSktPnNlbmRWb2ljZSgkdGhpcy0+cmVxdWVzdC0+cG9zdCgnbW9iaWxlJykpOwogICAgICAgIHJldHVybiAkdGhpcy0+c3VjY2VzcygkcmV0KTsKICAgIH0KCiAgICAvKioKICAgICAqIOmqjOivgeivremfs+efreS/oemqjOivgeeggQogICAgICogQHJldHVybiBceWlpXGNvbnNvbGVcUmVzcG9uc2V8UmVzcG9uc2UKICAgICAqIEB0aHJvd3MgRXhjZXB0aW9uCiAgICAgKiBAdGhyb3dzIFJlcXVlc3RFeGNlcHRpb24KICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGFjdGlvblZhbGlkYXRlVm9pY2UoKQogICAgewogICAgICAgICR0aGlzLT52YWxpZGF0ZShbCiAgICAgICAgICAgICdtb2JpbGUnID0+IFsndHlwZScgPT4gJ3N0cmluZyddLAogICAgICAgICAgICAnY2FwdGNoYScgPT4gWyd0eXBlJyA9PiAnc3RyaW5nJ10KICAgICAgICBdKTsKCiAgICAgICAgJHJldCA9IChuZXcgTWlkZGxlZ3JvdW5kR2F0ZXdheSgpKS0+dmFsaWRhdGVWb2ljZSgkdGhpcy0+cmVxdWVzdC0+cG9zdCgnbW9iaWxlJyksICR0aGlzLT5yZXF1ZXN0LT5wb3N0KCdjYXB0Y2hhJykpOwogICAgICAgIHJldHVybiAkdGhpcy0+c3VjY2VzcygkcmV0KTsKICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -361,28 +366,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAnc3VjY2Vzc190aW1lJyA9PiAkYml6RGF0YVsnc3VjY2Vzc190aW1lJ10sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdzdWNjZXNzX3RpbWUnID0+ICRiaXpEYXRhWydzdWNjZXNzX3RpbWUnXSwK</text>
+        <text encoding="base64">TUlJQklqQU5CZ2txaGtpRzl3MEJBUUVGQUFPQ0FROEFNSUlCQ2dLQ0FRRUFyNHVOV3NmVnI3WE4ycUV4U2lKRgp4VStIZ1dyT0UxQVgvOWZTL1hOUEFYUDllTFkzNS9pLzF6bFBNNkp4VG5qM0c2TGdQa0NNQitHMDQwWlZRcDdkCnYrWWRJOUk4b2c5Y3YwYXZlQUNDNk52cmRDUDBTdmNEay85WnlMc3lGUlJVSys4MEJQZUJuNEhDaVdsb1JiengKaldYMCtRY3lpZENqc1hkSDY2TGtVWGZGK2FNUmNrbjUycm1yeWRjWmgwaXZDMFc4TU9LM2lCVnBERWpxaHV4ZgpsdzJvVWhOK1RJSC80VEJUWkxKRGNtbTJrdDl1ZUdWYmlFeC9FMXN0bkVRaVZlTjQreERzYVEvWHRtZXIyNWlZCnYwYlRwM2VveXVBU0hPc3BtK2taMCtLcGM4aVFjcFA2MEo4TjhPa0dDZEljb2s2SWVsQjNxaENJWWM1dW93TlUKc3dJREFRQUIK</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">WwogICAgICAgICAgICAncGF0aCcgICAgID0+ICdyZXBheV9yZXN1bHQnLAogICAgICAgICAgICAnYml6X2RhdGEnID0+IFsKICAgICAgICAgICAgICAgICdvcmRlcl9ubycgICAgID0+ICRiaXpEYXRhWydvcmRlcl9ubyddLAogICAgICAgICAgICAgICAgJ3N0YXR1cycgICAgICAgPT4gJHJlcGF5U3RhdHVzTWFwWyRiaXpEYXRhWydyZXBheV9zdGF0dXMnXV0sCiAgICAgICAgICAgICAgICAncGVyaW9kX25vJyAgICA9PiAoc3RyaW5nKSRiaXpEYXRhWydwZXJpb2Rfbm9zJ10sCiAgICAgICAgICAgICAgICAncGFpZF9hbW91bnQnICA9PiAkYml6RGF0YVsnYW1vdW50J10sCiAgICAgICAgICAgICAgICAnc3VjY2Vzc190aW1lJyA9PiAkYml6RGF0YVsnc3VjY2Vzc190aW1lJ10sCiAgICAgICAgICAgICAgICAncmVtYXJrJyAgICAgICA9PiAkYml6RGF0YVsncmVtYXJrJ10sCiAgICAgICAgICAgIF0sCiAgICAgICAgXQ==</text>
+      <register name="4" type="2">
+        <text encoding="base64">TUlJQklqQU5CZ2txaGtpRzl3MEJBUUVGQUFPQ0FROEFNSUlCQ2dLQ0FRRUF0amVab2RMcHN2QTRqMlJCZjlCawo0WkZ1K0lEM0F3QklqQ1FlVkVtNVMrcmJKSVJGQWNSYkwxU21XSFJmYlZRYXBUNW9FYk43T0hEVGYyc2lVNEtzCjVGMlRpTkYrY0xmbHRrVllhSWJBVnFYVy9UTis4b1YvbXVRZGpsRVhObThIdGR4ckZxUmJSWmtZOXhwa2ZvTWIKYUxJSDRpY082a0VhTDFVbytkTW1NVi93MUZ3YnpkVHZ0SldrT0k1bGc1NFdwTnRZZ2RmSHV2UldvOEphb1dMOQp0ZVROZjZldU9aYi9TalYyOWMzUUd5dnVGZkIzdExvdUQvSVUwVjlnRDhuUURkaG1TdlpiK3lUZ2t2Z2NoRXI4CjN6Q0toaU1nUHhUWW5LZHJvY3FObnNQQUFVWUdMZWdxQjVxTzMwVkVCRlhyNnFQTjNBQXduYmhjanBsWEgydG0KQlFJREFRQUIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdzdWNjZXNzX3RpbWUnICAgPT4gJHZhbHVlWydzdWNjZXNzX3RpbWUnXSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ewoKICAgIC8qKgogICAgICogQGluaGVyaXREb2MKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGNvbGxlY3RDbGFzcyhzdHJpbmcgJGNsYXNzTmFtZSk6IHZvaWQKICAgIHsKICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgY29sbGVjdENsYXNzKCkgbWV0aG9kLgogICAgfQoKICAgIC8qKgogICAgICogQGluaGVyaXREb2MKICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGNvbGxlY3RNZXRob2Qoc3RyaW5nICRjbGFzc05hbWUsID9zdHJpbmcgJHRhcmdldCk6IHZvaWQKICAgIHsKICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgY29sbGVjdE1ldGhvZCgpIG1ldGhvZC4KICAgIH0KCiAgICAvKioKICAgICAqIEBpbmhlcml0RG9jCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBjb2xsZWN0UHJvcGVydHkoc3RyaW5nICRjbGFzc05hbWUsID9zdHJpbmcgJHRhcmdldCk6IHZvaWQKICAgIHsKICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgY29sbGVjdFByb3BlcnR5KCkgbWV0aG9kLgogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAnc3VjY2Vzc190aW1lJyA9PiAkYml6RGF0YVsnc3VjY2Vzc190aW1lJ10sCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJzEnOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdzdWNjZXNzX3RpbWUnID0+ICRiaXpEYXRhWydzdWNjZXNzX3RpbWUnXSwK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -515,14 +520,14 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgcHJvY2VzcygpIG1ldGhvZC4K</text>
+      <register name="8" type="4">
+        <text encoding="base64">WwogICAgICAgICAgICAncGF0aCcgICAgID0+ICdyZXBheV9yZXN1bHQnLAogICAgICAgICAgICAnYml6X2RhdGEnID0+IFsKICAgICAgICAgICAgICAgICdvcmRlcl9ubycgICAgID0+ICRiaXpEYXRhWydvcmRlcl9ubyddLAogICAgICAgICAgICAgICAgJ3N0YXR1cycgICAgICAgPT4gJHJlcGF5U3RhdHVzTWFwWyRiaXpEYXRhWydyZXBheV9zdGF0dXMnXV0sCiAgICAgICAgICAgICAgICAncGVyaW9kX25vJyAgICA9PiAoc3RyaW5nKSRiaXpEYXRhWydwZXJpb2Rfbm9zJ10sCiAgICAgICAgICAgICAgICAncGFpZF9hbW91bnQnICA9PiAkYml6RGF0YVsnYW1vdW50J10sCiAgICAgICAgICAgICAgICAnc3VjY2Vzc190aW1lJyA9PiAkYml6RGF0YVsnc3VjY2Vzc190aW1lJ10sCiAgICAgICAgICAgICAgICAncmVtYXJrJyAgICAgICA9PiAkYml6RGF0YVsncmVtYXJrJ10sCiAgICAgICAgICAgIF0sCiAgICAgICAgXQ==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkY29kZU1hcCA9IFsKICAgICAgICAgICAgMCA9PiAwLC8vIOaIkOWKnwogICAgICAgICAgICAyID0+IDEsIC8vIOmcgOimgemHjeaWsOe7keWNoQogICAgICAgICAgICAxID0+IDIsIC8vIOmqjOivgeeggemUmeivrwogICAgICAgIF07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdzdWNjZXNzX3RpbWUnICAgPT4gJHZhbHVlWydzdWNjZXNzX3RpbWUnXSwK</text>
       </register>
       <register name=":" type="4">
-        <text>nohls</text>
+        <text>action SelectInProjectView</text>
       </register>
     </registers>
   </component>
