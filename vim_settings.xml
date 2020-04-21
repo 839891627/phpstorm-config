@@ -42,13 +42,13 @@
         <entry>action Forward</entry>
         <entry>.nohls</entry>
         <entry>vs</entry>
-        <entry>action Back</entry>
         <entry>action PreviousTab</entry>
         <entry>action KJumpAction.Word0</entry>
-        <entry>wq</entry>
-        <entry>action SelectInProjectView</entry>
-        <entry>nohls</entry>
         <entry>action CloseAllEditors</entry>
+        <entry>action Back</entry>
+        <entry>action SelectInProjectView</entry>
+        <entry>wq</entry>
+        <entry>nohls</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -112,17 +112,45 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/common/Jqns.php" timestamp="1587451740507">
+        <mark key="[" line="143" column="51" />
+        <mark key="]" line="143" column="59" />
+        <mark key="." line="143" column="58" />
+        <mark key="^" line="143" column="59" />
+      </file>
       <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/api/controllers/UserController.php" timestamp="1587435007354">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/Docker/loanmarket/common/service/Loanmarket.php" timestamp="1587370797547">
-        <mark key="'" line="1107" column="4" />
-        <mark key="[" line="1126" column="74" />
-        <mark key="]" line="1126" column="90" />
-        <mark key="." line="1126" column="89" />
-        <mark key="^" line="1126" column="90" />
+      <file name="$USER_HOME$/Develop/Docker/hyperf/src/http-server/src/Request.php" timestamp="1587448024458" />
+      <file name="$USER_HOME$/Develop/Docker/hyperf-skeleton/app/Controller/CoController.php" timestamp="1587451068977">
+        <mark key="[" line="22" column="8" />
+        <mark key="]" line="22" column="10" />
+        <mark key="^" line="22" column="10" />
+        <mark key="." line="22" column="9" />
+      </file>
+      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/api/config/dev/params.php" timestamp="1587435033596">
+        <mark key="[" line="6" column="39" />
+        <mark key="]" line="6" column="39" />
+        <mark key="." line="6" column="39" />
+      </file>
+      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/helper/RequestEnv.php" timestamp="1587451579044">
+        <mark key="'" line="54" column="30" />
+      </file>
+      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/async/Notify.php" timestamp="1587385259538">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="121" column="79" />
+        <mark key="]" line="121" column="83" />
+        <mark key="^" line="121" column="83" />
+        <mark key="." line="121" column="82" />
+      </file>
+      <file name="$USER_HOME$/Develop/Docker/hyperf-skeleton/app/Annotation/Foo.php" timestamp="1587440908051">
+        <mark key="'" line="16" column="10" />
+        <mark key="[" line="25" column="4" />
+        <mark key="]" line="27" column="18" />
+        <mark key="^" line="27" column="18" />
+        <mark key="." line="27" column="17" />
       </file>
       <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/README.md" timestamp="1587437203245">
         <mark key="[" line="11" column="0" />
@@ -134,13 +162,12 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/Docker/hyperf/src/http-server/src/Request.php" timestamp="1587448024458" />
-      <file name="$USER_HOME$/Develop/Docker/loanmarket/backend/controllers/LoanmarketMCController.php" timestamp="1587364374067">
-        <mark key="'" line="143" column="28" />
-        <mark key="[" line="139" column="57" />
-        <mark key="]" line="139" column="66" />
-        <mark key="." line="139" column="65" />
-        <mark key="^" line="139" column="66" />
+      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/common/logging/FileTarget.php" timestamp="1587451533381">
+        <mark key="'" line="72" column="46" />
+        <mark key="[" line="72" column="53" />
+        <mark key="]" line="72" column="62" />
+        <mark key="." line="72" column="61" />
+        <mark key="^" line="72" column="62" />
       </file>
       <file name="/PHP Console" timestamp="1587437295383">
         <mark key="[" line="0" column="0" />
@@ -152,23 +179,8 @@
         <mark key="." line="32" column="0" />
         <mark key="^" line="29" column="33" />
       </file>
-      <file name="$USER_HOME$/Develop/Docker/loanmarket/common/unit/Redis.php" timestamp="1587368682956">
-        <mark key="'" line="42" column="27" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1587379966933">
+      <file name="/Dummy.txt" timestamp="1587450992275">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/api/config/dev/params.php" timestamp="1587435033596">
-        <mark key="[" line="6" column="39" />
-        <mark key="]" line="6" column="39" />
-        <mark key="." line="6" column="39" />
-      </file>
-      <file name="$USER_HOME$/Develop/Docker/loanmarket/common/models/LoanmarketVisibility.php" timestamp="1587363526723">
-        <mark key="'" line="22" column="6" />
-        <mark key="[" line="19" column="33" />
-        <mark key="]" line="19" column="33" />
-        <mark key="." line="19" column="33" />
-        <mark key="^" line="13" column="26" />
       </file>
       <file name="$USER_HOME$/Develop/Docker/hyperf-skeleton/app/Controller/AbstractController.php" timestamp="1587448535401">
         <mark key="[" line="15" column="0" />
@@ -187,31 +199,12 @@
         <mark key="." line="98" column="43" />
         <mark key="^" line="104" column="39" />
       </file>
-      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/async/Notify.php" timestamp="1587385259538">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="121" column="79" />
-        <mark key="]" line="121" column="83" />
-        <mark key="^" line="121" column="83" />
-        <mark key="." line="121" column="82" />
-      </file>
-      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/common/JqnsConvert.php" timestamp="1587364583228">
-        <mark key="'" line="109" column="27" />
-        <mark key="[" line="177" column="0" />
-        <mark key="]" line="177" column="0" />
-        <mark key="^" line="177" column="1569" />
-        <mark key="." line="177" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/Docker/hyperf-skeleton/app/Annotation/Foo.php" timestamp="1587440908051">
-        <mark key="'" line="16" column="10" />
-        <mark key="[" line="25" column="4" />
-        <mark key="]" line="27" column="18" />
-        <mark key="^" line="27" column="18" />
-        <mark key="." line="27" column="17" />
+      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/controllers/BaseController.php" timestamp="1587451509809">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="44" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="147" column="47" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/controllers/MiddleController.php" />
-      <jump line="24" column="13" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/controllers/AfterController.php" />
       <jump line="408" column="44" filename="$USER_HOME$/Develop/Docker/shoufuyou-console/lib/Router.php" />
       <jump line="465" column="20" filename="$USER_HOME$/Develop/Docker/shoufuyou-console/lib/Router.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/Docker/shoufuyou-console/lib/Router.php" />
@@ -310,6 +303,8 @@
       <jump line="23" column="30" filename="$USER_HOME$/Develop/Docker/hyperf-skeleton/app/Controller/IndexController.php" />
       <jump line="34" column="0" filename="$USER_HOME$/Develop/Docker/hyperf-skeleton/app/Controller/IndexController.php" />
       <jump line="21" column="0" filename="$USER_HOME$/Develop/Docker/hyperf-skeleton/app/Controller/IndexController.php" />
+      <jump line="72" column="46" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/common/logging/FileTarget.php" />
+      <jump line="54" column="30" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/helper/RequestEnv.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -317,8 +312,8 @@
       <register name="a" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2EnID0+ICRhCg==</text>
+      <register name="&quot;" type="4">
+        <text>$bizData['order_no'] ?? ''</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -333,16 +328,16 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>get</text>
+        <text>$bizData['order_no'] ?? ''</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdWNjZXNzX3RpbWVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBDb250ZXh0OjpzZXQoJ2ZvbycsICR1c2VyKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgUmVxdWVzdEVudjo6c2V0RW52KCRrZXksICR2YWx1ZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2EnID0+ICRhCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -360,7 +355,7 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBDb250ZXh0OjpzZXQoJ2ZvbycsICR1c2VyKTsKICAgICAgICAkYSA9IENvbnRleHQ6OmdldCgnZm9vJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
@@ -372,16 +367,16 @@
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAkcHJlZml4ID0gIFsKICAgICAgICAgICAgJ2lwJyA9PiAkaXAsCiAgICAgICAgXTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgJGZvbyA9IDE7CgogICAgcHVibGljIGZ1bmN0aW9uIHRlc3QoUmVxdWVzdEludGVyZmFjZSAkcmVxdWVzdCkKICAgIHsKICAgICAgICAkZm9vID0gJHJlcXVlc3QtPmlucHV0KCdmb28nKTsKICAgICAgICAkdGhpcy0+Zm9vID0gJGZvbzsKCiAgICAgICAgcmV0dXJuICR0aGlzLT5mb287Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ29yZGVyX25vJyA9PiAK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -515,13 +510,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICogQHBhY2thZ2UgQXBwXENvbnRyb2xsZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2EnID0+ICRhCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBpbmRleCgpCiAgICB7CiAgICAgICAgJHVzZXIgPSAkdGhpcy0+cmVxdWVzdC0+aW5wdXQoJ3VzZXInLCAnSHlwZXJmJyk7CiAgICAgICAgJG1ldGhvZCA9ICR0aGlzLT5yZXF1ZXN0LT5nZXRNZXRob2QoKTsKCiAgICAgICAgcmV0dXJuIFsKICAgICAgICAgICAgJ21ldGhvZCcgID0+ICRtZXRob2QsCiAgICAgICAgICAgICdtZXNzYWdlJyA9PiAiSGVsbG8geyR1c2VyfS4iLAogICAgICAgIF07CiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICBDb250ZXh0OjpzZXQoJ2ZvbycsICR1c2VyKTsKICAgICAgICAkYSA9IENvbnRleHQ6OmdldCgnZm9vJyk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action CloseAllEditors</text>
+        <text>nohls</text>
       </register>
     </registers>
   </component>
