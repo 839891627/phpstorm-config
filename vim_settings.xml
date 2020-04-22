@@ -32,7 +32,6 @@
         <entry>action RenameElement</entry>
         <entry>action GotoFile</entry>
         <entry>action KJumpAction</entry>
-        <entry>action NextTab</entry>
         <entry>action FindUsages</entry>
         <entry>action NextSplitter</entry>
         <entry>action Forward</entry>
@@ -42,12 +41,13 @@
         <entry>action RecentFiles</entry>
         <entry>action PreviousTab</entry>
         <entry>action KJumpAction.Word0</entry>
-        <entry>wq</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>action Back</entry>
         <entry encoding="base64">JzwsJz5zLyIvXFwiL2c=</entry>
         <entry>action Annotate</entry>
         <entry>action SelectInProjectView</entry>
+        <entry>wq</entry>
+        <entry>action NextTab</entry>
         <entry>nohls</entry>
       </history-cmd>
       <history-expr />
@@ -119,6 +119,13 @@
         <mark key="." line="145" column="38" />
         <mark key="^" line="145" column="39" />
       </file>
+      <file name="$USER_HOME$/Develop/Docker/loanmarket/common/service/Loanmarket.php" timestamp="1587547340137">
+        <mark key="'" line="1107" column="4" />
+        <mark key="[" line="878" column="47" />
+        <mark key="]" line="878" column="71" />
+        <mark key="." line="878" column="47" />
+        <mark key="^" line="878" column="47" />
+      </file>
       <file name="$USER_HOME$/Develop/Docker/xyf-credit-system/credit_api/modules/v1/facade/before/OutCredit.php" timestamp="1587524357478">
         <mark key="'" line="556" column="63" />
       </file>
@@ -138,11 +145,11 @@
       <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/controllers/CommonController.php" timestamp="1587524093537">
         <mark key="'" line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/Docker/loanmarket/serviceapi/controllers/UnionLoginController.php" timestamp="1587545088728">
+      <file name="$USER_HOME$/Develop/Docker/loanmarket/serviceapi/controllers/UnionLoginController.php" timestamp="1587545296227">
         <mark key="'" line="66" column="32" />
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="0" />
-        <mark key="." line="67" column="0" />
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="." line="68" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/common/logging/FileTarget.php" timestamp="1587524047082">
         <mark key="'" line="72" column="46" />
@@ -164,12 +171,11 @@
         <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/config/test/params.php" timestamp="1587527791222" />
-      <file name="$USER_HOME$/Develop/Docker/loanmarket/common/service/unionlogin/strategies/ActiveStrategy.php" timestamp="1587545162239">
-        <mark key="'" line="107" column="0" />
-        <mark key="[" line="61" column="164" />
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="63" column="0" />
-        <mark key="^" line="63" column="0" />
+      <file name="$USER_HOME$/Develop/Docker/loanmarket/common/service/unionlogin/strategies/ActiveStrategy.php" timestamp="1587545236836">
+        <mark key="'" line="104" column="74" />
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/logs/jqns/web_client/20200422.log" timestamp="1587538491034" />
       <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/helper/BizLog.php" timestamp="1587523728008" />
@@ -184,9 +190,6 @@
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/Docker/xyf-credit-system/common/models/contract/Contract.php" timestamp="1587522257177">
-        <mark key="'" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -285,11 +288,11 @@
       <jump line="193" column="34" filename="$USER_HOME$/Develop/Docker/shoufuyou-notify/lib/Models/Utms/Fxk.php" />
       <jump line="93" column="76" filename="$USER_HOME$/Develop/Docker/shoufuyou-notify/lib/Models/Utms/Fxk.php" />
       <jump line="30" column="10" filename="$USER_HOME$/Develop/Docker/shoufuyou-notify/lib/Models/Utms/Fxk.php" />
-      <jump line="104" column="23" filename="$USER_HOME$/Develop/Docker/loanmarket/common/service/unionlogin/strategies/ActiveStrategy.php" />
       <jump line="66" column="32" filename="$USER_HOME$/Develop/Docker/loanmarket/serviceapi/controllers/UnionLoginController.php" />
       <jump line="27" column="30" filename="$USER_HOME$/Develop/Docker/loanmarket/common/service/unionlogin/UnionLoginAgent.php" />
       <jump line="41" column="0" filename="$USER_HOME$/Develop/Docker/loanmarket/common/service/unionlogin/strategies/ActiveStrategy.php" />
       <jump line="105" column="0" filename="$USER_HOME$/Develop/Docker/loanmarket/common/service/unionlogin/strategies/ActiveStrategy.php" />
+      <jump line="104" column="74" filename="$USER_HOME$/Develop/Docker/loanmarket/common/service/unionlogin/strategies/ActiveStrategy.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -297,8 +300,8 @@
       <register name="a" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJHJlc3VsdCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>$params['utm_blacklist']</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -313,16 +316,16 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>D</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxCVVNJTkVTU19DT0RFX09USEVSX09MRFw+</text>
       </register>
       <register name="0" type="4">
-        <text>decryptedData</text>
+        <text>$params['utm_blacklist']</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJHJlc3VsdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJHJldCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -340,28 +343,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJHJlc3VsdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJHJldCk7Cg==</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgyKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHVuaW9uUmV0LT5zZXRTdWNjZXNzKCRyZXN1bHRbJ2NvZGUnXSA9PSAnMDAwMCcgJiYgJHJlc3VsdFsnYnVzaW5lc3NDb2RlJ10gPT0gJzAwMScpOwo=</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+Y29uZmlnKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJHJlc3VsdCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJHJlc3VsdCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgyKTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -495,10 +498,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+Y29uZmlnKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkb3JkZXJObyA9ICRkZWNyeXB0ZWREYXRhWydvcmRlcl9ubyddOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQK</text>
       </register>
       <register name=":" type="4">
         <text>nohls</text>
