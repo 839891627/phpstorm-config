@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxkYXRhXD4=</entry>
         <entry>ver</entry>
         <entry encoding="base64">XDxHUk9VUF9DT0RFXD4=</entry>
         <entry>all</entry>
@@ -27,6 +26,7 @@
         <entry encoding="base64">XDx1c2VyXD4=</entry>
         <entry>&quot;</entry>
         <entry encoding="base64">XDxCVVNJTkVTU19DT0RFX09USEVSX09MRFw+</entry>
+        <entry encoding="base64">XDx1bnNldFw+</entry>
       </history-search>
       <history-cmd>
         <entry>action RenameElement</entry>
@@ -119,12 +119,12 @@
         <mark key="." line="145" column="38" />
         <mark key="^" line="145" column="39" />
       </file>
-      <file name="$USER_HOME$/Develop/Docker/loanmarket/common/service/Loanmarket.php" timestamp="1587547340137">
-        <mark key="'" line="1107" column="4" />
-        <mark key="[" line="878" column="47" />
-        <mark key="]" line="878" column="71" />
-        <mark key="." line="878" column="47" />
-        <mark key="^" line="878" column="47" />
+      <file name="$USER_HOME$/Develop/Docker/loanmarket/common/service/Loanmarket.php" timestamp="1587550874983">
+        <mark key="'" line="1535" column="12" />
+        <mark key="[" line="1331" column="43" />
+        <mark key="]" line="1331" column="44" />
+        <mark key="^" line="1331" column="28" />
+        <mark key="." line="1331" column="43" />
       </file>
       <file name="$USER_HOME$/Develop/Docker/xyf-credit-system/credit_api/modules/v1/facade/before/OutCredit.php" timestamp="1587524357478">
         <mark key="'" line="556" column="63" />
@@ -193,14 +193,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1586" column="0" filename="$USER_HOME$/Develop/Docker/loanmarket/common/service/Loanmarket.php" />
-      <jump line="1585" column="0" filename="$USER_HOME$/Develop/Docker/loanmarket/common/service/Loanmarket.php" />
-      <jump line="1534" column="0" filename="$USER_HOME$/Develop/Docker/loanmarket/common/service/Loanmarket.php" />
-      <jump line="141" column="17" filename="$USER_HOME$/Develop/Docker/loanmarket/backend/controllers/LoanmarketMCController.php" />
-      <jump line="108" column="13" filename="$USER_HOME$/Develop/Docker/loanmarket/backend/controllers/LoanmarketMCController.php" />
-      <jump line="18" column="0" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/controllers/CommonController.php" />
-      <jump line="1270" column="27" filename="$USER_HOME$/Develop/Docker/loanmarket/common/service/Loanmarket.php" />
-      <jump line="122" column="57" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/async/Notify.php" />
       <jump line="91" column="30" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/common/JqnsConvert.php" />
       <jump line="179" column="0" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/common/JqnsConvert.php" />
       <jump line="80" column="25" filename="$USER_HOME$/Develop/Docker/loanmarket/serviceapi/controllers/LoanmarketController.php" />
@@ -225,7 +217,6 @@
       <jump line="1522" column="27" filename="$USER_HOME$/Develop/Docker/loanmarket/common/service/Loanmarket.php" />
       <jump line="1265" column="22" filename="$USER_HOME$/Develop/Docker/loanmarket/common/service/Loanmarket.php" />
       <jump line="1247" column="29" filename="$USER_HOME$/Develop/Docker/loanmarket/common/service/Loanmarket.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Develop/Docker/loanmarket/common/service/Loanmarket.php" />
       <jump line="1106" column="27" filename="$USER_HOME$/Develop/Docker/loanmarket/common/service/Loanmarket.php" />
       <jump line="1232" column="29" filename="$USER_HOME$/Develop/Docker/loanmarket/common/service/Loanmarket.php" />
       <jump line="42" column="27" filename="$USER_HOME$/Develop/Docker/loanmarket/common/unit/Redis.php" />
@@ -293,6 +284,15 @@
       <jump line="41" column="0" filename="$USER_HOME$/Develop/Docker/loanmarket/common/service/unionlogin/strategies/ActiveStrategy.php" />
       <jump line="105" column="0" filename="$USER_HOME$/Develop/Docker/loanmarket/common/service/unionlogin/strategies/ActiveStrategy.php" />
       <jump line="104" column="74" filename="$USER_HOME$/Develop/Docker/loanmarket/common/service/unionlogin/strategies/ActiveStrategy.php" />
+      <jump line="1595" column="16" filename="$USER_HOME$/Develop/Docker/loanmarket/common/service/Loanmarket.php" />
+      <jump line="1340" column="4" filename="$USER_HOME$/Develop/Docker/loanmarket/common/service/Loanmarket.php" />
+      <jump line="1207" column="32" filename="$USER_HOME$/Develop/Docker/loanmarket/common/service/Loanmarket.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Develop/Docker/loanmarket/common/service/Loanmarket.php" />
+      <jump line="464" column="12" filename="$USER_HOME$/Develop/Docker/loanmarket/common/service/Loanmarket.php" />
+      <jump line="468" column="16" filename="$USER_HOME$/Develop/Docker/loanmarket/common/service/Loanmarket.php" />
+      <jump line="1325" column="16" filename="$USER_HOME$/Develop/Docker/loanmarket/common/service/Loanmarket.php" />
+      <jump line="1343" column="12" filename="$USER_HOME$/Develop/Docker/loanmarket/common/service/Loanmarket.php" />
+      <jump line="1535" column="12" filename="$USER_HOME$/Develop/Docker/loanmarket/common/service/Loanmarket.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -301,7 +301,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>$params['utm_blacklist']</text>
+        <text>)</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -319,13 +319,13 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxCVVNJTkVTU19DT0RFX09USEVSX09MRFw+</text>
+        <text encoding="base64">XDx1bnNldFw+</text>
       </register>
       <register name="0" type="4">
         <text>$params['utm_blacklist']</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJHJldCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkbG9hbm1hcmtldExpc3QpCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -343,28 +343,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJHJldCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHVuc2V0KCRpdGVtKTsK</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHVuaW9uUmV0LT5zZXRTdWNjZXNzKCRyZXN1bHRbJ2NvZGUnXSA9PSAnMDAwMCcgJiYgJHJlc3VsdFsnYnVzaW5lc3NDb2RlJ10gPT0gJzAwMScpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkbG9hbm1hcmtldExpc3QpOwo=</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkbG9hbm1hcmtldExpc3QpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJHJlc3VsdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKDIpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJHJlc3VsdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkbG9hbm1hcmtldExpc3QpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgyKTsK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkaSkK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -498,10 +498,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+Y29uZmlnKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJHJldCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>nohls</text>
@@ -510,13 +510,13 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxCVVNJTkVTU19DT0RFX09USEVSX09MRFw+</last-search>
+      <last-search encoding="base64">XDx1bnNldFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxCVVNJTkVTU19DT0RFX09USEVSX09MRFw+</last-pattern>
+      <last-pattern encoding="base64">XDx1bnNldFw+</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
