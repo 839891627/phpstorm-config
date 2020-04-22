@@ -46,9 +46,9 @@
         <entry>action Annotate</entry>
         <entry>action PreviousTab</entry>
         <entry>action Back</entry>
-        <entry>wq</entry>
         <entry encoding="base64">JzwsJz5zLyIvXFwiL2c=</entry>
         <entry>nohls</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -122,6 +122,7 @@
       <file name="$USER_HOME$/Develop/Docker/xyf-credit-system/credit_api/modules/v1/facade/before/OutCredit.php" timestamp="1587524357478">
         <mark key="'" line="556" column="63" />
       </file>
+      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/logs/jqns/access/20200422.log" timestamp="1587532793997" />
       <file name="$USER_HOME$/Develop/Docker/hyperf-skeleton/app/Controller/CoController.php" timestamp="1587453528457">
         <mark key="'" line="40" column="29" />
         <mark key="[" line="10" column="0" />
@@ -177,10 +178,6 @@
         <mark key="]" line="98" column="43" />
         <mark key="." line="98" column="43" />
         <mark key="^" line="104" column="39" />
-      </file>
-      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/controllers/BaseController.php" timestamp="1587451509809">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="44" />
       </file>
       <file name="$USER_HOME$/Develop/Docker/xyf-credit-system/common/models/contract/Contract.php" timestamp="1587522257177">
         <mark key="'" line="0" column="0" />
@@ -501,7 +498,7 @@
         <text encoding="base64">eyJ0aW1lIjoiMjAyMC0wNC0yMSAxMDoxNDoxMyIsIm1lc3NhZ2UiOnsicmVxdWVzdCI6eyJ1cmwiOiJcL2pxbnNcL2xvYW5cL2FwaVwvY2hlY2siLCJoZWFkZXIiOnsiY29udGVudC10eXBlIjoiYXBwbGljYXRpb25cL2pzb24iLCJjb250ZW50LWxlbmd0aCI6IjQ2NyIsImNvbm5lY3Rpb24iOiJrZWVwLWFsaXZlIiwiYWNjZXB0IjoiKlwvKiIsImFjY2VwdC1lbmNvZGluZyI6Imd6aXAsIGRlZmxhdGUiLCJ1c2VyLWFnZW50IjoicHl0aG9uLXJlcXVlc3RzXC8yLjIyLjAiLCJob3N0IjoidGVzdC1nYXRld2F5LXVhLWFwaS54aW55b25nZmVpLmNuIn0sInBhcmFtcyI6eyJhcHBfaWQiOiJ4aW55b25nZmVpIiwiYml6X2RhdGEiOiJ7XCJtZDVcIjpcImE4YzQwNmFmOTFjMDJkNzg4YmY1ZTgxNWU5ZTNlOGNmXCJ9IiwidGltZXN0YW1wIjoxNTg3NDM1MjUyLCJzaWduIjoiZWQ3SHZBNFhDOTlkUkE4V25FeVwvRmVpQlJleDlyTngrYzNGRjd3WFZtcnB5MjdwWVwvckV3NHNZcFYrVGlRMEVYY2pqOUVcL3dMRFRRZDRzNGhiQlwvZWVTQ051ZndJSGp1dUdSbVN5Q2dOXC9MUHZhSHZwUFpidTZHeld5WkQwdFg4M1phTThXTTJZOTlmTmk5dWo0cFNwckFOSjNTblhFMlJ1Y2xITHdwNEl6V0dPVW5FNGZHeEtaUUlwb1NCSllTOHcrb3BOMjNsMEpqM0JSSWxBMUxMM2NkeEZOcTJ0T212ZERET0tJNWJIOUhcL0FCbU9GZ2NZa1wvQm9Lc1BNZVlPUEUxT1wvSHJ4b01NZVwvbDFvNVpcL0lXTXFSbUlGamZ4WHZTZEV4cWc3RHJqQmFFMUZGcU5cL0RXWjlONkthOUVVcklRWm1wSTdKU24xdFl6UldVY0RCZDBRdVE9PSJ9fSwicmVzcG9uc2UiOnsiY29kZSI6MSwibXNnIjoi5oiQ5YqfIiwiZGF0YSI6eyJzdGF0dXMiOjJ9fX0sImlwIjoiNDcuMTAwLjEyNy4xMjAiLCJsZXZlbCI6ImluZm8iLCJob3N0X25hbWUiOiJwaHAtdGVzdC0xIiwiY2F0ZWdvcnkiOiJhY2Nlc3MiLCJkZWJ1ZyI6WyJpbiBcL2RhdGFcL2NvZGVcL3JlbGVhc2VzXC94eWYtYXBpLWdhdGV3YXlcL2NvbW1vblwvbG9nZ2luZ1wvQWNjZXNzTG9nLnBocDoyMyIsImluIFwvZGF0YVwvY29kZVwvcmVsZWFzZXNcL3h5Zi1hcGktZ2F0ZXdheVwvdWFfYXBpXC9jb250cm9sbGVyc1wvQmFzZUNvbnRyb2xsZXIucGhwOjcxIiwiaW4gXC9kYXRhXC9jb2RlXC9yZWxlYXNlc1wveHlmLWFwaS1nYXRld2F5XC91YV9hcGlcL2NvbnRyb2xsZXJzXC9CYXNlQ29udHJvbGxlci5waHA6MTExIl19CnsidGltZSI6IjIwMjAtMDQtMjEgMTE6MDQ6NTMiLCJtZXNzYWdlIjp7InJlcXVlc3QiOnsidXJsIjoiXC9qcW5zXC9sb2FuXC9hcGlcL2NoZWNrIiwiaGVhZGVyIjp7ImNvbnRlbnQtdHlwZSI6ImFwcGxpY2F0aW9uXC9qc29uIiwiY29udGVudC1sZW5ndGgiOiI1NzEiLCJjb25uZWN0aW9uIjoia2VlcC1hbGl2ZSIsImFjY2VwdCI6IipcLyoiLCJhY2NlcHQtZW5jb2RpbmciOiJnemlwLCBkZWZsYXRlIiwidXNlci1hZ2VudCI6InB5dGhvbi1yZXF1ZXN0c1wvMi4yMi4wIiwiaG9zdCI6InRlc3QtZ2F0ZXdheS11YS1hcGkueGlueW9uZ2ZlaS5jbiJ9LCJwYXJhbXMiOnsiYXBwX2lkIjoieGlueW9uZ2ZlaSIsImJpel9kYXRhIjoie1widXNlcl9uYW1lXCI6XCLlvKDmg7PmnaVcIixcInVzZXJfbW9iaWxlXCI6XCIxMzA2Njk3KioqKlwiLFwiaWRfY2FyZFwiOlwiMzQxMjIxMTk5ODAyMCoqKioqXCIsXCJtZDVcIjpcImNjODg2OTQxMjI2OGUxNWQyYmViN2Y5MTZmZDI2NzdmXCJ9IiwidGltZXN0YW1wIjoxNTg3NDM4MjkzLCJzaWduIjoiWjd3VUJabExsN0pUQXR5eWUzSXFsc2pmTjBpem9rK1pqRkoxMVJ0a2xES1RTc2dGWWxWZkgyMWxWWDZleFh4SDluejMweXUxelJTYVZEZExsejF5cE0wcFVYVGtaeHRzK1BGTUpIaVZtaURkMlJTUnpvUjVpUjZEK3R6UlRqTWFzNUpTWEtMWWZoUjhBYW03clZNOWFvZ3ptVSt1Z3p1aGhwWE1ZeVVTUEdkY0RBVllvenpyZENHMEFNUUhoZjUrRTdIbWNwdTVlS1poMm9QTko0MXNHMzk4NFJnd09wdmlpMXZEamJGYWxyMHExaHVJaGdzWGNLbmhBUUZGK0U0dTdCSFRFR2ZESU9Mc1wvYU5OaTQ2SkVieUlvTzVkOWdEN05LU1kxTlM4YjNVWmo1S3BYQXF6WEkwSGFVUVE1QmJyQ282QzVZZkM1c3FnZUd1UkJaMHZtUT09In19LCJyZXNwb25zZSI6eyJjb2RlIjoxLCJtc2ciOiLmiJDlip8iLCJkYXRhIjp7InN0YXR1cyI6Mn19fSwiaXAiOiI0Ny4xMDAuMTI3LjEyMCIsImxldmVsIjoiaW5mbyIsImhvc3RfbmFtZSI6InBocC10ZXN0LTEiLCJjYXRlZ29yeSI6ImFjY2VzcyIsImRlYnVnIjpbImluIFwvZGF0YVwvY29kZVwvcmVsZWFzZXNcL3h5Zi1hcGktZ2F0ZXdheVwvY29tbW9uXC9sb2dnaW5nXC9BY2Nlc3NMb2cucGhwOjIzIiwiaW4gXC9kYXRhXC9jb2RlXC9yZWxlYXNlc1wveHlmLWFwaS1nYXRld2F5XC91YV9hcGlcL2NvbnRyb2xsZXJzXC9CYXNlQ29udHJvbGxlci5waHA6NzEiLCJpbiBcL2RhdGFcL2NvZGVcL3JlbGVhc2VzXC94eWYtYXBpLWdhdGV3YXlcL3VhX2FwaVwvY29udHJvbGxlcnNcL0Jhc2VDb250cm9sbGVyLnBocDoxMTEiXX0K</text>
       </register>
       <register name=":" type="4">
-        <text>nohls</text>
+        <text>wq</text>
       </register>
     </registers>
   </component>
