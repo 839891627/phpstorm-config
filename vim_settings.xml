@@ -29,8 +29,6 @@
         <entry>&quot;</entry>
       </history-search>
       <history-cmd>
-        <entry>action RenameElement</entry>
-        <entry>action GotoFile</entry>
         <entry>action KJumpAction</entry>
         <entry>action FindUsages</entry>
         <entry>action NextSplitter</entry>
@@ -40,7 +38,6 @@
         <entry>action CloseAllEditors</entry>
         <entry>action RecentFiles</entry>
         <entry>action PreviousTab</entry>
-        <entry>action KJumpAction.Word0</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>action Annotate</entry>
         <entry>wq</entry>
@@ -48,7 +45,10 @@
         <entry>action SelectInProjectView</entry>
         <entry>action Back</entry>
         <entry encoding="base64">JzwsJz5zLyIvXFwiL2c=</entry>
+        <entry>action KJumpAction.Word0</entry>
+        <entry>action GotoFile</entry>
         <entry>nohls</entry>
+        <entry>action FileStructurePopup</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -149,19 +149,15 @@
         <mark key="]" line="207" column="0" />
         <mark key="." line="207" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/Docker/xinyongfei-app-api/lib/Models/App.php" timestamp="1587622877664">
+        <mark key="'" line="1177" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/Docker/loanmarket/serviceapi/controllers/UnionLoginController.php" timestamp="1587552157176">
         <mark key="'" line="66" column="32" />
         <mark key="[" line="87" column="0" />
         <mark key="]" line="87" column="21" />
         <mark key="." line="87" column="0" />
         <mark key="^" line="80" column="24" />
-      </file>
-      <file name="$USER_HOME$/Develop/Docker/xyf-credit-system/common/models/activation/SuccessActivation.php" timestamp="1587527752931">
-        <mark key="'" line="423" column="50" />
-        <mark key="[" line="435" column="0" />
-        <mark key="]" line="435" column="0" />
-        <mark key="^" line="435" column="1477" />
-        <mark key="." line="435" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Docker/loanmarket/common/service/unionlogin/UnionLoginAgent.php" timestamp="1587545108662">
         <mark key="'" line="27" column="30" />
@@ -204,8 +200,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="167" column="30" filename="$USER_HOME$/Develop/Docker/loanmarket/common/models/Loanmarket.php" />
-      <jump line="78" column="49" filename="$USER_HOME$/Develop/Docker/loanmarket/serviceapi/controllers/UnionLoginController.php" />
       <jump line="24" column="12" filename="$USER_HOME$/Develop/Docker/loanmarket/serviceapi/controllers/BaseController.php" />
       <jump line="142" column="28" filename="$USER_HOME$/Develop/Docker/loanmarket/backend/controllers/LoanmarketMCController.php" />
       <jump line="684" column="0" filename="$USER_HOME$/Develop/Docker/loanmarket/common/service/Loanmarket.php" />
@@ -304,6 +298,8 @@
       <jump line="35" column="20" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/common/models/ua_api/CashOutInfoStashModel.php" />
       <jump line="48" column="99" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/common/models/ua_api/CashOutInfoStashModel.php" />
       <jump line="39" column="27" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/common/models/ua_api/CashOutInfoStashModel.php" />
+      <jump line="1167" column="27" filename="$USER_HOME$/Develop/Docker/xinyongfei-app-api/lib/Models/App.php" />
+      <jump line="1177" column="0" filename="$USER_HOME$/Develop/Docker/xinyongfei-app-api/lib/Models/App.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -515,7 +511,7 @@
         <text encoding="base64">e1wib3JkZXJfbm9cIjpcIjIyRzQ5OTM3REk3OTlEMTJcIixcImxvYW5fYW1vdW50XCI6MjAwMDAwLFwibG9hbl90ZXJtXCI6NixcImxvYW5fdW5pdFwiOjAsXCJsb2FuX3Blcl90ZXJtXCI6MSxcInJldHVybl91cmxcIjpcImh0dHBzOi8vdjNwcmV2aWV3LmppZXFpYW5rdWFpc2hvdS5jb20vbG9hbi9yZXR1cm4veGlueW9uZ2ZlaS9zaWduX3JldHVybi8yMkc0OTkzN0RJNzk5RDEyXCJ9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>nohls</text>
+        <text>action FileStructurePopup</text>
       </register>
     </registers>
   </component>
