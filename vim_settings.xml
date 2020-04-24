@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>amount</entry>
         <entry encoding="base64">XDxfYXR0YWNoVG9rZW5cPg==</entry>
         <entry>source</entry>
         <entry>status_type</entry>
@@ -27,6 +26,7 @@
         <entry>device_id</entry>
         <entry>ip</entry>
         <entry encoding="base64">XDxSZXF1ZXN0RW52XD4=</entry>
+        <entry encoding="base64">XDxhbmRyb2lkX2lkXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>action KJumpAction</entry>
@@ -41,14 +41,14 @@
         <entry>vs</entry>
         <entry>action NextSplitter</entry>
         <entry>action KJumpAction.Word0</entry>
-        <entry>wq</entry>
         <entry>action NextTab</entry>
-        <entry>action PreviousTab</entry>
         <entry>action SelectInProjectView</entry>
         <entry>action Back</entry>
         <entry>action Annotate</entry>
         <entry>action GotoFile</entry>
+        <entry>wq</entry>
         <entry>nohls</entry>
+        <entry>action PreviousTab</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -125,8 +125,8 @@
         <mark key="." line="123" column="0" />
         <mark key="^" line="123" column="50" />
       </file>
-      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/before/Income.php" timestamp="1587641691150">
-        <mark key="'" line="66" column="26" />
+      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/before/Income.php" timestamp="1587709924873">
+        <mark key="'" line="179" column="17" />
         <mark key="[" line="186" column="0" />
         <mark key="]" line="186" column="0" />
         <mark key="." line="186" column="0" />
@@ -194,8 +194,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="1546" filename="$USER_HOME$/Desktop/20200421.log" />
-      <jump line="4" column="0" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/logs/jqns/access/20200421.log" />
       <jump line="159" column="15" filename="$USER_HOME$/Develop/Docker/xyf-credit-system/console/controllers/BeforeController.php" />
       <jump line="78" column="24" filename="$USER_HOME$/Develop/Docker/xyf-credit-system/console/controllers/BeforeController.php" />
       <jump line="96" column="67" filename="$USER_HOME$/Develop/Docker/xyf-credit-system/console/controllers/BeforeController.php" />
@@ -256,7 +254,6 @@
       <jump line="143" column="36" filename="$USER_HOME$/Develop/Docker/loanmarket/backend/controllers/LoanmarketMCController.php" />
       <jump line="117" column="12" filename="$USER_HOME$/Develop/Docker/loanmarket/backend/controllers/LoanmarketMCController.php" />
       <jump line="151" column="9" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/before/Income.php" />
-      <jump line="168" column="43" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/before/Income.php" />
       <jump line="113" column="5" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/api/service/gateways/ReportGateway.php" />
       <jump line="86" column="38" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/service/gateways/ReportGateway.php" />
       <jump line="119" column="21" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/api/service/gateways/ReportGateway.php" />
@@ -291,9 +288,12 @@
       <jump line="116" column="23" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/service/gateways/ReportGateway.php" />
       <jump line="64" column="36" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/service/gateways/RcsGateway.php" />
       <jump line="108" column="27" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/before/Income.php" />
-      <jump line="66" column="26" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/before/Income.php" />
       <jump line="25" column="0" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/service/gateways/RcsGateway.php" />
       <jump line="88" column="29" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/common/JqnsConvert.php" />
+      <jump line="66" column="31" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/before/Income.php" />
+      <jump line="143" column="4" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/before/Income.php" />
+      <jump line="168" column="16" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/before/Income.php" />
+      <jump line="179" column="17" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/before/Income.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -320,7 +320,7 @@
         <text>校</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxSZXF1ZXN0RW52XD4=</text>
+        <text encoding="base64">XDxhbmRyb2lkX2lkXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICfpq5jkuK0v5Lit5LiTL+aKgOagoeWIneS4reWPiuS7peS4iyc7Cg==</text>
@@ -505,19 +505,19 @@
         <text encoding="base64">ICAgICAgICBkZChSZXF1ZXN0RW52OjpnZXRFbnYoJ3Rva2VuJykpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>nohls</text>
+        <text>action PreviousTab</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxSZXF1ZXN0RW52XD4=</last-search>
+      <last-search encoding="base64">XDxhbmRyb2lkX2lkXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxSZXF1ZXN0RW52XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxhbmRyb2lkX2lkXD4=</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
