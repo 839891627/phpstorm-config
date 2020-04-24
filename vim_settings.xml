@@ -47,8 +47,8 @@
         <entry>action Annotate</entry>
         <entry>action GotoFile</entry>
         <entry>wq</entry>
-        <entry>nohls</entry>
         <entry>action PreviousTab</entry>
+        <entry>nohls</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -505,7 +505,7 @@
         <text encoding="base64">ICAgICAgICBkZChSZXF1ZXN0RW52OjpnZXRFbnYoJ3Rva2VuJykpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action PreviousTab</text>
+        <text>nohls</text>
       </register>
     </registers>
   </component>
@@ -517,7 +517,7 @@
       <last-replace>\\&quot;</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
