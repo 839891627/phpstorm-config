@@ -47,8 +47,8 @@
         <entry>wq</entry>
         <entry>action NextTab</entry>
         <entry>action PreviousTab</entry>
-        <entry>nohls</entry>
         <entry>action SelectInProjectView</entry>
+        <entry>nohls</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -112,13 +112,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/common/Jqns.php" timestamp="1587637374098">
-        <mark key="'" line="94" column="22" />
-        <mark key="[" line="94" column="129" />
-        <mark key="]" line="94" column="145" />
-        <mark key="." line="94" column="129" />
-        <mark key="^" line="94" column="0" />
-      </file>
       <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/traits/MiddleGroundTokenTrait.php" timestamp="1587639311087">
         <mark key="'" line="33" column="48" />
         <mark key="[" line="34" column="0" />
@@ -152,15 +145,18 @@
         <mark key="^" line="730" column="50" />
         <mark key="." line="730" column="49" />
       </file>
+      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/api/controllers/AppController.php" timestamp="1587693798937">
+        <mark key="[" line="34" column="28" />
+        <mark key="]" line="34" column="28" />
+        <mark key="." line="34" column="28" />
+        <mark key="^" line="34" column="43" />
+      </file>
       <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/async/Notify.php" timestamp="1587631115070">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="224" column="52" />
         <mark key="]" line="224" column="55" />
         <mark key="." line="224" column="54" />
         <mark key="^" line="224" column="55" />
-      </file>
-      <file name="$USER_HOME$/Develop/Docker/xinyongfei-app-api/lib/Models/App.php" timestamp="1587622877664">
-        <mark key="'" line="1177" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/api/service/gateways/ReportGateway.php" timestamp="1587637707855">
         <mark key="'" line="87" column="36" />
@@ -185,18 +181,12 @@
       </file>
       <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/config/local/jqns.php" timestamp="1587630616988" />
       <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/service/gateways/MiddlegroundGateway.php" timestamp="1587639816232">
-        <mark key="'" line="45" column="36" />
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="63" column="0" />
+        <mark key="'" line="46" column="36" />
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/helper/TokenHelper.php" timestamp="1587639355883" />
-      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/controllers/MiddleController.php" timestamp="1587692957244">
-        <mark key="'" line="196" column="35" />
-        <mark key="[" line="197" column="0" />
-        <mark key="]" line="197" column="0" />
-        <mark key="." line="197" column="0" />
-      </file>
       <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/logs/jqns/web_client/20200423.log" timestamp="1587639189361">
         <mark key="'" line="3" column="92" />
         <mark key="[" line="3" column="0" />
@@ -320,8 +310,8 @@
       <register name="a" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZChSZXF1ZXN0RW52OjpnZXRFbnYoJ3Rva2VuJykpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>, strtotime('+12 hour')</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -336,16 +326,16 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>\api\helper\</text>
+        <text>, strtotime('+12 hour')</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSZXF1ZXN0RW52XD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>$ret['data']['token']</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRjb250ZW50ID0gJyc7CiAgICAgICAgICAgICAgICAkc3VnZ2VzdGlvbiA9ICcnOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZChSZXF1ZXN0RW52OjpnZXRFbnYoJ3Rva2VuJykpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJGhvdXIpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -363,28 +353,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gUmVxdWVzdEVudjo6c2V0RW52KCd0b2tlbicsICRyZXRbJ2RhdGEnXVsndG9rZW4nXSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZChSZXF1ZXN0RW52OjpnZXRFbnYoJ3Rva2VuJykpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZChcYXBpXGhlbHBlclxSZXF1ZXN0RW52OjpnZXRFbnYoJ3Rva2VuJykpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3dpdGNoICgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJHJldFsnZGF0YSddWyd0b2tlbiddKTsK</text>
+        <text encoding="base64">ICAgICAgICBkZChSZXF1ZXN0RW52OjpnZXRFbnYoJ3Rva2VuJykpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZChcYXBpXGhlbHBlclxSZXF1ZXN0RW52OjpnZXRFbnYoJ3Rva2VuJykpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gUmVxdWVzdEVudjo6c2V0RW52KCd0b2tlbicsICRyZXRbJ2RhdGEnXVsndG9rZW4nXSk7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -518,13 +508,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZDkkCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoMik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZChSZXF1ZXN0RW52OjpnZXRFbnYoJ3Rva2VuJykpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action SelectInProjectView</text>
+        <text>nohls</text>
       </register>
     </registers>
   </component>
