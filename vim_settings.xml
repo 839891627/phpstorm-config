@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>status_type</entry>
         <entry encoding="base64">XDxtb2JpbGVcPg==</entry>
         <entry>701</entry>
         <entry encoding="base64">XDxnZXRUb3RhbFV2XD4=</entry>
@@ -27,28 +26,29 @@
         <entry encoding="base64">XDxhbmRyb2lkX2lkXD4=</entry>
         <entry encoding="base64">XDxnZXRNaWRUb2tlbkRhdGFcPg==</entry>
         <entry encoding="base64">XDx0b2tlbkRhdGFcPg==</entry>
+        <entry>request</entry>
       </history-search>
       <history-cmd>
         <entry>action KJumpAction</entry>
-        <entry>action FindUsages</entry>
         <entry>action Forward</entry>
         <entry>.nohls</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>action FileStructurePopup</entry>
         <entry>action CloseAllEditors</entry>
         <entry encoding="base64">JzwsJz5zLyIvXFwiL2c=</entry>
-        <entry>action KJumpAction.Word0</entry>
         <entry>action NextTab</entry>
         <entry>action SelectInProjectView</entry>
-        <entry>action Annotate</entry>
         <entry>action GotoFile</entry>
         <entry>action PreviousTab</entry>
         <entry>vs</entry>
         <entry>wq</entry>
         <entry>action NextSplitter</entry>
-        <entry>action Back</entry>
-        <entry>nohls</entry>
         <entry>action RecentFiles</entry>
+        <entry>action KJumpAction.Word0</entry>
+        <entry>action FindUsages</entry>
+        <entry>action Back</entry>
+        <entry>action Annotate</entry>
+        <entry>nohls</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -112,6 +112,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Develop/Docker/shoufuyou-task/lib/Subcommands/RequestCashLoanCommand.php" timestamp="1587878891056">
+        <mark key="[" line="32" column="62" />
+      </file>
       <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/api/service/gateways/ReportGateway.php" timestamp="1587637707855">
         <mark key="'" line="87" column="36" />
         <mark key="[" line="87" column="0" />
@@ -130,6 +133,7 @@
         <mark key="^" line="78" column="8" />
         <mark key="." line="78" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashLoanOrder.php" timestamp="1587878796207" />
       <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/api/controllers/AppController.php" timestamp="1587694339502">
         <mark key="[" line="34" column="28" />
         <mark key="]" line="34" column="28" />
@@ -148,6 +152,9 @@
         <mark key="[" line="63" column="0" />
         <mark key="]" line="63" column="0" />
         <mark key="." line="63" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/Docker/shoufuyou-task/config/command.php" timestamp="1587878886039">
+        <mark key="'" line="62" column="9" />
       </file>
       <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/traits/MiddleGroundTokenTrait.php" timestamp="1587639311087">
         <mark key="'" line="33" column="48" />
@@ -186,7 +193,6 @@
         <mark key="[" line="211" column="31" />
         <mark key="]" line="211" column="37" />
       </file>
-      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/controllers/AfterController.php" timestamp="1587870937961" />
       <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/before/Income.php" timestamp="1587870096027">
         <mark key="'" line="203" column="5" />
         <mark key="[" line="244" column="16" />
@@ -202,8 +208,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="46" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/controllers/MiddleController.php" />
-      <jump line="144" column="40" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/common/Jqns.php" />
       <jump line="138" column="47" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/common/Jqns.php" />
       <jump line="143" column="32" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/common/Jqns.php" />
       <jump line="68" column="33" filename="$USER_HOME$/Develop/Docker/shoufuyou-notify/lib/Models/Utms/Fxk.php" />
@@ -302,6 +306,8 @@
       <jump line="187" column="0" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/before/Income.php" />
       <jump line="203" column="5" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/before/Income.php" />
       <jump line="112" column="8" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/controllers/MiddleController.php" />
+      <jump line="10" column="28" filename="$USER_HOME$/Develop/Docker/shoufuyou-task/config/command.php" />
+      <jump line="62" column="9" filename="$USER_HOME$/Develop/Docker/shoufuyou-task/config/command.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -328,7 +334,7 @@
         <text>$data[]</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0b2tlbkRhdGFcPg==</text>
+        <text>request</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkb3MgPSBzdHJ0b2xvd2VyKCRkZXZpY2VJbmZvQWxsWydvcyddID8/ICcnKTsK</text>
@@ -513,15 +519,15 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICdkZXZpY2VfaWQnICAgID0+ICRkZXZpY2VJZCwKICAgICAgICAgICAgICAgICd1c2VyX2lkJyAgICAgID0+ICR0b2tlbkRhdGFbJ3VzZXJJZCddLAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action RecentFiles</text>
+        <text>nohls</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDx0b2tlbkRhdGFcPg==</last-search>
+      <last-search>request</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0b2tlbkRhdGFcPg==</last-pattern>
+      <last-pattern>request</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
