@@ -40,15 +40,15 @@
         <entry>action FindUsages</entry>
         <entry>action Forward</entry>
         <entry>action KJumpAction.Word0</entry>
-        <entry>action Annotate</entry>
         <entry>wq</entry>
-        <entry>action RecentFiles</entry>
-        <entry>action GotoFile</entry>
-        <entry>nohls</entry>
         <entry>action FileStructurePopup</entry>
         <entry>action SelectInProjectView</entry>
-        <entry>action Back</entry>
         <entry>action CloseAllEditors</entry>
+        <entry>action RecentFiles</entry>
+        <entry>action Annotate</entry>
+        <entry>nohls</entry>
+        <entry>action GotoFile</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -118,9 +118,9 @@
       <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashLoan/CashLoanOrderQueue/CashLoanOrderQueue.php" timestamp="1587886251242">
         <mark key="'" line="15" column="27" />
       </file>
-      <file name="$USER_HOME$/Develop/Docker/shoufuyou-task/lib/Subcommands/RequestCashLoanCommand.php" timestamp="1587885551746">
-        <mark key="'" line="90" column="31" />
-        <mark key="[" line="33" column="0" />
+      <file name="$USER_HOME$/Develop/Docker/shoufuyou-task/lib/Subcommands/RequestCashLoanCommand.php" timestamp="1587887787296">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="32" column="62" />
         <mark key="]" line="33" column="0" />
         <mark key="^" line="33" column="38" />
         <mark key="." line="33" column="0" />
@@ -141,8 +141,8 @@
         <mark key="^" line="78" column="8" />
         <mark key="." line="78" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashLoanOrder.php" timestamp="1587886234447">
-        <mark key="'" line="741" column="38" />
+      <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashLoanOrder.php" timestamp="1587887059269">
+        <mark key="'" line="177" column="25" />
         <mark key="[" line="2915" column="63" />
         <mark key="]" line="2915" column="64" />
         <mark key="^" line="2915" column="64" />
@@ -213,9 +213,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="123" column="22" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/helper/HttpClient.php" />
-      <jump line="141" column="40" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/helper/HttpClient.php" />
-      <jump line="121" column="30" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/helper/HttpClient.php" />
       <jump line="94" column="22" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/common/Jqns.php" />
       <jump line="5" column="92" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/logs/jqns/web_client/20200423.log" />
       <jump line="143" column="36" filename="$USER_HOME$/Develop/Docker/loanmarket/backend/controllers/LoanmarketMCController.php" />
@@ -313,6 +310,9 @@
       <jump line="683" column="50" filename="$USER_HOME$/Develop/Docker/shoufuyou-task/lib/Subcommands/XrQueryCommand.php" />
       <jump line="690" column="40" filename="$USER_HOME$/Develop/Docker/shoufuyou-task/lib/Subcommands/XrQueryCommand.php" />
       <jump line="710" column="41" filename="$USER_HOME$/Develop/Docker/shoufuyou-task/lib/Subcommands/XrQueryCommand.php" />
+      <jump line="177" column="25" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashLoanOrder.php" />
+      <jump line="87" column="12" filename="$USER_HOME$/Develop/Docker/shoufuyou-task/lib/Subcommands/RequestCashLoanCommand.php" />
+      <jump line="19" column="0" filename="$USER_HOME$/Develop/Docker/shoufuyou-task/lib/Subcommands/RequestCashLoanCommand.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -524,7 +524,7 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>action CloseAllEditors</text>
+        <text>action Back</text>
       </register>
     </registers>
   </component>
