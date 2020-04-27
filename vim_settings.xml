@@ -30,7 +30,6 @@
       </history-search>
       <history-cmd>
         <entry>action KJumpAction</entry>
-        <entry>.nohls</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
         <entry encoding="base64">JzwsJz5zLyIvXFwiL2c=</entry>
         <entry>vs</entry>
@@ -42,13 +41,14 @@
         <entry>action FileStructurePopup</entry>
         <entry>action Annotate</entry>
         <entry>action KJumpAction.Word0</entry>
+        <entry>action SelectInProjectView</entry>
+        <entry>.nohls</entry>
+        <entry>action Back</entry>
         <entry>action RecentFiles</entry>
         <entry>wq</entry>
         <entry>action NextTab</entry>
         <entry>action PreviousTab</entry>
         <entry>nohls</entry>
-        <entry>action SelectInProjectView</entry>
-        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -113,8 +113,8 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/rsa_public_key.pem" timestamp="1587953550913" />
-      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/common/Jqns.php" timestamp="1587953534545">
-        <mark key="'" line="48" column="15" />
+      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/common/Jqns.php" timestamp="1587956074226">
+        <mark key="'" line="211" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Docker/shoufuyou-task/lib/Subcommands/RequestCashLoanCommand.php" timestamp="1587891018973">
         <mark key="'" line="91" column="30" />
@@ -135,15 +135,17 @@
         <mark key="^" line="148" column="10" />
         <mark key="." line="148" column="10" />
       </file>
+      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/helper/ErrorHandler.php" timestamp="1587956163500">
+        <mark key="'" line="50" column="26" />
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="^" line="48" column="34" />
+        <mark key="." line="50" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/rsa_private_key.pem" timestamp="1587953490753" />
+      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/common/logging/FileTarget.php" timestamp="1587955987304" />
       <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashLoan/XlCash/XlCashLoanOrder.php" timestamp="1587890979130">
         <mark key="'" line="643" column="4" />
-      </file>
-      <file name="$USER_HOME$/Develop/Docker/shoufuyou-task/lib/Subcommands/XrQueryCommand.php" timestamp="1587886356233">
-        <mark key="'" line="710" column="41" />
-      </file>
-      <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/shoufuyou/Table/BaseTable.php" timestamp="1587887875729">
-        <mark key="'" line="12" column="27" />
       </file>
       <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/service/gateways/ReportGateway.php" timestamp="1587896341173">
         <mark key="'" line="121" column="21" />
@@ -152,17 +154,14 @@
         <mark key="." line="123" column="0" />
         <mark key="^" line="123" column="50" />
       </file>
-      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/common/error/ErrorHandler.php" timestamp="1587955408978">
-        <mark key="'" line="33" column="24" />
-      </file>
-      <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/hyperframework/hyperframework/lib/Db/DbClientEngine.php" timestamp="1587887941070">
-        <mark key="'" line="131" column="39" />
-        <mark key="[" line="632" column="0" />
-        <mark key="]" line="632" column="0" />
-        <mark key="." line="632" column="0" />
+      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/common/error/ErrorHandler.php" timestamp="1587955914784">
+        <mark key="'" line="17" column="6" />
       </file>
       <file name="$USER_HOME$/Develop/Docker/shoufuyou-task/lib/Subcommands/XlCashTaskCommand.php" timestamp="1587890989136">
         <mark key="'" line="140" column="4" />
+      </file>
+      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/controllers/BaseController.php" timestamp="1587956116760">
+        <mark key="'" line="63" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Docker/shoufuyou-sms-system/lib/Models/Sms.php" timestamp="1587954428529">
         <mark key="'" line="58" column="12" />
@@ -171,13 +170,16 @@
         <mark key="." line="48" column="32" />
         <mark key="^" line="48" column="33" />
       </file>
+      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/web/index.php" timestamp="1587956220553">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/XlCash/XlCashLoanOrder.php" timestamp="1587892104456">
         <mark key="'" line="349" column="20" />
       </file>
       <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/BizSfyWebClient.php" timestamp="1587891734947" />
-      <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/hyperframework/hyperframework/lib/Db/DbClient.php" timestamp="1587887879080">
-        <mark key="'" line="55" column="51" />
-      </file>
       <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/config/prod/jqns.php" timestamp="1587954780170">
         <mark key="'" line="22" column="0" />
         <mark key="[" line="3" column="20" />
@@ -190,16 +192,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="213" column="0" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/before/Income.php" />
-      <jump line="226" column="0" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/before/Income.php" />
-      <jump line="211" column="13" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/before/Income.php" />
-      <jump line="222" column="35" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/before/Income.php" />
-      <jump line="212" column="0" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/before/Income.php" />
-      <jump line="187" column="0" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/before/Income.php" />
-      <jump line="203" column="5" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/before/Income.php" />
-      <jump line="112" column="8" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/controllers/MiddleController.php" />
-      <jump line="10" column="28" filename="$USER_HOME$/Develop/Docker/shoufuyou-task/config/command.php" />
-      <jump line="62" column="9" filename="$USER_HOME$/Develop/Docker/shoufuyou-task/config/command.php" />
       <jump line="242" column="0" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/before/Income.php" />
       <jump line="2913" column="43" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashLoanOrder.php" />
       <jump line="827" column="32" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashLoanOrder.php" />
@@ -290,6 +282,16 @@
       <jump line="22" column="0" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/config/prod/jqns.php" />
       <jump line="58" column="12" filename="$USER_HOME$/Develop/Docker/shoufuyou-sms-system/lib/Models/Sms.php" />
       <jump line="33" column="24" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/common/error/ErrorHandler.php" />
+      <jump line="5" column="0" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/web/index.php" />
+      <jump line="17" column="6" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/common/error/ErrorHandler.php" />
+      <jump line="41" column="0" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/helper/ErrorHandler.php" />
+      <jump line="29" column="0" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/helper/ErrorHandler.php" />
+      <jump line="47" column="0" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/helper/ErrorHandler.php" />
+      <jump line="51" column="6" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/common/Jqns.php" />
+      <jump line="211" column="0" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/common/Jqns.php" />
+      <jump line="55" column="6" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/controllers/BaseController.php" />
+      <jump line="43" column="26" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/helper/ErrorHandler.php" />
+      <jump line="63" column="0" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/controllers/BaseController.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -297,8 +299,8 @@
       <register name="a" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>1234567891234567</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">JHdlYkVudiA9ICdwcm9kJzsK</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -313,16 +315,16 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>1234567891234567</text>
+        <text>code</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx4eWZQcml2YXRlS2V5XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkb3MgPSBzdHJ0b2xvd2VyKCRkZXZpY2VJbmZvQWxsWydvcyddID8/ICcnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnY29kZScgPT4gMCwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">JHdlYkVudiA9ICdwcm9kJzsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -340,28 +342,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkZW5hYmxlUmVzID0gc2VsZjo6ZW5hYmxlU2VuZCgkYXBwLCAkbW9iaWxlLCAkdGVtcGxhdGVJZCwgJHNlc3Npb25JZCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZigpewogICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">TUlJQklqQU5CZ2txaGtpRzl3MEJBUUVGQUFPQ0FROEFNSUlCQ2dLQ0FRRUF0amVab2RMcHN2QTRqMlJCZjlCawo0WkZ1K0lEM0F3QklqQ1FlVkVtNVMrcmJKSVJGQWNSYkwxU21XSFJmYlZRYXBUNW9FYk43T0hEVGYyc2lVNEtzCjVGMlRpTkYrY0xmbHRrVllhSWJBVnFYVy9UTis4b1YvbXVRZGpsRVhObThIdGR4ckZxUmJSWmtZOXhwa2ZvTWIKYUxJSDRpY082a0VhTDFVbytkTW1NVi93MUZ3YnpkVHZ0SldrT0k1bGc1NFdwTnRZZ2RmSHV2UldvOEphb1dMOQp0ZVROZjZldU9aYi9TalYyOWMzUUd5dnVGZkIzdExvdUQvSVUwVjlnRDhuUURkaG1TdlpiK3lUZ2t2Z2NoRXI4CjN6Q0toaU1nUHhUWW5LZHJvY3FObnNQQUFVWUdMZWdxQjVxTzMwVkVCRlhyNnFQTjNBQXduYmhjanBsWEgydG0KQlFJREFRQUIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAkcmVzcG9uc2U7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICgkbXNnKSB7CiAgICAgICAgICAgICAgICAgICAgJHJlc3BvbnNlLT5kYXRhWydtc2cnXSA9ICRtc2c7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBpZiAoJGRhdGEpIHsKICAgICAgICAgICAgICAgICAgICAkcmVzcG9uc2UtPmRhdGFbJ2RhdGEnXSA9ICRkYXRhOwogICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">TUlHZk1BMEdDU3FHU0liM0RRRUJBUVVBQTRHTkFEQ0JpUUtCZ1FDMTVTSmhSaCsrZHR5eEZpRFZYVThyQ01aaQpkTTlzdDZTR0h5cWlSRzVpd2ZmaGRydDI1eUtZbzBzdDZXR245WEJMVmNnaU1RV004bGNQL3poNzhvSTBEWmVGCko4STN3Tk4vcDROOVJZVUs4S3gvQ0plQ0tGN1JlQXl1VW1UdVBjdVZvYlhBUGhQeE1vZEptWHYrQWUyQVA3TnQKRHdxakwzb3pVaG1KUUZ3M1FRSURBUUFCCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRyZXNwb25zZSA9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -495,13 +497,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">TUlHZk1BMEdDU3FHU0liM0RRRUJBUVVBQTRHTkFEQ0JpUUtCZ1FDMTVTSmhSaCsrZHR5eEZpRFZYVThyQ01aaQpkTTlzdDZTR0h5cWlSRzVpd2ZmaGRydDI1eUtZbzBzdDZXR245WEJMVmNnaU1RV004bGNQL3poNzhvSTBEWmVGCko4STN3Tk4vcDROOVJZVUs4S3gvQ0plQ0tGN1JlQXl1VW1UdVBjdVZvYlhBUGhQeE1vZEptWHYrQWUyQVA3TnQKRHdxakwzb3pVaG1KUUZ3M1FRSURBUUFCCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Back</text>
+        <text>nohls</text>
       </register>
     </registers>
   </component>
