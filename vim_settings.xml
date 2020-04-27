@@ -116,12 +116,11 @@
       <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/common/Jqns.php" timestamp="1587956074226">
         <mark key="'" line="211" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/Docker/shoufuyou-task/lib/Subcommands/RequestCashLoanCommand.php" timestamp="1587891018973">
-        <mark key="'" line="91" column="30" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="^" line="47" column="25" />
-        <mark key="." line="43" column="0" />
+      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/controllers/CommonController.php" timestamp="1587957365853">
+        <mark key="[" line="27" column="53" />
+        <mark key="]" line="27" column="58" />
+        <mark key="^" line="27" column="58" />
+        <mark key="." line="27" column="57" />
       </file>
       <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/config/test/jqns.php" timestamp="1587953554966">
         <mark key="[" line="16" column="0" />
@@ -135,18 +134,8 @@
         <mark key="^" line="148" column="10" />
         <mark key="." line="148" column="10" />
       </file>
-      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/helper/ErrorHandler.php" timestamp="1587956163500">
-        <mark key="'" line="50" column="26" />
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="^" line="48" column="34" />
-        <mark key="." line="50" column="0" />
-      </file>
       <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/rsa_private_key.pem" timestamp="1587953490753" />
       <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/common/logging/FileTarget.php" timestamp="1587955987304" />
-      <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashLoan/XlCash/XlCashLoanOrder.php" timestamp="1587890979130">
-        <mark key="'" line="643" column="4" />
-      </file>
       <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/service/gateways/ReportGateway.php" timestamp="1587896341173">
         <mark key="'" line="121" column="21" />
         <mark key="[" line="123" column="0" />
@@ -156,9 +145,6 @@
       </file>
       <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/common/error/ErrorHandler.php" timestamp="1587955914784">
         <mark key="'" line="17" column="6" />
-      </file>
-      <file name="$USER_HOME$/Develop/Docker/shoufuyou-task/lib/Subcommands/XlCashTaskCommand.php" timestamp="1587890989136">
-        <mark key="'" line="140" column="4" />
       </file>
       <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/controllers/BaseController.php" timestamp="1587956116760">
         <mark key="'" line="63" column="0" />
@@ -170,6 +156,7 @@
         <mark key="." line="48" column="32" />
         <mark key="^" line="48" column="33" />
       </file>
+      <file name="$USER_HOME$/Develop/Docker/xyf-credit-system/common/config/prod/params.php" timestamp="1587957797688" />
       <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/web/index.php" timestamp="1587956220553">
         <mark key="'" line="5" column="0" />
         <mark key="[" line="2" column="0" />
@@ -180,13 +167,14 @@
         <mark key="'" line="349" column="20" />
       </file>
       <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/BizSfyWebClient.php" timestamp="1587891734947" />
-      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/config/prod/jqns.php" timestamp="1587954780170">
-        <mark key="'" line="22" column="0" />
-        <mark key="[" line="3" column="20" />
-        <mark key="]" line="3" column="36" />
-        <mark key="." line="3" column="35" />
-        <mark key="^" line="3" column="36" />
+      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/config/prod/jqns.php" timestamp="1587957919407">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="4" column="20" />
+        <mark key="]" line="4" column="53" />
+        <mark key="^" line="4" column="53" />
+        <mark key="." line="4" column="52" />
       </file>
+      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/config/prod/ppd.php" timestamp="1587957728632" />
       <file name="$USER_HOME$/Develop/Docker/shoufuyou-task/lib/Subcommands/XlFundTaskCommand.php" timestamp="1587892276916">
         <mark key="'" line="37" column="23" />
       </file>
@@ -299,8 +287,16 @@
       <register name="a" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">JHdlYkVudiA9ICdwcm9kJzsK</text>
+      <register name="&quot;" type="4">
+        <text>-----BEGIN PUBLIC KEY----- 
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAr4uNWsfVr7XN2qExSiJF
+xU+HgWrOE1AX/9fS/XNPAXP9eLY35/i/1zlPM6JxTnj3G6LgPkCMB+G040ZVQp7d
+v+YdI9I8og9cv0aveACC6NvrdCP0SvcDk/9ZyLsyFRRUK+80BPeBn4HCiWloRbzx
+jWX0+QcyidCjsXdH66LkUXfF+aMRckn52rmrydcZh0ivC0W8MOK3iBVpDEjqhuxf
+lw2oUhN+TIH/4TBTZLJDcmm2kt9ueGVbiEx/E1stnEQiVeN4+xDsaQ/Xtmer25iY
+v0bTp3eoyuASHOspm+kZ0+Kpc8iQcpP60J8N8OkGCdIcok6IelB3qhCIYc5uowNU
+swIDAQAB
+-----END PUBLIC KEY-----</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -315,7 +311,7 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>code</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx4eWZQcml2YXRlS2V5XD4=</text>
@@ -323,8 +319,16 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnY29kZScgPT4gMCwK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">JHdlYkVudiA9ICdwcm9kJzsK</text>
+      <register name="1" type="4">
+        <text>-----BEGIN PUBLIC KEY----- 
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAr4uNWsfVr7XN2qExSiJF
+xU+HgWrOE1AX/9fS/XNPAXP9eLY35/i/1zlPM6JxTnj3G6LgPkCMB+G040ZVQp7d
+v+YdI9I8og9cv0aveACC6NvrdCP0SvcDk/9ZyLsyFRRUK+80BPeBn4HCiWloRbzx
+jWX0+QcyidCjsXdH66LkUXfF+aMRckn52rmrydcZh0ivC0W8MOK3iBVpDEjqhuxf
+lw2oUhN+TIH/4TBTZLJDcmm2kt9ueGVbiEx/E1stnEQiVeN4+xDsaQ/Xtmer25iY
+v0bTp3eoyuASHOspm+kZ0+Kpc8iQcpP60J8N8OkGCdIcok6IelB3qhCIYc5uowNU
+swIDAQAB
+-----END PUBLIC KEY-----</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -342,28 +346,42 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">TUlJQklqQU5CZ2txaGtpRzl3MEJBUUVGQUFPQ0FROEFNSUlCQ2dLQ0FRRUFyNHVOV3NmVnI3WE4ycUV4U2lKRgp4VStIZ1dyT0UxQVgvOWZTL1hOUEFYUDllTFkzNS9pLzF6bFBNNkp4VG5qM0c2TGdQa0NNQitHMDQwWlZRcDdkCnYrWWRJOUk4b2c5Y3YwYXZlQUNDNk52cmRDUDBTdmNEay85WnlMc3lGUlJVSys4MEJQZUJuNEhDaVdsb1JiengKaldYMCtRY3lpZENqc1hkSDY2TGtVWGZGK2FNUmNrbjUycm1yeWRjWmgwaXZDMFc4TU9LM2lCVnBERWpxaHV4ZgpsdzJvVWhOK1RJSC80VEJUWkxKRGNtbTJrdDl1ZUdWYmlFeC9FMXN0bkVRaVZlTjQreERzYVEvWHRtZXIyNWlZCnYwYlRwM2VveXVBU0hPc3BtK2taMCtLcGM4aVFjcFA2MEo4TjhPa0dDZEljb2s2SWVsQjNxaENJWWM1dW93TlUKc3dJREFRQUIK</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>-----BEGIN RSA PRIVATE KEY-----
+MIICXQIBAAKBgQDJ9Z7+pSir/f/lm3rRUEmXMWjfuIQNpYAJS7AgGg6Hm662A8am
+bQfXnjmAF9opWLTM0axuZL6PkmbgSNYRMqAwyYDTlDivhdvgvza0pcajmT8c2uOl
+GPgq4W7h9R6E9oGn0k/1e16bBlHILuzHQXXC5MLsrxNncl0NWTx9U6yeXQIDAQAB
+AoGAdjXmknZpkAJkPij7gnjUGkM5d3mxEavFfatns+KMjqN5Z+Bd7hvzcymRzoAn
+mfvqF9jCbPta7v5qaO05H2faiqmzmLW7c5jR+lPPIR3V5P1R1ZfePVz4vJedx8N3
+Rqd9Thl2cdb+tC4/Kl+sj7bdXL25SWN90dQjScYojOvEvgECQQDmGhKvmnHD30wU
+0yNtZ4BoGKkA6sVIg13EpP0BDTiPhG/dOkGRt4yM9TZxUkJSL9GDqLowtPgmzqhZ
+pD/YCAhxAkEA4LCuW7N7Lg/i8tP4tU7xF3pcS6pANpocEoWq258xLqMq4qKgqAiv
+CPSd68rJdpSPjNdOi1kByAZtQ5jA5dKKrQJBAOApREzoM64yyeZ7rka1jwVaCMKI
+8/ppZ57bcFJm89P0nBmz2A7B9l2XwRrynQN97CjL5d7vXdRIfP8fIMcvRDECQEWp
+obVetT83v7Zn0AFuo0MTNdBjzZrgNvnrJWkINzhtcFtp7oOKhbIyHVBAxCuWrdcN
+3hVIGExK6c9+abgXidUCQQCjhDdjOrnmOuXu3eTLYSryM3XNDLMVLP9eMagH0yIk
+1O3KZmkbcdSq39RZRif3pZKb/NWJrNv06tYXvnK7Ww2K
+-----END RSA PRIVATE KEY-----</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAkcmVzcG9uc2U7Cg==</text>
+        <text encoding="base64">TUlHZk1BMEdDU3FHU0liM0RRRUJBUVVBQTRHTkFEQ0JpUUtCZ1FESjlaNytwU2lyL2YvbG0zclJVRW1YTVdqZgp1SVFOcFlBSlM3QWdHZzZIbTY2MkE4YW1iUWZYbmptQUY5b3BXTFRNMGF4dVpMNlBrbWJnU05ZUk1xQXd5WURUCmxEaXZoZHZndnphMHBjYWptVDhjMnVPbEdQZ3E0VzdoOVI2RTlvR24way8xZTE2YkJsSElMdXpIUVhYQzVNTHMKcnhObmNsME5XVHg5VTZ5ZVhRSURBUUFCCi0tLS0tRU5EIFBVQkxJQyBLRVktLS0tLQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICgkbXNnKSB7CiAgICAgICAgICAgICAgICAgICAgJHJlc3BvbnNlLT5kYXRhWydtc2cnXSA9ICRtc2c7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBpZiAoJGRhdGEpIHsKICAgICAgICAgICAgICAgICAgICAkcmVzcG9uc2UtPmRhdGFbJ2RhdGEnXSA9ICRkYXRhOwogICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">JHdlYkVudiA9ICdwcm9kJzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRyZXNwb25zZSA9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -497,10 +515,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAkcmVzcG9uc2U7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICgkbXNnKSB7CiAgICAgICAgICAgICAgICAgICAgJHJlc3BvbnNlLT5kYXRhWydtc2cnXSA9ICRtc2c7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBpZiAoJGRhdGEpIHsKICAgICAgICAgICAgICAgICAgICAkcmVzcG9uc2UtPmRhdGFbJ2RhdGEnXSA9ICRkYXRhOwogICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>nohls</text>
