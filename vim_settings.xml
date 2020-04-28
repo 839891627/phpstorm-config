@@ -37,18 +37,18 @@
         <entry>action FindUsages</entry>
         <entry>action GotoFile</entry>
         <entry>action FileStructurePopup</entry>
-        <entry>vs</entry>
         <entry>action Annotate</entry>
         <entry>action RecentFiles</entry>
         <entry>action SelectInProjectView</entry>
         <entry>action OpenEditorInOppositeTabGroup</entry>
-        <entry>action RenameElement</entry>
-        <entry>nohls</entry>
-        <entry>action NextTab</entry>
         <entry>action PreviousTab</entry>
         <entry>action NextSplitter</entry>
+        <entry>action RenameElement</entry>
+        <entry>action NextTab</entry>
+        <entry>vs</entry>
         <entry>wq</entry>
         <entry>action Back</entry>
+        <entry>nohls</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -112,14 +112,16 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/shoufuyou/Table/CashPoolStashConfig.php" timestamp="1588067815287">
+      <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/shoufuyou/Table/CashPoolStashConfig.php" timestamp="1588069553294">
+        <mark key="'" line="3" column="34" />
         <mark key="z" line="4" column="0" />
         <mark key="[" line="26" column="14" />
         <mark key="]" line="26" column="25" />
         <mark key="." line="26" column="24" />
         <mark key="^" line="26" column="25" />
       </file>
-      <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashPool/CashPoolStashConfig.php" timestamp="1588067247154">
+      <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashPool/CashPoolStashConfig.php" timestamp="1588069550969">
+        <mark key="'" line="10" column="51" />
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="^" line="13" column="33" />
@@ -128,14 +130,14 @@
       <file name="$USER_HOME$/Develop/Docker/shoufuyou-fund-system/lib/Models/FundSource/Verify/VerifyAbstract.php" timestamp="1588060793105">
         <mark key="'" line="48" column="18" />
       </file>
-      <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashPool/CashPoolNew.php" timestamp="1588067971325">
-        <mark key="'" line="203" column="39" />
-        <mark key="[" line="202" column="0" />
-        <mark key="]" line="202" column="0" />
-        <mark key="^" line="208" column="10" />
-        <mark key="." line="202" column="0" />
+      <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashPool/CashPoolNew.php" timestamp="1588070077852">
+        <mark key="'" line="249" column="22" />
+        <mark key="[" line="224" column="0" />
+        <mark key="]" line="224" column="0" />
+        <mark key="^" line="237" column="28" />
+        <mark key="." line="224" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1588067973413">
+      <file name="/PHP Console" timestamp="1588069975637">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Docker/shoufuyou-console/lib/Models/CashPool/CashPoolNew.php" timestamp="1588067064163">
@@ -152,21 +154,18 @@
         <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashPool/Dict.php" timestamp="1588060847903" />
-      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/before/Income.php" timestamp="1588059506142">
-        <mark key="'" line="60" column="19" />
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/Docker/shoufuyou-fund-system/lib/Models/FundSource/Verify/VerifyPeriod.php" timestamp="1588068039294">
-        <mark key="'" line="231" column="131" />
-        <mark key="[" line="230" column="11" />
-        <mark key="]" line="230" column="39" />
-        <mark key="." line="230" column="38" />
-        <mark key="^" line="230" column="39" />
+      <file name="$USER_HOME$/Develop/Docker/shoufuyou-fund-system/lib/Models/FundSource/Verify/VerifyPeriod.php" timestamp="1588070243033">
+        <mark key="'" line="64" column="23" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+        <mark key="^" line="231" column="141" />
       </file>
       <file name="/Dummy.txt" timestamp="1588066976563">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/hyperframework/hyperframework/lib/Db/DbActiveRecord.php" timestamp="1588069665452">
+        <mark key="'" line="53" column="27" />
       </file>
       <file name="$USER_HOME$/Develop/Docker/shoufuyou-fund-system/log/fund/20200428.log" timestamp="1588061208975" />
       <file name="/fragment.php" timestamp="1588067320637">
@@ -179,14 +178,20 @@
         <mark key="." line="31" column="9" />
       </file>
       <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/XlCash/XlCashLoanOrder.php" timestamp="1588064201510" />
-      <file name="$USER_HOME$/Develop/Docker/shoufuyou-fund-system/lib/Models/FundSource/Verify/VerifyRules.php" timestamp="1588068130845">
-        <mark key="'" line="62" column="37" />
+      <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/OrmModel.php" timestamp="1588069642178" />
+      <file name="$USER_HOME$/Develop/Docker/shoufuyou-fund-system/lib/Models/FundSource/Verify/VerifyRules.php" timestamp="1588070323774">
+        <mark key="'" line="70" column="52" />
+        <mark key="[" line="69" column="17" />
+        <mark key="]" line="70" column="25" />
+        <mark key="^" line="70" column="25" />
+        <mark key="." line="70" column="24" />
       </file>
-      <file name="$USER_HOME$/Develop/Docker/shoufuyou-fund-system/lib/Models/FundSource/FundSourceManage.php" timestamp="1588068086813">
-        <mark key="'" line="50" column="46" />
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
+      <file name="$USER_HOME$/Develop/Docker/shoufuyou-fund-system/lib/Models/FundSource/FundSourceManage.php" timestamp="1588070737535">
+        <mark key="'" line="70" column="47" />
+        <mark key="[" line="98" column="50" />
+        <mark key="]" line="98" column="53" />
+        <mark key="." line="98" column="52" />
+        <mark key="^" line="98" column="53" />
       </file>
       <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/common/JqnsConvert.php" timestamp="1588065004697">
         <mark key="[" line="37" column="32" />
@@ -195,18 +200,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="23" filename="$USER_HOME$/Develop/Docker/shoufuyou-task/lib/Subcommands/XlFundTaskCommand.php" />
-      <jump line="155" column="34" filename="$USER_HOME$/Develop/Docker/shoufuyou-task/lib/Subcommands/XlFundTaskCommand.php" />
-      <jump line="37" column="23" filename="$USER_HOME$/Develop/Docker/shoufuyou-task/lib/Subcommands/XlFundTaskCommand.php" />
-      <jump line="121" column="21" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/service/gateways/ReportGateway.php" />
-      <jump line="25" column="35" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/config/prod/jqns.php" />
-      <jump line="47" column="15" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/common/Jqns.php" />
-      <jump line="35" column="13" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/common/Jqns.php" />
-      <jump line="196" column="61" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/common/Jqns.php" />
-      <jump line="48" column="15" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/common/Jqns.php" />
-      <jump line="22" column="0" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/config/prod/jqns.php" />
-      <jump line="58" column="12" filename="$USER_HOME$/Develop/Docker/shoufuyou-sms-system/lib/Models/Sms.php" />
-      <jump line="33" column="24" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/common/error/ErrorHandler.php" />
       <jump line="5" column="0" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/web/index.php" />
       <jump line="17" column="6" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/common/error/ErrorHandler.php" />
       <jump line="41" column="0" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/helper/ErrorHandler.php" />
@@ -260,7 +253,6 @@
       <jump line="741" column="46" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashLoanOrder.php" />
       <jump line="694" column="23" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashLoan/XlCash/XlCashLoanOrder.php" />
       <jump line="57" column="47" filename="$USER_HOME$/Develop/Docker/shoufuyou-fund-system/lib/Models/FundSource/FundSourceManage.php" />
-      <jump line="64" column="44" filename="$USER_HOME$/Develop/Docker/shoufuyou-fund-system/lib/Models/FundSource/Verify/VerifyPeriod.php" />
       <jump line="180" column="44" filename="$USER_HOME$/Develop/Docker/shoufuyou-fund-system/lib/Controllers/RouteController.php" />
       <jump line="15" column="23" filename="$USER_HOME$/Develop/Docker/dnmp/config/php/php71.ini" />
       <jump line="164" column="44" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/service/gateways/CreditGateway.php" />
@@ -274,10 +266,8 @@
       <jump line="42" column="64" filename="$USER_HOME$/Develop/Docker/shoufuyou-fund-system/lib/Models/FundSource/FundSourceManage.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/Docker/shoufuyou-fund-system/lib/Models/FundSource/Verify/VerifyAbstract.php" />
       <jump line="48" column="18" filename="$USER_HOME$/Develop/Docker/shoufuyou-fund-system/lib/Models/FundSource/Verify/VerifyAbstract.php" />
-      <jump line="50" column="46" filename="$USER_HOME$/Develop/Docker/shoufuyou-fund-system/lib/Models/FundSource/FundSourceManage.php" />
       <jump line="21" column="18" filename="$USER_HOME$/.ideavimrc" />
       <jump line="34" column="20" filename="$USER_HOME$/.ideavimrc" />
-      <jump line="61" column="12" filename="$USER_HOME$/Develop/Docker/shoufuyou-fund-system/lib/Models/FundSource/Verify/VerifyPeriod.php" />
       <jump line="187" column="53" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashPool/CashPoolNew.php" />
       <jump line="83" column="27" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashPool/CashPoolNew.php" />
       <jump line="81" column="56" filename="$USER_HOME$/Develop/Docker/shoufuyou-console/lib/Models/CashPool/CashPoolNew.php" />
@@ -285,7 +275,6 @@
       <jump line="263" column="19" filename="$USER_HOME$/Develop/Docker/shoufuyou-console/lib/Models/CashPool/CashPoolNew.php" />
       <jump line="154" column="8" filename="$USER_HOME$/Develop/Docker/shoufuyou-console/lib/Models/CashPool/CashPoolNew.php" />
       <jump line="15" column="6" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashPool/CashPoolNew.php" />
-      <jump line="231" column="131" filename="$USER_HOME$/Develop/Docker/shoufuyou-fund-system/lib/Models/FundSource/Verify/VerifyPeriod.php" />
       <jump line="200" column="23" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashPool/CashPoolNew.php" />
       <jump line="209" column="8" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashPool/CashPoolNew.php" />
       <jump line="198" column="4" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashPool/CashPoolNew.php" />
@@ -294,7 +283,23 @@
       <jump line="212" column="31" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashPool/CashPoolNew.php" />
       <jump line="213" column="21" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashPool/CashPoolNew.php" />
       <jump line="203" column="39" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashPool/CashPoolNew.php" />
-      <jump line="62" column="37" filename="$USER_HOME$/Develop/Docker/shoufuyou-fund-system/lib/Models/FundSource/Verify/VerifyRules.php" />
+      <jump line="62" column="48" filename="$USER_HOME$/Develop/Docker/shoufuyou-fund-system/lib/Models/FundSource/Verify/VerifyRules.php" />
+      <jump line="222" column="97" filename="$USER_HOME$/Develop/Docker/shoufuyou-fund-system/lib/Models/FundSource/Verify/VerifyRules.php" />
+      <jump line="231" column="138" filename="$USER_HOME$/Develop/Docker/shoufuyou-fund-system/lib/Models/FundSource/Verify/VerifyPeriod.php" />
+      <jump line="195" column="0" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashPool/CashPoolNew.php" />
+      <jump line="10" column="51" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashPool/CashPoolStashConfig.php" />
+      <jump line="3" column="34" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/shoufuyou/Table/CashPoolStashConfig.php" />
+      <jump line="53" column="27" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/hyperframework/hyperframework/lib/Db/DbActiveRecord.php" />
+      <jump line="229" column="44" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashPool/CashPoolNew.php" />
+      <jump line="30" column="11" filename="$USER_HOME$/Develop/Docker/shoufuyou-fund-system/lib/Models/FundSource/Verify/VerifyRules.php" />
+      <jump line="240" column="28" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashPool/CashPoolNew.php" />
+      <jump line="249" column="22" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashPool/CashPoolNew.php" />
+      <jump line="61" column="15" filename="$USER_HOME$/Develop/Docker/shoufuyou-fund-system/lib/Models/FundSource/Verify/VerifyPeriod.php" />
+      <jump line="64" column="23" filename="$USER_HOME$/Develop/Docker/shoufuyou-fund-system/lib/Models/FundSource/Verify/VerifyPeriod.php" />
+      <jump line="50" column="46" filename="$USER_HOME$/Develop/Docker/shoufuyou-fund-system/lib/Models/FundSource/FundSourceManage.php" />
+      <jump line="63" column="46" filename="$USER_HOME$/Develop/Docker/shoufuyou-fund-system/lib/Models/FundSource/FundSourceManage.php" />
+      <jump line="70" column="52" filename="$USER_HOME$/Develop/Docker/shoufuyou-fund-system/lib/Models/FundSource/Verify/VerifyRules.php" />
+      <jump line="70" column="47" filename="$USER_HOME$/Develop/Docker/shoufuyou-fund-system/lib/Models/FundSource/FundSourceManage.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -303,7 +308,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gdG9kbyDlm6Tph4/liKTmlq0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -318,16 +323,16 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>todo 需要附加上 &quot;囤量&quot;</text>
+        <text>return</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpc01pbkNhc2hcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZigkY29uZmlnWydzdGFydF90aW1lJ10gJiYgJG5vdyA8ICRjb25maWdbJ3N0YXJ0X3RpbWUnXSl7CiAgICAgICAgICAgIHJldHVybiAwOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICog6I635Y+W5b2T5YmN6LWE6YeR5rGg54m55a6a5pyf5pWw55qE5Zuk5Y2V6YWN572u6YePCiAgICAgKiBAcGFyYW0gaW50ICRwZXJpb2ROdW0KICAgICAqIEByZXR1cm4gaW50CiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRQZXJpb2RTdGFzaEFtb3VudChpbnQgJHBlcmlvZE51bSkKICAgIHsKICAgICAgICAkY29uZmlnID0gQ2FzaFBvb2xTdGFzaENvbmZpZzo6ZmluZFJvd0J5Q29sdW1ucyhbCiAgICAgICAgICAgICdwb29sX2lkJyAgICA9PiAkdGhpcy0+Z2V0SWQoKSwKICAgICAgICAgICAgJ3BlcmlvZF9udW0nID0+ICRwZXJpb2ROdW0sCiAgICAgICAgICAgICdzdGF0dXMnICAgICA9PiBDYXNoUG9vbFN0YXNoQ29uZmlnOjpTVEFUVVNfT04sCiAgICAgICAgXSwgWydiZWdpbl90aW1lJywgJ2VuZF90aW1lJywgJ2Ftb3VudCddKTsKICAgICAgICBpZiAoISRjb25maWcpIHsKICAgICAgICAgICAgLy8g5rKh6YWN572u77yM6L+U5ZueIDAKICAgICAgICAgICAgcmV0dXJuIDA7CiAgICAgICAgfQogICAgICAgICRub3cgPSBkYXRlKCdIOmk6cycpOwogICAgICAgIGlmICgkY29uZmlnLT5nZXRCZWdpblRpbWUoKSAmJiAkbm93IDwgJGNvbmZpZy0+Z2V0QmVnaW5UaW1lKCkpIHsKICAgICAgICAgICAgcmV0dXJuIDA7CiAgICAgICAgfQogICAgICAgIGlmICgkY29uZmlnLT5nZXRFbmRUaW1lKCkgJiYgJG5vdyA+ICRjb25maWctPmdldEVuZFRpbWUoKSkgewogICAgICAgICAgICByZXR1cm4gMDsKICAgICAgICB9CgogICAgICAgIHJldHVybiAkY29uZmlnLT5nZXRBbW91bnQoKTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gdG9kbyDlm6Tph4/liKTmlq0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -345,28 +350,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvKipAdmFyIFxTaG91ZnV5b3VcVGFibGVcQ2FzaFBvb2xTdGFzaENvbmZpZyAqKi8K</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBpbnQgJHBlcmlvZE51bQo=</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAwOwo=</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAwOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJG5vdyA9IGRhdGUoJ0g6aTpzJyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkY29uZmlnKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAkbm93ID0gZGF0ZSgnSDppOnMnKTsKICAgICAgICBpZiAoJGNvbmZpZy0+Z2V0QmVnaW5UaW1lKCkgJiYgJG5vdyA8ICRjb25maWctPmdldEJlZ2luVGltZSgpKSB7CiAgICAgICAgICAgIHJldHVybiAwOwogICAgICAgIH0KICAgICAgICBpZiAoJGNvbmZpZy0+Z2V0RW5kVGltZSgpICYmICRub3cgPiAkY29uZmlnLT5nZXRFbmRUaW1lKCkpIHsKICAgICAgICAgICAgcmV0dXJuIDA7CiAgICAgICAgfQoKICAgICAgICByZXR1cm4gJGNvbmZpZy0+Z2V0QW1vdW50KCk7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -500,13 +505,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3BlcmlvZF9udW0nID0+ICRwZXJpb2ROdW0sCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkc3FsID0gInNlbGVjdCBzdW0oYW1vdW50KSBmcm9tIENhc2hQb29sU3Rhc2hDb25maWcgd2hlcmUgcG9vbF9pZD17JHRoaXMtPmdldElkKCl9IGFuZCBzdGF0dXM9Ii5DYXNoUG9vbFN0YXNoQ29uZmlnOjpTVEFUVVNfT04sCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Back</text>
+        <text>nohls</text>
       </register>
     </registers>
   </component>
