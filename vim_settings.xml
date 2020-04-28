@@ -29,7 +29,6 @@
         <entry encoding="base64">XDxwY250bFw+</entry>
       </history-search>
       <history-cmd>
-        <entry>action KJumpAction</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>vs</entry>
         <entry>action NextSplitter</entry>
@@ -44,11 +43,12 @@
         <entry>action SelectInProjectView</entry>
         <entry>action PreviousTab</entry>
         <entry>action FileStructurePopup</entry>
-        <entry>action Annotate</entry>
-        <entry>action Back</entry>
         <entry>action RecentFiles</entry>
         <entry>action FindUsages</entry>
+        <entry>action RenameElement</entry>
         <entry>nohls</entry>
+        <entry>action Annotate</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -112,12 +112,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/controllers/CommonController.php" timestamp="1587957365853">
-        <mark key="[" line="27" column="53" />
-        <mark key="]" line="27" column="58" />
-        <mark key="^" line="27" column="58" />
-        <mark key="." line="27" column="57" />
-      </file>
       <file name="$USER_HOME$/Develop/Docker/shoufuyou-task/lib/Subcommands/RequestCashLoanCommand.php" timestamp="1588054667333">
         <mark key="'" line="90" column="29" />
         <mark key="[" line="33" column="0" />
@@ -136,13 +130,13 @@
       <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashLoanOrder.php" timestamp="1588055576005">
         <mark key="'" line="741" column="46" />
       </file>
-      <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashLoan/XlCash/XlCashLoanOrder.php" timestamp="1588055827876">
-        <mark key="[" line="692" column="19" />
-        <mark key="]" line="692" column="34" />
-        <mark key="." line="692" column="33" />
-        <mark key="^" line="692" column="34" />
+      <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashLoan/XlCash/XlCashLoanOrder.php" timestamp="1588056779161">
+        <mark key="[" line="692" column="23" />
+        <mark key="]" line="692" column="31" />
+        <mark key="." line="692" column="30" />
+        <mark key="^" line="692" column="31" />
       </file>
-      <file name="/PHP Console" timestamp="1588043236726">
+      <file name="/PHP Console" timestamp="1588057193537">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Docker/shoufuyou-fund-system/lib/Models/FundSource/Verify/VerifyCashPool.php" timestamp="1588053347537">
@@ -201,6 +195,9 @@
         <mark key="^" line="4" column="53" />
         <mark key="." line="4" column="52" />
       </file>
+      <file name="$USER_HOME$/Develop/Docker/shoufuyou-fund-system/lib/Models/FundSource/Verify/VerifyRules.php" timestamp="1588057168492">
+        <mark key="'" line="62" column="49" />
+      </file>
       <file name="$USER_HOME$/Develop/Docker/shoufuyou-fund-system/lib/Models/Loan/LoanMiddle.php" timestamp="1588055712530">
         <mark key="[" line="332" column="33" />
         <mark key="]" line="332" column="33" />
@@ -215,8 +212,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1097" column="45" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashLoanOrder.php" />
-      <jump line="917" column="16" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashLoanOrder.php" />
       <jump line="877" column="39" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashLoanOrder.php" />
       <jump line="895" column="56" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashLoanOrder.php" />
       <jump line="268" column="41" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashLoanOrder.php" />
@@ -315,6 +310,8 @@
       <jump line="64" column="79" filename="$USER_HOME$/Develop/Docker/shoufuyou-fund-system/lib/Models/FundSource/Verify/VerifyPeriod.php" />
       <jump line="90" column="29" filename="$USER_HOME$/Develop/Docker/shoufuyou-task/lib/Subcommands/RequestCashLoanCommand.php" />
       <jump line="741" column="46" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashLoanOrder.php" />
+      <jump line="694" column="23" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashLoan/XlCash/XlCashLoanOrder.php" />
+      <jump line="62" column="49" filename="$USER_HOME$/Develop/Docker/shoufuyou-fund-system/lib/Models/FundSource/Verify/VerifyRules.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -322,8 +319,8 @@
       <register name="a" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>o</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8g5LuK5pel5pS+5qy+6aKd5bqm5pyq5ruhCg==</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -338,16 +335,16 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>Now</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwY250bFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnY29kZScgPT4gMCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8g5LuK5pel5pS+5qy+6aKd5bqm5pyq5ruhCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9ZWxzZXsKICAgICAgICAgICAgLy8gdG9vZCDlm6TljZUKICAgICAgICAgICAgMTExMTEgPT4gNjAwMCwKICAgICAgICAgICAgMjIyMjIgPT4gODAwMCwKICAgICAgICAgICAgMzMzMzMgPT4gODAwMAogICAgICAgIH0KICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPnN0b3JlKCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -365,28 +362,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDosIPnlKjotYTph5Hns7vnu5/or6Lpl67mmK/lkKblt7Lmu6EKICAgICAgICBpZihub3Qpewo=</text>
+        <text encoding="base64">ICAgICAgICB9ZWxzZXsKICAgICAgICAgICAgLy8gdG9vZCDlm6TljZUKICAgICAgICAgICAgMTExMTEgPT4gNjAwMCwKICAgICAgICAgICAgMjIyMjIgPT4gODAwMCwKICAgICAgICAgICAgMzMzMzMgPT4gODAwMAogICAgICAgIH0KICAgICAgICAK</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyDosIPnlKjotYTph5Hns7vnu5/or6Lpl67mmK/lkKblt7Lmu6EKICAgICAgICBpZihub3Qpewo=</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+b3JkZXJSZW1pdCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+b3JkZXJSZW1pdCgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgMzAwdwogICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -520,13 +517,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgMzAwdwogICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgMTExMTEgPT4gNjAwMCwKICAgICAgICAgICAgMjIyMjIgPT4gODAwMCwKICAgICAgICAgICAgMzMzMzMgPT4gODAwMAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>nohls</text>
+        <text>action Back</text>
       </register>
     </registers>
   </component>
