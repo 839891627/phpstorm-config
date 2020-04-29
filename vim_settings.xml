@@ -112,6 +112,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Develop/Docker/shoufuyou-console/lib/Controllers/Api/ConsoleUserController.php" timestamp="1588125142620">
+        <mark key="[" line="71" column="25" />
+        <mark key="]" line="71" column="25" />
+        <mark key="." line="71" column="25" />
+        <mark key="^" line="71" column="67" />
+      </file>
       <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/shoufuyou/Table/CashPoolStashConfig.php" timestamp="1588069553294">
         <mark key="'" line="3" column="34" />
         <mark key="z" line="4" column="0" />
@@ -146,12 +152,6 @@
         <mark key="]" line="262" column="0" />
         <mark key="." line="262" column="0" />
         <mark key="^" line="266" column="39" />
-      </file>
-      <file name="$USER_HOME$/Develop/Docker/shoufuyou-fund-system/lib/Models/FundSource/Verify/VerifyCashPool.php" timestamp="1588060276070">
-        <mark key="'" line="48" column="31" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashPool/Dict.php" timestamp="1588060847903" />
       <file name="$USER_HOME$/Develop/Docker/shoufuyou-fund-system/lib/Models/FundSource/Verify/VerifyPeriod.php" timestamp="1588070243033">
@@ -307,8 +307,8 @@
       <register name="a" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>'</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -323,13 +323,13 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>return</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpc01pbkNhc2hcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICog6I635Y+W5b2T5YmN6LWE6YeR5rGg54m55a6a5pyf5pWw55qE5Zuk5Y2V6YWN572u6YePCiAgICAgKiBAcGFyYW0gaW50ICRwZXJpb2ROdW0KICAgICAqIEByZXR1cm4gaW50CiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRQZXJpb2RTdGFzaEFtb3VudChpbnQgJHBlcmlvZE51bSkKICAgIHsKICAgICAgICAkY29uZmlnID0gQ2FzaFBvb2xTdGFzaENvbmZpZzo6ZmluZFJvd0J5Q29sdW1ucyhbCiAgICAgICAgICAgICdwb29sX2lkJyAgICA9PiAkdGhpcy0+Z2V0SWQoKSwKICAgICAgICAgICAgJ3BlcmlvZF9udW0nID0+ICRwZXJpb2ROdW0sCiAgICAgICAgICAgICdzdGF0dXMnICAgICA9PiBDYXNoUG9vbFN0YXNoQ29uZmlnOjpTVEFUVVNfT04sCiAgICAgICAgXSwgWydiZWdpbl90aW1lJywgJ2VuZF90aW1lJywgJ2Ftb3VudCddKTsKICAgICAgICBpZiAoISRjb25maWcpIHsKICAgICAgICAgICAgLy8g5rKh6YWN572u77yM6L+U5ZueIDAKICAgICAgICAgICAgcmV0dXJuIDA7CiAgICAgICAgfQogICAgICAgICRub3cgPSBkYXRlKCdIOmk6cycpOwogICAgICAgIGlmICgkY29uZmlnLT5nZXRCZWdpblRpbWUoKSAmJiAkbm93IDwgJGNvbmZpZy0+Z2V0QmVnaW5UaW1lKCkpIHsKICAgICAgICAgICAgcmV0dXJuIDA7CiAgICAgICAgfQogICAgICAgIGlmICgkY29uZmlnLT5nZXRFbmRUaW1lKCkgJiYgJG5vdyA+ICRjb25maWctPmdldEVuZFRpbWUoKSkgewogICAgICAgICAgICByZXR1cm4gMDsKICAgICAgICB9CgogICAgICAgIHJldHVybiAkY29uZmlnLT5nZXRBbW91bnQoKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAkbG9naW5MaW1pdEtleSA9ICdjb25zb2xlOmxvZ2luTGltaXQ6JyAuICRhY2NvdW50IC4gJzonIC4gZGF0ZSgnWS1tLWQnKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
