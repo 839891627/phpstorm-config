@@ -37,7 +37,6 @@
         <entry>action FindUsages</entry>
         <entry>action GotoFile</entry>
         <entry>action FileStructurePopup</entry>
-        <entry>action Annotate</entry>
         <entry>action RecentFiles</entry>
         <entry>action SelectInProjectView</entry>
         <entry>action OpenEditorInOppositeTabGroup</entry>
@@ -49,6 +48,7 @@
         <entry>wq</entry>
         <entry>action Back</entry>
         <entry>nohls</entry>
+        <entry>action Annotate</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -112,11 +112,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Develop/Docker/shoufuyou-console/lib/Controllers/Api/ConsoleUserController.php" timestamp="1588125142620">
-        <mark key="[" line="71" column="25" />
-        <mark key="]" line="71" column="25" />
-        <mark key="." line="71" column="25" />
-        <mark key="^" line="71" column="67" />
+      <file name="$USER_HOME$/Develop/Docker/shoufuyou-console/lib/Controllers/Api/ConsoleUserController.php" timestamp="1588125351259">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="." line="71" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/shoufuyou/Table/CashPoolStashConfig.php" timestamp="1588069553294">
         <mark key="'" line="3" column="34" />
@@ -132,9 +131,6 @@
         <mark key="]" line="14" column="0" />
         <mark key="^" line="13" column="33" />
         <mark key="." line="14" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/Docker/shoufuyou-fund-system/lib/Models/FundSource/Verify/VerifyAbstract.php" timestamp="1588060793105">
-        <mark key="'" line="48" column="18" />
       </file>
       <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashPool/CashPoolNew.php" timestamp="1588070077852">
         <mark key="'" line="249" column="22" />
@@ -153,7 +149,6 @@
         <mark key="." line="262" column="0" />
         <mark key="^" line="266" column="39" />
       </file>
-      <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashPool/Dict.php" timestamp="1588060847903" />
       <file name="$USER_HOME$/Develop/Docker/shoufuyou-fund-system/lib/Models/FundSource/Verify/VerifyPeriod.php" timestamp="1588070243033">
         <mark key="'" line="64" column="23" />
         <mark key="[" line="44" column="0" />
@@ -186,6 +181,8 @@
         <mark key="^" line="70" column="25" />
         <mark key="." line="70" column="24" />
       </file>
+      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/Bootstrap.php" timestamp="1588126155306" />
+      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/controllers/MiddleController.php" timestamp="1588126420710" />
       <file name="$USER_HOME$/Develop/Docker/shoufuyou-fund-system/lib/Models/FundSource/FundSourceManage.php" timestamp="1588070737535">
         <mark key="'" line="70" column="47" />
         <mark key="[" line="98" column="50" />
@@ -307,8 +304,8 @@
       <register name="a" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAkbG9naW5MaW1pdEtleSA9IGNvbnNvbGU6bG9naW5MaW1pdDoxNjY5OTI0ODk2NjoyMDIwLTA0LTI5Cg==</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -332,7 +329,7 @@
         <text encoding="base64">ICAgICAgICAkbG9naW5MaW1pdEtleSA9ICdjb25zb2xlOmxvZ2luTGltaXQ6JyAuICRhY2NvdW50IC4gJzonIC4gZGF0ZSgnWS1tLWQnKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAkbG9naW5MaW1pdEtleSA9IGNvbnNvbGU6bG9naW5MaW1pdDoxNjY5OTI0ODk2NjoyMDIwLTA0LTI5Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -350,13 +347,13 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBpbnQgJHBlcmlvZE51bQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAwOwo=</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBpbnQgJHBlcmlvZE51bQo=</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
@@ -365,13 +362,13 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAwOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJG5vdyA9IGRhdGUoJ0g6aTpzJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAwOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJG5vdyA9IGRhdGUoJ0g6aTpzJyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkbm93ID0gZGF0ZSgnSDppOnMnKTsKICAgICAgICBpZiAoJGNvbmZpZy0+Z2V0QmVnaW5UaW1lKCkgJiYgJG5vdyA8ICRjb25maWctPmdldEJlZ2luVGltZSgpKSB7CiAgICAgICAgICAgIHJldHVybiAwOwogICAgICAgIH0KICAgICAgICBpZiAoJGNvbmZpZy0+Z2V0RW5kVGltZSgpICYmICRub3cgPiAkY29uZmlnLT5nZXRFbmRUaW1lKCkpIHsKICAgICAgICAgICAgcmV0dXJuIDA7CiAgICAgICAgfQoKICAgICAgICByZXR1cm4gJGNvbmZpZy0+Z2V0QW1vdW50KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -505,13 +502,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3BlcmlvZF9udW0nID0+ICRwZXJpb2ROdW0sCg==</text>
+        <text encoding="base64">ICAgICAgICAkbm93ID0gZGF0ZSgnSDppOnMnKTsKICAgICAgICBpZiAoJGNvbmZpZy0+Z2V0QmVnaW5UaW1lKCkgJiYgJG5vdyA8ICRjb25maWctPmdldEJlZ2luVGltZSgpKSB7CiAgICAgICAgICAgIHJldHVybiAwOwogICAgICAgIH0KICAgICAgICBpZiAoJGNvbmZpZy0+Z2V0RW5kVGltZSgpICYmICRub3cgPiAkY29uZmlnLT5nZXRFbmRUaW1lKCkpIHsKICAgICAgICAgICAgcmV0dXJuIDA7CiAgICAgICAgfQoKICAgICAgICByZXR1cm4gJGNvbmZpZy0+Z2V0QW1vdW50KCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkc3FsID0gInNlbGVjdCBzdW0oYW1vdW50KSBmcm9tIENhc2hQb29sU3Rhc2hDb25maWcgd2hlcmUgcG9vbF9pZD17JHRoaXMtPmdldElkKCl9IGFuZCBzdGF0dXM9Ii5DYXNoUG9vbFN0YXNoQ29uZmlnOjpTVEFUVVNfT04sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3BlcmlvZF9udW0nID0+ICRwZXJpb2ROdW0sCg==</text>
       </register>
       <register name=":" type="4">
-        <text>nohls</text>
+        <text>action Annotate</text>
       </register>
     </registers>
   </component>
