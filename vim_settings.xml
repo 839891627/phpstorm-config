@@ -34,21 +34,21 @@
         <entry>action OpenEditorInOppositeTabGroup</entry>
         <entry>action FindUsages</entry>
         <entry>action GotoFile</entry>
-        <entry>action RenameElement</entry>
         <entry>action CloseAllEditors</entry>
         <entry>action FindInPath</entry>
         <entry>action FileStructurePopup</entry>
-        <entry>action PreviousTab</entry>
         <entry>action NextTab</entry>
         <entry>.nohls</entry>
-        <entry>action Back</entry>
-        <entry>action RecentFiles</entry>
         <entry>action SelectInProjectView</entry>
         <entry>vs</entry>
-        <entry>wq</entry>
         <entry>action KJumpAction.Word0</entry>
+        <entry>action PreviousTab</entry>
+        <entry>action Back</entry>
         <entry>nohls</entry>
+        <entry>wq</entry>
+        <entry>action RecentFiles</entry>
         <entry>action NextSplitter</entry>
+        <entry>action RenameElement</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -112,19 +112,19 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Develop/Docker/shoufuyou-task/lib/Subcommands/RequestCashLoanCommand.php" timestamp="1588145712216">
-        <mark key="'" line="90" column="31" />
+      <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/shoufuyou/Table/CashPoolStashConfig.php" timestamp="1588155674702">
+        <mark key="'" line="13" column="6" />
       </file>
-      <file name="$USER_HOME$/Develop/Docker/shoufuyou-fund-system/lib/Models/CashLoan.php" timestamp="1588148478803">
-        <mark key="'" line="124" column="39" />
-      </file>
-      <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/shoufuyou/Table/CashLoanNonStashQueue.php" timestamp="1588147097534">
-        <mark key="[" line="17" column="23" />
-        <mark key="]" line="17" column="34" />
-        <mark key="." line="17" column="33" />
-        <mark key="^" line="17" column="34" />
+      <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashPool/CashPoolStashConfig.php" timestamp="1588155668167">
+        <mark key="'" line="10" column="51" />
       </file>
       <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashPool/CashPoolRecommendRecord.php" timestamp="1588149507568" />
+      <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashPool/CashLoanStashQueue.php" timestamp="1588154886579">
+        <mark key="[" line="13" column="1" />
+        <mark key="]" line="14" column="17" />
+        <mark key="^" line="14" column="17" />
+        <mark key="." line="14" column="16" />
+      </file>
       <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/shoufuyou/Table/CashPoolPeriod.php" timestamp="1588150583637">
         <mark key="'" line="14" column="6" />
       </file>
@@ -133,20 +133,21 @@
         <mark key="[" line="47" column="0" />
         <mark key="]" line="56" column="25" />
       </file>
-      <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashPool/CashPoolNew.php" timestamp="1588149494874">
-        <mark key="'" line="209" column="20" />
+      <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashPool/CashPoolNew.php" timestamp="1588155918072">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="211" column="0" />
+        <mark key="]" line="217" column="9" />
+        <mark key="." line="204" column="19" />
       </file>
-      <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashLoan/XlCash/XlCashLoanOrder.php" timestamp="1588152367865">
-        <mark key="'" line="701" column="31" />
-        <mark key="[" line="700" column="54" />
-        <mark key="]" line="701" column="60" />
-        <mark key="." line="701" column="59" />
-        <mark key="^" line="701" column="60" />
+      <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashLoan/XlCash/XlCashLoanOrder.php" timestamp="1588155710262">
+        <mark key="'" line="696" column="18" />
+        <mark key="[" line="697" column="13" />
+        <mark key="]" line="697" column="20" />
+        <mark key="." line="697" column="19" />
+        <mark key="^" line="697" column="20" />
       </file>
-      <file name="$USER_HOME$/Develop/Docker/shoufuyou-fund-system/lib/Models/FundSource/Verify/VerifyCashPool.php" timestamp="1588148710698">
-        <mark key="'" line="33" column="31" />
-        <mark key="[" line="100" column="0" />
-        <mark key="]" line="100" column="78" />
+      <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/shoufuyou/Table/BaseTable.php" timestamp="1588155225642">
+        <mark key="'" line="52" column="20" />
       </file>
       <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashPool/CashPoolPeriod.php" timestamp="1588149488335">
         <mark key="'" line="85" column="27" />
@@ -174,21 +175,18 @@
         <mark key="^" line="32" column="16" />
         <mark key="." line="32" column="15" />
       </file>
+      <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/shoufuyou/Table/CashPoolNew.php" timestamp="1588155801047">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashLoanRecord.php" timestamp="1588149983939">
         <mark key="'" line="59" column="27" />
       </file>
-      <file name="$USER_HOME$/Develop/Docker/shoufuyou-fund-system/lib/Models/FundSource/Verify/VerifyRules.php" timestamp="1588148635991">
-        <mark key="'" line="101" column="34" />
-        <mark key="[" line="99" column="0" />
-        <mark key="]" line="103" column="11" />
-        <mark key="." line="224" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashLoan/StashLogic.php" timestamp="1588152354119">
-        <mark key="'" line="111" column="20" />
-        <mark key="[" line="122" column="7" />
-        <mark key="]" line="123" column="16" />
-        <mark key="." line="123" column="15" />
-        <mark key="^" line="123" column="16" />
+      <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashLoan/StashLogic.php" timestamp="1588155971598">
+        <mark key="'" line="124" column="24" />
+        <mark key="[" line="140" column="9" />
+        <mark key="]" line="142" column="21" />
+        <mark key="." line="142" column="20" />
+        <mark key="^" line="142" column="21" />
       </file>
       <file name="$USER_HOME$/Develop/Docker/shoufuyou-fund-system/lib/Models/FundSource/FundSourceManage.php" timestamp="1588150979146">
         <mark key="'" line="158" column="41" />
@@ -197,31 +195,8 @@
         <mark key="." line="98" column="52" />
         <mark key="^" line="98" column="53" />
       </file>
-      <file name="$USER_HOME$/Develop/Docker/shoufuyou-fund-system/lib/Controllers/RouteController.php" timestamp="1588148469094">
-        <mark key="'" line="102" column="36" />
-        <mark key="[" line="188" column="6" />
-        <mark key="]" line="188" column="6" />
-        <mark key="m" line="188" column="6" />
-        <mark key="^" line="188" column="6" />
-        <mark key="." line="188" column="5" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="36" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/shoufuyou/Table/CashPoolStashQueue.php" />
-      <jump line="737" column="38" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashLoan/XlCash/XlCashLoanOrder.php" />
-      <jump line="44" column="32" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashLoan/XlCash/XlCashLoanOrder.php" />
-      <jump line="877" column="38" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashLoanOrder.php" />
-      <jump line="1097" column="42" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashLoanOrder.php" />
-      <jump line="209" column="21" filename="$USER_HOME$/Develop/Docker/shoufuyou-fund-system/lib/Models/FundSource/Verify/VerifyPeriod.php" />
-      <jump line="231" column="81" filename="$USER_HOME$/Develop/Docker/shoufuyou-fund-system/lib/Models/FundSource/Verify/VerifyPeriod.php" />
-      <jump line="14" column="0" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashLoanRecord.php" />
-      <jump line="710" column="4" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashLoan/XlCash/XlCashLoanOrder.php" />
-      <jump line="114" column="40" filename="$USER_HOME$/Develop/Docker/shoufuyou-fund-system/lib/Models/FundSource/Verify/VerifyPeriod.php" />
-      <jump line="223" column="68" filename="$USER_HOME$/Develop/Docker/shoufuyou-fund-system/lib/Models/FundSource/Verify/VerifyPeriod.php" />
-      <jump line="225" column="68" filename="$USER_HOME$/Develop/Docker/shoufuyou-fund-system/lib/Models/FundSource/Verify/VerifyPeriod.php" />
-      <jump line="700" column="26" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashLoan/XlCash/XlCashLoanOrder.php" />
-      <jump line="718" column="36" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashLoan/XlCash/XlCashLoanOrder.php" />
-      <jump line="698" column="20" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashLoan/XlCash/XlCashLoanOrder.php" />
       <jump line="14" column="0" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashLoan/XlCash/XlCashLoanOrder.php" />
       <jump line="703" column="22" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashLoan/XlCash/XlCashLoanOrder.php" />
       <jump line="15" column="14" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashPool/CashLoanNonStashQueue.php" />
@@ -307,6 +282,21 @@
       <jump line="55" column="18" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashLoan/XlCash/XlCashLoanOrder.php" />
       <jump line="111" column="20" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashLoan/StashLogic.php" />
       <jump line="701" column="31" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashLoan/XlCash/XlCashLoanOrder.php" />
+      <jump line="114" column="16" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashLoan/StashLogic.php" />
+      <jump line="115" column="23" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashLoan/StashLogic.php" />
+      <jump line="119" column="16" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashLoan/StashLogic.php" />
+      <jump line="120" column="15" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashLoan/StashLogic.php" />
+      <jump line="121" column="36" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashLoan/StashLogic.php" />
+      <jump line="52" column="20" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/shoufuyou/Table/BaseTable.php" />
+      <jump line="122" column="18" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashLoan/StashLogic.php" />
+      <jump line="719" column="23" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashLoan/XlCash/XlCashLoanOrder.php" />
+      <jump line="696" column="18" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashLoan/XlCash/XlCashLoanOrder.php" />
+      <jump line="61" column="68" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashLoan/StashLogic.php" />
+      <jump line="10" column="51" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashPool/CashPoolStashConfig.php" />
+      <jump line="13" column="6" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/shoufuyou/Table/CashPoolStashConfig.php" />
+      <jump line="124" column="24" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashLoan/StashLogic.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/shoufuyou/Table/CashPoolNew.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashPool/CashPoolNew.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -314,8 +304,8 @@
       <register name="a" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -330,13 +320,13 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>private</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvcmRlclJlbWl0TGF0ZXJcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>CashLoanOrder $cashLoanOrder</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAkbm93ID0gZGF0ZSgnSDppOnMnKTsKICAgICAgICBpZiAoJGNvbmZpZy0+Z2V0QmVnaW5UaW1lKCkgJiYgJG5vdyA8ICRjb25maWctPmdldEJlZ2luVGltZSgpKSB7CiAgICAgICAgICAgIHJldHVybiAwOwogICAgICAgIH0KICAgICAgICBpZiAoJGNvbmZpZy0+Z2V0RW5kVGltZSgpICYmICRub3cgPiAkY29uZmlnLT5nZXRFbmRUaW1lKCkpIHsKICAgICAgICAgICAgcmV0dXJuIDA7CiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -357,28 +347,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAvLyDmt7vliqDljbPml7bmjqjljZXnmoTorrDlvZXvvIzlkI7nu63lj6/ku6XnlKjmnaXnu5/orqHnnJ/lrp7mjqjpgIHnu5notYTmlrnnmoTpop3luqYKICAgICAgICAgICAgICAgICAgQ2FzaExvYW5Ob25TdGFzaFF1ZXVlOjphZGRSZWNvcmQoJGNhc2hMb2FuT3JkZXItPmdldEZ1bmRTb3VyY2UoKSwgJGNhc2hMb2FuT3JkZXItPmdldFBlcmlvZCgpLCAkY2FzaExvYW5PcmRlci0+Z2V0T3JkZXJOdW1iZXIoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogdG9kbyDmj5Dlj5bkuLogdHJhaXQKICAgICAqIOWunumZhei/m+S7tumineW6puaYr+WQpuW3sua7oQogICAgICogQHBhcmFtIENhc2hMb2FuT3JkZXIgJGNhc2hMb2FuT3JkZXIKICAgICAqIEByZXR1cm4gYm9vbAogICAgICovCiAgICBwcml2YXRlIGZ1bmN0aW9uIGlzRnVsbChDYXNoTG9hbk9yZGVyICRjYXNoTG9hbk9yZGVyKTpib29sCiAgICB7CiAgICAgICAgLy8g5rOo5oSP77ya5Zuk6YeP55qE6K6i5Y2V5Lmf5bey57uP5ZyoIENhc2hMb2FuUmVjb3JkIOS4reS6hgogICAgICAgICRjYXNoUG9vbE5ldyA9IENhc2hQb29sTmV3OjpmaW5kKFsnY2FzaF9wb29sX2NvZGUnID0+ICRjYXNoTG9hbk9yZGVyLT5nZXRGdW5kU291cmNlKCldKTsKICAgICAgICAkY2FzaFR5cGUgPSAkY2FzaExvYW5PcmRlci0+Z2V0TG9hblR5cGUoKTsKCiAgICAgICAgJGNhc2hQb29sQ29uZmlnID0gQ2FzaFBvb2xDb25maWc6OmZpbmQoWwogICAgICAgICAgICAncG9vbF9pZCcgICA9PiAkY2FzaFBvb2xOZXctPmdldElkKCksCiAgICAgICAgICAgICdjYXNoX3R5cGUnID0+ICRjYXNoVHlwZSwKICAgICAgICAgICAgJ3N0YXR1cycgICAgPT4gRGljdDo6Q09ORklHX1NUQVRVU19PTiwKICAgICAgICBdKTsKICAgICAgICAkY3VyUGVyaW9kID0gQ2FzaFBvb2xQZXJpb2Q6OmZpbmRSb3dCeUNvbHVtbnMoWydjb25maWdfaWQnID0+ICRjYXNoUG9vbENvbmZpZy0+Z2V0SWQoKSwgJ3BlcmlvZF9udW0nID0+ICRjYXNoTG9hbk9yZGVyLT5nZXRQZXJpb2QoKV0pOwogICAgICAgIGlmIChpc19udWxsKCRjdXJQZXJpb2QtPmdldFBlcmlvZExpbWl0QWNjb3VudCgpKSkgewogICAgICAgICAgICAvLyDkuLogbnVsbO+8jOihqOekuuS4jemZkOWItgogICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgfQogICAgICAgIGlmICgkY3VyUGVyaW9kLT5nZXRQZXJpb2RMaW1pdEFjY291bnQoKSA9PSAwKSB7CiAgICAgICAgICAgIC8vIOS4ujDvvIzooajnpLrnpoHnlKgKICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgfQoKICAgICAgICAkc3RhcnRUaW1lID0gVGltZTo6Z2V0RGFpbHlTdGFydFRpbWUoKTsKICAgICAgICAkZW5kVGltZSA9IFRpbWU6OmdldERhaWx5RW5kVGltZSgpOwogICAgICAgICRvcmRlck51bWJlcnMgPSBDYXNoTG9hbk5vblN0YXNoUXVldWU6OmdldFRvZGF5T3JkZXJOdW1iZXJzKCRjYXNoTG9hbk9yZGVyLT5nZXRGdW5kU291cmNlKCksICRjYXNoTG9hbk9yZGVyLT5nZXRQZXJpb2QoKSk7CgogICAgICAgIGlmICgkY2FzaFBvb2xDb25maWctPmdldENhc2hUeXBlKCkgPT0gRGljdDo6Q0FTSF9UWVBFX0NBU0gpIHsKICAgICAgICAgICAgLy8gJHRvZGF5QW1vdW50ID0gQ2FzaExvYW5SZWNvcmQ6OmdldERhaWx5TGltaXRBbW91bnRCeVBlcmlvZCgkY2FzaFBvb2xOZXctPmdldENhc2hQb29sQ29kZSgpLCAkY2FzaExvYW5PcmRlci0+Z2V0UGVyaW9kKCksIERpY3Q6OiR1c2VyVHlwZUNhc2gsICRvcmRlck51bWJlcnMpOwogICAgICAgICAgICAkcGFyYW1zID0gWwogICAgICAgICAgICAgICAgJzpzdGFydFRpbWUnICA9PiAkc3RhcnRUaW1lLAogICAgICAgICAgICAgICAgJzplbmRUaW1lJyAgICA9PiAkZW5kVGltZSwKICAgICAgICAgICAgICAgICc6ZnVuZFNvdXJjZScgPT4gJGNhc2hMb2FuT3JkZXItPmdldEZ1bmRTb3VyY2UoKSwKICAgICAgICAgICAgICAgICc6cGVyaW9kJyAgICAgPT4gJGNhc2hMb2FuT3JkZXItPmdldFBlcmlvZCgpLAogICAgICAgICAgICBdOwoKICAgICAgICAgICAgJHByb2R1Y3RUeXBlU3RyID0gaW1wbG9kZSgiJywnIiwgRGljdDo6JHVzZXJUeXBlQ2FzaCk7CiAgICAgICAgICAgICRvcmRlck51bWJlcnMgPSAnKCcgLiBpbXBsb2RlKCcsJywgJG9yZGVyTnVtYmVycykgLiAnKSc7CgogICAgICAgICAgICAkd2hlcmUgPSAiIGNyZWF0ZWRfdGltZSA8IDplbmRUaW1lIEFORCAKICAgICAgICAgICAgICAgIGNyZWF0ZWRfdGltZSA+PSA6c3RhcnRUaW1lIEFORCAKICAgICAgICAgICAgICAgIGZ1bmRfc291cmNlID0gOmZ1bmRTb3VyY2UgQU5EIAogICAgICAgICAgICAgICAgcGF5bWVudF9yZXN1bHQgIT0gJ2ZhaWxlZCcgQU5EIAogICAgICAgICAgICAgICAgcGVyaW9kID0gOnBlcmlvZCBBTkQgCiAgICAgICAgICAgICAgICBwcm9kdWN0X3R5cGUgaW4gKCd7JHByb2R1Y3RUeXBlU3RyfScpIGFuZCBvcmRlcl9udW1iZXIgaW4geyRvcmRlck51bWJlcnN9IjsKCiAgICAgICAgICAgICR0b2RheUFtb3VudCA9IENhc2hMb2FuUmVjb3JkOjpzdW0oJ2Ftb3VudCcsICR3aGVyZSwgJHBhcmFtcyk7CgogICAgICAgIH0gZWxzZWlmICgkY2FzaFBvb2xDb25maWctPmdldENhc2hUeXBlKCkgPT0gRGljdDo6Q0FTSF9UWVBFX1BBWURBWSkgewogICAgICAgICAgICAvLyAkdG9kYXlBbW91bnQgPSBDYXNoTG9hblJlY29yZDo6Z2V0RGFpbHlMaW1pdEFtb3VudEJ5TG9hbkRheXMoJGNhc2hQb29sTmV3LT5nZXRDYXNoUG9vbENvZGUoKSwgJGNhc2hMb2FuT3JkZXItPmdldFBlcmlvZCgpLCBEaWN0OjokdXNlclR5cGVQYXlkYXksICRvcmRlck51bWJlcnMpOwoKICAgICAgICAgICAgJHBhcmFtcyA9IFsKICAgICAgICAgICAgICAgICc6c3RhcnRUaW1lJyAgPT4gJHN0YXJ0VGltZSwKICAgICAgICAgICAgICAgICc6ZW5kVGltZScgICAgPT4gJGVuZFRpbWUsCiAgICAgICAgICAgICAgICAnOmZ1bmRTb3VyY2UnID0+ICRjYXNoTG9hbk9yZGVyLT5nZXRGdW5kU291cmNlKCksCiAgICAgICAgICAgICAgICAnOmxvYW5EYXlzJyAgID0+ICRjYXNoTG9hbk9yZGVyLT5nZXRQZXJpb2QoKSwKICAgICAgICAgICAgXTsKICAgICAgICAgICAgJHByb2R1Y3RUeXBlU3RyID0gaW1wbG9kZSgiJywnIiwgRGljdDo6JHVzZXJUeXBlUGF5ZGF5KTsKCiAgICAgICAgICAgICR3aGVyZSA9ICIgY3JlYXRlZF90aW1lIDw9IDplbmRUaW1lIEFORCAKICAgICAgICAgICAgICAgIGNyZWF0ZWRfdGltZSA+PSA6c3RhcnRUaW1lIEFORCAKICAgICAgICAgICAgICAgIGZ1bmRfc291cmNlID0gOmZ1bmRTb3VyY2UgQU5EIAogICAgICAgICAgICAgICAgcGF5bWVudF9yZXN1bHQgIT0gJ2ZhaWxlZCcgQU5EIAogICAgICAgICAgICAgICAgbG9hbl9kYXlzID0gOmxvYW5EYXlzIEFORCAKICAgICAgICAgICAgICAgIHByb2R1Y3RfdHlwZSBpbiAoJ3skcHJvZHVjdFR5cGVTdHJ9JykgYW5kIG9yZGVyX251bWJlciBpbiB7JG9yZGVyTnVtYmVyc30iOwoKICAgICAgICAgICAgJHRvZGF5QW1vdW50ID0gQ2FzaExvYW5SZWNvcmQ6OnN1bSgnYW1vdW50JywgJHdoZXJlLCAkcGFyYW1zKTsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgfQoKICAgICAgICAvLyDlpoLmnpzlvZPml6Xpop3luqblpKfkuo7phY3nva7nmoTpop3luqbvvIzliJnooajnpLrlt7Lmu6EKICAgICAgICByZXR1cm4gJHRvZGF5QW1vdW50ID49ICRjdXJQZXJpb2QtPmdldFBlcmlvZExpbWl0QWNjb3VudCgpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyB0b2RvIOagueaNruWbpOWNlemFjee9ru+8jOWIpOaWreW9k+WkqeacieayoeacieWbpOa7oQo=</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIOWGmeWFpeWbpOWNlemYn+WIlwogICAgICogQHBhcmFtIENhc2hMb2FuT3JkZXIgJGNhc2hMb2FuT3JkZXIKICAgICAqIEByZXR1cm4gYm9vbAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gb3JkZXJSZW1pdExhdGVyKENhc2hMb2FuT3JkZXIgJGNhc2hMb2FuT3JkZXIpCiAgICB7CiAgICAgICAgLy8gdG9kbyDmoLnmja7lm6TljZXphY3nva7vvIzliKTmlq3lvZPlpKnmnInmsqHmnInlm6Tmu6EKICAgICAgICAgKG5ldyBDYXNoTG9hblN0YXNoUXVldWUoKSktPmNyZWF0ZShbCiAgICAgICAgICAgICdvcmRlcl9udW1iZXInID0+ICRjYXNoTG9hbk9yZGVyLT5nZXRPcmRlck51bWJlcigpLAogICAgICAgICAgICAnc3RhdHVzJyA9PiBDYXNoTG9hblN0YXNoUXVldWU6OlNUQVRVU19QRU5ESU5HCiAgICAgICAgXSk7CiAgICAgICAgIHJldHVybiB0cnVlOwogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgKG5ldyBDYXNoTG9hblN0YXNoUXVldWUoKSktPmNyZWF0ZShbCiAgICAgICAgICAgICAgICAnb3JkZXJfbnVtYmVyJyA9PiAkY2FzaExvYW5PcmRlci0+Z2V0T3JkZXJOdW1iZXIoKSwKICAgICAgICAgICAgICAgICdmdW5kX3NvdXJjZScgID0+ICRjYXNoTG9hbk9yZGVyLT5nZXRGdW5kU291cmNlKCksCiAgICAgICAgICAgICAgICAncGVyaW9kJyAgICAgICA9PiAkY2FzaExvYW5PcmRlci0+Z2V0UGVyaW9kKCksCiAgICAgICAgICAgICAgICAnc3RhdHVzJyAgICAgICA9PiBDYXNoTG9hblN0YXNoUXVldWU6OlNUQVRVU19QRU5ESU5HLAogICAgICAgICAgICBdKTsKCiAgICAgICAgICAgIHJldHVybiB0cnVlOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkdG90YXlBbW91bnQgPSAwOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdHJ1ZTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIHJldHVybiB0cnVlOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -512,13 +502,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoRGljdDo6aXNNaW5DYXNoKCRjYXNoTG9hbk9yZGVyLT5nZXRUeXBlKCkpKSB7CiAgICAgICAgICAgIC8v5bCP6aKdCiAgICAgICAgICAgICRjYXNoVHlwZSA9IERpY3Q6OkNBU0hfVFlQRV9QQVlEQVk7CiAgICAgICAgfSBlbHNlaWYgKERpY3Q6OmlzTWF4Q2FzaCgkY2FzaExvYW5PcmRlci0+Z2V0VHlwZSgpKSkgewogICAgICAgICAgICAvL+Wkp+minQogICAgICAgICAgICAkY2FzaFR5cGUgPSBEaWN0OjpDQVNIX1RZUEVfQ0FTSDsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvL+iOt+WPluW3sue7j+S9v+eUqOeahOaXpemineW6pgo=</text>
+        <text encoding="base64">ICAgICAgICAobmV3IENhc2hMb2FuU3Rhc2hRdWV1ZSgpKS0+Y3JlYXRlKFsKICAgICAgICAgICAgJ29yZGVyX251bWJlcicgPT4gJGNhc2hMb2FuT3JkZXItPmdldE9yZGVyTnVtYmVyKCksCiAgICAgICAgICAgICdmdW5kX3NvdXJjZScgID0+ICRjYXNoTG9hbk9yZGVyLT5nZXRGdW5kU291cmNlKCksCiAgICAgICAgICAgICdwZXJpb2QnICAgICAgID0+ICRjYXNoTG9hbk9yZGVyLT5nZXRQZXJpb2QoKSwKICAgICAgICAgICAgJ3N0YXR1cycgICAgICAgPT4gQ2FzaExvYW5TdGFzaFF1ZXVlOjpTVEFUVVNfUEVORElORywKICAgICAgICBdKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>action NextSplitter</text>
+        <text>action RenameElement</text>
       </register>
     </registers>
   </component>
