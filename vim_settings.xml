@@ -35,19 +35,19 @@
         <entry encoding="base64">JzwsJz5zLyIvXFwiL2c=</entry>
         <entry>action CloseAllEditors</entry>
         <entry>action FindUsages</entry>
-        <entry>action GotoFile</entry>
-        <entry>action FileStructurePopup</entry>
-        <entry>action RecentFiles</entry>
-        <entry>action SelectInProjectView</entry>
         <entry>action OpenEditorInOppositeTabGroup</entry>
         <entry>action PreviousTab</entry>
-        <entry>action NextSplitter</entry>
         <entry>action RenameElement</entry>
-        <entry>action NextTab</entry>
         <entry>vs</entry>
-        <entry>wq</entry>
         <entry>action Back</entry>
         <entry>action Annotate</entry>
+        <entry>action NextSplitter</entry>
+        <entry>wq</entry>
+        <entry>action NextTab</entry>
+        <entry>action RecentFiles</entry>
+        <entry>action FileStructurePopup</entry>
+        <entry>action SelectInProjectView</entry>
+        <entry>action GotoFile</entry>
         <entry>nohls</entry>
       </history-cmd>
       <history-expr />
@@ -162,11 +162,11 @@
       <file name="/fragment.php" timestamp="1588067320637">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/.ideavimrc" timestamp="1588063928977">
-        <mark key="[" line="31" column="9" />
-        <mark key="]" line="31" column="9" />
-        <mark key="^" line="34" column="1" />
-        <mark key="." line="31" column="9" />
+      <file name="$USER_HOME$/.ideavimrc" timestamp="1588129245488">
+        <mark key="[" line="33" column="26" />
+        <mark key="]" line="33" column="36" />
+        <mark key="^" line="33" column="36" />
+        <mark key="." line="33" column="35" />
       </file>
       <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/XlCash/XlCashLoanOrder.php" timestamp="1588064201510" />
       <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/OrmModel.php" timestamp="1588069642178" />
@@ -300,8 +300,8 @@
       <register name="a" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gZG8gc29tZXRoaW5nCg==</text>
+      <register name="&quot;" type="4">
+        <text>GotoFile</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -316,13 +316,13 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>ServerException $e</text>
+        <text>GotoFile</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpc01pbkNhc2hcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gZG8gc29tZXRoaW5nCg==</text>
+        <text encoding="base64">bm5vcmVtYXAgPHNwYWNlPm4gOmFjdGlvbiBHb3RvRmlsZTxDUj4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8gZG8gc29tZXRoaW5nCg==</text>
