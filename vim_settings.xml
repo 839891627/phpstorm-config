@@ -47,8 +47,8 @@
         <entry>vs</entry>
         <entry>wq</entry>
         <entry>action Back</entry>
-        <entry>nohls</entry>
         <entry>action Annotate</entry>
+        <entry>nohls</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -112,11 +112,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Develop/Docker/shoufuyou-console/lib/Controllers/Api/ConsoleUserController.php" timestamp="1588125351259">
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="0" />
-        <mark key="." line="71" column="0" />
-      </file>
+      <file name="$USER_HOME$/Develop/Docker/shoufuyou-console/lib/Controllers/Api/ConsoleUserController.php" timestamp="1588127152345" />
       <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/shoufuyou/Table/CashPoolStashConfig.php" timestamp="1588069553294">
         <mark key="'" line="3" column="34" />
         <mark key="z" line="4" column="0" />
@@ -305,7 +301,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkbG9naW5MaW1pdEtleSA9IGNvbnNvbGU6bG9naW5MaW1pdDoxNjY5OTI0ODk2NjoyMDIwLTA0LTI5Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gZG8gc29tZXRoaW5nCg==</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -320,16 +316,16 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>ServerException $e</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpc01pbkNhc2hcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkbG9naW5MaW1pdEtleSA9ICdjb25zb2xlOmxvZ2luTGltaXQ6JyAuICRhY2NvdW50IC4gJzonIC4gZGF0ZSgnWS1tLWQnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gZG8gc29tZXRoaW5nCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkbG9naW5MaW1pdEtleSA9IGNvbnNvbGU6bG9naW5MaW1pdDoxNjY5OTI0ODk2NjoyMDIwLTA0LTI5Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gZG8gc29tZXRoaW5nCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -347,28 +343,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBpbnQgJHBlcmlvZE51bQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCR0aHJvd2FibGUgaW5zdGFuY2VvZiBTZXJ2ZXJFeGNlcHRpb24pIHsKICAgICAgICAgICAgICAgIC8vZG9pbmcgc29tZXRoaW5nCiAgICAgICAgICAgICAgICByZXR1cm4gLi4uCiAgICB9CiAgICAgICAgICAgIC8vZG9pbmcgc29tZXRoaW5nCg==</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAwOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCR0aHJvd2FibGUgaW5zdGFuY2VvZiBDbGllbnRFeGNlcHRpb24pIHsKICAgICAgICAgICAgICAgIC8vZG9pbmcgc29tZXRoaW5nIAogICAgICAgICAgICAgICAgcmV0dXJuIC4uLgogICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAwOwo=</text>
+        <text encoding="base64">ICAgICAgICBTZXJ2ZXJFeGNlcHRpb24K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJG5vdyA9IGRhdGUoJ0g6aTpzJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkbG9naW5MaW1pdEtleSA9IGNvbnNvbGU6bG9naW5MaW1pdDoxNjY5OTI0ODk2NjoyMDIwLTA0LTI5Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -502,13 +498,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkbm93ID0gZGF0ZSgnSDppOnMnKTsKICAgICAgICBpZiAoJGNvbmZpZy0+Z2V0QmVnaW5UaW1lKCkgJiYgJG5vdyA8ICRjb25maWctPmdldEJlZ2luVGltZSgpKSB7CiAgICAgICAgICAgIHJldHVybiAwOwogICAgICAgIH0KICAgICAgICBpZiAoJGNvbmZpZy0+Z2V0RW5kVGltZSgpICYmICRub3cgPiAkY29uZmlnLT5nZXRFbmRUaW1lKCkpIHsKICAgICAgICAgICAgcmV0dXJuIDA7CiAgICAgICAgfQoKICAgICAgICByZXR1cm4gJGNvbmZpZy0+Z2V0QW1vdW50KCk7Cg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBpbnQgJHBlcmlvZE51bQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3BlcmlvZF9udW0nID0+ICRwZXJpb2ROdW0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAwOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Annotate</text>
+        <text>nohls</text>
       </register>
     </registers>
   </component>
