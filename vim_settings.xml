@@ -42,13 +42,13 @@
         <entry>action PreviousTab</entry>
         <entry>wq</entry>
         <entry>action NextSplitter</entry>
-        <entry>action RenameElement</entry>
         <entry>action Back</entry>
         <entry>action SelectInProjectView</entry>
         <entry>action RecentFiles</entry>
-        <entry>action Annotate</entry>
         <entry>action CloseAllEditors</entry>
         <entry>nohls</entry>
+        <entry>action Annotate</entry>
+        <entry>action RenameElement</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -172,9 +172,9 @@
       <file name="$USER_HOME$/Develop/Docker/syf-middleware-system/common/services/smsQuery/SmsQuery.php" timestamp="1588735178562">
         <mark key="'" line="17" column="23" />
       </file>
-      <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashLoan/StashLogic.php" timestamp="1588155971598">
-        <mark key="'" line="124" column="24" />
-        <mark key="[" line="140" column="9" />
+      <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashLoan/StashLogic.php" timestamp="1588748309995">
+        <mark key="'" line="159" column="4" />
+        <mark key="[" line="27" column="16" />
         <mark key="]" line="142" column="21" />
         <mark key="." line="142" column="20" />
         <mark key="^" line="142" column="21" />
@@ -204,7 +204,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="131" column="30" filename="$USER_HOME$/Develop/Docker/shoufuyou-fund-system/lib/Models/FundSource/FundSourceManage.php" />
       <jump line="149" column="40" filename="$USER_HOME$/Develop/Docker/shoufuyou-fund-system/lib/Models/FundSource/FundSourceManage.php" />
       <jump line="101" column="34" filename="$USER_HOME$/Develop/Docker/shoufuyou-fund-system/lib/Models/FundSource/Verify/VerifyRules.php" />
       <jump line="41" column="6" filename="$USER_HOME$/Develop/Docker/shoufuyou-fund-system/lib/Models/FundSource/Verify/VerifyAbstract.php" />
@@ -304,6 +303,7 @@
       <jump line="172" column="26" filename="$USER_HOME$/Develop/Docker/syf-middleware-system/console/controllers/XyfSmsRetryController.php" />
       <jump line="174" column="26" filename="$USER_HOME$/Develop/Docker/syf-middleware-system/console/controllers/XyfSmsRetryController.php" />
       <jump line="17" column="23" filename="$USER_HOME$/Develop/Docker/syf-middleware-system/common/services/smsQuery/SmsQuery.php" />
+      <jump line="159" column="4" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashLoan/StashLogic.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -515,7 +515,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>nohls</text>
+        <text>action RenameElement</text>
       </register>
     </registers>
   </component>
