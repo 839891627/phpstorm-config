@@ -33,7 +33,6 @@
         <entry>action OpenEditorInOppositeTabGroup</entry>
         <entry>action FindUsages</entry>
         <entry>action GotoFile</entry>
-        <entry>action CloseAllEditors</entry>
         <entry>action FindInPath</entry>
         <entry>action FileStructurePopup</entry>
         <entry>action NextTab</entry>
@@ -49,6 +48,7 @@
         <entry>action SelectInProjectView</entry>
         <entry>action RecentFiles</entry>
         <entry>action Annotate</entry>
+        <entry>action CloseAllEditors</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -513,7 +513,7 @@
         <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPnN1Y2Nlc3MoJGRhdGEpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Annotate</text>
+        <text>action CloseAllEditors</text>
       </register>
     </registers>
   </component>
