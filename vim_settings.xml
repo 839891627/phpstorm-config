@@ -30,7 +30,6 @@
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyIvXFwiL2c=</entry>
-        <entry>action Annotate</entry>
         <entry>action OpenEditorInOppositeTabGroup</entry>
         <entry>action FindUsages</entry>
         <entry>action GotoFile</entry>
@@ -39,16 +38,17 @@
         <entry>action FileStructurePopup</entry>
         <entry>action NextTab</entry>
         <entry>.nohls</entry>
-        <entry>action SelectInProjectView</entry>
         <entry>vs</entry>
         <entry>action KJumpAction.Word0</entry>
         <entry>action PreviousTab</entry>
         <entry>wq</entry>
-        <entry>action RecentFiles</entry>
         <entry>action NextSplitter</entry>
         <entry>action RenameElement</entry>
-        <entry>action Back</entry>
         <entry>nohls</entry>
+        <entry>action Back</entry>
+        <entry>action SelectInProjectView</entry>
+        <entry>action RecentFiles</entry>
+        <entry>action Annotate</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -112,23 +112,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Develop/Docker/shoufuyou-fund-system/lib/Models/FundSource/Verify/VerifyPeriod.php" timestamp="1588150988194">
-        <mark key="'" line="94" column="45" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
-        <mark key="^" line="231" column="141" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1588152054110">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashPool/CashLoanNonStashQueue.php" timestamp="1588149675304">
-        <mark key="'" line="40" column="19" />
-        <mark key="[" line="31" column="7" />
-        <mark key="]" line="32" column="16" />
-        <mark key="^" line="32" column="16" />
-        <mark key="." line="32" column="15" />
-      </file>
       <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/controllers/CommonController.php" timestamp="1588731702947">
         <mark key="'" line="145" column="26" />
         <mark key="[" line="145" column="39" />
@@ -136,14 +119,11 @@
         <mark key="." line="145" column="50" />
         <mark key="^" line="145" column="51" />
       </file>
+      <file name="$USER_HOME$/Develop/Docker/syf-middleware-system/console/controllers/XyfSmsRetryController.php" timestamp="1588735175245">
+        <mark key="'" line="174" column="26" />
+      </file>
       <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/shoufuyou/Table/CashPoolStashConfig.php" timestamp="1588155674702">
         <mark key="'" line="13" column="6" />
-      </file>
-      <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/shoufuyou/Table/CashPoolNew.php" timestamp="1588155801047">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashLoanRecord.php" timestamp="1588149983939">
-        <mark key="'" line="59" column="27" />
       </file>
       <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashPool/CashPoolStashConfig.php" timestamp="1588155668167">
         <mark key="'" line="10" column="51" />
@@ -154,13 +134,13 @@
         <mark key="^" line="14" column="17" />
         <mark key="." line="14" column="16" />
       </file>
-      <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/shoufuyou/Table/CashPoolPeriod.php" timestamp="1588150583637">
-        <mark key="'" line="14" column="6" />
-      </file>
       <file name="$USER_HOME$/Develop/Docker/shoufuyou-fund-system/lib/Models/FundSource/Verify/VerifyAbstract.php" timestamp="1588150967269">
         <mark key="'" line="30" column="22" />
         <mark key="[" line="47" column="0" />
         <mark key="]" line="56" column="25" />
+      </file>
+      <file name="$USER_HOME$/Develop/Docker/syf-middleware-system/common/models/SmsRetryRecord.php" timestamp="1588735080736">
+        <mark key="'" line="180" column="27" />
       </file>
       <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashPool/CashPoolNew.php" timestamp="1588155918072">
         <mark key="'" line="0" column="0" />
@@ -175,6 +155,28 @@
         <mark key="." line="697" column="19" />
         <mark key="^" line="697" column="20" />
       </file>
+      <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/shoufuyou/Table/BaseTable.php" timestamp="1588155225642">
+        <mark key="'" line="52" column="20" />
+      </file>
+      <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashPool/Dict.php" timestamp="1588151196774">
+        <mark key="'" line="226" column="49" />
+      </file>
+      <file name="$USER_HOME$/Develop/Docker/shoufuyou-fund-system/lib/Models/FundSource/Verify/VerifyPeriod.php" timestamp="1588150988194">
+        <mark key="'" line="94" column="45" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+        <mark key="^" line="231" column="141" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1588152054110">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/shoufuyou/Table/CashPoolNew.php" timestamp="1588155801047">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/Docker/syf-middleware-system/common/services/smsQuery/SmsQuery.php" timestamp="1588735178562">
+        <mark key="'" line="17" column="23" />
+      </file>
       <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashLoan/StashLogic.php" timestamp="1588155971598">
         <mark key="'" line="124" column="24" />
         <mark key="[" line="140" column="9" />
@@ -182,17 +184,11 @@
         <mark key="." line="142" column="20" />
         <mark key="^" line="142" column="21" />
       </file>
-      <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/shoufuyou/Table/BaseTable.php" timestamp="1588155225642">
-        <mark key="'" line="52" column="20" />
-      </file>
       <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/controllers/MiddleController.php" timestamp="1588732836755">
         <mark key="[" line="228" column="0" />
         <mark key="]" line="228" column="0" />
         <mark key="." line="228" column="0" />
         <mark key="^" line="228" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashPool/Dict.php" timestamp="1588151196774">
-        <mark key="'" line="226" column="49" />
       </file>
       <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/async/Notify.php" timestamp="1588286750162">
         <mark key="'" line="64" column="8" />
@@ -206,14 +202,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="48" filename="$USER_HOME$/Develop/Docker/shoufuyou-fund-system/lib/Models/FundSource/Verify/VerifyPeriod.php" />
-      <jump line="102" column="36" filename="$USER_HOME$/Develop/Docker/shoufuyou-fund-system/lib/Controllers/RouteController.php" />
-      <jump line="109" column="27" filename="$USER_HOME$/Develop/Docker/shoufuyou-fund-system/lib/Models/CashLoan.php" />
-      <jump line="124" column="39" filename="$USER_HOME$/Develop/Docker/shoufuyou-fund-system/lib/Models/CashLoan.php" />
-      <jump line="44" column="8" filename="$USER_HOME$/Develop/Docker/shoufuyou-fund-system/lib/Models/FundSource/Verify/VerifyCashPool.php" />
-      <jump line="84" column="16" filename="$USER_HOME$/Develop/Docker/shoufuyou-fund-system/lib/Models/FundSource/Verify/VerifyCashPool.php" />
-      <jump line="723" column="51" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashLoan/XlCash/XlCashLoanOrder.php" />
-      <jump line="33" column="31" filename="$USER_HOME$/Develop/Docker/shoufuyou-fund-system/lib/Models/FundSource/Verify/VerifyCashPool.php" />
       <jump line="131" column="30" filename="$USER_HOME$/Develop/Docker/shoufuyou-fund-system/lib/Models/FundSource/FundSourceManage.php" />
       <jump line="149" column="40" filename="$USER_HOME$/Develop/Docker/shoufuyou-fund-system/lib/Models/FundSource/FundSourceManage.php" />
       <jump line="101" column="34" filename="$USER_HOME$/Develop/Docker/shoufuyou-fund-system/lib/Models/FundSource/Verify/VerifyRules.php" />
@@ -306,6 +294,14 @@
       <jump line="64" column="8" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/async/Notify.php" />
       <jump line="144" column="26" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/controllers/CommonController.php" />
       <jump line="146" column="26" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/controllers/CommonController.php" />
+      <jump line="175" column="27" filename="$USER_HOME$/Develop/Docker/syf-middleware-system/common/models/SmsRetryRecord.php" />
+      <jump line="47" column="34" filename="$USER_HOME$/Develop/Docker/syf-middleware-system/common/models/SmsRetryRecord.php" />
+      <jump line="180" column="27" filename="$USER_HOME$/Develop/Docker/syf-middleware-system/common/models/SmsRetryRecord.php" />
+      <jump line="107" column="45" filename="$USER_HOME$/Develop/Docker/syf-middleware-system/console/controllers/XyfSmsRetryController.php" />
+      <jump line="4" column="26" filename="$USER_HOME$/Develop/Docker/syf-middleware-system/common/services/smsQuery/SmsQuery.php" />
+      <jump line="172" column="26" filename="$USER_HOME$/Develop/Docker/syf-middleware-system/console/controllers/XyfSmsRetryController.php" />
+      <jump line="174" column="26" filename="$USER_HOME$/Develop/Docker/syf-middleware-system/console/controllers/XyfSmsRetryController.php" />
+      <jump line="17" column="23" filename="$USER_HOME$/Develop/Docker/syf-middleware-system/common/services/smsQuery/SmsQuery.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -517,7 +513,7 @@
         <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPnN1Y2Nlc3MoJGRhdGEpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>nohls</text>
+        <text>action Annotate</text>
       </register>
     </registers>
   </component>
