@@ -45,10 +45,10 @@
         <entry>action SelectInProjectView</entry>
         <entry>action RecentFiles</entry>
         <entry>action CloseAllEditors</entry>
-        <entry>nohls</entry>
         <entry>action RenameElement</entry>
         <entry>action Back</entry>
         <entry>action Annotate</entry>
+        <entry>nohls</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -112,13 +112,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Develop/Docker/shoufuyou-fund-system/lib/Models/FundSource/Verify/VerifyPeriod.php" timestamp="1588150988194">
-        <mark key="'" line="94" column="45" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
-        <mark key="^" line="231" column="141" />
-      </file>
       <file name="/Dummy.txt" timestamp="1588152054110">
         <mark key="[" line="0" column="0" />
       </file>
@@ -175,6 +168,12 @@
       <file name="$USER_HOME$/Develop/Docker/syf-middleware-system/common/services/smsQuery/SmsQuery.php" timestamp="1588735178562">
         <mark key="'" line="17" column="23" />
       </file>
+      <file name="$USER_HOME$/Develop/Docker/xyf-middleground-system/api/modules/user/controllers/LoginController.php" timestamp="1588750819008">
+        <mark key="'" line="171" column="26" />
+        <mark key="[" line="172" column="0" />
+        <mark key="]" line="172" column="0" />
+        <mark key="." line="172" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashLoan/StashLogic.php" timestamp="1588748309995">
         <mark key="'" line="159" column="4" />
         <mark key="[" line="27" column="16" />
@@ -192,18 +191,11 @@
         <mark key="." line="228" column="0" />
         <mark key="^" line="228" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashPool/Dict.php" timestamp="1588151196774">
-        <mark key="'" line="226" column="49" />
-      </file>
       <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/async/Notify.php" timestamp="1588286750162">
         <mark key="'" line="64" column="8" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="706" column="18" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashLoan/XlCash/XlCashLoanOrder.php" />
-      <jump line="10" column="6" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashPool/CashLoanNonStashQueue.php" />
-      <jump line="29" column="14" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashPool/CashLoanNonStashQueue.php" />
-      <jump line="31" column="16" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashPool/CashLoanNonStashQueue.php" />
       <jump line="229" column="27" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashPool/CashPoolConfig.php" />
       <jump line="85" column="27" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashPool/CashPoolPeriod.php" />
       <jump line="209" column="20" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashPool/CashPoolNew.php" />
@@ -300,6 +292,10 @@
       <jump line="134" column="39" filename="$USER_HOME$/Develop/Docker/xyf-middleground-system/common/services/UserService.php" />
       <jump line="27" column="51" filename="$USER_HOME$/Develop/Docker/xyf-middleground-system/common/services/UserService.php" />
       <jump line="28" column="34" filename="$USER_HOME$/Develop/Docker/xyf-middleground-system/common/services/UserService.php" />
+      <jump line="159" column="19" filename="$USER_HOME$/Develop/Docker/xyf-middleground-system/api/modules/user/controllers/LoginController.php" />
+      <jump line="187" column="0" filename="$USER_HOME$/Develop/Docker/xyf-middleground-system/api/modules/user/controllers/LoginController.php" />
+      <jump line="188" column="0" filename="$USER_HOME$/Develop/Docker/xyf-middleground-system/api/modules/user/controllers/LoginController.php" />
+      <jump line="171" column="26" filename="$USER_HOME$/Develop/Docker/xyf-middleground-system/api/modules/user/controllers/LoginController.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -308,7 +304,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">TUlJQklqQU5CZ2txaGtpRzl3MEJBUUVGQUFPQ0FROEFNSUlCQ2dLQ0FRRUFyNHVOV3NmVnI3WE4ycUV4U2lKRgp4VStIZ1dyT0UxQVgvOWZTL1hOUEFYUDllTFkzNS9pLzF6bFBNNkp4VG5qM0c2TGdQa0NNQitHMDQwWlZRcDdkCnYrWWRJOUk4b2c5Y3YwYXZlQUNDNk52cmRDUDBTdmNEay85WnlMc3lGUlJVSys4MEJQZUJuNEhDaVdsb1JiengKaldYMCtRY3lpZENqc1hkSDY2TGtVWGZGK2FNUmNrbjUycm1yeWRjWmgwaXZDMFc4TU9LM2lCVnBERWpxaHV4ZgpsdzJvVWhOK1RJSC80VEJUWkxKRGNtbTJrdDl1ZUdWYmlFeC9FMXN0bkVRaVZlTjQreERzYVEvWHRtZXIyNWlZCnYwYlRwM2VveXVBU0hPc3BtK2taMCtLcGM4aVFjcFA2MEo4TjhPa0dDZEljb2s2SWVsQjNxaENJWWM1dW93TlUKc3dJREFRQUIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -332,7 +328,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gJHRoaXMtPmZhaWxlZCgn6aqM6K+B56CB5Y+R6YCB5aSx6LSl77yaJyAuICRyZXNbJ21lc3NhZ2UnXSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">TUlJQklqQU5CZ2txaGtpRzl3MEJBUUVGQUFPQ0FROEFNSUlCQ2dLQ0FRRUFyNHVOV3NmVnI3WE4ycUV4U2lKRgp4VStIZ1dyT0UxQVgvOWZTL1hOUEFYUDllTFkzNS9pLzF6bFBNNkp4VG5qM0c2TGdQa0NNQitHMDQwWlZRcDdkCnYrWWRJOUk4b2c5Y3YwYXZlQUNDNk52cmRDUDBTdmNEay85WnlMc3lGUlJVSys4MEJQZUJuNEhDaVdsb1JiengKaldYMCtRY3lpZENqc1hkSDY2TGtVWGZGK2FNUmNrbjUycm1yeWRjWmgwaXZDMFc4TU9LM2lCVnBERWpxaHV4ZgpsdzJvVWhOK1RJSC80VEJUWkxKRGNtbTJrdDl1ZUdWYmlFeC9FMXN0bkVRaVZlTjQreERzYVEvWHRtZXIyNWlZCnYwYlRwM2VveXVBU0hPc3BtK2taMCtLcGM4aVFjcFA2MEo4TjhPa0dDZEljb2s2SWVsQjNxaENJWWM1dW93TlUKc3dJREFRQUIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -350,7 +346,7 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">TUlJQklqQU5CZ2txaGtpRzl3MEJBUUVGQUFPQ0FROEFNSUlCQ2dLQ0FRRUFyNHVOV3NmVnI3WE4ycUV4U2lKRgp4VStIZ1dyT0UxQVgvOWZTL1hOUEFYUDllTFkzNS9pLzF6bFBNNkp4VG5qM0c2TGdQa0NNQitHMDQwWlZRcDdkCnYrWWRJOUk4b2c5Y3YwYXZlQUNDNk52cmRDUDBTdmNEay85WnlMc3lGUlJVSys4MEJQZUJuNEhDaVdsb1JiengKaldYMCtRY3lpZENqc1hkSDY2TGtVWGZGK2FNUmNrbjUycm1yeWRjWmgwaXZDMFc4TU9LM2lCVnBERWpxaHV4ZgpsdzJvVWhOK1RJSC80VEJUWkxKRGNtbTJrdDl1ZUdWYmlFeC9FMXN0bkVRaVZlTjQreERzYVEvWHRtZXIyNWlZCnYwYlRwM2VveXVBU0hPc3BtK2taMCtLcGM4aVFjcFA2MEo4TjhPa0dDZEljb2s2SWVsQjNxaENJWWM1dW93TlUKc3dJREFRQUIK</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
@@ -362,16 +358,16 @@
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdhZGRfcHJvZHVjdF9jb2RlJyA9PiAnMjAwMSwzMDAxJywK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNyZWF0ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdhZGRfcHJvZHVjdF9jb2RlJyA9PiAnMjAwMSwzMDAxJywK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNyZWF0ZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAkdGhpcy0+ZmFpbGVkKCfpqozor4HnoIHlj5HpgIHlpLHotKXvvJonIC4gJHJlc1snbWVzc2FnZSddKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -505,13 +501,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8g5ouS57udCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAkdGhpcy0+ZmFpbGVkKCfpqozor4HnoIHlj5HpgIHlpLHotKXvvJonIC4gJHJlc1snbWVzc2FnZSddKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8g5ouS57udCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Annotate</text>
+        <text>nohls</text>
       </register>
     </registers>
   </component>
