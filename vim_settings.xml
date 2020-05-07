@@ -47,8 +47,8 @@
         <entry>action NextTab</entry>
         <entry>action PreviousTab</entry>
         <entry>action NextSplitter</entry>
-        <entry>action Back</entry>
         <entry>nohls</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -112,6 +112,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/common/Jqns.php" timestamp="1588818450237">
+        <mark key="'" line="156" column="40" />
+      </file>
       <file name="$USER_HOME$/Develop/Docker/shoufuyou-console/lib/Controllers/Api/ConsoleUserController.php" timestamp="1588756506948">
         <mark key="'" line="106" column="12" />
       </file>
@@ -174,12 +177,6 @@
         <mark key="." line="90" column="27" />
         <mark key="^" line="90" column="28" />
       </file>
-      <file name="$USER_HOME$/Develop/Docker/shoufuyou-console/lib/Models/Admin/Users.php" timestamp="1588756467591">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="^" line="46" column="36" />
-        <mark key="." line="40" column="0" />
-      </file>
       <file name="$USER_HOME$/Develop/Docker/shoufuyou-console/lib/Controllers/Api/CashPoolConfigController.php" timestamp="1588759531924">
         <mark key="'" line="18" column="39" />
         <mark key="[" line="25" column="0" />
@@ -206,8 +203,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="68" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashLoan/StashLogic.php" />
-      <jump line="10" column="51" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashPool/CashPoolStashConfig.php" />
       <jump line="13" column="6" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/shoufuyou/Table/CashPoolStashConfig.php" />
       <jump line="124" column="24" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashLoan/StashLogic.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/shoufuyou/Table/CashPoolNew.php" />
@@ -306,6 +301,8 @@
       <jump line="431" column="28" filename="$USER_HOME$/Develop/Docker/syf-middleware-system/console/controllers/XyfSmsTaskController.php" />
       <jump line="451" column="31" filename="$USER_HOME$/Develop/Docker/syf-middleware-system/console/controllers/XyfSmsTaskController.php" />
       <jump line="761" column="21" filename="$USER_HOME$/Develop/Docker/syf-middleware-system/console/controllers/XyfSmsTaskController.php" />
+      <jump line="140" column="96" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/common/Jqns.php" />
+      <jump line="156" column="40" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/common/Jqns.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -517,7 +514,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>nohls</text>
+        <text>action Back</text>
       </register>
     </registers>
   </component>
