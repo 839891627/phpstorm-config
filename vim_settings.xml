@@ -42,13 +42,13 @@
         <entry>action KJumpAction.Word0</entry>
         <entry>action SelectInProjectView</entry>
         <entry>wq</entry>
-        <entry>action Annotate</entry>
         <entry>nohls</entry>
         <entry>action NextTab</entry>
         <entry>action Back</entry>
         <entry>action RenameElement</entry>
         <entry>action RecentFiles</entry>
         <entry>vs</entry>
+        <entry>action Annotate</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -514,7 +514,7 @@
         <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name=":" type="4">
-        <text>vs</text>
+        <text>action Annotate</text>
       </register>
     </registers>
   </component>
