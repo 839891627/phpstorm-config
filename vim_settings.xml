@@ -36,19 +36,19 @@
         <entry>action CloseAllEditors</entry>
         <entry>action RenameElement</entry>
         <entry>action Forward</entry>
-        <entry>action SelectInProjectView</entry>
-        <entry>action OpenEditorInOppositeTabGroup</entry>
         <entry>action FindInPath</entry>
-        <entry>action PreviousTab</entry>
         <entry>action FileStructurePopup</entry>
         <entry>action GotoFile</entry>
         <entry>vs</entry>
-        <entry>action NextTab</entry>
-        <entry>action NextSplitter</entry>
         <entry>action Back</entry>
-        <entry>wq</entry>
         <entry>action Annotate</entry>
+        <entry>action SelectInProjectView</entry>
+        <entry>action PreviousTab</entry>
+        <entry>action NextTab</entry>
+        <entry>action OpenEditorInOppositeTabGroup</entry>
+        <entry>action NextSplitter</entry>
         <entry>nohls</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -115,19 +115,15 @@
       <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/common/Jqns.php" timestamp="1588818450237">
         <mark key="'" line="153" column="40" />
       </file>
-      <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/shoufuyou/Table/CashPoolStashConfig.php" timestamp="1588760604538">
-        <mark key="'" line="13" column="6" />
-        <mark key="^" line="23" column="19" />
-      </file>
       <file name="$USER_HOME$/Develop/Docker/xyf-middleground-system/common/helpers/RequestHelper.php" timestamp="1588821309249">
         <mark key="[" line="36" column="65" />
       </file>
-      <file name="$USER_HOME$/Develop/Docker/shoufuyou-console/lib/Router.php" timestamp="1588823578401">
+      <file name="$USER_HOME$/Develop/Docker/shoufuyou-console/lib/Router.php" timestamp="1588835176006">
         <mark key="'" line="11" column="28" />
-        <mark key="[" line="354" column="40" />
-        <mark key="]" line="354" column="40" />
-        <mark key="." line="354" column="40" />
-        <mark key="^" line="353" column="44" />
+        <mark key="[" line="355" column="39" />
+        <mark key="]" line="355" column="46" />
+        <mark key="." line="355" column="45" />
+        <mark key="^" line="355" column="46" />
       </file>
       <file name="$USER_HOME$/Develop/Docker/xyf-middleground-system/api/modules/user/controllers/LoginController.php" timestamp="1588821174527">
         <mark key="'" line="145" column="24" />
@@ -179,12 +175,12 @@
         <mark key="^" line="23" column="5" />
         <mark key="." line="23" column="4" />
       </file>
-      <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashPool/CashLoanStashQueue.php" timestamp="1588832073832">
+      <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashPool/CashLoanStashQueue.php" timestamp="1588835411208">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="23" column="59" />
-        <mark key="]" line="23" column="36" />
-        <mark key="^" line="23" column="35" />
-        <mark key="." line="23" column="36" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="^" line="24" column="45" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/shoufuyou/Table/BaseTable.php" timestamp="1588823365964">
         <mark key="'" line="51" column="30" />
@@ -199,6 +195,12 @@
         <mark key="]" line="99" column="0" />
         <mark key="." line="98" column="0" />
       </file>
+      <file name="$USER_HOME$/Develop/Docker/shoufuyou-console/lib/Controllers/Api/CashPoolStashQueueController.php" timestamp="1588835238474">
+        <mark key="[" line="25" column="36" />
+        <mark key="]" line="25" column="44" />
+        <mark key="." line="25" column="43" />
+        <mark key="^" line="25" column="44" />
+      </file>
       <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/controllers/MiddleController.php" timestamp="1588818064649">
         <mark key="[" line="228" column="0" />
         <mark key="]" line="228" column="0" />
@@ -207,7 +209,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="159" column="19" filename="$USER_HOME$/Develop/Docker/xyf-middleground-system/api/modules/user/controllers/LoginController.php" />
       <jump line="187" column="0" filename="$USER_HOME$/Develop/Docker/xyf-middleground-system/api/modules/user/controllers/LoginController.php" />
       <jump line="188" column="0" filename="$USER_HOME$/Develop/Docker/xyf-middleground-system/api/modules/user/controllers/LoginController.php" />
       <jump line="171" column="26" filename="$USER_HOME$/Develop/Docker/xyf-middleground-system/api/modules/user/controllers/LoginController.php" />
@@ -307,6 +308,7 @@
       <jump line="148" column="32" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/controllers/CommonController.php" />
       <jump line="138" column="14" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/controllers/CommonController.php" />
       <jump line="157" column="0" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/controllers/CommonController.php" />
+      <jump line="28" column="0" filename="$USER_HOME$/Develop/Docker/shoufuyou-console/lib/Controllers/Api/CashPoolStashQueueController.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -315,7 +317,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICRzcWw7CiAgICAgICAgZGllOwo=</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -330,16 +332,16 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDzotK3kubDliY3mv4DmtLvlpLHotKVcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>Jqns::getInstance();</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdjYXNoLXBvb2wtc3Rhc2gtY29uZmlnL3N3aXRjaCcsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICRzcWw7CiAgICAgICAgZGllOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -357,28 +359,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkcGxhdGZvcm0gPSBQbGF0Zm9ybUZhY3Rvcnk6OmNyZWF0ZShKcW5zQ29uc3RhbnRzOjpVQSk7CiAgICAgICAgJHJlcyA9ICRwbGF0Zm9ybS0+bm90aWZ5KFsKICAgICAgICAgICAgJ3BhdGgnICAgICA9PiAnc3RhdHVzJywKICAgICAgICAgICAgJ2Jpel9kYXRhJyA9PiBbCiAgICAgICAgICAgICAgICAnb3JkZXJfbm8nICAgICA9PiAkYml6RGF0YVsnb3JkZXJfbm8nXSwKICAgICAgICAgICAgICAgICdvcmRlcl9zdGF0dXMnID0+IEpxbnNDb252ZXJ0OjpvcmRlclN0YXR1cygkYml6RGF0YVsnc3RhdHVzJ10sIHRydWUpLAogICAgICAgICAgICAgICAgJ3VwZGF0ZV90aW1lJyAgPT4gc3RydG90aW1lKEpxbnNDb252ZXJ0OjpvcmRlclVwZGF0ZVRpbWUoJGJpekRhdGEpKSwKICAgICAgICAgICAgXSwKICAgICAgICBdKTsK</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICRzcWw7CiAgICAgICAgZGllOwogICAgICAgICRyZXMgPSBEYkNsaWVudDo6ZXhlY3V0ZSgkc3FsKTsK</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIOWuoeaJueS4rSAyMDIwLjA1LjA2IOWvueaWueS4jemcgOimgeWuoeaJueS4reeahAo=</text>
+        <text encoding="base64">CiAgICAvKioKICAgICAqIOa3u+WKoOaIluiAheabtOaWsOmFjee9rgogICAgICogQHJldHVybiBhcnJheXxib29sfG1peGVkCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBvblNhdmVBY3Rpb24oKQogICAgewogICAgICAgIC8v6Z2e56m66aqM6K+BCiAgICAgICAgJHJlcXVpcmVkUGFyYW1zID0gWwogICAgICAgICAgICAncG9vbF9pZCcgICA9PiAn6LWE5pa5aWQnLAogICAgICAgICAgICAncGVyaW9kJyAgICA9PiAn5pyf5pWwJywKICAgICAgICAgICAgJ2Ftb3VudCcgICAgPT4gJ+avj+aXpeWbpOWNle+8iOS4h++8iScsCiAgICAgICAgICAgICd0aHJlc2hvbGQnID0+ICfov5vku7bpmIDlgLzvvIjkuIfvvIknLAogICAgICAgICAgICAvLyAnYmVnaW5fdGltZScgPT4gJ+WbpOWNleW8gOWni+aXtumXtCcsCiAgICAgICAgICAgIC8vICdlbmRfdGltZScgPT4gJ+WbpOWNlee7k+adn+aXtumXtCcsCiAgICAgICAgXTsKICAgICAgICAkcGFyYW1zID0gJF9QT1NUOwogICAgICAgICRyZXN1bHQgPSBVdGlsOjpjaGVja1JlcXVpcmVkUGFyYW1zKCRyZXF1aXJlZFBhcmFtcywgJHBhcmFtcyk7CiAgICAgICAgaWYgKCRyZXN1bHQgIT09IHRydWUpIHsKICAgICAgICAgICAgcmV0dXJuICRyZXN1bHQ7CiAgICAgICAgfQogICAgICAgICRyZXQgPSBDYXNoUG9vbFN0YXNoQ29uZmlnOjpzdG9yZSgkcGFyYW1zLCAkcGFyYW1zWydpZCddID8/IG51bGwpOwoKICAgICAgICByZXR1cm4gVXRpbDo6YnVpbGRSZXR1cm5SZXN1bHQoJHJldCk7CiAgICB9CgogICAgLyoqCiAgICAgKiDliIfmjaLnirbmgIEKICAgICAqIEByZXR1cm4gYXJyYXl8Ym9vbHxtaXhlZAogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gb25Td2l0Y2hBY3Rpb24oKQogICAgewogICAgICAgIC8v6Z2e56m66aqM6K+BCiAgICAgICAgJHJlcXVpcmVkUGFyYW1zID0gWwogICAgICAgICAgICAnc3RhdHVzJyA9PiAn54q25oCBJywKICAgICAgICAgICAgJ2lkJyAgICAgPT4gJ+mFjee9riBpZCcsCiAgICAgICAgXTsKICAgICAgICAkcGFyYW1zID0gJF9QT1NUOwogICAgICAgICRyZXN1bHQgPSBVdGlsOjpjaGVja1JlcXVpcmVkUGFyYW1zKCRyZXF1aXJlZFBhcmFtcywgJHBhcmFtcyk7CiAgICAgICAgaWYgKCRyZXN1bHQgIT09IHRydWUpIHsKICAgICAgICAgICAgcmV0dXJuICRyZXN1bHQ7CiAgICAgICAgfQogICAgICAgICRzdGF0dXMgPSAkcGFyYW1zWydzdGF0dXMnXSA9PSAxID8gQ2FzaFBvb2xTdGFzaENvbmZpZzo6U1RBVFVTX09OIDogQ2FzaFBvb2xTdGFzaENvbmZpZzo6U1RBVFVTX09GRjsKICAgICAgICAkc3FsID0gInVwZGF0ZSBDYXNoUG9vbFN0YXNoQ29uZmlnIHNldCBzdGF0dXM9eyRzdGF0dXN9IHdoZXJlIGlkID0geyRwYXJhbXNbJ2lkJ119IjsKICAgICAgICBEYkNsaWVudDo6ZXhlY3V0ZSgkc3FsKTsKCiAgICAgICAgcmV0dXJuIFV0aWw6OmJ1aWxkUmV0dXJuUmVzdWx0KCk7CiAgICB9Cg==</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRkYXRhID0gWwogICAgICAgICAgICAgICAgICAgICdvcmRlcl9ubycgICA9PiAkdGhpcy0+Yml6RGF0YVsnb3JkZXJfbm8nXSwKICAgICAgICAgICAgICAgICAgICAnY29uY2x1c2lvbicgPT4gMiwKICAgICAgICAgICAgICAgIF07Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAkcGxhdGZvcm0gPSBQbGF0Zm9ybUZhY3Rvcnk6OmNyZWF0ZShKcW5zQ29uc3RhbnRzOjpVQSk7CiAgICAgICAgJHJlcyA9ICRwbGF0Zm9ybS0+bm90aWZ5KFsKICAgICAgICAgICAgJ3BhdGgnICAgICA9PiAnc3RhdHVzJywKICAgICAgICAgICAgJ2Jpel9kYXRhJyA9PiBbCiAgICAgICAgICAgICAgICAnb3JkZXJfbm8nICAgICA9PiAkYml6RGF0YVsnb3JkZXJfbm8nXSwKICAgICAgICAgICAgICAgICdvcmRlcl9zdGF0dXMnID0+IEpxbnNDb252ZXJ0OjpvcmRlclN0YXR1cygkYml6RGF0YVsnc3RhdHVzJ10sIHRydWUpLAogICAgICAgICAgICAgICAgJ3VwZGF0ZV90aW1lJyAgPT4gc3RydG90aW1lKEpxbnNDb252ZXJ0OjpvcmRlclVwZGF0ZVRpbWUoJGJpekRhdGEpKSwKICAgICAgICAgICAgXSwKICAgICAgICBdKTsK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIOWuoeaJueS4rSAyMDIwLjA1LjA2IOWvueaWueS4jemcgOimgeWuoeaJueS4reeahAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmOjpmaW5kKCktPmpvaW4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRkYXRhID0gWwogICAgICAgICAgICAgICAgICAgICdvcmRlcl9ubycgICA9PiAkdGhpcy0+Yml6RGF0YVsnb3JkZXJfbm8nXSwKICAgICAgICAgICAgICAgICAgICAnY29uY2x1c2lvbicgPT4gMiwKICAgICAgICAgICAgICAgIF07Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -512,13 +514,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICRzcWw7ZGllOwo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name=":" type="4">
-        <text>nohls</text>
+        <text>wq</text>
       </register>
     </registers>
   </component>
