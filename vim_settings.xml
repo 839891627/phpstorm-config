@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxwbGF0Zm9ybVw+</entry>
         <entry encoding="base64">XDxwY250bFw+</entry>
         <entry>ip</entry>
         <entry encoding="base64">XDxpc01pbkNhc2hcPg==</entry>
@@ -27,6 +26,7 @@
         <entry encoding="base64">XDx1c2VyU2Vzc2lvbkxvZ2luS2V5SWRcPg==</entry>
         <entry encoding="base64">XDwxMDAyXD4=</entry>
         <entry encoding="base64">XDxDYXNoQmlsbFw+</entry>
+        <entry encoding="base64">XDzotK3kubDliY3mv4DmtLvlpLHotKVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>action FindUsages</entry>
@@ -41,13 +41,13 @@
         <entry>action FindInPath</entry>
         <entry>action PreviousTab</entry>
         <entry>action FileStructurePopup</entry>
-        <entry>action Annotate</entry>
         <entry>action GotoFile</entry>
         <entry>vs</entry>
         <entry>action NextTab</entry>
         <entry>action NextSplitter</entry>
         <entry>action Back</entry>
         <entry>wq</entry>
+        <entry>action Annotate</entry>
         <entry>nohls</entry>
       </history-cmd>
       <history-expr />
@@ -164,6 +164,7 @@
       <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/async/Notify.php" timestamp="1588831248489">
         <mark key="'" line="117" column="22" />
       </file>
+      <file name="$USER_HOME$/Develop/Docker/xinyongfei-app-api/lib/Models/VipCard2019Service.php" timestamp="1588834389388" />
       <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/controllers/CommonController.php" timestamp="1588831890827">
         <mark key="'" line="157" column="0" />
         <mark key="[" line="161" column="0" />
@@ -171,7 +172,6 @@
         <mark key="." line="161" column="0" />
         <mark key="^" line="142" column="33" />
       </file>
-      <file name="$USER_HOME$/Develop/Docker/shoufuyou-console/log/error/20200506.log" timestamp="1588760566854" />
       <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashPool/CashPoolStashConfig.php" timestamp="1588829440976">
         <mark key="'" line="15" column="8" />
         <mark key="[" line="22" column="64" />
@@ -193,6 +193,7 @@
         <mark key="." line="32" column="21" />
         <mark key="^" line="32" column="22" />
       </file>
+      <file name="$USER_HOME$/Develop/Docker/xinyongfei-app-api/lib/Controllers/VipCardController.php" timestamp="1588833822528" />
       <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/service/gateways/MiddlegroundGateway.php" timestamp="1588830277238">
         <mark key="[" line="98" column="0" />
         <mark key="]" line="99" column="0" />
@@ -203,13 +204,6 @@
         <mark key="]" line="228" column="0" />
         <mark key="." line="228" column="0" />
         <mark key="^" line="228" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/Docker/shoufuyou-console/lib/Controllers/Api/BaseController.php" timestamp="1588760200775">
-        <mark key="'" line="35" column="34" />
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="86" column="0" />
-        <mark key="n" line="19" column="8" />
-        <mark key="." line="86" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -339,7 +333,7 @@
         <text>s</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxDYXNoQmlsbFw+</text>
+        <text encoding="base64">XDzotK3kubDliY3mv4DmtLvlpLHotKVcPg==</text>
       </register>
       <register name="0" type="4">
         <text>Jqns::getInstance();</text>
@@ -530,9 +524,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxDYXNoQmlsbFw+</last-search>
+      <last-search encoding="base64">XDzotK3kubDliY3mv4DmtLvlpLHotKVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxDYXNoQmlsbFw+</last-pattern>
+      <last-pattern encoding="base64">XDzotK3kubDliY3mv4DmtLvlpLHotKVcPg==</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
