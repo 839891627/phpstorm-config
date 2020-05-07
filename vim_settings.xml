@@ -37,7 +37,6 @@
         <entry>action OpenEditorInOppositeTabGroup</entry>
         <entry>action CloseAllEditors</entry>
         <entry>action FileStructurePopup</entry>
-        <entry>vs</entry>
         <entry>action PreviousTab</entry>
         <entry>action NextSplitter</entry>
         <entry>action KJumpAction.Word0</entry>
@@ -49,6 +48,7 @@
         <entry>action Back</entry>
         <entry>action RenameElement</entry>
         <entry>action RecentFiles</entry>
+        <entry>vs</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -150,6 +150,9 @@
         <mark key="^" line="19" column="76" />
         <mark key="." line="19" column="75" />
       </file>
+      <file name="$USER_HOME$/Develop/Docker/shoufuyou-sms-system/service/YunFengSms.php" timestamp="1588845680956">
+        <mark key="'" line="126" column="9" />
+      </file>
       <file name="$USER_HOME$/Develop/Docker/shoufuyou-task/config/command.php" timestamp="1588842293453">
         <mark key="'" line="12" column="30" />
         <mark key="[" line="472" column="29" />
@@ -181,13 +184,6 @@
         <mark key="]" line="828" column="108" />
       </file>
       <file name="$USER_HOME$/Develop/Docker/shoufuyou-task/log/error/20200507.log" timestamp="1588841995355" />
-      <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashLoan/XlCash/XlCashLoanOrder.php" timestamp="1588840957933">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="24" />
-        <mark key="." line="697" column="19" />
-        <mark key="^" line="697" column="20" />
-      </file>
       <file name="$USER_HOME$/Develop/Docker/shoufuyou-notify/lib/Models/Utms/Haofenqi.php" timestamp="1588843202087">
         <mark key="[" line="37" column="72" />
         <mark key="]" line="37" column="73" />
@@ -207,7 +203,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="145" column="24" filename="$USER_HOME$/Develop/Docker/xyf-middleground-system/api/modules/user/controllers/LoginController.php" />
       <jump line="26" column="0" filename="$USER_HOME$/Develop/Docker/shoufuyou-console/lib/Controllers/Api/CashPoolStashConfigController.php" />
       <jump line="58" column="26" filename="$USER_HOME$/Develop/Docker/shoufuyou-console/lib/Controllers/Api/CashPoolStashConfigController.php" />
       <jump line="34" column="8" filename="$USER_HOME$/Develop/Docker/shoufuyou-console/lib/Controllers/Api/CashPoolStashConfigController.php" />
@@ -307,6 +302,7 @@
       <jump line="8" column="24" filename="$USER_HOME$/Develop/Docker/shoufuyou-fund-system/lib/Router.php" />
       <jump line="32" column="8" filename="$USER_HOME$/Develop/Docker/shoufuyou-fund-system/lib/Router.php" />
       <jump line="343" column="28" filename="$USER_HOME$/Develop/Docker/shoufuyou-console/lib/Router.php" />
+      <jump line="126" column="9" filename="$USER_HOME$/Develop/Docker/shoufuyou-sms-system/service/YunFengSms.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -518,7 +514,7 @@
         <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name=":" type="4">
-        <text>action RecentFiles</text>
+        <text>vs</text>
       </register>
     </registers>
   </component>
