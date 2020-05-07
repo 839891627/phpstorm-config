@@ -38,7 +38,6 @@
         <entry>action Forward</entry>
         <entry>vs</entry>
         <entry>action GotoFile</entry>
-        <entry>action Annotate</entry>
         <entry>action SelectInProjectView</entry>
         <entry>action OpenEditorInOppositeTabGroup</entry>
         <entry>action FindInPath</entry>
@@ -49,6 +48,7 @@
         <entry>action NextSplitter</entry>
         <entry>nohls</entry>
         <entry>action Back</entry>
+        <entry>action Annotate</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -120,6 +120,9 @@
         <mark key="^" line="23" column="19" />
       </file>
       <file name="$USER_HOME$/Develop/Docker/shoufuyou-console/log/error/20200506.log" timestamp="1588760566854" />
+      <file name="$USER_HOME$/Develop/Docker/xyf-middleground-system/common/helpers/RequestHelper.php" timestamp="1588821309249">
+        <mark key="[" line="36" column="65" />
+      </file>
       <file name="$USER_HOME$/Develop/Docker/shoufuyou-console/lib/Controllers/Api/CashProfitController.php" timestamp="1588758752306" />
       <file name="$USER_HOME$/Develop/Docker/shoufuyou-console/lib/Models/CashPool/CashPoolConfig.php" timestamp="1588759524105">
         <mark key="'" line="140" column="24" />
@@ -156,9 +159,6 @@
         <mark key="[" line="86" column="0" />
         <mark key="]" line="86" column="0" />
         <mark key="." line="86" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashPool/CashPoolConfig.php" timestamp="1588757459486">
-        <mark key="'" line="171" column="36" />
       </file>
       <file name="/Dummy.txt" timestamp="1588757469394">
         <mark key="[" line="0" column="0" />
@@ -515,7 +515,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Back</text>
+        <text>action Annotate</text>
       </register>
     </registers>
   </component>
