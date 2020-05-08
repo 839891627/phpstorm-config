@@ -36,7 +36,6 @@
         <entry>action PreviousTab</entry>
         <entry>action NextSplitter</entry>
         <entry>action KJumpAction.Word0</entry>
-        <entry>action SelectInProjectView</entry>
         <entry>wq</entry>
         <entry>action RenameElement</entry>
         <entry>vs</entry>
@@ -49,6 +48,7 @@
         <entry>action Annotate</entry>
         <entry>nohls</entry>
         <entry>action CloseAllEditors</entry>
+        <entry>action SelectInProjectView</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -525,7 +525,7 @@
         <text encoding="base64">ICAgICAgICAgICAgQ2FzaFBvb2xTdGFzaENvbmZpZzo6Z2V0TGlzdCgkcGFnZSwgJHBhZ2VTaXplKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>action CloseAllEditors</text>
+        <text>action SelectInProjectView</text>
       </register>
     </registers>
   </component>
