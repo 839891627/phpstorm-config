@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxOb3RGb3VuZEV4Y2VwdGlvblw+</entry>
-        <entry encoding="base64">XDxyZW1haW5QZXJpb2RBbW91bnRcPg==</entry>
         <entry encoding="base64">XDxjYXNoTG9hbk9yZGVySWRcPg==</entry>
         <entry encoding="base64">XDxjYXNoUG9vbE5ld1w+</entry>
         <entry encoding="base64">XDxjYXNoUG9vbENvbmZpZ1w+</entry>
@@ -27,13 +25,14 @@
         <entry encoding="base64">XDxET1dOTE9BRF9VUkxcPg==</entry>
         <entry>1</entry>
         <entry encoding="base64">XDxvcmRlclJlbWl0XD4=</entry>
+        <entry encoding="base64">XDxhcHBcPg==</entry>
+        <entry encoding="base64">XDxFbnZcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>action FindUsages</entry>
         <entry>.nohls</entry>
         <entry>action GotoFile</entry>
         <entry>action OpenEditorInOppositeTabGroup</entry>
-        <entry>action PreviousTab</entry>
         <entry>action NextSplitter</entry>
         <entry>action KJumpAction.Word0</entry>
         <entry>wq</entry>
@@ -44,11 +43,12 @@
         <entry>action FindInPath</entry>
         <entry>action FileStructurePopup</entry>
         <entry>action Forward</entry>
-        <entry>action Back</entry>
         <entry>action Annotate</entry>
         <entry>action CloseAllEditors</entry>
         <entry>action SelectInProjectView</entry>
         <entry>nohls</entry>
+        <entry>action Back</entry>
+        <entry>action PreviousTab</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -115,6 +115,9 @@
       <file name="$USER_HOME$/Develop/Docker/shoufuyou-fund-system/lib/Router.php" timestamp="1588844303088">
         <mark key="'" line="32" column="8" />
       </file>
+      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/common/Jqns.php" timestamp="1588909875398">
+        <mark key="'" line="156" column="40" />
+      </file>
       <file name="$USER_HOME$/Develop/Docker/shoufuyou-notify/lib/Models/Utms/Jqks.php" timestamp="1588842991547">
         <mark key="'" line="28" column="23" />
         <mark key="[" line="37" column="72" />
@@ -124,8 +127,8 @@
       <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashLoan/SjCash/SjCashLoanOrder.php" timestamp="1588849761415">
         <mark key="'" line="280" column="21" />
       </file>
-      <file name="$USER_HOME$/Develop/Docker/shoufuyou-task/lib/Subcommands/RequestCashLoanCommand.php" timestamp="1588908444025">
-        <mark key="'" line="74" column="32" />
+      <file name="$USER_HOME$/Develop/Docker/shoufuyou-task/lib/Subcommands/RequestCashLoanCommand.php" timestamp="1588908950985">
+        <mark key="'" line="47" column="18" />
         <mark key="[" line="37" column="13" />
         <mark key="]" line="37" column="13" />
         <mark key="^" line="37" column="18" />
@@ -216,10 +219,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashPool/CashLoanStashQueue.php" />
-      <jump line="139" column="15" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/controllers/CommonController.php" />
-      <jump line="147" column="4" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/controllers/CommonController.php" />
-      <jump line="99" column="4" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/controllers/CommonController.php" />
       <jump line="117" column="22" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/async/Notify.php" />
       <jump line="150" column="9" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/controllers/CommonController.php" />
       <jump line="146" column="51" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/controllers/CommonController.php" />
@@ -274,7 +273,6 @@
       <jump line="90" column="25" filename="$USER_HOME$/Develop/Docker/shoufuyou-task/lib/Subcommands/RequestCashLoanCommand.php" />
       <jump line="46" column="12" filename="$USER_HOME$/Develop/Docker/shoufuyou-task/lib/Subcommands/RequestCashLoanCommand.php" />
       <jump line="12" column="30" filename="$USER_HOME$/Develop/Docker/shoufuyou-task/config/command.php" />
-      <jump line="47" column="12" filename="$USER_HOME$/Develop/Docker/shoufuyou-task/lib/Subcommands/RequestCashLoanCommand.php" />
       <jump line="12" column="67" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashPool/CashLoanStashQueue.php" />
       <jump line="37" column="40" filename="$USER_HOME$/Develop/Docker/shoufuyou-task/lib/Subcommands/RequestStashCashLoanCommand.php" />
       <jump line="49" column="32" filename="$USER_HOME$/Develop/Docker/shoufuyou-task/lib/Subcommands/RequestStashCashLoanCommand.php" />
@@ -316,6 +314,11 @@
       <jump line="57" column="36" filename="$USER_HOME$/Develop/Docker/shoufuyou-console/lib/Controllers/Api/CashPoolStashConfigController.php" />
       <jump line="112" column="46" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/service/gateways/ReportGateway.php" />
       <jump line="43" column="0" filename="$USER_HOME$/Develop/Docker/xinyongfei-reporting-system/lib/Controllers/BaseController.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Develop/Docker/shoufuyou-task/lib/Subcommands/RequestCashLoanCommand.php" />
+      <jump line="6" column="19" filename="$USER_HOME$/Develop/Docker/shoufuyou-task/lib/Subcommands/RequestCashLoanCommand.php" />
+      <jump line="47" column="18" filename="$USER_HOME$/Develop/Docker/shoufuyou-task/lib/Subcommands/RequestCashLoanCommand.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/common/Jqns.php" />
+      <jump line="156" column="40" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/common/Jqns.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -342,7 +345,7 @@
         <text>sdfsd</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvcmRlclJlbWl0XD4=</text>
+        <text encoding="base64">XDxFbnZcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJ2JlZ2luVGltZScgPT4gJHBhcmFtc1snYmVnaW5fdGltZSddPz9udWxsLAo=</text>
@@ -527,19 +530,19 @@
         <text encoding="base64">ICAgICAgICAgICAgQ2FzaFBvb2xTdGFzaENvbmZpZzo6Z2V0TGlzdCgkcGFnZSwgJHBhZ2VTaXplKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>nohls</text>
+        <text>action PreviousTab</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxvcmRlclJlbWl0XD4=</last-search>
+      <last-search encoding="base64">XDxFbnZcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvcmRlclJlbWl0XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxFbnZcPg==</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
