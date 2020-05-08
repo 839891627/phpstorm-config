@@ -46,9 +46,9 @@
         <entry>action NextSplitter</entry>
         <entry>action Forward</entry>
         <entry>action Back</entry>
-        <entry>nohls</entry>
         <entry>action FileStructurePopup</entry>
         <entry>action Annotate</entry>
+        <entry>nohls</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -129,6 +129,12 @@
         <mark key="^" line="37" column="18" />
         <mark key="." line="37" column="13" />
       </file>
+      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/config/test/jqns.php" timestamp="1588927434768">
+        <mark key="[" line="13" column="57" />
+        <mark key="]" line="13" column="57" />
+        <mark key="." line="13" column="57" />
+        <mark key="^" line="13" column="58" />
+      </file>
       <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashLoanOrder.php" timestamp="1588923833211">
         <mark key="'" line="902" column="21" />
         <mark key="[" line="889" column="0" />
@@ -171,11 +177,6 @@
       </file>
       <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashLoan/XlCash/XlSignRequest.php" timestamp="1588916451620">
         <mark key="'" line="44" column="48" />
-      </file>
-      <file name="$USER_HOME$/Develop/Docker/xinyongfei-reporting-system/lib/Controllers/BaseController.php" timestamp="1588907202076">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Docker/shoufuyou-task/lib/Subcommands/XlFundTaskCommand.php" timestamp="1588917425357">
         <mark key="'" line="215" column="13" />
@@ -305,8 +306,8 @@
       <register name="a" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>//loan/api</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -321,7 +322,7 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>lockedOrder</text>
+        <text>//loan/api</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvcmRlclJlbWl0Tm93XD4=</text>
@@ -330,7 +331,7 @@
         <text encoding="base64">ICAgICAgICAgICAgaWYgKGZhbHNlID09PSAkc3RhdHVzKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIC8vcGFydDQ65pS+5qy+CiAgICAgICAgICAgIC8v5LiN55u05o6l5pS+5qy+55qE77yM5qCH6K6w5Li65pS+5qy+5LitCiAgICAgICAgICAgIGlmIChpbl9hcnJheSgkdGhpcy0+Z2V0RnVuZFNvdXJjZSgpLCBzZWxmOjokbm9EaXJlY3RQYXlGdW5kU291cmNlKSkgewogICAgICAgICAgICAgICAgJGxvY2tlZE9yZGVyLT5yZW1pdFBlbmRpbmcoKTsvL+aUvuasvuS4rQogICAgICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -348,28 +349,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">TUlJQklqQU5CZ2txaGtpRzl3MEJBUUVGQUFPQ0FROEFNSUlCQ2dLQ0FRRUFyNHVOV3NmVnI3WE4ycUV4U2lKRgp4VStIZ1dyT0UxQVgvOWZTL1hOUEFYUDllTFkzNS9pLzF6bFBNNkp4VG5qM0c2TGdQa0NNQitHMDQwWlZRcDdkCnYrWWRJOUk4b2c5Y3YwYXZlQUNDNk52cmRDUDBTdmNEay85WnlMc3lGUlJVSys4MEJQZUJuNEhDaVdsb1JiengKaldYMCtRY3lpZENqc1hkSDY2TGtVWGZGK2FNUmNrbjUycm1yeWRjWmgwaXZDMFc4TU9LM2lCVnBERWpxaHV4ZgpsdzJvVWhOK1RJSC80VEJUWkxKRGNtbTJrdDl1ZUdWYmlFeC9FMXN0bkVRaVZlTjQreERzYVEvWHRtZXIyNWlZCnYwYlRwM2VveXVBU0hPc3BtK2taMCtLcGM4aVFjcFA2MEo4TjhPa0dDZEljb2s2SWVsQjNxaENJWWM1dW93TlUKc3dJREFRQUIK</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gdHJ1ZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKENhc2hMb2FuT3JkZXI6OmlzTm9PcmRlclBhc3NGdW5kU291cmNlKCRxdWV1ZU9yZGVyLT5nZXRGdW5kU291cmNlKCkpKSB7Ly/mjpLpmaTkuI3lgZrmlL7mrL7nmoTotYTph5HmsaAKICAgICAgICAgICAgICAgIC8vIOS+i+WmgiBzal9jYXNoIOayoeaciSBvcmRlclJlbWl0CgogICAgICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgICAgIH0gZWxzZSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gdHJ1ZTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBvcmRlclJlbWl0Tm93KENhc2hMb2FuT3JkZXIgJGNhc2hMb2FuT3JkZXIpewogICAgICAgIHJldHVybiB0cnVlOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -503,13 +504,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cmV0dXJuIHRydWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKENhc2hMb2FuT3JkZXI6OmlzTm9PcmRlclBhc3NGdW5kU291cmNlKCRxdWV1ZU9yZGVyLT5nZXRGdW5kU291cmNlKCkpKSB7Ly/mjpLpmaTkuI3lgZrmlL7mrL7nmoTotYTph5HmsaAKICAgICAgICAgICAgICAgIC8vIOS+i+WmgiBzal9jYXNoIOayoeaciSBvcmRlclJlbWl0CgogICAgICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgICAgIH0gZWxzZSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdHJ1ZTsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBvcmRlclJlbWl0Tm93KENhc2hMb2FuT3JkZXIgJGNhc2hMb2FuT3JkZXIpewogICAgICAgIHJldHVybiB0cnVlOwogICAgfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Annotate</text>
+        <text>nohls</text>
       </register>
     </registers>
   </component>
