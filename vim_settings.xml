@@ -46,9 +46,9 @@
         <entry>action Forward</entry>
         <entry>action Back</entry>
         <entry>action Annotate</entry>
-        <entry>nohls</entry>
         <entry>action CloseAllEditors</entry>
         <entry>action SelectInProjectView</entry>
+        <entry>nohls</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -124,10 +124,12 @@
       <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashLoan/SjCash/SjCashLoanOrder.php" timestamp="1588849761415">
         <mark key="'" line="280" column="21" />
       </file>
-      <file name="$USER_HOME$/Develop/Docker/shoufuyou-task/lib/Subcommands/RequestCashLoanCommand.php" timestamp="1588849731281">
+      <file name="$USER_HOME$/Develop/Docker/shoufuyou-task/lib/Subcommands/RequestCashLoanCommand.php" timestamp="1588908444025">
         <mark key="'" line="74" column="32" />
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="44" />
+        <mark key="[" line="37" column="13" />
+        <mark key="]" line="37" column="13" />
+        <mark key="^" line="37" column="18" />
+        <mark key="." line="37" column="13" />
       </file>
       <file name="$USER_HOME$/Develop/Docker/shoufuyou-notify/lib/Models/Utms/Yxqb.php" timestamp="1588843051547">
         <mark key="[" line="82" column="67" />
@@ -321,8 +323,8 @@
       <register name="a" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHx8IGlzc2V0KCRoZWFkWyd1c2VyX2lkJ10pID09PSBmYWxzZSAK</text>
+      <register name="&quot;" type="4">
+        <text>sdfsd</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -337,7 +339,7 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>_REQUEST</text>
+        <text>sdfsd</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvcmRlclJlbWl0XD4=</text>
@@ -525,7 +527,7 @@
         <text encoding="base64">ICAgICAgICAgICAgQ2FzaFBvb2xTdGFzaENvbmZpZzo6Z2V0TGlzdCgkcGFnZSwgJHBhZ2VTaXplKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>action SelectInProjectView</text>
+        <text>nohls</text>
       </register>
     </registers>
   </component>
