@@ -41,7 +41,6 @@
         <entry>action KJumpAction.Word0</entry>
         <entry>vs</entry>
         <entry>action RecentFiles</entry>
-        <entry>action Annotate</entry>
         <entry>wq</entry>
         <entry>action NextTab</entry>
         <entry>action NextSplitter</entry>
@@ -49,6 +48,7 @@
         <entry>action Back</entry>
         <entry>nohls</entry>
         <entry>action FileStructurePopup</entry>
+        <entry>action Annotate</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -509,7 +509,7 @@
         <text encoding="base64">ICAgICAgICByZXR1cm4gdHJ1ZTsK</text>
       </register>
       <register name=":" type="4">
-        <text>action FileStructurePopup</text>
+        <text>action Annotate</text>
       </register>
     </registers>
   </component>
