@@ -29,9 +29,7 @@
         <entry encoding="base64">XDxhcHBcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>action CloseAllEditors</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
-        <entry>action Find</entry>
         <entry>action Back</entry>
         <entry>action KJumpAction.Word0</entry>
         <entry>action KJumpAction</entry>
@@ -40,15 +38,17 @@
         <entry>action SelectInProjectView</entry>
         <entry>action RecentFiles</entry>
         <entry>action FileStructurePopup</entry>
-        <entry>nohls</entry>
         <entry>vs</entry>
         <entry>action NextSplitter</entry>
         <entry>wq</entry>
         <entry>action Annotate</entry>
-        <entry>action GotoClass</entry>
         <entry>action FindInPath</entry>
-        <entry>action GotoFile</entry>
         <entry>action GotoAction</entry>
+        <entry>action GotoClass</entry>
+        <entry>action GotoFile</entry>
+        <entry>action GotoFile aa.txt</entry>
+        <entry>action Find</entry>
+        <entry>nohls</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -160,12 +160,12 @@
         <mark key="[" line="889" column="0" />
         <mark key="]" line="898" column="13" />
       </file>
-      <file name="$USER_HOME$/.ideavimrc" timestamp="1588994055443">
-        <mark key="'" line="67" column="16" />
-        <mark key="[" line="38" column="19" />
-        <mark key="]" line="38" column="19" />
-        <mark key="." line="38" column="18" />
-        <mark key="^" line="38" column="19" />
+      <file name="$USER_HOME$/.ideavimrc" timestamp="1588994522024">
+        <mark key="'" line="58" column="0" />
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="1" />
+        <mark key="." line="70" column="1" />
+        <mark key="^" line="69" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Docker/xinyongfei-app-api/lib/Controllers/UserController.php" timestamp="1588991605067">
         <mark key="'" line="54" column="0" />
@@ -179,12 +179,12 @@
       <file name="$USER_HOME$/Develop/Docker/shoufuyou-task/lib/Subcommands/XlFundTaskCommand.php" timestamp="1588917425357">
         <mark key="'" line="215" column="13" />
       </file>
-      <file name="$USER_HOME$/Develop/Docker/shoufuyou-task/lib/Subcommands/RequestStashCashLoanCommand.php" timestamp="1588924029192">
-        <mark key="'" line="46" column="75" />
-        <mark key="[" line="37" column="19" />
-        <mark key="]" line="37" column="28" />
-        <mark key="." line="37" column="27" />
-        <mark key="^" line="37" column="28" />
+      <file name="$USER_HOME$/Develop/Docker/shoufuyou-task/lib/Subcommands/RequestStashCashLoanCommand.php" timestamp="1588994408190">
+        <mark key="'" line="37" column="54" />
+        <mark key="[" line="37" column="32" />
+        <mark key="]" line="37" column="36" />
+        <mark key="." line="37" column="35" />
+        <mark key="^" line="37" column="36" />
       </file>
       <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashLoan/StashLogicTrait.php" timestamp="1588993575306">
         <mark key="'" line="163" column="4" />
@@ -219,8 +219,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="95" column="76" filename="$USER_HOME$/Develop/Docker/shoufuyou-notify/lib/Models/Utms/Comzk.php" />
-      <jump line="44" column="24" filename="$USER_HOME$/Develop/Docker/shoufuyou-console/lib/Controllers/Api/CashPoolStashConfigController.php" />
       <jump line="19" column="9" filename="$USER_HOME$/Develop/Docker/shoufuyou-task/lib/Subcommands/RequestStashCashLoanCommand.php" />
       <jump line="20" column="16" filename="$USER_HOME$/Develop/Docker/shoufuyou-console/lib/Controllers/Api/CashPoolStashConfigController.php" />
       <jump line="8" column="24" filename="$USER_HOME$/Develop/Docker/shoufuyou-fund-system/lib/Router.php" />
@@ -283,7 +281,6 @@
       <jump line="768" column="31" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashLoan/SjCash/SjCashLoanOrder.php" />
       <jump line="2936" column="33" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashLoanOrder.php" />
       <jump line="268" column="41" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashLoanOrder.php" />
-      <jump line="37" column="31" filename="$USER_HOME$/Develop/Docker/shoufuyou-task/lib/Subcommands/RequestStashCashLoanCommand.php" />
       <jump line="44" column="0" filename="$USER_HOME$/Develop/Docker/shoufuyou-task/lib/Subcommands/RequestStashCashLoanCommand.php" />
       <jump line="58" column="12" filename="$USER_HOME$/Develop/Docker/shoufuyou-task/lib/Subcommands/RequestStashCashLoanCommand.php" />
       <jump line="896" column="30" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashLoanOrder.php" />
@@ -319,6 +316,9 @@
       <jump line="18" column="0" filename="$USER_HOME$/.ideavimrc" />
       <jump line="163" column="4" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashLoan/StashLogicTrait.php" />
       <jump line="67" column="16" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="37" column="54" filename="$USER_HOME$/Develop/Docker/shoufuyou-task/lib/Subcommands/RequestStashCashLoanCommand.php" />
+      <jump line="48" column="16" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="58" column="0" filename="$USER_HOME$/.ideavimrc" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -326,8 +326,8 @@
       <register name="a" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>t</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">bm5vcmVtYXAgPFNwYWNlPmYgOmFjdGlvbiBGaW5kSW5QYXRoPENSPgo=</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -347,8 +347,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxhcHBcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">PFNwYWNlPg==</text>
+      <register name="0" type="2">
+        <text encoding="base64">bm5vcmVtYXAgPFNwYWNlPmYgOmFjdGlvbiBGaW5kSW5QYXRoPENSPgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">bm5vcmVtYXAgPFNwYWNlPjxTcGFjZT5lIDphY3Rpb24gU2VsZWN0SW5Qcm9qZWN0VmlldzxDUj4K</text>
@@ -530,7 +530,7 @@
         <text encoding="base64">bm5vcmVtYXAgPFNwYWNlPmdjIDphY3Rpb24gR290b0NsYXNzPENSPgpubm9yZW1hcCA8U3BhY2U+Z2EgOmFjdGlvbiBHb3RvQWN0aW9uPENSPgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoAction</text>
+        <text>nohls</text>
       </register>
     </registers>
   </component>
@@ -542,7 +542,7 @@
       <last-replace>\\&quot;</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
