@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxvcmRlclJlbWl0TGF0ZXJcPg==</entry>
         <entry encoding="base64">XDxDYXNoTG9hbk5vblN0YXNoUXVldWVcPg==</entry>
         <entry encoding="base64">XDxnZXRCZWdpblRpbWVcPg==</entry>
         <entry encoding="base64">XDx0b3RhbFN0YXNoQW1vdW50XD4=</entry>
@@ -27,15 +26,14 @@
         <entry encoding="base64">XDxTdGFzaExvZ2ljVHJhaXRcPg==</entry>
         <entry>orderRemit</entry>
         <entry encoding="base64">XDxvcmRlclJlbWl0Tm93XD4=</entry>
+        <entry>ws</entry>
       </history-search>
       <history-cmd>
         <entry>action GotoAction</entry>
         <entry>action ShowFilePath</entry>
         <entry>action ShowPopupMenu</entry>
-        <entry>action Find</entry>
         <entry>sp</entry>
         <entry>action Back</entry>
-        <entry>vs</entry>
         <entry>action OpenEditorInOppositeTabGroup</entry>
         <entry>action KJumpAction.Line</entry>
         <entry>action PreviousTab</entry>
@@ -46,9 +44,11 @@
         <entry>action Annotate</entry>
         <entry>nohls</entry>
         <entry>action FindInPath</entry>
-        <entry>action NextSplitter</entry>
         <entry>wq</entry>
+        <entry>vs</entry>
         <entry>action CloseAllEditors</entry>
+        <entry>action Find</entry>
+        <entry>action NextSplitter</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -160,8 +160,8 @@
         <mark key="[" line="889" column="0" />
         <mark key="]" line="898" column="13" />
       </file>
-      <file name="$USER_HOME$/.ideavimrc" timestamp="1588990904019">
-        <mark key="'" line="31" column="0" />
+      <file name="$USER_HOME$/.ideavimrc" timestamp="1588991010747">
+        <mark key="'" line="36" column="14" />
         <mark key="[" line="50" column="0" />
         <mark key="]" line="50" column="0" />
         <mark key="." line="50" column="0" />
@@ -205,7 +205,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="95" column="4" filename="$USER_HOME$/Develop/Docker/shoufuyou-task/lib/Subcommands/RequestStashCashLoanCommand.php" />
       <jump line="57" column="0" filename="$USER_HOME$/Develop/Docker/shoufuyou-task/lib/Subcommands/RequestStashCashLoanCommand.php" />
       <jump line="47" column="7" filename="$USER_HOME$/Develop/Docker/shoufuyou-task/lib/Subcommands/RequestStashCashLoanCommand.php" />
       <jump line="36" column="10" filename="$USER_HOME$/Develop/Docker/shoufuyou-notify/lib/Models/Utms/Yqg.php" />
@@ -303,8 +302,9 @@
       <jump line="54" column="18" filename="$USER_HOME$/.ideavimrc" />
       <jump line="35" column="0" filename="$USER_HOME$/.ideavimrc" />
       <jump line="70" column="0" filename="$USER_HOME$/.ideavimrc" />
-      <jump line="49" column="0" filename="$USER_HOME$/.ideavimrc" />
       <jump line="31" column="0" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="49" column="38" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="36" column="14" filename="$USER_HOME$/.ideavimrc" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -331,7 +331,7 @@
         <text>built in search looks better</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvcmRlclJlbWl0Tm93XD4=</text>
+        <text>ws</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKGZhbHNlID09PSAkc3RhdHVzKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIC8vcGFydDQ65pS+5qy+CiAgICAgICAgICAgIC8v5LiN55u05o6l5pS+5qy+55qE77yM5qCH6K6w5Li65pS+5qy+5LitCiAgICAgICAgICAgIGlmIChpbl9hcnJheSgkdGhpcy0+Z2V0RnVuZFNvdXJjZSgpLCBzZWxmOjokbm9EaXJlY3RQYXlGdW5kU291cmNlKSkgewogICAgICAgICAgICAgICAgJGxvY2tlZE9yZGVyLT5yZW1pdFBlbmRpbmcoKTsvL+aUvuasvuS4rQogICAgICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgICAgIH0K</text>
@@ -516,15 +516,15 @@
         <text encoding="base64">bm5vcmVtYXAgPFNwYWNlPndzIDxDLVc+cwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action CloseAllEditors</text>
+        <text>action NextSplitter</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxvcmRlclJlbWl0Tm93XD4=</last-search>
+      <last-search>ws</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvcmRlclJlbWl0Tm93XD4=</last-pattern>
+      <last-pattern>ws</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
