@@ -29,11 +29,9 @@
         <entry encoding="base64">XDxvcmRlclJlbWl0Tm93XD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>action OpenEditorInOppositeTabGroup</entry>
         <entry>action RenameElement</entry>
         <entry>action FindInPath</entry>
         <entry>action CloseAllEditors</entry>
-        <entry>action KJumpAction</entry>
         <entry>action GotoFile</entry>
         <entry>action PreviousTab</entry>
         <entry>action SelectInProjectView</entry>
@@ -48,7 +46,9 @@
         <entry>action Back</entry>
         <entry>action FileStructurePopup</entry>
         <entry>action Annotate</entry>
+        <entry>action KJumpAction</entry>
         <entry>nohls</entry>
+        <entry>action KJumpAction.Line</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -171,12 +171,17 @@
         <mark key="." line="393" column="11" />
         <mark key="^" line="393" column="12" />
       </file>
-      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/logs/jqns/web_client/20200508.log" timestamp="1588910253717" />
       <file name="/fragment.php" timestamp="1588918916125">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashLoan/XlCash/XlSignRequest.php" timestamp="1588916451620">
         <mark key="'" line="44" column="48" />
+      </file>
+      <file name="$USER_HOME$/.ideavimrc" timestamp="1588989825138">
+        <mark key="'" line="23" column="0" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Docker/shoufuyou-task/lib/Subcommands/XlFundTaskCommand.php" timestamp="1588917425357">
         <mark key="'" line="215" column="13" />
@@ -199,7 +204,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="30" filename="$USER_HOME$/Develop/Docker/shoufuyou-task/config/command.php" />
       <jump line="12" column="67" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashPool/CashLoanStashQueue.php" />
       <jump line="49" column="32" filename="$USER_HOME$/Develop/Docker/shoufuyou-task/lib/Subcommands/RequestStashCashLoanCommand.php" />
       <jump line="12" column="39" filename="$USER_HOME$/Develop/Docker/shoufuyou-task/log/multi_app/20200507.log" />
@@ -299,6 +303,7 @@
       <jump line="902" column="21" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashLoanOrder.php" />
       <jump line="45" column="75" filename="$USER_HOME$/Develop/Docker/shoufuyou-task/lib/Subcommands/RequestStashCashLoanCommand.php" />
       <jump line="117" column="4" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashLoan/StashLogicTrait.php" />
+      <jump line="23" column="0" filename="$USER_HOME$/.ideavimrc" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -306,8 +311,8 @@
       <register name="a" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>//loan/api</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -349,28 +354,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">TUlJQklqQU5CZ2txaGtpRzl3MEJBUUVGQUFPQ0FROEFNSUlCQ2dLQ0FRRUFyNHVOV3NmVnI3WE4ycUV4U2lKRgp4VStIZ1dyT0UxQVgvOWZTL1hOUEFYUDllTFkzNS9pLzF6bFBNNkp4VG5qM0c2TGdQa0NNQitHMDQwWlZRcDdkCnYrWWRJOUk4b2c5Y3YwYXZlQUNDNk52cmRDUDBTdmNEay85WnlMc3lGUlJVSys4MEJQZUJuNEhDaVdsb1JiengKaldYMCtRY3lpZENqc1hkSDY2TGtVWGZGK2FNUmNrbjUycm1yeWRjWmgwaXZDMFc4TU9LM2lCVnBERWpxaHV4ZgpsdzJvVWhOK1RJSC80VEJUWkxKRGNtbTJrdDl1ZUdWYmlFeC9FMXN0bkVRaVZlTjQreERzYVEvWHRtZXIyNWlZCnYwYlRwM2VveXVBU0hPc3BtK2taMCtLcGM4aVFjcFA2MEo4TjhPa0dDZEljb2s2SWVsQjNxaENJWWM1dW93TlUKc3dJREFRQUIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
+        <text encoding="base64">TUlJQklqQU5CZ2txaGtpRzl3MEJBUUVGQUFPQ0FROEFNSUlCQ2dLQ0FRRUFyNHVOV3NmVnI3WE4ycUV4U2lKRgp4VStIZ1dyT0UxQVgvOWZTL1hOUEFYUDllTFkzNS9pLzF6bFBNNkp4VG5qM0c2TGdQa0NNQitHMDQwWlZRcDdkCnYrWWRJOUk4b2c5Y3YwYXZlQUNDNk52cmRDUDBTdmNEay85WnlMc3lGUlJVSys4MEJQZUJuNEhDaVdsb1JiengKaldYMCtRY3lpZENqc1hkSDY2TGtVWGZGK2FNUmNrbjUycm1yeWRjWmgwaXZDMFc4TU9LM2lCVnBERWpxaHV4ZgpsdzJvVWhOK1RJSC80VEJUWkxKRGNtbTJrdDl1ZUdWYmlFeC9FMXN0bkVRaVZlTjQreERzYVEvWHRtZXIyNWlZCnYwYlRwM2VveXVBU0hPc3BtK2taMCtLcGM4aVFjcFA2MEo4TjhPa0dDZEljb2s2SWVsQjNxaENJWWM1dW93TlUKc3dJREFRQUIK</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gdHJ1ZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gdHJ1ZTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -504,13 +509,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKENhc2hMb2FuT3JkZXI6OmlzTm9PcmRlclBhc3NGdW5kU291cmNlKCRxdWV1ZU9yZGVyLT5nZXRGdW5kU291cmNlKCkpKSB7Ly/mjpLpmaTkuI3lgZrmlL7mrL7nmoTotYTph5HmsaAKICAgICAgICAgICAgICAgIC8vIOS+i+WmgiBzal9jYXNoIOayoeaciSBvcmRlclJlbWl0CgogICAgICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgICAgIH0gZWxzZSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBvcmRlclJlbWl0Tm93KENhc2hMb2FuT3JkZXIgJGNhc2hMb2FuT3JkZXIpewogICAgICAgIHJldHVybiB0cnVlOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKENhc2hMb2FuT3JkZXI6OmlzTm9PcmRlclBhc3NGdW5kU291cmNlKCRxdWV1ZU9yZGVyLT5nZXRGdW5kU291cmNlKCkpKSB7Ly/mjpLpmaTkuI3lgZrmlL7mrL7nmoTotYTph5HmsaAKICAgICAgICAgICAgICAgIC8vIOS+i+WmgiBzal9jYXNoIOayoeaciSBvcmRlclJlbWl0CgogICAgICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgICAgIH0gZWxzZSB7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>nohls</text>
+        <text>action KJumpAction.Line</text>
       </register>
     </registers>
   </component>
