@@ -29,25 +29,25 @@
         <entry encoding="base64">XDxhcHBcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>sp</entry>
         <entry>action CloseAllEditors</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>action Find</entry>
-        <entry>action Annotate</entry>
         <entry>action Back</entry>
         <entry>action KJumpAction.Word0</entry>
         <entry>action KJumpAction</entry>
-        <entry>wq</entry>
         <entry>action KJumpAction.Line</entry>
         <entry>action ShowPopupMenu</entry>
         <entry>action SelectInProjectView</entry>
         <entry>action RecentFiles</entry>
-        <entry>action NextSplitter</entry>
         <entry>action FileStructurePopup</entry>
-        <entry>action FindInPath</entry>
         <entry>nohls</entry>
-        <entry>action GotoFile</entry>
+        <entry>vs</entry>
+        <entry>action NextSplitter</entry>
+        <entry>wq</entry>
+        <entry>action Annotate</entry>
         <entry>action GotoClass</entry>
+        <entry>action FindInPath</entry>
+        <entry>action GotoFile</entry>
         <entry>action GotoAction</entry>
       </history-cmd>
       <history-expr />
@@ -160,12 +160,12 @@
         <mark key="[" line="889" column="0" />
         <mark key="]" line="898" column="13" />
       </file>
-      <file name="$USER_HOME$/.ideavimrc" timestamp="1588993936482">
+      <file name="$USER_HOME$/.ideavimrc" timestamp="1588994055443">
         <mark key="'" line="67" column="16" />
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="56" />
-        <mark key="." line="51" column="0" />
-        <mark key="^" line="47" column="23" />
+        <mark key="[" line="38" column="19" />
+        <mark key="]" line="38" column="19" />
+        <mark key="." line="38" column="18" />
+        <mark key="^" line="38" column="19" />
       </file>
       <file name="$USER_HOME$/Develop/Docker/xinyongfei-app-api/lib/Controllers/UserController.php" timestamp="1588991605067">
         <mark key="'" line="54" column="0" />
@@ -326,8 +326,8 @@
       <register name="a" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">bm5vcmVtYXAgPFNwYWNlPjxTcGFjZT5lIDphY3Rpb24gU2VsZWN0SW5Qcm9qZWN0VmlldzxDUj4K</text>
+      <register name="&quot;" type="4">
+        <text>t</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -342,7 +342,7 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcHBcPg==</text>
@@ -542,7 +542,7 @@
       <last-replace>\\&quot;</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
