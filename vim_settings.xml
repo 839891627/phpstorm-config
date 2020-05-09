@@ -19,7 +19,6 @@
         <entry encoding="base64">XDxET1dOTE9BRF9VUkxcPg==</entry>
         <entry>1</entry>
         <entry encoding="base64">XDxvcmRlclJlbWl0XD4=</entry>
-        <entry encoding="base64">XDxhcHBcPg==</entry>
         <entry encoding="base64">XDxFbnZcPg==</entry>
         <entry encoding="base64">XDxvcmRlclw+</entry>
         <entry encoding="base64">XDxnZXRGdW5kU291cmNlXD4=</entry>
@@ -27,28 +26,29 @@
         <entry>orderRemit</entry>
         <entry encoding="base64">XDxvcmRlclJlbWl0Tm93XD4=</entry>
         <entry>ws</entry>
+        <entry encoding="base64">XDxhcHBcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>action GotoAction</entry>
         <entry>action ShowFilePath</entry>
         <entry>sp</entry>
-        <entry>action Back</entry>
         <entry>action OpenEditorInOppositeTabGroup</entry>
         <entry>action KJumpAction.Line</entry>
         <entry>action PreviousTab</entry>
         <entry>action NextTab</entry>
         <entry>action FileStructurePopup</entry>
         <entry>action Annotate</entry>
-        <entry>wq</entry>
         <entry>action Find</entry>
         <entry>action ShowPopupMenu</entry>
-        <entry>action GotoClass</entry>
         <entry>action GotoFile</entry>
         <entry>action FindInPath</entry>
         <entry>action CloseAllEditors</entry>
-        <entry>vs</entry>
-        <entry>nohls</entry>
         <entry>action NextSplitter</entry>
+        <entry>action Back</entry>
+        <entry>nohls</entry>
+        <entry>vs</entry>
+        <entry>action GotoClass</entry>
+        <entry>action GotoAction</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -160,12 +160,15 @@
         <mark key="[" line="889" column="0" />
         <mark key="]" line="898" column="13" />
       </file>
-      <file name="$USER_HOME$/.ideavimrc" timestamp="1588991163460">
-        <mark key="'" line="29" column="0" />
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="0" />
-        <mark key="^" line="61" column="15" />
-        <mark key="." line="64" column="0" />
+      <file name="$USER_HOME$/.ideavimrc" timestamp="1588992665320">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="65" column="16" />
+        <mark key="]" line="65" column="20" />
+        <mark key="^" line="65" column="20" />
+        <mark key="." line="65" column="19" />
+      </file>
+      <file name="$USER_HOME$/Develop/Docker/xinyongfei-app-api/lib/Controllers/UserController.php" timestamp="1588991605067">
+        <mark key="'" line="54" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashLoan/XlCash/XlCashLoanOrder.php" timestamp="1588923791823">
         <mark key="'" line="699" column="27" />
@@ -191,8 +194,20 @@
         <mark key="." line="164" column="29" />
         <mark key="^" line="164" column="30" />
       </file>
+      <file name="$USER_HOME$/Develop/Docker/xinyongfei-app-api/log/record/20200509.log" timestamp="1588992421898">
+        <mark key="[" line="0" column="1839" />
+        <mark key="]" line="0" column="1839" />
+        <mark key="." line="0" column="1838" />
+        <mark key="^" line="0" column="1839" />
+      </file>
       <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/async/Notify.php" timestamp="1588923353914">
         <mark key="'" line="121" column="54" />
+      </file>
+      <file name="$USER_HOME$/Develop/Docker/xinyongfei-app-api/lib/Controllers/BaseController.php" timestamp="1588992157390">
+        <mark key="'" line="42" column="23" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/before/Income.php" timestamp="1588920772679">
         <mark key="'" line="228" column="0" />
@@ -205,12 +220,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="10" filename="$USER_HOME$/Develop/Docker/shoufuyou-notify/lib/Models/Utms/Yqg.php" />
-      <jump line="137" column="78" filename="$USER_HOME$/Develop/Docker/shoufuyou-notify/lib/Models/Utms/Yqg.php" />
-      <jump line="148" column="79" filename="$USER_HOME$/Develop/Docker/shoufuyou-notify/lib/Models/Utms/Yqg.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Develop/Docker/shoufuyou-notify/lib/Models/Utms/Yqg.php" />
-      <jump line="141" column="53" filename="$USER_HOME$/Develop/Docker/shoufuyou-notify/lib/Models/Utms/Yqg.php" />
-      <jump line="25" column="24" filename="$USER_HOME$/Develop/Docker/shoufuyou-notify/lib/Models/Utms/Jqks.php" />
       <jump line="27" column="24" filename="$USER_HOME$/Develop/Docker/shoufuyou-notify/lib/Models/Utms/Jqks.php" />
       <jump line="28" column="23" filename="$USER_HOME$/Develop/Docker/shoufuyou-notify/lib/Models/Utms/Jqks.php" />
       <jump line="95" column="76" filename="$USER_HOME$/Develop/Docker/shoufuyou-notify/lib/Models/Utms/Comzk.php" />
@@ -305,6 +314,12 @@
       <jump line="36" column="14" filename="$USER_HOME$/.ideavimrc" />
       <jump line="53" column="14" filename="$USER_HOME$/.ideavimrc" />
       <jump line="29" column="0" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="54" column="0" filename="$USER_HOME$/Develop/Docker/xinyongfei-app-api/lib/Controllers/UserController.php" />
+      <jump line="16" column="6" filename="$USER_HOME$/Develop/Docker/xinyongfei-app-api/lib/Controllers/BaseController.php" />
+      <jump line="42" column="23" filename="$USER_HOME$/Develop/Docker/xinyongfei-app-api/lib/Controllers/BaseController.php" />
+      <jump line="60" column="0" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="65" column="0" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="18" column="0" filename="$USER_HOME$/.ideavimrc" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -312,8 +327,8 @@
       <register name="a" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Left</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -328,16 +343,19 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">d2sg</text>
+        <text>Left</text>
       </register>
       <register name="/" type="4">
-        <text>ws</text>
+        <text encoding="base64">XDxhcHBcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGZhbHNlID09PSAkc3RhdHVzKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIC8vcGFydDQ65pS+5qy+CiAgICAgICAgICAgIC8v5LiN55u05o6l5pS+5qy+55qE77yM5qCH6K6w5Li65pS+5qy+5LitCiAgICAgICAgICAgIGlmIChpbl9hcnJheSgkdGhpcy0+Z2V0RnVuZFNvdXJjZSgpLCBzZWxmOjokbm9EaXJlY3RQYXlGdW5kU291cmNlKSkgewogICAgICAgICAgICAgICAgJGxvY2tlZE9yZGVyLT5yZW1pdFBlbmRpbmcoKTsvL+aUvuasvuS4rQogICAgICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgICAgIH0K</text>
+      <register name="0" type="4">
+        <text>inoremap</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="8">
+        <text>nnoremap
+nnoremap
+nnoremap
+nnoremap</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -354,29 +372,29 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">bm5vcmVtYXAgPFNwYWNlPnctIDxDLVc+cwpubm9yZW1hcCA8U3BhY2U+d1x8IDxDLVc+dgo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bm5vcmVtYXAgPFNwYWNlPnd3IDxDLVc+dwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoRW52OjokYXBwLDIpO2RpZTsK</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bm5vcmVtYXAgPFNwYWNlPmYgOmFjdGlvbiBGaW5kSW5QYXRoPENSPgo=</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcChFbnY6OiRhcHApO2RpZTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiIg5pi+56S66I+c5Y2VCg==</text>
+        <text encoding="base64">ICAgICAgICBlY2hvIDI7ZGllOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bm5vcmVtYXAgPFNwYWNlPm0gOmFjdGlvbiBTaG93UG9wdXBNZW51PENSPgo=</text>
+        <text encoding="base64">ICAgICAgICBlY2hvIDI7ZGllOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bm5vcmVtYXAgPHNwYWNlPmMgOmFjdGlvbiBGaWxlU3RydWN0dXJlUG9wdXA8Q1I+Cm5ub3JlbWFwIDxzcGFjZT5uIDphY3Rpb24gR290b0ZpbGU8Q1I+Cm5ub3JlbWFwIDxzcGFjZT5mIDphY3Rpb24gRmluZEluUGF0aDxDUj4Kbm5vcmVtYXAgPHNwYWNlPjxzcGFjZT5lIDphY3Rpb24gU2VsZWN0SW5Qcm9qZWN0VmlldzxDUj4Kbm5vcmVtYXAgPHNwYWNlPmUgOmFjdGlvbiBSZWNlbnRGaWxlczxDUj4Kbm5vcmVtYXAgPHNwYWNlPmcgOmFjdGlvbiBBbm5vdGF0ZTxDUj4Kbm5vcmVtYXAgPHNwYWNlPnUgOmFjdGlvbiBGaW5kVXNhZ2VzPENSPgpubm9yZW1hcCA8c3BhY2U+dCA6YWN0aW9uIFJlZmFjdG9yaW5ncy5RdWlja0xpc3RQb3B1cEFjdGlvbjxDUj4Kbm5vcmVtYXAgPHNwYWNlPnIgOmFjdGlvbiBSZW5hbWVFbGVtZW50PENSPgpubm9yZW1hcCA8c3BhY2U+byA6YWN0aW9uIE9wZW5FZGl0b3JJbk9wcG9zaXRlVGFiR3JvdXA8Q1I+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -510,21 +528,21 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bm5vcmVtYXAgPFNwYWNlPnctIDxDLVc+cwpubm9yZW1hcCA8U3BhY2U+d1x8IDxDLVc+dgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IiBUYWIgb3BlcmF0aW9uCm5ub3JlbWFwIHRuIGd0Cm5ub3JlbWFwIHRwIGdUCg==</text>
+        <text encoding="base64">bm5vcmVtYXAgPFNwYWNlPnd3IDxDLVc+dwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action NextSplitter</text>
+        <text>wq</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>ws</last-search>
+      <last-search encoding="base64">XDxhcHBcPg==</last-search>
       <last-offset />
-      <last-pattern>ws</last-pattern>
+      <last-pattern encoding="base64">XDxhcHBcPg==</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
