@@ -29,26 +29,26 @@
         <entry encoding="base64">XDxhcHBcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>action KJumpAction.Line</entry>
-        <entry>action NextTab</entry>
-        <entry>action FileStructurePopup</entry>
-        <entry>action Annotate</entry>
-        <entry>action Find</entry>
-        <entry>action GotoFile</entry>
-        <entry>action FindInPath</entry>
         <entry>action Back</entry>
-        <entry>nohls</entry>
-        <entry>action GotoClass</entry>
         <entry>action GotoAction</entry>
-        <entry>wq</entry>
         <entry>action PreviousTab</entry>
         <entry>vs</entry>
         <entry>sp</entry>
-        <entry>action NextSplitter</entry>
-        <entry>action CloseAllEditors</entry>
-        <entry>action ShowPopupMenu</entry>
         <entry>action RecentFiles</entry>
         <entry>action SelectInProjectView</entry>
+        <entry>action CloseAllEditors</entry>
+        <entry>action KJumpAction.Word0</entry>
+        <entry>action Refactorings.QuickListPopupAction</entry>
+        <entry>action NextSplitter</entry>
+        <entry>action Find</entry>
+        <entry>wq</entry>
+        <entry>action Annotate</entry>
+        <entry>action GotoFile</entry>
+        <entry>action GotoClass</entry>
+        <entry>action FindInPath</entry>
+        <entry>nohls</entry>
+        <entry>action FileStructurePopup</entry>
+        <entry>action ShowPopupMenu</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -126,8 +126,12 @@
         <mark key="." line="501" column="3" />
         <mark key="^" line="501" column="4" />
       </file>
-      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/controllers/CommonController.php" timestamp="1588991085561">
+      <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/controllers/CommonController.php" timestamp="1588993182945">
         <mark key="'" line="88" column="41" />
+        <mark key="[" line="91" column="5" />
+        <mark key="]" line="85" column="9" />
+        <mark key="^" line="85" column="9" />
+        <mark key="." line="85" column="8" />
       </file>
       <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/shoufuyou/Logging/Log.php" timestamp="1588917503031">
         <mark key="'" line="387" column="0" />
@@ -160,8 +164,11 @@
         <mark key="[" line="889" column="0" />
         <mark key="]" line="898" column="13" />
       </file>
-      <file name="$USER_HOME$/.ideavimrc" timestamp="1588992968392">
+      <file name="$USER_HOME$/.ideavimrc" timestamp="1588993472345">
         <mark key="'" line="18" column="0" />
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="39" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Docker/xinyongfei-app-api/lib/Controllers/UserController.php" timestamp="1588991605067">
         <mark key="'" line="54" column="0" />
@@ -325,7 +332,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+Cg==</text>
+        <text encoding="base64">bm5vcmVtYXAgPFNwYWNlPmdnIDphY3Rpb24gQW5ub3RhdGU8Q1I+Cg==</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -349,7 +356,7 @@
         <text>inoremap</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+Cg==</text>
+        <text encoding="base64">bm5vcmVtYXAgPFNwYWNlPmdnIDphY3Rpb24gQW5ub3RhdGU8Q1I+Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -367,31 +374,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgawo=</text>
+        <text encoding="base64">bm5vcmVtYXAgPFNwYWNlPmdjIDphY3Rpb24gR290b0NsYXNzPENSPgpubm9yZW1hcCA8U3BhY2U+Z2EgOmFjdGlvbiBHb3RvQWN0aW9uPENSPgo=</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPnJlCg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Cg==</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
-      <register name="4" type="8">
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgawo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPnJlCg==</text>
+      </register>
+      <register name="6" type="8">
         <text>nnoremap
 nnoremap
 nnoremap
 nnoremap</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoRW52OjokYXBwLDIpO2RpZTsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcChFbnY6OiRhcHApO2RpZTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -525,13 +532,13 @@ nnoremap</text>
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvIDI7ZGllOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoRW52OjokYXBwLDIpO2RpZTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvIDI7ZGllOwo=</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcChFbnY6OiRhcHApO2RpZTsK</text>
       </register>
       <register name=":" type="4">
-        <text>action SelectInProjectView</text>
+        <text>action ShowPopupMenu</text>
       </register>
     </registers>
   </component>
