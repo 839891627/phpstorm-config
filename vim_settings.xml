@@ -29,26 +29,26 @@
         <entry encoding="base64">XDxhcHBcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>action ShowFilePath</entry>
-        <entry>sp</entry>
-        <entry>action OpenEditorInOppositeTabGroup</entry>
         <entry>action KJumpAction.Line</entry>
-        <entry>action PreviousTab</entry>
         <entry>action NextTab</entry>
         <entry>action FileStructurePopup</entry>
         <entry>action Annotate</entry>
         <entry>action Find</entry>
-        <entry>action ShowPopupMenu</entry>
         <entry>action GotoFile</entry>
         <entry>action FindInPath</entry>
-        <entry>action CloseAllEditors</entry>
-        <entry>action NextSplitter</entry>
         <entry>action Back</entry>
         <entry>nohls</entry>
-        <entry>vs</entry>
         <entry>action GotoClass</entry>
         <entry>action GotoAction</entry>
         <entry>wq</entry>
+        <entry>action PreviousTab</entry>
+        <entry>vs</entry>
+        <entry>sp</entry>
+        <entry>action NextSplitter</entry>
+        <entry>action CloseAllEditors</entry>
+        <entry>action ShowPopupMenu</entry>
+        <entry>action RecentFiles</entry>
+        <entry>action SelectInProjectView</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -160,12 +160,8 @@
         <mark key="[" line="889" column="0" />
         <mark key="]" line="898" column="13" />
       </file>
-      <file name="$USER_HOME$/.ideavimrc" timestamp="1588992665320">
+      <file name="$USER_HOME$/.ideavimrc" timestamp="1588992968392">
         <mark key="'" line="18" column="0" />
-        <mark key="[" line="65" column="16" />
-        <mark key="]" line="65" column="20" />
-        <mark key="^" line="65" column="20" />
-        <mark key="." line="65" column="19" />
       </file>
       <file name="$USER_HOME$/Develop/Docker/xinyongfei-app-api/lib/Controllers/UserController.php" timestamp="1588991605067">
         <mark key="'" line="54" column="0" />
@@ -194,20 +190,21 @@
         <mark key="." line="164" column="29" />
         <mark key="^" line="164" column="30" />
       </file>
-      <file name="$USER_HOME$/Develop/Docker/xinyongfei-app-api/log/record/20200509.log" timestamp="1588992421898">
-        <mark key="[" line="0" column="1839" />
-        <mark key="]" line="0" column="1839" />
-        <mark key="." line="0" column="1838" />
-        <mark key="^" line="0" column="1839" />
+      <file name="$USER_HOME$/Develop/Docker/xinyongfei-app-api/log/record/20200509.log" timestamp="1588992719928">
+        <mark key="[" line="0" column="1546" />
+        <mark key="]" line="0" column="1546" />
+        <mark key="." line="0" column="1545" />
+        <mark key="^" line="0" column="1546" />
       </file>
       <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/async/Notify.php" timestamp="1588923353914">
         <mark key="'" line="121" column="54" />
       </file>
-      <file name="$USER_HOME$/Develop/Docker/xinyongfei-app-api/lib/Controllers/BaseController.php" timestamp="1588992157390">
+      <file name="$USER_HOME$/Develop/Docker/xinyongfei-app-api/lib/Controllers/BaseController.php" timestamp="1588992773715">
         <mark key="'" line="42" column="23" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+        <mark key="^" line="41" column="15" />
       </file>
       <file name="$USER_HOME$/Develop/Docker/xyf-api-getway/ua_api/modules/jqns/facade/before/Income.php" timestamp="1588920772679">
         <mark key="'" line="228" column="0" />
@@ -327,8 +324,8 @@
       <register name="a" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>Left</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Cg==</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -351,11 +348,8 @@
       <register name="0" type="4">
         <text>inoremap</text>
       </register>
-      <register name="1" type="8">
-        <text>nnoremap
-nnoremap
-nnoremap
-nnoremap</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -372,29 +366,32 @@ nnoremap</text>
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgawo=</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoRW52OjokYXBwLDIpO2RpZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPnJlCg==</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcChFbnY6OiRhcHApO2RpZTsK</text>
+      <register name="4" type="8">
+        <text>nnoremap
+nnoremap
+nnoremap
+nnoremap</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvIDI7ZGllOwo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvIDI7ZGllOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoRW52OjokYXBwLDIpO2RpZTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcChFbnY6OiRhcHApO2RpZTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -528,13 +525,13 @@ nnoremap</text>
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">bm5vcmVtYXAgPFNwYWNlPnctIDxDLVc+cwpubm9yZW1hcCA8U3BhY2U+d1x8IDxDLVc+dgo=</text>
+        <text encoding="base64">ICAgICAgICBlY2hvIDI7ZGllOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bm5vcmVtYXAgPFNwYWNlPnd3IDxDLVc+dwo=</text>
+        <text encoding="base64">ICAgICAgICBlY2hvIDI7ZGllOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>action SelectInProjectView</text>
       </register>
     </registers>
   </component>
