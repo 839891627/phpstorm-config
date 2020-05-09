@@ -35,11 +35,9 @@
         <entry>action GotoAction</entry>
         <entry>action CloseAllEditors</entry>
         <entry>action PreviousTab</entry>
-        <entry>action GotoClass</entry>
         <entry>action OpenEditorInOppositeTabGroup</entry>
         <entry>.nohls</entry>
         <entry>action FileStructurePopup</entry>
-        <entry>action KJumpAction.Word0</entry>
         <entry>vs</entry>
         <entry>action NextSplitter</entry>
         <entry>wq</entry>
@@ -47,6 +45,8 @@
         <entry>action RenameElement</entry>
         <entry>action GotoFile</entry>
         <entry>action NextTab</entry>
+        <entry>action GotoClass</entry>
+        <entry>action KJumpAction.Word0</entry>
         <entry>action Back</entry>
         <entry>nohls</entry>
       </history-cmd>
@@ -140,8 +140,8 @@
         <mark key="^" line="85" column="9" />
         <mark key="." line="85" column="8" />
       </file>
-      <file name="$USER_HOME$/Develop/Docker/shoufuyou-task/lib/Subcommands/RequestCashLoanCommand.php" timestamp="1588994623579">
-        <mark key="'" line="90" column="31" />
+      <file name="$USER_HOME$/Develop/Docker/shoufuyou-task/lib/Subcommands/RequestCashLoanCommand.php" timestamp="1589014774399">
+        <mark key="'" line="90" column="28" />
         <mark key="[" line="37" column="13" />
         <mark key="]" line="37" column="13" />
         <mark key="^" line="37" column="18" />
@@ -176,8 +176,8 @@
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="68" />
       </file>
-      <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashLoanOrder.php" timestamp="1588923833211">
-        <mark key="'" line="902" column="21" />
+      <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashLoanOrder.php" timestamp="1589014821013">
+        <mark key="'" line="741" column="38" />
         <mark key="[" line="889" column="0" />
         <mark key="]" line="898" column="13" />
       </file>
@@ -232,10 +232,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="6" filename="$USER_HOME$/Develop/Docker/xinyongfei-app-api/lib/Controllers/BaseController.php" />
-      <jump line="42" column="23" filename="$USER_HOME$/Develop/Docker/xinyongfei-app-api/lib/Controllers/BaseController.php" />
-      <jump line="60" column="0" filename="$USER_HOME$/.ideavimrc" />
-      <jump line="65" column="0" filename="$USER_HOME$/.ideavimrc" />
       <jump line="18" column="0" filename="$USER_HOME$/.ideavimrc" />
       <jump line="163" column="4" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashLoan/StashLogicTrait.php" />
       <jump line="67" column="16" filename="$USER_HOME$/.ideavimrc" />
@@ -332,6 +328,10 @@
       <jump line="60" column="40" filename="$USER_HOME$/Develop/Docker/shoufuyou-task/lib/Subcommands/RequestStashCashLoanCommand.php" />
       <jump line="43" column="84" filename="$USER_HOME$/Develop/Docker/shoufuyou-task/lib/Subcommands/RequestStashCashLoanCommand.php" />
       <jump line="27" column="46" filename="$USER_HOME$/Develop/Docker/shoufuyou-task/lib/Subcommands/RequestStashCashLoanCommand.php" />
+      <jump line="90" column="28" filename="$USER_HOME$/Develop/Docker/shoufuyou-task/lib/Subcommands/RequestCashLoanCommand.php" />
+      <jump line="2943" column="27" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashLoanOrder.php" />
+      <jump line="888" column="29" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashLoanOrder.php" />
+      <jump line="741" column="38" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashLoanOrder.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
