@@ -29,14 +29,8 @@
         <entry encoding="base64">XDxpc0F2YWlsYWJsZVw+</entry>
       </history-search>
       <history-cmd>
-        <entry>action FindInPath</entry>
-        <entry>action GotoAction</entry>
-        <entry>action OpenEditorInOppositeTabGroup</entry>
         <entry>.nohls</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gUmVmYWN0b3JpbmdzLlF1aWNrTGlzdFBvcHVwQWN0aW9u</entry>
-        <entry>action GotoFile</entry>
-        <entry>action CloseAllEditors</entry>
-        <entry>action FileStructurePopup</entry>
         <entry>action KJumpAction.Word0</entry>
         <entry>action FindUsages</entry>
         <entry>vs</entry>
@@ -44,11 +38,17 @@
         <entry>action RenameElement</entry>
         <entry>action NextSplitter</entry>
         <entry>action NextTab</entry>
-        <entry>wq</entry>
         <entry>action ShowPopupMenu</entry>
-        <entry>action Back</entry>
         <entry>action GotoClass</entry>
+        <entry>action GotoAction</entry>
+        <entry>action Refactorings.QuickListPopupAction</entry>
+        <entry>action CloseAllEditors</entry>
+        <entry>action FileStructurePopup</entry>
+        <entry>action GotoFile</entry>
+        <entry>wq</entry>
+        <entry>action Annotate</entry>
         <entry>nohls</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -112,23 +112,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashLoan/SlCash/SlCashLoanOrder.php" timestamp="1589008156813">
-        <mark key="'" line="114" column="23" />
-        <mark key="[" line="127" column="5" />
-        <mark key="]" line="128" column="20" />
-        <mark key="." line="128" column="19" />
-        <mark key="^" line="128" column="20" />
-      </file>
-      <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashPool/CashPoolConfig.php" timestamp="1589017599760">
-        <mark key="'" line="62" column="58" />
-      </file>
-      <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashPool/CashLoanNonStashQueue.php" timestamp="1589008512444">
-        <mark key="'" line="24" column="24" />
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
-        <mark key="^" line="45" column="29" />
-      </file>
       <file name="$USER_HOME$/Develop/jenkins/README.MD" timestamp="1589169605183">
         <mark key="'" line="4" column="0" />
         <mark key="[" line="18" column="0" />
@@ -145,22 +128,14 @@
         <mark key="^" line="37" column="18" />
         <mark key="." line="37" column="13" />
       </file>
-      <file name="$USER_HOME$/Develop/Docker/shoufuyou-console/lib/Models/Admin/Log/CashPoolLog.php" timestamp="1589002323782">
-        <mark key="'" line="77" column="30" />
-        <mark key="[" line="64" column="50" />
-        <mark key="]" line="64" column="50" />
-        <mark key="." line="64" column="49" />
-        <mark key="^" line="64" column="50" />
-      </file>
       <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/shoufuyou/Table/CashPoolStashConfig.php" timestamp="1589017983397">
         <mark key="'" line="124" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/Docker/shoufuyou-console/lib/Models/Admin/Log/RouterConfig.php" timestamp="1588996417294">
-        <mark key="'" line="131" column="12" />
-        <mark key="[" line="168" column="0" />
-        <mark key="]" line="168" column="0" />
-        <mark key="." line="168" column="0" />
-        <mark key="^" line="163" column="49" />
+      <file name="$USER_HOME$/Develop/Docker/dnmp/config/php/php71.ini" timestamp="1589179658278">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="1958" column="0" />
+        <mark key="]" line="1958" column="0" />
+        <mark key="." line="1958" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashPool/CashPoolStashConfig.php" timestamp="1589161666470">
         <mark key="'" line="78" column="17" />
@@ -174,24 +149,11 @@
         <mark key="[" line="889" column="0" />
         <mark key="]" line="898" column="13" />
       </file>
-      <file name="$USER_HOME$/.ideavimrc" timestamp="1589005840813">
-        <mark key="'" line="63" column="0" />
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="1" />
-        <mark key="^" line="54" column="17" />
-        <mark key="." line="61" column="1" />
-      </file>
-      <file name="$USER_HOME$/Develop/Docker/shoufuyou-console/lib/Controllers/Api/CashPoolStashConfigController.php" timestamp="1589018290907">
-        <mark key="'" line="52" column="24" />
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashPool/CashPoolNew.php" timestamp="1589161700387">
+      <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashPool/CashPoolNew.php" timestamp="1589180635261">
         <mark key="'" line="235" column="25" />
-        <mark key="[" line="235" column="16" />
-        <mark key="]" line="235" column="17" />
-        <mark key="." line="235" column="16" />
+        <mark key="[" line="206" column="12" />
+        <mark key="]" line="206" column="12" />
+        <mark key="." line="206" column="12" />
         <mark key="^" line="235" column="17" />
       </file>
       <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashLoan/XlCash/XlCashLoanOrder.php" timestamp="1589017351095">
@@ -200,6 +162,9 @@
         <mark key="]" line="700" column="0" />
         <mark key="." line="700" column="0" />
       </file>
+      <file name="/PHP Console" timestamp="1589180720861">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/Docker/shoufuyou-console/lib/Models/Util.php" timestamp="1589018175816">
         <mark key="[" line="57" column="0" />
         <mark key="]" line="57" column="89" />
@@ -207,12 +172,27 @@
       <file name="$USER_HOME$/Develop/Docker/xinyongfei-reporting-system/lib/Models/Reporting.php" timestamp="1589176548480">
         <mark key="'" line="66" column="86" />
       </file>
-      <file name="$USER_HOME$/Develop/Docker/shoufuyou-task/lib/Subcommands/RequestStashCashLoanCommand.php" timestamp="1589167658586">
+      <file name="$USER_HOME$/Develop/Docker/shoufuyou-task/lib/Subcommands/RequestStashCashLoanCommand.php" timestamp="1589179581733">
         <mark key="'" line="103" column="30" />
         <mark key="[" line="103" column="16" />
         <mark key="]" line="103" column="16" />
         <mark key="." line="103" column="16" />
         <mark key="^" line="103" column="47" />
+      </file>
+      <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashPool/CashPoolConfig.php" timestamp="1589017599760">
+        <mark key="'" line="62" column="58" />
+      </file>
+      <file name="$USER_HOME$/Develop/Docker/shoufuyou-fund-system/lib/Models/FundSource/Verify/VerifyPeriod.php" timestamp="1589180908790">
+        <mark key="'" line="51" column="16" />
+      </file>
+      <file name="/fragment.php" timestamp="1589180967191">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/Docker/shoufuyou-console/lib/Controllers/Api/CashPoolStashConfigController.php" timestamp="1589018290907">
+        <mark key="'" line="52" column="24" />
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashLoan/StashLogicTrait.php" timestamp="1589161678289">
         <mark key="'" line="128" column="27" />
@@ -225,11 +205,9 @@
         <mark key="'" line="180" column="48" />
         <mark key="k" line="16" column="8" />
       </file>
+      <file name="$USER_HOME$/Develop/Docker/shoufuyou-fund-system/lib/Models/FundSource/FundSourceManage.php" timestamp="1589180453671" />
     </filemarks>
     <jumps>
-      <jump line="77" column="0" filename="$USER_HOME$/Develop/Docker/shoufuyou-task/lib/Subcommands/RequestStashCashLoanCommand.php" />
-      <jump line="58" column="0" filename="$USER_HOME$/Develop/Docker/shoufuyou-task/lib/Subcommands/RequestStashCashLoanCommand.php" />
-      <jump line="91" column="6" filename="$USER_HOME$/Develop/Docker/shoufuyou-task/lib/Subcommands/RequestStashCashLoanCommand.php" />
       <jump line="89" column="15" filename="$USER_HOME$/Develop/Docker/shoufuyou-task/lib/Subcommands/RequestStashCashLoanCommand.php" />
       <jump line="23" column="24" filename="$USER_HOME$/Develop/Docker/shoufuyou-task/lib/Subcommands/RequestStashCashLoanCommand.php" />
       <jump line="118" column="30" filename="$USER_HOME$/Develop/Docker/shoufuyou-task/lib/Subcommands/RequestStashCashLoanCommand.php" />
@@ -327,6 +305,9 @@
       <jump line="103" column="30" filename="$USER_HOME$/Develop/Docker/shoufuyou-task/lib/Subcommands/RequestStashCashLoanCommand.php" />
       <jump line="4" column="0" filename="$USER_HOME$/Develop/jenkins/README.MD" />
       <jump line="66" column="86" filename="$USER_HOME$/Develop/Docker/xinyongfei-reporting-system/lib/Models/Reporting.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Develop/Docker/dnmp/config/php/php71.ini" />
+      <jump line="61" column="0" filename="$USER_HOME$/Develop/Docker/shoufuyou-fund-system/lib/Models/FundSource/Verify/VerifyPeriod.php" />
+      <jump line="51" column="16" filename="$USER_HOME$/Develop/Docker/shoufuyou-fund-system/lib/Models/FundSource/Verify/VerifyPeriod.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -334,8 +315,8 @@
       <register name="a" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgYGBgCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -350,7 +331,7 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpc0F2YWlsYWJsZVw+</text>
@@ -538,7 +519,7 @@
         <text encoding="base64">ICAgICAgICAiIjoiMDA6MDAtMjM6NTkiLCIiOiIwMDowMC0yMzo1OSIsIiI6IjAwOjAwLTIzOjU5In0K</text>
       </register>
       <register name=":" type="4">
-        <text>nohls</text>
+        <text>action Back</text>
       </register>
     </registers>
   </component>
