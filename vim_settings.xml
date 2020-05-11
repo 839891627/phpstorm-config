@@ -46,9 +46,9 @@
         <entry>action NextTab</entry>
         <entry>wq</entry>
         <entry>action ShowPopupMenu</entry>
-        <entry>action GotoClass</entry>
         <entry>nohls</entry>
         <entry>action Back</entry>
+        <entry>action GotoClass</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -128,6 +128,9 @@
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
         <mark key="^" line="45" column="29" />
+      </file>
+      <file name="$USER_HOME$/Develop/Docker/xinyongfei-app-api/lib/Models/App.php" timestamp="1589165647643">
+        <mark key="'" line="1409" column="26" />
       </file>
       <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashLoan/SjCash/SjCashLoanOrder.php" timestamp="1588993650887">
         <mark key="'" line="496" column="22" />
@@ -225,7 +228,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="19" filename="$USER_HOME$/Develop/Docker/shoufuyou-task/lib/Subcommands/RequestStashCashLoanCommand.php" />
       <jump line="3" column="0" filename="$USER_HOME$/Develop/Docker/shoufuyou-task/lib/Subcommands/RequestStashCashLoanCommand.php" />
       <jump line="37" column="0" filename="$USER_HOME$/Develop/Docker/shoufuyou-task/lib/Subcommands/RequestStashCashLoanCommand.php" />
       <jump line="77" column="0" filename="$USER_HOME$/Develop/Docker/shoufuyou-task/lib/Subcommands/RequestStashCashLoanCommand.php" />
@@ -325,6 +327,7 @@
       <jump line="128" column="27" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashLoan/StashLogicTrait.php" />
       <jump line="88" column="15" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashPool/CashPoolStashConfig.php" />
       <jump line="78" column="17" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashPool/CashPoolStashConfig.php" />
+      <jump line="1409" column="26" filename="$USER_HOME$/Develop/Docker/xinyongfei-app-api/lib/Models/App.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -536,7 +539,7 @@
         <text encoding="base64">ICAgICAgICAgICAgJzcnID0+ICJNb25kYXkiLAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Back</text>
+        <text>action GotoClass</text>
       </register>
     </registers>
   </component>
