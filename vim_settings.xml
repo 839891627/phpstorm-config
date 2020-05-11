@@ -46,9 +46,9 @@
         <entry>action NextTab</entry>
         <entry>wq</entry>
         <entry>action ShowPopupMenu</entry>
-        <entry>nohls</entry>
         <entry>action Back</entry>
         <entry>action GotoClass</entry>
+        <entry>nohls</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -129,14 +129,14 @@
         <mark key="." line="46" column="0" />
         <mark key="^" line="45" column="29" />
       </file>
+      <file name="$USER_HOME$/Develop/jenkins/README.MD" timestamp="1589169605183">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="6" />
+        <mark key="." line="18" column="0" />
+      </file>
       <file name="$USER_HOME$/Develop/Docker/xinyongfei-app-api/lib/Models/App.php" timestamp="1589165647643">
         <mark key="'" line="1409" column="26" />
-      </file>
-      <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashLoan/SjCash/SjCashLoanOrder.php" timestamp="1588993650887">
-        <mark key="'" line="496" column="22" />
-        <mark key="[" line="495" column="0" />
-        <mark key="]" line="495" column="0" />
-        <mark key="." line="495" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Docker/shoufuyou-task/lib/Subcommands/RequestCashLoanCommand.php" timestamp="1589020645436">
         <mark key="'" line="90" column="28" />
@@ -228,7 +228,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="0" filename="$USER_HOME$/Develop/Docker/shoufuyou-task/lib/Subcommands/RequestStashCashLoanCommand.php" />
       <jump line="37" column="0" filename="$USER_HOME$/Develop/Docker/shoufuyou-task/lib/Subcommands/RequestStashCashLoanCommand.php" />
       <jump line="77" column="0" filename="$USER_HOME$/Develop/Docker/shoufuyou-task/lib/Subcommands/RequestStashCashLoanCommand.php" />
       <jump line="58" column="0" filename="$USER_HOME$/Develop/Docker/shoufuyou-task/lib/Subcommands/RequestStashCashLoanCommand.php" />
@@ -328,6 +327,7 @@
       <jump line="1409" column="26" filename="$USER_HOME$/Develop/Docker/xinyongfei-app-api/lib/Models/App.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/Docker/shoufuyou-task/lib/Subcommands/RequestStashCashLoanCommand.php" />
       <jump line="103" column="30" filename="$USER_HOME$/Develop/Docker/shoufuyou-task/lib/Subcommands/RequestStashCashLoanCommand.php" />
+      <jump line="4" column="0" filename="$USER_HOME$/Develop/jenkins/README.MD" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -335,8 +335,8 @@
       <register name="a" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>!</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgYGBgCg==</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -351,7 +351,7 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpc0F2YWlsYWJsZVw+</text>
@@ -360,7 +360,7 @@
         <text encoding="base64">ICAgICAgICAgICAgTG9nOjpjYXNoU3Rhc2goJ+acqumFjee9ruWbpOWNleinhOWImTonIC4gJGNhc2hMb2FuT3JkZXItPmdldEZ1bmRTb3VyY2UoKSAuICcsJyAuICRjYXNoTG9hbk9yZGVyLT5nZXRPcmRlck51bWJlcigpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkbm93ID0gZGF0ZSgnSDppOnMnKTsK</text>
+        <text encoding="base64">ICAgYGBgCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -378,28 +378,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIOWmguaenOayoeiuvue9rgogICAgICAgICAgICAgICAgJHRocmVzaG9sZENvbmZpZ3NbJHN0YXNoQ29uZmlnLT5nZXRGdW5kU291cmNlKCldWyRzdGFzaENvbmZpZy0+Z2V0UGVyaW9kKCldID0gJHN0YXNoQ29uZmlnLT5nZXRUaHJlc2hvbGQoKTsKICAgICAgICAgICAgfSBlbHNlaWYgKCRzdGFzaENvbmZpZy0+Z2V0QmVnaW5UaW1lKCkgPD0gJG5vdyAmJiAkc3Rhc2hDb25maWctPmdldEVuZFRpbWUoKSA+PSAkbm93KSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkbm93ID0gZGF0ZSgnSDppOnMnKTsK</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkbm93ID0gZGF0ZSgnSDppOnMnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIOWmguaenOayoeiuvue9rgogICAgICAgICAgICAgICAgJHRocmVzaG9sZENvbmZpZ3NbJHN0YXNoQ29uZmlnLT5nZXRGdW5kU291cmNlKCldWyRzdGFzaENvbmZpZy0+Z2V0UGVyaW9kKCldID0gJHN0YXNoQ29uZmlnLT5nZXRUaHJlc2hvbGQoKTsKICAgICAgICAgICAgfSBlbHNlaWYgKCRzdGFzaENvbmZpZy0+Z2V0QmVnaW5UaW1lKCkgPD0gJG5vdyAmJiAkc3Rhc2hDb25maWctPmdldEVuZFRpbWUoKSA+PSAkbm93KSB7Cg==</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCRjb25maWctPmdldEJlZ2luVGltZSgpICYmICRub3cgPCAkY29uZmlnLT5nZXRCZWdpblRpbWUoKSkgewogICAgICAgICAgICAgICAgY29udGludWU7CiAgICAgICAgICAgIH0K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoJGNvbmZpZy0+Z2V0RW5kVGltZSgpICYmICRub3cgPiAkY29uZmlnLT5nZXRFbmRUaW1lKCkpIHsKICAgICAgICAgICAgcmV0dXJuIDA7CiAgICAgICAgfQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAkbm93ID0gZGF0ZSgnSDppOnMnKTsK</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCRjb25maWctPmdldEJlZ2luVGltZSgpICYmICRub3cgPCAkY29uZmlnLT5nZXRCZWdpblRpbWUoKSkgewogICAgICAgICAgICAgICAgY29udGludWU7CiAgICAgICAgICAgIH0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoJGNvbmZpZy0+Z2V0RW5kVGltZSgpICYmICRub3cgPiAkY29uZmlnLT5nZXRFbmRUaW1lKCkpIHsKICAgICAgICAgICAgcmV0dXJuIDA7CiAgICAgICAgfQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkbm93ID0gCg==</text>
+        <text encoding="base64">ICAgICAgICAkbm93ID0gZGF0ZSgnSDppOnMnKTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -533,13 +533,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAiIjoiMDA6MDAtMjM6NTkiLCIiOiIwMDowMC0yMzo1OSIsIiI6IjAwOjAwLTIzOjU5In0K</text>
+        <text encoding="base64">ICAgICAgICAkbm93ID0gCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJzcnID0+ICJNb25kYXkiLAo=</text>
+        <text encoding="base64">ICAgICAgICAiIjoiMDA6MDAtMjM6NTkiLCIiOiIwMDowMC0yMzo1OSIsIiI6IjAwOjAwLTIzOjU5In0K</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoClass</text>
+        <text>nohls</text>
       </register>
     </registers>
   </component>
@@ -551,7 +551,7 @@
       <last-replace>\\&quot;</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
