@@ -38,17 +38,17 @@
         <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>action ShowPopupMenu</entry>
         <entry>source ~/.ideavimrc</entry>
-        <entry>action KJumpAction.Word0</entry>
         <entry>action GotoAction</entry>
         <entry>action PreviousTab</entry>
         <entry>action OpenEditorInOppositeTabGroup</entry>
         <entry>action NextTab</entry>
-        <entry>action SurroundWith</entry>
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gU3Vycm91bmRXaXRo</entry>
         <entry>action FindUsages</entry>
         <entry>action Back</entry>
         <entry>nohls</entry>
+        <entry>action SurroundWith</entry>
+        <entry>action KJumpAction.Word0</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -124,6 +124,7 @@
       <file name="$USER_HOME$/Develop/Docker/shoufuyou-task/README" timestamp="1589280869296">
         <mark key="^" line="0" column="11" />
       </file>
+      <file name="$USER_HOME$/Develop/Docker/xyf-common-sms/common/services/sms/LimitStrategies/MobileLimitStrategy.php" timestamp="1589360886987" />
       <file name="$USER_HOME$/Develop/Docker/xyf-pay-system/api/controllers/BaseController.php" timestamp="1589355780322">
         <mark key="'" line="103" column="29" />
       </file>
@@ -162,12 +163,6 @@
         <mark key="]" line="726" column="0" />
         <mark key="^" line="727" column="0" />
         <mark key="." line="726" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/Docker/shoufuyou-console/lib/Controllers/Api/CashPoolStashConfigController.php" timestamp="1589268569614">
-        <mark key="'" line="68" column="35" />
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
       </file>
       <file name="/PHP Console" timestamp="1589355152422">
         <mark key="[" line="0" column="0" />
@@ -508,7 +503,7 @@
         <text>2 4 8 16 32</text>
       </register>
       <register name=":" type="4">
-        <text>nohls</text>
+        <text>action KJumpAction.Word0</text>
       </register>
     </registers>
   </component>
