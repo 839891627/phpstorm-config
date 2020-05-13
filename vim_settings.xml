@@ -33,7 +33,6 @@
         <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>action ShowPopupMenu</entry>
         <entry>source ~/.ideavimrc</entry>
-        <entry>action GotoAction</entry>
         <entry>action OpenEditorInOppositeTabGroup</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gU3Vycm91bmRXaXRo</entry>
         <entry>action FindUsages</entry>
@@ -49,6 +48,7 @@
         <entry>sp</entry>
         <entry>action NextTab</entry>
         <entry>wq</entry>
+        <entry>action GotoAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -187,12 +187,12 @@
       <file name="$USER_HOME$/Develop/Docker/xyf-pay-system/common/service/pay/PayService.php" timestamp="1589356546201">
         <mark key="'" line="89" column="40" />
       </file>
-      <file name="$USER_HOME$/Develop/Docker/shoufuyou-task/lib/Subcommands/RequestStashCashLoanCommand.php" timestamp="1589361209547">
+      <file name="$USER_HOME$/Develop/Docker/shoufuyou-task/lib/Subcommands/RequestStashCashLoanCommand.php" timestamp="1589366090111">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
-        <mark key="^" line="38" column="36" />
+        <mark key="[" line="15" column="3" />
+        <mark key="]" line="15" column="3" />
+        <mark key="." line="15" column="2" />
+        <mark key="^" line="15" column="3" />
       </file>
       <file name="$USER_HOME$/Develop/Docker/xyf-common-sms/common/services/sms/XyfSms.php" timestamp="1589357510633">
         <mark key="'" line="46" column="28" />
@@ -519,7 +519,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>action GotoAction</text>
       </register>
     </registers>
   </component>
