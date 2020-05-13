@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxFbnZcPg==</entry>
         <entry encoding="base64">XDxnZXRGdW5kU291cmNlXD4=</entry>
         <entry>orderRemit</entry>
         <entry encoding="base64">XDxvcmRlclJlbWl0Tm93XD4=</entry>
@@ -27,13 +26,11 @@
         <entry encoding="base64">XDxSZXF1ZXN0RXhjZXB0aW9uXD4=</entry>
         <entry encoding="base64">XDxXZWJDbGllbnRMb2dcPg==</entry>
         <entry encoding="base64">XDxTdXJyb3VuZFdpdGhcPg==</entry>
+        <entry encoding="base64">XDxZaWlcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>action GotoFile</entry>
-        <entry>action FileStructurePopup</entry>
         <entry>action CloseAllEditors</entry>
         <entry>action GotoClass</entry>
-        <entry>action Back</entry>
         <entry>action Find</entry>
         <entry>action RecentFiles</entry>
         <entry>action Annotate</entry>
@@ -44,11 +41,14 @@
         <entry>action KJumpAction.Word0</entry>
         <entry>action GotoAction</entry>
         <entry>action PreviousTab</entry>
-        <entry>nohls</entry>
         <entry>action OpenEditorInOppositeTabGroup</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gU3Vycm91bmRXaXRo</entry>
         <entry>action NextTab</entry>
+        <entry>action SurroundWith</entry>
         <entry>wq</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gU3Vycm91bmRXaXRo</entry>
+        <entry>nohls</entry>
+        <entry>action FindUsages</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -127,11 +127,17 @@
       <file name="$USER_HOME$/Develop/Docker/shoufuyou-task/README" timestamp="1589280869296">
         <mark key="^" line="0" column="11" />
       </file>
-      <file name="$USER_HOME$/Develop/Docker/shoufuyou-task/lib/Subcommands/FundMonitorCommand.php" timestamp="1589355408443">
-        <mark key="[" line="82" column="23" />
-        <mark key="]" line="82" column="23" />
-        <mark key="." line="82" column="22" />
-        <mark key="^" line="82" column="23" />
+      <file name="$USER_HOME$/Develop/Docker/xyf-pay-system/api/controllers/BaseController.php" timestamp="1589355780322">
+        <mark key="'" line="103" column="29" />
+      </file>
+      <file name="$USER_HOME$/Develop/Docker/shoufuyou-task/lib/Subcommands/FundMonitorCommand.php" timestamp="1589355525393">
+        <mark key="[" line="76" column="17" />
+        <mark key="]" line="76" column="19" />
+        <mark key="." line="76" column="18" />
+        <mark key="^" line="76" column="19" />
+      </file>
+      <file name="$USER_HOME$/Develop/Docker/xyf-pay-system/common/filters/AuthFilter.php" timestamp="1589355815080">
+        <mark key="'" line="3" column="4" />
       </file>
       <file name="$USER_HOME$/Develop/Docker/shoufuyou-task/lib/Subcommands/GenerateCashTableCommand.php" timestamp="1589354173552">
         <mark key="'" line="56" column="0" />
@@ -183,20 +189,21 @@
         <mark key="." line="447" column="55" />
         <mark key="^" line="448" column="26" />
       </file>
-      <file name="$USER_HOME$/Develop/Docker/shoufuyou-task/lib/Subcommands/RequestStashCashLoanCommand.php" timestamp="1589355310422">
-        <mark key="'" line="103" column="30" />
+      <file name="$USER_HOME$/Develop/Docker/xyf-pay-system/common/service/pay/PayService.php" timestamp="1589356546201">
+        <mark key="'" line="89" column="40" />
+      </file>
+      <file name="$USER_HOME$/Develop/Docker/shoufuyou-task/lib/Subcommands/RequestStashCashLoanCommand.php" timestamp="1589355566206">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+        <mark key="^" line="38" column="36" />
+      </file>
+      <file name="$USER_HOME$/Develop/Docker/xyf-pay-system/common/service/pay/PayFactory.php" timestamp="1589356555038">
+        <mark key="'" line="12" column="32" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="33" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashLoan/XlCash/XlCashLoanOrder.php" />
-      <jump line="14" column="33" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashLoan/XlCash/XlCashLoanOrder.php" />
-      <jump line="62" column="58" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashPool/CashPoolConfig.php" />
-      <jump line="79" column="0" filename="$USER_HOME$/Develop/Docker/shoufuyou-console/lib/Controllers/Api/CashPoolStashConfigController.php" />
-      <jump line="57" column="36" filename="$USER_HOME$/Develop/Docker/shoufuyou-console/lib/Controllers/Api/CashPoolStashConfigController.php" />
-      <jump line="47" column="39" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashPool/CashPoolStashConfig.php" />
-      <jump line="39" column="12" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashPool/CashPoolStashConfig.php" />
-      <jump line="136" column="0" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/shoufuyou/Table/CashPoolStashConfig.php" />
-      <jump line="52" column="24" filename="$USER_HOME$/Develop/Docker/shoufuyou-console/lib/Controllers/Api/CashPoolStashConfigController.php" />
       <jump line="35" column="0" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashPool/CashPoolStashConfig.php" />
       <jump line="129" column="32" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashLoan/StashLogicTrait.php" />
       <jump line="56" column="4" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashPool/CashPoolStashConfig.php" />
@@ -288,6 +295,15 @@
       <jump line="13" column="0" filename="$USER_HOME$/Library/Application Support/abnerworks.Typora/themes/vue.css" />
       <jump line="56" column="0" filename="$USER_HOME$/Develop/Docker/shoufuyou-task/lib/Subcommands/GenerateCashTableCommand.php" />
       <jump line="0" column="0" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="46" column="31" filename="$USER_HOME$/Develop/Docker/shoufuyou-task/lib/Subcommands/RequestStashCashLoanCommand.php" />
+      <jump line="1" column="0" filename="$USER_HOME$/Develop/Docker/shoufuyou-task/lib/Subcommands/RequestStashCashLoanCommand.php" />
+      <jump line="103" column="29" filename="$USER_HOME$/Develop/Docker/xyf-pay-system/api/controllers/BaseController.php" />
+      <jump line="69" column="19" filename="$USER_HOME$/Develop/Docker/xyf-pay-system/common/filters/AuthFilter.php" />
+      <jump line="71" column="19" filename="$USER_HOME$/Develop/Docker/xyf-pay-system/common/filters/AuthFilter.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Develop/Docker/xyf-pay-system/common/filters/AuthFilter.php" />
+      <jump line="3" column="4" filename="$USER_HOME$/Develop/Docker/xyf-pay-system/common/filters/AuthFilter.php" />
+      <jump line="89" column="40" filename="$USER_HOME$/Develop/Docker/xyf-pay-system/common/service/pay/PayService.php" />
+      <jump line="12" column="32" filename="$USER_HOME$/Develop/Docker/xyf-pay-system/common/service/pay/PayFactory.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -296,7 +312,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">dm5vcmVtYXAgPFNwYWNlPjxTcGFjZT5zIDphY3Rpb24gU3Vycm91bmRXaXRoPENSPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyAgCg==</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -311,16 +327,16 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>M</text>
+        <text>获取截止当前当日总囤单进件量: 此资金-此期数的当日囤单进件量</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTdXJyb3VuZFdpdGhcPg==</text>
+        <text encoding="base64">XDxZaWlcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">dm5vcmVtYXAgPFNwYWNlPjxTcGFjZT5zIDphY3Rpb24gU3Vycm91bmRXaXRoPENSPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyAgCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -338,25 +354,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJHN0YXR1cyA9ICRmdW5kT3JkZXItPm9yZGVyUmVtaXQoJGNhc2hMb2FuT3JkZXIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdHJ5ewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJHN0YXR1cyA9ICRmdW5kT3JkZXItPm9yZGVyUmVtaXQoJGNhc2hMb2FuT3JkZXIpOwo=</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdHJ5ewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -493,25 +509,25 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text>2 4 8 16 32</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvIDI7ZGllOwo=</text>
+        <text>2 4 8 16 32</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>action Back</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxTdXJyb3VuZFdpdGhcPg==</last-search>
+      <last-search encoding="base64">XDxZaWlcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTdXJyb3VuZFdpdGhcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxZaWlcPg==</last-pattern>
       <last-replace>\\&quot;</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
