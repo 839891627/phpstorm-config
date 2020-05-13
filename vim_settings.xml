@@ -29,26 +29,26 @@
         <entry encoding="base64">XDxZaWlcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>action CloseAllEditors</entry>
-        <entry>action GotoClass</entry>
-        <entry>action Find</entry>
-        <entry>action RecentFiles</entry>
-        <entry>action Annotate</entry>
         <entry>action SelectInProjectView</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>action ShowPopupMenu</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>action GotoAction</entry>
-        <entry>action PreviousTab</entry>
         <entry>action OpenEditorInOppositeTabGroup</entry>
-        <entry>action NextTab</entry>
-        <entry>wq</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gU3Vycm91bmRXaXRo</entry>
         <entry>action FindUsages</entry>
         <entry>action Back</entry>
-        <entry>nohls</entry>
-        <entry>action SurroundWith</entry>
         <entry>action KJumpAction.Word0</entry>
+        <entry>action SurroundWith</entry>
+        <entry>vs</entry>
+        <entry>action CloseAllEditors</entry>
+        <entry>action NextSplitter</entry>
+        <entry>action Find</entry>
+        <entry>action PreviousTab</entry>
+        <entry>nohls</entry>
+        <entry>sp</entry>
+        <entry>action NextTab</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -112,6 +112,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Develop/Docker/xinyongfei-app-api/lib/Models/App.php" timestamp="1589365722035">
+        <mark key="[" line="1169" column="46" />
+        <mark key="]" line="1169" column="11" />
+        <mark key="^" line="1169" column="11" />
+        <mark key="." line="1169" column="10" />
+      </file>
       <file name="$USER_HOME$/Develop/Docker/shoufuyou-console/lib/Controllers/CashPoolStashConfigController.php" timestamp="1589269098566">
         <mark key="'" line="12" column="14" />
         <mark key="[" line="16" column="0" />
@@ -146,12 +152,11 @@
       <file name="/" timestamp="1589365212119">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/.ideavimrc" timestamp="1589355411999">
+      <file name="$USER_HOME$/.ideavimrc" timestamp="1589365992041">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="1" />
-        <mark key="^" line="56" column="45" />
-        <mark key="." line="57" column="1" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Docker/shoufuyou-console/lib/Controllers/FxdController.php" timestamp="1589268725377">
         <mark key="'" line="10" column="28" />
@@ -162,6 +167,12 @@
         <mark key="]" line="726" column="0" />
         <mark key="^" line="727" column="0" />
         <mark key="." line="726" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/Docker/loanmarket/backend/controllers/LoanmarketMCController.php" timestamp="1589365935996">
+        <mark key="[" line="188" column="0" />
+        <mark key="]" line="188" column="0" />
+        <mark key="^" line="188" column="0" />
+        <mark key="." line="188" column="0" />
       </file>
       <file name="/PHP Console" timestamp="1589355152422">
         <mark key="[" line="0" column="0" />
@@ -188,6 +199,12 @@
       </file>
       <file name="$USER_HOME$/Develop/Docker/xyf-pay-system/common/service/pay/PayFactory.php" timestamp="1589356555038">
         <mark key="'" line="12" column="32" />
+      </file>
+      <file name="$USER_HOME$/Develop/Docker/loanmarket/common/service/unionlogin/UnionLoginAgent.php" timestamp="1589365944984">
+        <mark key="[" line="27" column="39" />
+        <mark key="]" line="27" column="44" />
+        <mark key="^" line="27" column="44" />
+        <mark key="." line="27" column="43" />
       </file>
     </filemarks>
     <jumps>
@@ -299,7 +316,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyAgCg==</text>
+        <text encoding="base64">bm5vcmVtYXAgPHRhYj4gOmFjdGlvbiBOZXh0U3BsaXR0ZXI8Q1I+Cg==</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -314,16 +331,16 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>获取截止当前当日总囤单进件量: 此资金-此期数的当日囤单进件量</text>
+        <text>NextSplitter</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxZaWlcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dm5vcmVtYXAgPFNwYWNlPjxTcGFjZT5zIDphY3Rpb24gU3Vycm91bmRXaXRoPENSPgo=</text>
+        <text encoding="base64">bm5vcmVtYXAgPHRhYj4gOmFjdGlvbiBOZXh0VGFiPENSPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyAgCg==</text>
+        <text encoding="base64">bm5vcmVtYXAgPHRhYj4gOmFjdGlvbiBOZXh0U3BsaXR0ZXI8Q1I+Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -341,28 +358,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bm5vcmVtYXAgPHNoaWZ0Pjx0YWI+IDphY3Rpb24gTmV4dFRhYjxDUj4K</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJHN0YXR1cyA9ICRmdW5kT3JkZXItPm9yZGVyUmVtaXQoJGNhc2hMb2FuT3JkZXIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyAgCg==</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdHJ5ewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJHN0YXR1cyA9ICRmdW5kT3JkZXItPm9yZGVyUmVtaXQoJGNhc2hMb2FuT3JkZXIpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdHJ5ewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -496,13 +513,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text>2 4 8 16 32</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action KJumpAction.Word0</text>
+        <text>wq</text>
       </register>
     </registers>
   </component>
