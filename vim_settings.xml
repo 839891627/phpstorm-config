@@ -44,11 +44,11 @@
         <entry>.nohls</entry>
         <entry>action Forward</entry>
         <entry>action Back</entry>
-        <entry>nohls</entry>
         <entry>action SelectInProjectView</entry>
         <entry>wq</entry>
         <entry>action NextTab</entry>
         <entry>action CloseAllEditors</entry>
+        <entry>nohls</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -485,7 +485,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action CloseAllEditors</text>
+        <text>nohls</text>
       </register>
     </registers>
   </component>
