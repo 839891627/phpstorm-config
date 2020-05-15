@@ -121,11 +121,10 @@
       <file name="$USER_HOME$/Develop/Docker/xyf-credit-system/common/helper/webclient/XyfWebClient.php" timestamp="1589434753738">
         <mark key="'" line="230" column="27" />
       </file>
-      <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashPool/CashPoolStashConfig.php" timestamp="1589452139038">
-        <mark key="[" line="44" column="69" />
-        <mark key="]" line="44" column="67" />
-        <mark key="." line="44" column="66" />
-        <mark key="^" line="44" column="41" />
+      <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashPool/CashPoolStashConfig.php" timestamp="1589452277266">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Docker/xyf-credit-system/credit_api/modules/v1/facade/before/OutCredit.php" timestamp="1589434913199">
         <mark key="'" line="489" column="96" />
@@ -290,8 +289,8 @@
       <register name="a" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkZGF0YSk7ZGllOwo=</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -306,16 +305,16 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>var_dump</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpc0ZpcnN0XD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">bm5vcmVtYXAgPHRhYj4gOmFjdGlvbiBOZXh0VGFiPENSPgo=</text>
+      <register name="0" type="4">
+        <text>is_array($params['time_limit_data']) ? json_encode($params['time_limit_data']) : ($params['time_limit_data'] ?: null),</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmb3JlYWNoICgkZGF0YSBhcyAmJGRhdHVtKSB7CiAgICAgICAgICAgIGZvcmVhY2ggKCRkYXR1bSBhcyAkaW5kZXggPT4gICYkaXRlbSkgewogICAgICAgICAgICAgICAgaWYoJGluZGV4ID09ICd0aW1lX2xpbWl0X2RhdGEnKXsKICAgICAgICAgICAgICAgICAgICAkaXRlbSA9IGpzb25fZGVjb2RlKCRpdGVtLCB0cnVlKTsKICAgICAgICAgICAgICAgICAgICB2YXJfZHVtcCgkaXRlbSk7ZGllOwogICAgICAgICAgICAgICAgICAgIGNvbnRpbnVlOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkZGF0YSk7ZGllOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -333,28 +332,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhcl9kdW1wKCRpbmRleCwgJGl0ZW0pO2RpZTsK</text>
+        <text encoding="base64">ICAgICAgICBlY2hvIChpc19hcnJheSgkcGFyYW1zWyd0aW1lX2xpbWl0X2RhdGEnXSkgPyBqc29uX2VuY29kZSgkcGFyYW1zWyd0aW1lX2xpbWl0X2RhdGEnXSkgOiAoJHBhcmFtc1sndGltZV9saW1pdF9kYXRhJ10gPzogbnVsbCkpO2RpZTsK</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBkaWU7Cg==</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkZGF0YSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBpc19hcnJheSgkcGFyYW1zWyd0aW1lX2xpbWl0X2RhdGEnXSkgP2pzb25fZW5jb2RlKCRwYXJhbXNbJ3RpbWVfbGltaXRfZGF0YSddKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhcnJheV9tYXAoZnVuY3Rpb24gKCRpdGVtKSB7CiAgICAgICAgICAgIHZhcl9kdW1wKCRpdGVtKTsKICAgICAgICAgICAgZGllOwogICAgICAgIH0sICRkYXRhKTsK</text>
+        <text encoding="base64">ICAgICAgICBmb3JlYWNoICgkZGF0YSBhcyAmJGRhdHVtKSB7CiAgICAgICAgICAgIGZvcmVhY2ggKCRkYXR1bSBhcyAkaW5kZXggPT4gICYkaXRlbSkgewogICAgICAgICAgICAgICAgaWYoJGluZGV4ID09ICd0aW1lX2xpbWl0X2RhdGEnKXsKICAgICAgICAgICAgICAgICAgICAkaXRlbSA9IGpzb25fZGVjb2RlKCRpdGVtLCB0cnVlKTsKICAgICAgICAgICAgICAgICAgICB2YXJfZHVtcCgkaXRlbSk7ZGllOwogICAgICAgICAgICAgICAgICAgIGNvbnRpbnVlOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgZGQoJGRhdGEpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhcl9kdW1wKCRpbmRleCwgJGl0ZW0pO2RpZTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -488,10 +487,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>nohls</text>
