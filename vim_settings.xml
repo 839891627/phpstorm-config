@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>orderRemit</entry>
         <entry encoding="base64">XDxvcmRlclJlbWl0Tm93XD4=</entry>
         <entry>ws</entry>
         <entry encoding="base64">XDxhcHBcPg==</entry>
@@ -27,28 +26,29 @@
         <entry encoding="base64">XDxTdXJyb3VuZFdpdGhcPg==</entry>
         <entry encoding="base64">XDxZaWlcPg==</entry>
         <entry encoding="base64">XDxpc0ZpcnN0XD4=</entry>
+        <entry encoding="base64">XDxCYW5rQ2FzaENvbmZpZ1w+</entry>
       </history-search>
       <history-cmd>
         <entry>action Find</entry>
         <entry>action PreviousTab</entry>
         <entry>sp</entry>
-        <entry>action RecentFiles</entry>
         <entry>action ShowPopupMenu</entry>
-        <entry>action KJumpAction.Word0</entry>
-        <entry>action GotoAction</entry>
         <entry>action SurroundWith</entry>
         <entry>action FindInPath</entry>
-        <entry>action FileStructurePopup</entry>
         <entry>.nohls</entry>
-        <entry>action Forward</entry>
-        <entry>action SelectInProjectView</entry>
-        <entry>wq</entry>
-        <entry>action CloseAllEditors</entry>
         <entry>action NextTab</entry>
+        <entry>action KJumpAction.Word0</entry>
+        <entry>wq</entry>
+        <entry>action SelectInProjectView</entry>
+        <entry>action Forward</entry>
+        <entry>action RecentFiles</entry>
+        <entry>action GotoAction</entry>
         <entry>action GotoClass</entry>
-        <entry>action Annotate</entry>
         <entry>nohls</entry>
+        <entry>action Annotate</entry>
         <entry>action Back</entry>
+        <entry>action CloseAllEditors</entry>
+        <entry>action FileStructurePopup</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -112,62 +112,31 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Develop/Docker/xyf-credit-system/common/models/smsFactory/SmsStore.php" timestamp="1589436177237">
-        <mark key="'" line="141" column="46" />
-        <mark key="[" line="243" column="1" />
-        <mark key="]" line="243" column="2" />
-        <mark key="^" line="243" column="2" />
-        <mark key="." line="243" column="1" />
-      </file>
-      <file name="$USER_HOME$/Develop/Docker/xyf-credit-system/common/facade/Risk.php" timestamp="1589428044716">
-        <mark key="'" line="470" column="20" />
-      </file>
-      <file name="$USER_HOME$/Develop/Docker/xyf-credit-system/common/config/event.php" timestamp="1589427980014">
-        <mark key="'" line="34" column="124" />
-      </file>
-      <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/shoufuyou/Table/SlPeriodPayment.php" timestamp="1589451410652">
-        <mark key="[" line="8" column="38" />
-        <mark key="]" line="8" column="38" />
-        <mark key="^" line="8" column="38" />
-        <mark key="." line="8" column="37" />
-      </file>
-      <file name="$USER_HOME$/Develop/Docker/xyf-credit-system/common/facade/OutCredit.php" timestamp="1589428557691">
-        <mark key="'" line="70" column="36" />
-      </file>
-      <file name="$USER_HOME$/Develop/Docker/xyf-credit-system/credit_api/facade/Credit.php" timestamp="1589428358692">
-        <mark key="'" line="179" column="33" />
-      </file>
-      <file name="$USER_HOME$/Develop/Docker/xyf-credit-system/common/facade/Fund.php" timestamp="1589428153165">
-        <mark key="'" line="137" column="29" />
-      </file>
       <file name="$USER_HOME$/Develop/Docker/xyf-credit-system/common/helper/webclient/XyfWebClient.php" timestamp="1589434753738">
         <mark key="'" line="230" column="27" />
-      </file>
-      <file name="$USER_HOME$/Develop/Docker/xyf-credit-system/common/models/AApi.php" timestamp="1589436308584">
-        <mark key="'" line="56" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashPool/CashPoolStashConfig.php" timestamp="1589452277266">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="$USER_HOME$/Develop/Docker/xyf-credit-system/common/facade/Credit.php" timestamp="1589434008765">
-        <mark key="'" line="105" column="22" />
-      </file>
-      <file name="$USER_HOME$/Develop/Docker/shoufuyou-console/lib/Controllers/Api/CashPoolStashConfigController.php" timestamp="1589451427715">
-        <mark key="'" line="33" column="37" />
+      <file name="$USER_HOME$/Develop/Docker/shoufuyou-service/lib/Models/BankCash/BankCashConfig.php" timestamp="1589521904392">
+        <mark key="'" line="57" column="32" />
       </file>
       <file name="$USER_HOME$/Develop/Docker/xyf-credit-system/credit_api/modules/v1/facade/before/OutCredit.php" timestamp="1589434913199">
         <mark key="'" line="489" column="96" />
       </file>
-      <file name="$USER_HOME$/Develop/Docker/xyf-credit-system/common/models/smsFactory/factory/BfSmsFactory.php" timestamp="1589434748317">
-        <mark key="'" line="121" column="32" />
+      <file name="$USER_HOME$/Develop/Docker/shoufuyou-service/lib/Models/XlCash/XlApi.php" timestamp="1589521739450">
+        <mark key="'" line="150" column="28" />
       </file>
-      <file name="$USER_HOME$/Develop/Docker/xyf-credit-system/common/models/fund/FundRecommend.php" timestamp="1589428156582">
-        <mark key="'" line="29" column="8" />
+      <file name="$USER_HOME$/Develop/Docker/shoufuyou-service/lib/Models/BankCash/BankCashWebClient.php" timestamp="1589522097078">
+        <mark key="'" line="34" column="31" />
       </file>
-      <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashLoan/BankCash/BankCashLoanOrder.php" timestamp="1589521307551">
-        <mark key="'" line="390" column="38" />
+      <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashLoan/XlCash/XlCashLoanOrder.php" timestamp="1589522394388">
+        <mark key="'" line="1833" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/Docker/shoufuyou-service/lib/Controllers/BankCashController.php" timestamp="1589521891655">
+        <mark key="'" line="34" column="24" />
       </file>
       <file name="$USER_HOME$/Develop/Docker/loanmarket/common/service/unionlogin/UnionLoginAgent.php" timestamp="1589440663293">
         <mark key="'" line="19" column="36" />
@@ -179,30 +148,45 @@
       <file name="$USER_HOME$/Develop/Docker/xyf-credit-system/credit_api/modules/v1/facade/middle/OutOrder.php" timestamp="1589436282505">
         <mark key="'" line="203" column="41" />
       </file>
-      <file name="$USER_HOME$/Develop/Docker/shoufuyou-task/lib/Subcommands/BankCashTaskCommand.php" timestamp="1589521255799">
+      <file name="$USER_HOME$/Develop/Docker/shoufuyou-task/lib/Subcommands/BankCashTaskCommand.php" timestamp="1589521823641">
         <mark key="'" line="46" column="35" />
+      </file>
+      <file name="$USER_HOME$/Develop/Docker/xyf-credit-system/common/models/smsFactory/SmsStore.php" timestamp="1589436177237">
+        <mark key="'" line="141" column="46" />
+        <mark key="[" line="243" column="1" />
+        <mark key="]" line="243" column="2" />
+        <mark key="^" line="243" column="2" />
+        <mark key="." line="243" column="1" />
+      </file>
+      <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/shoufuyou/Table/SlPeriodPayment.php" timestamp="1589451410652">
+        <mark key="[" line="8" column="38" />
+        <mark key="]" line="8" column="38" />
+        <mark key="^" line="8" column="38" />
+        <mark key="." line="8" column="37" />
+      </file>
+      <file name="$USER_HOME$/Develop/Docker/shoufuyou-service/lib/Controllers/XlController.php" timestamp="1589521651776">
+        <mark key="'" line="30" column="22" />
+      </file>
+      <file name="$USER_HOME$/Develop/Docker/shoufuyou-service/lib/Models/BankCash.php" timestamp="1589522074939">
+        <mark key="'" line="199" column="34" />
+      </file>
+      <file name="$USER_HOME$/Develop/Docker/xyf-credit-system/common/models/AApi.php" timestamp="1589436308584">
+        <mark key="'" line="56" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/Docker/shoufuyou-console/lib/Controllers/Api/CashPoolStashConfigController.php" timestamp="1589451427715">
+        <mark key="'" line="33" column="37" />
+      </file>
+      <file name="$USER_HOME$/Develop/Docker/xyf-credit-system/common/models/smsFactory/factory/BfSmsFactory.php" timestamp="1589434748317">
+        <mark key="'" line="121" column="32" />
+      </file>
+      <file name="$USER_HOME$/Develop/Docker/shoufuyou-service/lib/Models/XlCash.php" timestamp="1589521866472">
+        <mark key="'" line="373" column="8" />
+      </file>
+      <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashLoan/BankCash/BankCashLoanOrder.php" timestamp="1589521831802">
+        <mark key="'" line="383" column="50" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="217" column="28" filename="$USER_HOME$/Develop/Docker/shoufuyou-fund-system/lib/Models/CashLoan.php" />
-      <jump line="22" column="24" filename="$USER_HOME$/Develop/Docker/shoufuyou-fund-system/lib/Controllers/RouteController.php" />
-      <jump line="77" column="22" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashLoan/XlCash/XlCashLoanOrder.php" />
-      <jump line="48" column="8" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashLoan/XlCash/XlCashLoanOrder.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashLoan/XlCash/XlCashLoanOrder.php" />
-      <jump line="12" column="22" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashLoan/XlCash/XlCashLoanOrder.php" />
-      <jump line="102" column="24" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/api/helper/HttpClient.php" />
-      <jump line="8" column="0" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/api/helper/HttpClient.php" />
-      <jump line="22" column="15" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/api/helper/HttpClient.php" />
-      <jump line="21" column="0" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/api/helper/HttpClient.php" />
-      <jump line="38" column="0" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/api/helper/HttpClient.php" />
-      <jump line="53" column="0" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/api/helper/HttpClient.php" />
-      <jump line="115" column="0" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/api/helper/HttpClient.php" />
-      <jump line="132" column="0" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/api/helper/HttpClient.php" />
-      <jump line="154" column="0" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/api/helper/HttpClient.php" />
-      <jump line="137" column="12" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/api/helper/HttpClient.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/api/helper/HttpClient.php" />
-      <jump line="4" column="0" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/api/helper/HttpClient.php" />
-      <jump line="136" column="24" filename="$USER_HOME$/Develop/Docker/xyf-api-getway/api/helper/HttpClient.php" />
       <jump line="1830" column="4" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashLoan/XlCash/XlCashLoanOrder.php" />
       <jump line="187" column="4" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/SlCash/SlCashLoanOrder.php" />
       <jump line="68" column="35" filename="$USER_HOME$/Develop/Docker/shoufuyou-console/lib/Controllers/Api/CashPoolStashConfigController.php" />
@@ -280,10 +264,29 @@
       <jump line="22" column="34" filename="$USER_HOME$/Develop/Docker/shoufuyou-task/lib/Subcommands/BankCashTaskCommand.php" />
       <jump line="36" column="35" filename="$USER_HOME$/Develop/Docker/shoufuyou-task/lib/Subcommands/BankCashTaskCommand.php" />
       <jump line="37" column="35" filename="$USER_HOME$/Develop/Docker/shoufuyou-task/lib/Subcommands/BankCashTaskCommand.php" />
-      <jump line="46" column="35" filename="$USER_HOME$/Develop/Docker/shoufuyou-task/lib/Subcommands/BankCashTaskCommand.php" />
       <jump line="376" column="39" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashLoan/BankCash/BankCashLoanOrder.php" />
-      <jump line="383" column="35" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashLoan/BankCash/BankCashLoanOrder.php" />
       <jump line="390" column="38" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashLoan/BankCash/BankCashLoanOrder.php" />
+      <jump line="30" column="22" filename="$USER_HOME$/Develop/Docker/shoufuyou-service/lib/Controllers/XlController.php" />
+      <jump line="32" column="22" filename="$USER_HOME$/Develop/Docker/shoufuyou-service/lib/Models/XlCash.php" />
+      <jump line="44" column="22" filename="$USER_HOME$/Develop/Docker/shoufuyou-service/lib/Models/XlCash.php" />
+      <jump line="150" column="28" filename="$USER_HOME$/Develop/Docker/shoufuyou-service/lib/Models/XlCash/XlApi.php" />
+      <jump line="46" column="35" filename="$USER_HOME$/Develop/Docker/shoufuyou-task/lib/Subcommands/BankCashTaskCommand.php" />
+      <jump line="383" column="50" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashLoan/BankCash/BankCashLoanOrder.php" />
+      <jump line="373" column="8" filename="$USER_HOME$/Develop/Docker/shoufuyou-service/lib/Models/XlCash.php" />
+      <jump line="34" column="24" filename="$USER_HOME$/Develop/Docker/shoufuyou-service/lib/Controllers/BankCashController.php" />
+      <jump line="57" column="32" filename="$USER_HOME$/Develop/Docker/shoufuyou-service/lib/Models/BankCash/BankCashConfig.php" />
+      <jump line="58" column="0" filename="$USER_HOME$/Develop/Docker/shoufuyou-service/lib/Models/BankCash.php" />
+      <jump line="35" column="8" filename="$USER_HOME$/Develop/Docker/shoufuyou-service/lib/Models/BankCash.php" />
+      <jump line="26" column="37" filename="$USER_HOME$/Develop/Docker/shoufuyou-service/lib/Models/BankCash.php" />
+      <jump line="81" column="26" filename="$USER_HOME$/Develop/Docker/shoufuyou-service/lib/Models/BankCash.php" />
+      <jump line="82" column="41" filename="$USER_HOME$/Develop/Docker/shoufuyou-service/lib/Models/BankCash.php" />
+      <jump line="101" column="41" filename="$USER_HOME$/Develop/Docker/shoufuyou-service/lib/Models/BankCash.php" />
+      <jump line="123" column="34" filename="$USER_HOME$/Develop/Docker/shoufuyou-service/lib/Models/BankCash.php" />
+      <jump line="199" column="34" filename="$USER_HOME$/Develop/Docker/shoufuyou-service/lib/Models/BankCash.php" />
+      <jump line="23" column="28" filename="$USER_HOME$/Develop/Docker/shoufuyou-service/lib/Models/BankCash/BankCashWebClient.php" />
+      <jump line="34" column="31" filename="$USER_HOME$/Develop/Docker/shoufuyou-service/lib/Models/BankCash/BankCashWebClient.php" />
+      <jump line="1744" column="37" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashLoan/XlCash/XlCashLoanOrder.php" />
+      <jump line="1833" column="0" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/CashLoan/XlCash/XlCashLoanOrder.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -310,7 +313,7 @@
         <text>var_dump</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpc0ZpcnN0XD4=</text>
+        <text encoding="base64">XDxCYW5rQ2FzaENvbmZpZ1w+</text>
       </register>
       <register name="0" type="4">
         <text>is_array($params['time_limit_data']) ? json_encode($params['time_limit_data']) : ($params['time_limit_data'] ?: null),</text>
@@ -495,17 +498,17 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Back</text>
+        <text>action FileStructurePopup</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxpc0ZpcnN0XD4=</last-search>
+      <last-search encoding="base64">XDxCYW5rQ2FzaENvbmZpZ1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpc0ZpcnN0XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxCYW5rQ2FzaENvbmZpZ1w+</last-pattern>
       <last-replace>\\&quot;</last-replace>
-      <last-substitute>&quot;</last-substitute>
+      <last-substitute encoding="base64">XDxpc0ZpcnN0XD4=</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
