@@ -35,20 +35,20 @@
         <entry>action GotoAction</entry>
         <entry>action CloseAllEditors</entry>
         <entry>wq</entry>
-        <entry>action Annotate</entry>
         <entry>action Find</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0NsYXNz</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>action FindUsages</entry>
         <entry>action SelectInProjectView</entry>
         <entry>action KJumpAction.Word0</entry>
-        <entry>nohls</entry>
-        <entry>action Back</entry>
-        <entry>action FileStructurePopup</entry>
         <entry>action NextTab</entry>
         <entry>action PreviousTab</entry>
         <entry>action ShowPopupMenu</entry>
         <entry>action GotoClass</entry>
+        <entry>action FileStructurePopup</entry>
+        <entry>action Back</entry>
+        <entry>nohls</entry>
+        <entry>action Annotate</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -112,13 +112,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Develop/Docker/loanmarket/common/service/unionlogin/strategies/ActiveStrategy.php" timestamp="1589531852776">
-        <mark key="'" line="68" column="128" />
-        <mark key="[" line="112" column="0" />
-        <mark key="]" line="112" column="0" />
-        <mark key="." line="112" column="0" />
-        <mark key="^" line="111" column="0" />
-      </file>
       <file name="$USER_HOME$/Develop/Docker/xinyongfei-app-api/lib/Models/VipCard2019Service.php" timestamp="1589864355340">
         <mark key="'" line="120" column="8" />
       </file>
@@ -523,7 +516,7 @@
         <text encoding="base64">ICAgIGNvbnN0IEZST00gPSAneGlueW9uZ2ZlaSc7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoClass</text>
+        <text>action Annotate</text>
       </register>
     </registers>
   </component>
@@ -535,7 +528,7 @@
       <last-replace>\\&quot;</last-replace>
       <last-substitute encoding="base64">XDxpc0ZpcnN0XD4=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
