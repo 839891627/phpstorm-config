@@ -43,12 +43,12 @@
         <entry>action Find</entry>
         <entry>action RenameElement</entry>
         <entry>.nohls</entry>
-        <entry>action GotoClass</entry>
         <entry>action SelectInProjectView</entry>
         <entry>nohls</entry>
-        <entry>action NextTab</entry>
         <entry>wq</entry>
         <entry>action Back</entry>
+        <entry>action GotoClass</entry>
+        <entry>action NextTab</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -134,11 +134,8 @@
         <mark key="." line="37" column="7" />
         <mark key="^" line="33" column="55" />
       </file>
-      <file name="$USER_HOME$/Develop/Docker/shoufuyou-service/config/env.prod.template.php" timestamp="1589885785817">
+      <file name="$USER_HOME$/Develop/Docker/shoufuyou-service/config/env.prod.template.php" timestamp="1589938434407">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/ZyCash/Params/ApplyCreditParams.php" timestamp="1589880911000">
         <mark key="'" line="72" column="0" />
@@ -146,6 +143,9 @@
         <mark key="]" line="73" column="0" />
         <mark key="." line="73" column="0" />
         <mark key="^" line="73" column="0" />
+      </file>
+      <file name="$USER_HOME$/Develop/Docker/shoufuyou-task/lib/Subcommands/RequestStashCashLoanCommand.php" timestamp="1589938563291">
+        <mark key="'" line="53" column="28" />
       </file>
       <file name="$USER_HOME$/Develop/Docker/shoufuyou-service/lib/Models/ZYCash/ZyConfig.php" timestamp="1589878882946">
         <mark key="'" line="151" column="0" />
@@ -156,9 +156,6 @@
       </file>
       <file name="$USER_HOME$/Develop/Docker/credit/fxd_api/services/fxdApi.php" timestamp="1589883400924">
         <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/shoufuyou/Logging/Log.php" timestamp="1589877974799">
-        <mark key="'" line="347" column="0" />
       </file>
       <file name="$USER_HOME$/Develop/Docker/shoufuyou-service/lib/Controllers/ZyController.php" timestamp="1589885727561">
         <mark key="[" line="42" column="0" />
@@ -213,8 +210,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="0" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/ZyCash/Params/ApplyCreditParams.php" />
-      <jump line="72" column="0" filename="$USER_HOME$/Develop/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/ZyCash/Params/ApplyCreditParams.php" />
       <jump line="29" column="6" filename="$USER_HOME$/Develop/Docker/shoufuyou-service/lib/Models/ZyCash/ZyWebClient.php" />
       <jump line="51" column="8" filename="$USER_HOME$/Develop/Docker/shoufuyou-service/lib/Models/ZyCash/ZyWebClient.php" />
       <jump line="81" column="8" filename="$USER_HOME$/Develop/Docker/shoufuyou-service/lib/Models/ZyCash/ZyWebClient.php" />
@@ -313,6 +308,8 @@
       <jump line="42" column="11" filename="$USER_HOME$/Develop/Docker/shoufuyou-service/lib/Controllers/ZyController.php" />
       <jump line="21" column="22" filename="$USER_HOME$/Develop/Docker/shoufuyou-service/lib/Models/ZyCash.php" />
       <jump line="44" column="28" filename="$USER_HOME$/Develop/Docker/shoufuyou-service/lib/Models/ZyCash/ZyApi.php" />
+      <jump line="22" column="29" filename="$USER_HOME$/Develop/Docker/shoufuyou-task/lib/Subcommands/RequestStashCashLoanCommand.php" />
+      <jump line="53" column="28" filename="$USER_HOME$/Develop/Docker/shoufuyou-task/lib/Subcommands/RequestStashCashLoanCommand.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -512,7 +509,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Back</text>
+        <text>action NextTab</text>
       </register>
     </registers>
   </component>
