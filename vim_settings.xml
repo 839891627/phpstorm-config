@@ -33,7 +33,6 @@
         <entry>action ShowPopupMenu</entry>
         <entry>action RenameElement</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
-        <entry>vs</entry>
         <entry>action OpenEditorInOppositeTabGroup</entry>
         <entry>action PreviousTab</entry>
         <entry>action RecentFiles</entry>
@@ -41,14 +40,15 @@
         <entry>action Forward</entry>
         <entry>action KJumpAction.Word0</entry>
         <entry>action Annotate</entry>
-        <entry>wq</entry>
         <entry>action SelectInProjectView</entry>
         <entry>action GotoClass</entry>
-        <entry>action Back</entry>
-        <entry>action NextTab</entry>
         <entry>nohls</entry>
         <entry>action Find</entry>
         <entry>action GotoFile</entry>
+        <entry>vs</entry>
+        <entry>wq</entry>
+        <entry>action NextTab</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -149,8 +149,12 @@
         <mark key="'" line="38" column="9" />
       </file>
       <file name="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/Models/CashLoanOrder.php" timestamp="1589955710278" />
-      <file name="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/CashLoan/StashLogicTrait.php" timestamp="1589958233482">
-        <mark key="'" line="88" column="10" />
+      <file name="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/CashLoan/StashLogicTrait.php" timestamp="1589958448983">
+        <mark key="'" line="62" column="29" />
+        <mark key="[" line="39" column="68" />
+        <mark key="]" line="39" column="69" />
+        <mark key="^" line="39" column="69" />
+        <mark key="." line="39" column="68" />
       </file>
       <file name="$USER_HOME$/Docker/dnmp/.env" timestamp="1589957636396">
         <mark key="[" line="4" column="12" />
@@ -181,8 +185,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="171" column="0" filename="$USER_HOME$/Develop/Docker/shoufuyou-service/lib/Models/ZyCash/ZyWebClient.php" />
-      <jump line="173" column="0" filename="$USER_HOME$/Develop/Docker/shoufuyou-service/lib/Models/ZyCash/ZyApi.php" />
       <jump line="15" column="0" filename="$USER_HOME$/Develop/Docker/shoufuyou-service/lib/Models/ZyCash/ZyApi.php" />
       <jump line="181" column="28" filename="$USER_HOME$/Develop/Docker/shoufuyou-service/lib/Models/ZyCash/ZyApi.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/Docker/shoufuyou-service/lib/Models/ZyCash/ZyApi.php" />
@@ -281,6 +283,8 @@
       <jump line="165" column="8" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/CashLoan/StashLogicTrait.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/CashLoan/StashLogicTrait.php" />
       <jump line="88" column="10" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/CashLoan/StashLogicTrait.php" />
+      <jump line="39" column="36" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/CashLoan/StashLogicTrait.php" />
+      <jump line="62" column="29" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/CashLoan/StashLogicTrait.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -480,7 +484,7 @@
         <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcmVzcG9uc2UpO2RpZTsK</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>action Back</text>
       </register>
     </registers>
   </component>
