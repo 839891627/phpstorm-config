@@ -45,10 +45,10 @@
         <entry>action Find</entry>
         <entry>action Annotate</entry>
         <entry>action RecentFiles</entry>
-        <entry>action Back</entry>
         <entry>action SelectInProjectView</entry>
         <entry>nohls</entry>
         <entry>wq</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -509,7 +509,7 @@
         <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcmVzcG9uc2UpO2RpZTsK</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>action Back</text>
       </register>
     </registers>
   </component>
