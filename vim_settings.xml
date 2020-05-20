@@ -42,13 +42,13 @@
         <entry>action Annotate</entry>
         <entry>action SelectInProjectView</entry>
         <entry>action GotoClass</entry>
-        <entry>nohls</entry>
         <entry>action Find</entry>
         <entry>action GotoFile</entry>
         <entry>vs</entry>
         <entry>wq</entry>
         <entry>action NextTab</entry>
         <entry>action Back</entry>
+        <entry>nohls</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -149,12 +149,12 @@
         <mark key="'" line="38" column="9" />
       </file>
       <file name="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/Models/CashLoanOrder.php" timestamp="1589955710278" />
-      <file name="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/CashLoan/StashLogicTrait.php" timestamp="1589958448983">
-        <mark key="'" line="62" column="29" />
-        <mark key="[" line="39" column="68" />
-        <mark key="]" line="39" column="69" />
-        <mark key="^" line="39" column="69" />
-        <mark key="." line="39" column="68" />
+      <file name="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/CashLoan/StashLogicTrait.php" timestamp="1589961199002">
+        <mark key="'" line="35" column="20" />
+        <mark key="[" line="140" column="52" />
+        <mark key="]" line="141" column="25" />
+        <mark key="^" line="141" column="25" />
+        <mark key="." line="141" column="24" />
       </file>
       <file name="$USER_HOME$/Docker/dnmp/.env" timestamp="1589957636396">
         <mark key="[" line="4" column="12" />
@@ -185,7 +185,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="0" filename="$USER_HOME$/Develop/Docker/shoufuyou-service/lib/Models/ZyCash/ZyApi.php" />
       <jump line="181" column="28" filename="$USER_HOME$/Develop/Docker/shoufuyou-service/lib/Models/ZyCash/ZyApi.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Develop/Docker/shoufuyou-service/lib/Models/ZyCash/ZyApi.php" />
       <jump line="34" column="27" filename="$USER_HOME$/Develop/Docker/shoufuyou-service/lib/Models/ZyCash/ZyApi.php" />
@@ -285,6 +284,7 @@
       <jump line="88" column="10" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/CashLoan/StashLogicTrait.php" />
       <jump line="39" column="36" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/CashLoan/StashLogicTrait.php" />
       <jump line="62" column="29" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/CashLoan/StashLogicTrait.php" />
+      <jump line="35" column="20" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/CashLoan/StashLogicTrait.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -293,7 +293,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>=</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -308,7 +308,7 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxMb2dcPg==</text>
@@ -484,7 +484,7 @@
         <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcmVzcG9uc2UpO2RpZTsK</text>
       </register>
       <register name=":" type="4">
-        <text>action Back</text>
+        <text>nohls</text>
       </register>
     </registers>
   </component>
