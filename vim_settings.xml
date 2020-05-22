@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxmdW5kU291cmNlXD4=</entry>
-        <entry encoding="base64">XDxMb2dcPg==</entry>
         <entry encoding="base64">XDxnZXRQZXJpb2RMaW1pdEFjY291bnRcPg==</entry>
         <entry encoding="base64">XDxhY2NvdW50WVw+</entry>
         <entry encoding="base64">XDxCYW5rQ2FzaExvYW5PcmRlclw+</entry>
@@ -27,6 +25,8 @@
         <entry encoding="base64">XDx2ZXJpZnlJbm5lckFwcFw+</entry>
         <entry encoding="base64">XDxyZW1haW5QZXJpb2RBbW91bnRcPg==</entry>
         <entry encoding="base64">XDxjYW5GdW5kU291cmNlQXJyXD4=</entry>
+        <entry encoding="base64">XDxxdWVyeVBhcmFtc1w+</entry>
+        <entry encoding="base64">XDxib2R5UGFyYW1zXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>.action SelectInProjectView</entry>
@@ -35,20 +35,20 @@
         <entry>action GotoClass</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>action FileStructurePopup</entry>
-        <entry>action Find</entry>
         <entry>vs</entry>
         <entry>action NextSplitter</entry>
         <entry>action Forward</entry>
         <entry>action CloseAllEditors</entry>
         <entry>action GotoFile</entry>
         <entry>wq</entry>
-        <entry>action KJumpAction.Word0</entry>
         <entry>action NextTab</entry>
         <entry>action PreviousTab</entry>
         <entry>action Annotate</entry>
-        <entry>action Back</entry>
-        <entry>nohls</entry>
         <entry>action SelectInProjectView</entry>
+        <entry>action Back</entry>
+        <entry>action Find</entry>
+        <entry>action KJumpAction.Word0</entry>
+        <entry>nohls</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -119,8 +119,12 @@
         <mark key="^" line="38" column="20" />
         <mark key="." line="38" column="19" />
       </file>
-      <file name="$USER_HOME$/Docker/shoufuyou-fund-system/lib/Controllers/RouteController.php" timestamp="1590116901489">
-        <mark key="'" line="180" column="45" />
+      <file name="$USER_HOME$/Docker/my-framework/library/Exception/FException.php" timestamp="1590140832660">
+        <mark key="'" line="92" column="1" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="8" column="17" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Docker/hyperf-skeleton/app/Event/UserRegister.php" timestamp="1590127401082">
         <mark key="[" line="25" column="0" />
@@ -134,33 +138,34 @@
       <file name="$USER_HOME$/Docker/shoufuyou-notify/lib/Models/Utms/Hs.php" timestamp="1590137143521">
         <mark key="'" line="80" column="8" />
       </file>
-      <file name="$USER_HOME$/Docker/shoufuyou-fund-system/lib/Models/FundSource/Verify/VerifyRules.php" timestamp="1590116810167">
-        <mark key="'" line="71" column="37" />
+      <file name="$USER_HOME$/Docker/my-framework/composer.json" timestamp="1590140420672">
+        <mark key="[" line="12" column="9" />
+        <mark key="]" line="11" column="25" />
+        <mark key="^" line="11" column="25" />
+        <mark key="." line="11" column="24" />
       </file>
       <file name="$USER_HOME$/Docker/psr/log/Psr/Log/LoggerTrait.php" timestamp="1590137851883" />
-      <file name="$USER_HOME$/Docker/shoufuyou-fund-system/lib/Models/FundSource/FundBehavior.php" timestamp="1590116695476">
-        <mark key="'" line="125" column="101" />
-        <mark key="[" line="136" column="0" />
-        <mark key="]" line="136" column="0" />
-        <mark key="." line="136" column="0" />
-      </file>
       <file name="$USER_HOME$/Docker/hyperf-skeleton/app/Listener/SendEmail.php" timestamp="1590127987316">
         <mark key="[" line="35" column="17" />
         <mark key="]" line="35" column="17" />
         <mark key="^" line="29" column="32" />
         <mark key="." line="35" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590127337522">
+      <file name="/Dummy.txt" timestamp="1590141234903">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Docker/shoufuyou-fund-system/lib/Models/FundSource/FundSourceManage.php" timestamp="1590116855557">
-        <mark key="'" line="105" column="22" />
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/Docker/shoufuyou-php-lib/hyperframework/hyperframework/lib/Db/DbClientEngine.php" timestamp="1590134865214">
         <mark key="'" line="422" column="52" />
+      </file>
+      <file name="$USER_HOME$/Docker/my-framework/library/Components/Base.php" timestamp="1590141091973">
+        <mark key="'" line="38" column="49" />
+        <mark key="[" line="52" column="8" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="51" column="5" />
+        <mark key="^" line="53" column="15" />
+      </file>
+      <file name="$USER_HOME$/Docker/my-framework/library/Functions.php" timestamp="1590140653077">
+        <mark key="[" line="5" column="3" />
       </file>
       <file name="$USER_HOME$/Docker/hyperf-skeleton/app/Controller/TestController.php" timestamp="1590127886844">
         <mark key="'" line="26" column="28" />
@@ -169,37 +174,26 @@
         <mark key="." line="48" column="28" />
         <mark key="^" line="48" column="29" />
       </file>
-      <file name="$USER_HOME$/Docker/shoufuyou-fund-system/lib/Models/Loan/LoanAfter.php" timestamp="1590125974642">
-        <mark key="'" line="26" column="33" />
+      <file name="$USER_HOME$/Docker/my-framework/library/Components/Response.php" timestamp="1590142376434">
+        <mark key="[" line="29" column="8" />
+        <mark key="]" line="31" column="21" />
+        <mark key="." line="31" column="20" />
+        <mark key="^" line="31" column="21" />
       </file>
       <file name="$USER_HOME$/Docker/hyperf-skeleton/vendor/hyperf/exception-handler/src/ExceptionHandlerDispatcher.php" timestamp="1590126833547">
         <mark key="'" line="55" column="86" />
       </file>
+      <file name="$USER_HOME$/Docker/my-framework/library/Components/Request.php" timestamp="1590142194922">
+        <mark key="'" line="98" column="0" />
+        <mark key="[" line="97" column="0" />
+        <mark key="]" line="97" column="9" />
+        <mark key="." line="97" column="0" />
+      </file>
       <file name="$USER_HOME$/Docker/shoufuyou-php-lib/hyperframework/hyperframework/lib/Db/DbClient.php" timestamp="1590134849968">
         <mark key="'" line="197" column="40" />
       </file>
-      <file name="$USER_HOME$/Docker/shoufuyou-fund-system/lib/Models/FundSource/Verify/VerifyInnerApp.php" timestamp="1590116693523">
-        <mark key="'" line="31" column="45" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="575" column="26" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/CashLoan/WtCash/WtCashLoanOrder.php" />
-      <jump line="48" column="42" filename="$USER_HOME$/Docker/shoufuyou-fund-system/lib/Models/Loan/LoanMiddle.php" />
-      <jump line="41" column="6" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/XlCash/XlCashLoanOrder.php" />
-      <jump line="46" column="32" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/XlCash/XlCashLoanOrder.php" />
-      <jump line="1166" column="20" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/XlCash/XlCashLoanOrder.php" />
-      <jump line="582" column="5" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/CashLoanOrder.php" />
-      <jump line="2104" column="38" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/CashLoanOrder.php" />
-      <jump line="38" column="44" filename="$USER_HOME$/Docker/shoufuyou-fund-system/lib/Models/Loan/LoanMiddle.php" />
-      <jump line="59" column="16" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/Traits/FundLoanOrderTrait.php" />
-      <jump line="219" column="17" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" />
-      <jump line="546" column="58" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" />
-      <jump line="547" column="4" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" />
-      <jump line="141" column="4" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/XlCash/XlCashLoanOrder.php" />
-      <jump line="449" column="12" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/XlCash/XlCashLoanOrder.php" />
-      <jump line="548" column="43" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" />
-      <jump line="563" column="46" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" />
       <jump line="1163" column="20" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/XlCash/XlCashLoanOrder.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/XlCash/XlCashLoanOrder.php" />
       <jump line="27" column="32" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/XlCash/XlCashLoanOrder.php" />
@@ -283,6 +277,23 @@
       <jump line="330" column="29" filename="$USER_HOME$/Docker/shoufuyou-php-lib/hyperframework/hyperframework/lib/Db/DbClientEngine.php" />
       <jump line="422" column="52" filename="$USER_HOME$/Docker/shoufuyou-php-lib/hyperframework/hyperframework/lib/Db/DbClientEngine.php" />
       <jump line="80" column="8" filename="$USER_HOME$/Docker/shoufuyou-notify/lib/Models/Utms/Hs.php" />
+      <jump line="98" column="1" filename="$USER_HOME$/Docker/my-framework/library/Exception/FException.php" />
+      <jump line="28" column="0" filename="$USER_HOME$/Docker/my-framework/library/Components/Base.php" />
+      <jump line="19" column="0" filename="$USER_HOME$/Docker/my-framework/library/Components/Base.php" />
+      <jump line="38" column="49" filename="$USER_HOME$/Docker/my-framework/library/Components/Base.php" />
+      <jump line="95" column="36" filename="$USER_HOME$/Docker/my-framework/library/Components/Request.php" />
+      <jump line="10" column="0" filename="$USER_HOME$/Docker/my-framework/library/Components/Request.php" />
+      <jump line="111" column="30" filename="$USER_HOME$/Docker/my-framework/library/Components/Request.php" />
+      <jump line="92" column="19" filename="$USER_HOME$/Docker/my-framework/library/Components/Request.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Docker/my-framework/library/Components/Request.php" />
+      <jump line="12" column="4" filename="$USER_HOME$/Docker/my-framework/library/Components/Request.php" />
+      <jump line="88" column="13" filename="$USER_HOME$/Docker/my-framework/library/Components/Request.php" />
+      <jump line="60" column="25" filename="$USER_HOME$/Docker/my-framework/library/Components/Request.php" />
+      <jump line="61" column="26" filename="$USER_HOME$/Docker/my-framework/library/Components/Request.php" />
+      <jump line="39" column="6" filename="$USER_HOME$/Docker/my-framework/library/Components/Request.php" />
+      <jump line="64" column="25" filename="$USER_HOME$/Docker/my-framework/library/Components/Request.php" />
+      <jump line="15" column="13" filename="$USER_HOME$/Docker/my-framework/library/Components/Request.php" />
+      <jump line="98" column="0" filename="$USER_HOME$/Docker/my-framework/library/Components/Request.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -291,7 +302,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -306,43 +317,43 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmVkaXMtPg==</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjYW5GdW5kU291cmNlQXJyXD4=</text>
+        <text encoding="base64">XDxib2R5UGFyYW1zXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICflj5HpgIEgc21zOiAnIC4gJGV2ZW50LT5pZCAuIFBIUF9FT0w7Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">JHRoaXMtPmJvZHlQYXJhbXMgPSAkX1BPU1Q7</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBSZWRpczo6bHB1c2goLCAkaWRzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZWNobyAn5Y+R6YCBIHNtczogJyAuICRldmVudC0+aWQgLiBQSFBfRU9MOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkdQo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICR0aGlzLT5ib2R5UGFyYW1zOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQEluamVjdCgpCiAgICAgKiBAdmFyIEV2ZW50RGlzcGF0Y2hlckludGVyZmFjZQogICAgICovCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoqCiAqIEBwcm9wZXJ0eSBhcnJheXxudWxsIHF1ZXJ5UGFyYW1zCiAqIEBwcm9wZXJ0eSBhcnJheXxudWxsIGJvZHlQYXJhbXMKICovCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -476,21 +487,21 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoZW1wdHkoJHRoaXMtPmJvZHlQYXJhbXMpKSB7CiAgICAgICAgfQo=</text>
+      </register>
       <register name=":" type="4">
-        <text>action SelectInProjectView</text>
+        <text>nohls</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxjYW5GdW5kU291cmNlQXJyXD4=</last-search>
+      <last-search encoding="base64">XDxib2R5UGFyYW1zXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjYW5GdW5kU291cmNlQXJyXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxib2R5UGFyYW1zXD4=</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute encoding="base64">XDx1c2VQb29sXD4=</last-substitute>
       <last-dir>1</last-dir>
