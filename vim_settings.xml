@@ -29,7 +29,6 @@
         <entry encoding="base64">XDxjYW5GdW5kU291cmNlQXJyXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>action GotoFile</entry>
         <entry>action FindInPath</entry>
         <entry>.action SelectInProjectView</entry>
         <entry>action OpenEditorInOppositeTabGroup</entry>
@@ -41,7 +40,6 @@
         <entry>source ~/.ideavimrc</entry>
         <entry>action FileStructurePopup</entry>
         <entry>action Find</entry>
-        <entry>wq</entry>
         <entry>vs</entry>
         <entry>action NextSplitter</entry>
         <entry>action Forward</entry>
@@ -49,6 +47,8 @@
         <entry>action Annotate</entry>
         <entry>action Back</entry>
         <entry>nohls</entry>
+        <entry>wq</entry>
+        <entry>action CloseAllEditors</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -112,33 +112,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Docker/shoufuyou-fund-system/lib/Controllers/RouteController.php" timestamp="1590116901489">
-        <mark key="'" line="180" column="45" />
-      </file>
-      <file name="$USER_HOME$/Docker/shoufuyou-fund-system/lib/Models/FundSource/Verify/VerifyPeriod.php" timestamp="1590116552848">
-        <mark key="'" line="72" column="51" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-      </file>
-      <file name="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/CashPool/CashPoolPeriod.php" timestamp="1590116476950">
-        <mark key="'" line="144" column="32" />
-      </file>
-      <file name="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" timestamp="1590039708990">
-        <mark key="'" line="130" column="17" />
-        <mark key="^" line="30" column="27" />
-      </file>
-      <file name="$USER_HOME$/Docker/shoufuyou-fund-system/lib/Models/FundSource/Verify/VerifyRules.php" timestamp="1590116810167">
-        <mark key="'" line="71" column="37" />
-      </file>
-      <file name="$USER_HOME$/Docker/shoufuyou-fund-system/lib/Models/FundSource/FundBehavior.php" timestamp="1590116695476">
-        <mark key="'" line="125" column="101" />
-        <mark key="[" line="136" column="0" />
-        <mark key="]" line="136" column="0" />
-        <mark key="." line="136" column="0" />
-      </file>
       <file name="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashRepayPlans.php" timestamp="1590039716842">
         <mark key="'" line="224" column="16" />
+      </file>
+      <file name="$USER_HOME$/Docker/shoufuyou-fund-system/lib/Controllers/RouteController.php" timestamp="1590116901489">
+        <mark key="'" line="180" column="45" />
       </file>
       <file name="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/CashLoan/StashLogicTrait.php" timestamp="1590052437145">
         <mark key="'" line="0" column="0" />
@@ -169,6 +147,12 @@
         <mark key="]" line="128" column="0" />
         <mark key="." line="128" column="0" />
       </file>
+      <file name="$USER_HOME$/Docker/shoufuyou-fund-system/lib/Models/FundSource/Verify/VerifyPeriod.php" timestamp="1590116552848">
+        <mark key="'" line="72" column="51" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+      </file>
       <file name="$USER_HOME$/Docker/shoufuyou-fund-system/lib/Models/FundSource/FundRecommendManage.php" timestamp="1590116038517">
         <mark key="'" line="160" column="43" />
         <mark key="[" line="168" column="0" />
@@ -183,9 +167,30 @@
         <mark key="." line="70" column="0" />
         <mark key="^" line="70" column="2" />
       </file>
-      <file name="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashContract.php" timestamp="1590039663207" />
+      <file name="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/XlCash/XlRepayPlan.php" timestamp="1590126007375">
+        <mark key="'" line="141" column="27" />
+      </file>
+      <file name="$USER_HOME$/Docker/shoufuyou-fund-system/lib/Models/Loan/LoanAfter.php" timestamp="1590125974642">
+        <mark key="'" line="26" column="33" />
+      </file>
+      <file name="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/CashPool/CashPoolPeriod.php" timestamp="1590116476950">
+        <mark key="'" line="144" column="32" />
+      </file>
+      <file name="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" timestamp="1590039708990">
+        <mark key="'" line="130" column="17" />
+        <mark key="^" line="30" column="27" />
+      </file>
+      <file name="$USER_HOME$/Docker/shoufuyou-fund-system/lib/Models/FundSource/Verify/VerifyRules.php" timestamp="1590116810167">
+        <mark key="'" line="71" column="37" />
+      </file>
       <file name="$USER_HOME$/Docker/shoufuyou-fund-system/lib/Models/FundSource/Verify/VerifyCashPool.php" timestamp="1590116348403">
         <mark key="'" line="84" column="26" />
+      </file>
+      <file name="$USER_HOME$/Docker/shoufuyou-fund-system/lib/Models/FundSource/FundBehavior.php" timestamp="1590116695476">
+        <mark key="'" line="125" column="101" />
+        <mark key="[" line="136" column="0" />
+        <mark key="]" line="136" column="0" />
+        <mark key="." line="136" column="0" />
       </file>
       <file name="$USER_HOME$/Docker/shoufuyou-console/lib/Controllers/Api/UserController.php" timestamp="1590040937152">
         <mark key="'" line="111" column="31" />
@@ -199,8 +204,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="40" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" />
-      <jump line="27" column="78" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" />
       <jump line="79" column="15" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/XlCash/XlCashLoanOrder.php" />
       <jump line="160" column="8" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/XlCash/XlCashLoanOrder.php" />
       <jump line="167" column="70" filename="$USER_HOME$/Docker/shoufuyou-fund-system/lib/Models/Loan/LoanMiddle.php" />
@@ -299,6 +302,8 @@
       <jump line="103" column="19" filename="$USER_HOME$/Docker/shoufuyou-fund-system/lib/Models/FundSource/FundSourceManage.php" />
       <jump line="105" column="22" filename="$USER_HOME$/Docker/shoufuyou-fund-system/lib/Models/FundSource/FundSourceManage.php" />
       <jump line="180" column="45" filename="$USER_HOME$/Docker/shoufuyou-fund-system/lib/Controllers/RouteController.php" />
+      <jump line="26" column="33" filename="$USER_HOME$/Docker/shoufuyou-fund-system/lib/Models/Loan/LoanAfter.php" />
+      <jump line="141" column="27" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/XlCash/XlRepayPlan.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -498,7 +503,7 @@
         <text encoding="base64">ICAgICAgICB2YXIK</text>
       </register>
       <register name=":" type="4">
-        <text>nohls</text>
+        <text>action CloseAllEditors</text>
       </register>
     </registers>
   </component>
