@@ -34,8 +34,6 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0NsYXNz</entry>
         <entry>action GotoClass</entry>
         <entry>action SelectInProjectView</entry>
-        <entry>action PreviousTab</entry>
-        <entry>action NextTab</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>action FileStructurePopup</entry>
         <entry>action Find</entry>
@@ -49,6 +47,8 @@
         <entry>nohls</entry>
         <entry>action Back</entry>
         <entry>action KJumpAction.Word0</entry>
+        <entry>action NextTab</entry>
+        <entry>action PreviousTab</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -112,12 +112,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Docker/hyperf-skeleton/app/Listener/SendSms.php" timestamp="1590127798228">
+      <file name="$USER_HOME$/Docker/hyperf-skeleton/app/Listener/SendSms.php" timestamp="1590127965460">
         <mark key="'" line="29" column="20" />
-        <mark key="[" line="38" column="36" />
-        <mark key="]" line="38" column="38" />
-        <mark key="^" line="38" column="38" />
-        <mark key="." line="38" column="37" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="47" />
+        <mark key="^" line="38" column="20" />
+        <mark key="." line="38" column="19" />
       </file>
       <file name="$USER_HOME$/Docker/shoufuyou-fund-system/lib/Controllers/RouteController.php" timestamp="1590116901489">
         <mark key="'" line="180" column="45" />
@@ -149,6 +149,12 @@
         <mark key="]" line="136" column="0" />
         <mark key="." line="136" column="0" />
       </file>
+      <file name="$USER_HOME$/Docker/hyperf-skeleton/app/Listener/SendEmail.php" timestamp="1590127987316">
+        <mark key="[" line="35" column="17" />
+        <mark key="]" line="35" column="17" />
+        <mark key="^" line="29" column="32" />
+        <mark key="." line="35" column="17" />
+      </file>
       <file name="/Dummy.txt" timestamp="1590127337522">
         <mark key="[" line="0" column="0" />
       </file>
@@ -167,12 +173,6 @@
       </file>
       <file name="$USER_HOME$/Docker/shoufuyou-php-lib/hyperframework/hyperframework/lib/Db/DbActiveRecord.php" timestamp="1590116030782">
         <mark key="'" line="247" column="27" />
-      </file>
-      <file name="$USER_HOME$/Docker/shoufuyou-console/lib/Models/SmsRecord.php" timestamp="1590044820732">
-        <mark key="'" line="127" column="59" />
-        <mark key="[" line="128" column="0" />
-        <mark key="]" line="128" column="0" />
-        <mark key="." line="128" column="0" />
       </file>
       <file name="$USER_HOME$/Docker/shoufuyou-fund-system/lib/Models/FundSource/FundRecommendManage.php" timestamp="1590116038517">
         <mark key="'" line="160" column="43" />
@@ -317,7 +317,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>userId</text>
+        <text>sms</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -332,40 +332,40 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>userId</text>
+        <text>sms</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYW5GdW5kU291cmNlQXJyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dXNlIFNob3VmdXlvdUJpekNvbW1vblxNb2RlbHNcRnVuZFNvdXJjZVxNb2RlbHNcQ2FzaExvYW5PcmRlcjsK</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICflj5HpgIEgc21zOiAnIC4gJGV2ZW50LT5pZCAuIFBIUF9FT0w7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkdQo=</text>
+        <text encoding="base64">ZWNobyAn5Y+R6YCBIHNtczogJyAuICRldmVudC0+aWQgLiBQSFBfRU9MOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdQo=</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQEluamVjdCgpCiAgICAgKiBAdmFyIEV2ZW50RGlzcGF0Y2hlckludGVyZmFjZQogICAgICovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQEluamVjdCgpCiAgICAgKiBAdmFyIEV2ZW50RGlzcGF0Y2hlckludGVyZmFjZQogICAgICovCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -502,13 +502,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>action KJumpAction.Word0</text>
+        <text>action PreviousTab</text>
       </register>
     </registers>
   </component>
