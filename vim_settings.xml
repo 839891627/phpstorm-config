@@ -33,7 +33,6 @@
         <entry>action OpenEditorInOppositeTabGroup</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0NsYXNz</entry>
         <entry>action GotoClass</entry>
-        <entry>action SelectInProjectView</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>action FileStructurePopup</entry>
         <entry>action Find</entry>
@@ -49,6 +48,7 @@
         <entry>action Annotate</entry>
         <entry>action Back</entry>
         <entry>nohls</entry>
+        <entry>action SelectInProjectView</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -128,12 +128,6 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="21" column="20" />
       </file>
-      <file name="$USER_HOME$/Docker/shoufuyou-fund-system/lib/Models/FundSource/Verify/VerifyPeriod.php" timestamp="1590116552848">
-        <mark key="'" line="72" column="51" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-      </file>
       <file name="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/XlCash/XlRepayPlan.php" timestamp="1590126007375">
         <mark key="'" line="141" column="27" />
       </file>
@@ -143,6 +137,7 @@
       <file name="$USER_HOME$/Docker/shoufuyou-fund-system/lib/Models/FundSource/Verify/VerifyRules.php" timestamp="1590116810167">
         <mark key="'" line="71" column="37" />
       </file>
+      <file name="$USER_HOME$/Docker/psr/log/Psr/Log/LoggerTrait.php" timestamp="1590137851883" />
       <file name="$USER_HOME$/Docker/shoufuyou-fund-system/lib/Models/FundSource/FundBehavior.php" timestamp="1590116695476">
         <mark key="'" line="125" column="101" />
         <mark key="[" line="136" column="0" />
@@ -487,7 +482,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>nohls</text>
+        <text>action SelectInProjectView</text>
       </register>
     </registers>
   </component>
