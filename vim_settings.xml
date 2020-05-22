@@ -29,7 +29,6 @@
         <entry encoding="base64">XDxib2R5UGFyYW1zXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>.action SelectInProjectView</entry>
         <entry>action OpenEditorInOppositeTabGroup</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0NsYXNz</entry>
         <entry>action GotoClass</entry>
@@ -48,6 +47,7 @@
         <entry>action Back</entry>
         <entry>action Find</entry>
         <entry>action KJumpAction.Word0</entry>
+        <entry>action SurroundWith</entry>
         <entry>nohls</entry>
       </history-cmd>
       <history-expr />
@@ -112,12 +112,21 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Docker/my-framework/library/Http/Controller.php" timestamp="1590142558538">
+        <mark key="[" line="22" column="4" />
+        <mark key="]" line="29" column="59" />
+        <mark key="." line="29" column="58" />
+        <mark key="^" line="29" column="59" />
+      </file>
       <file name="$USER_HOME$/Docker/hyperf-skeleton/app/Listener/SendSms.php" timestamp="1590127965460">
         <mark key="'" line="29" column="20" />
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="47" />
         <mark key="^" line="38" column="20" />
         <mark key="." line="38" column="19" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1590142607235">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Docker/my-framework/library/Exception/FException.php" timestamp="1590140832660">
         <mark key="'" line="92" column="1" />
@@ -126,33 +135,8 @@
         <mark key="^" line="8" column="17" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Docker/hyperf-skeleton/app/Event/UserRegister.php" timestamp="1590127401082">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-        <mark key="^" line="21" column="20" />
-      </file>
-      <file name="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/XlCash/XlRepayPlan.php" timestamp="1590126007375">
-        <mark key="'" line="141" column="27" />
-      </file>
-      <file name="$USER_HOME$/Docker/shoufuyou-notify/lib/Models/Utms/Hs.php" timestamp="1590137143521">
-        <mark key="'" line="80" column="8" />
-      </file>
-      <file name="$USER_HOME$/Docker/my-framework/composer.json" timestamp="1590140420672">
-        <mark key="[" line="12" column="9" />
-        <mark key="]" line="11" column="25" />
-        <mark key="^" line="11" column="25" />
-        <mark key="." line="11" column="24" />
-      </file>
-      <file name="$USER_HOME$/Docker/psr/log/Psr/Log/LoggerTrait.php" timestamp="1590137851883" />
-      <file name="$USER_HOME$/Docker/hyperf-skeleton/app/Listener/SendEmail.php" timestamp="1590127987316">
-        <mark key="[" line="35" column="17" />
-        <mark key="]" line="35" column="17" />
-        <mark key="^" line="29" column="32" />
-        <mark key="." line="35" column="17" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1590141234903">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Docker/my-framework/vendor/composer/autoload_psr4.php" timestamp="1590142607639">
+        <mark key="[" line="0" column="5" />
       </file>
       <file name="$USER_HOME$/Docker/shoufuyou-php-lib/hyperframework/hyperframework/lib/Db/DbClientEngine.php" timestamp="1590134865214">
         <mark key="'" line="422" column="52" />
@@ -163,6 +147,19 @@
         <mark key="]" line="53" column="0" />
         <mark key="." line="51" column="5" />
         <mark key="^" line="53" column="15" />
+      </file>
+      <file name="$USER_HOME$/Docker/my-framework/library/Application.php" timestamp="1590142817105">
+        <mark key="'" line="54" column="23" />
+        <mark key="[" line="52" column="19" />
+        <mark key="]" line="52" column="23" />
+        <mark key="^" line="52" column="23" />
+        <mark key="." line="52" column="22" />
+      </file>
+      <file name="$USER_HOME$/Docker/hyperf-skeleton/app/Event/UserRegister.php" timestamp="1590127401082">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="21" column="20" />
       </file>
       <file name="$USER_HOME$/Docker/my-framework/library/Functions.php" timestamp="1590140653077">
         <mark key="[" line="5" column="3" />
@@ -180,6 +177,9 @@
         <mark key="." line="31" column="20" />
         <mark key="^" line="31" column="21" />
       </file>
+      <file name="$USER_HOME$/Docker/shoufuyou-notify/lib/Models/Utms/Hs.php" timestamp="1590137143521">
+        <mark key="'" line="80" column="8" />
+      </file>
       <file name="$USER_HOME$/Docker/hyperf-skeleton/vendor/hyperf/exception-handler/src/ExceptionHandlerDispatcher.php" timestamp="1590126833547">
         <mark key="'" line="55" column="86" />
       </file>
@@ -189,12 +189,23 @@
         <mark key="]" line="97" column="9" />
         <mark key="." line="97" column="0" />
       </file>
+      <file name="$USER_HOME$/Docker/my-framework/composer.json" timestamp="1590140420672">
+        <mark key="[" line="12" column="9" />
+        <mark key="]" line="11" column="25" />
+        <mark key="^" line="11" column="25" />
+        <mark key="." line="11" column="24" />
+      </file>
       <file name="$USER_HOME$/Docker/shoufuyou-php-lib/hyperframework/hyperframework/lib/Db/DbClient.php" timestamp="1590134849968">
         <mark key="'" line="197" column="40" />
       </file>
+      <file name="$USER_HOME$/Docker/hyperf-skeleton/app/Listener/SendEmail.php" timestamp="1590127987316">
+        <mark key="[" line="35" column="17" />
+        <mark key="]" line="35" column="17" />
+        <mark key="^" line="29" column="32" />
+        <mark key="." line="35" column="17" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="1163" column="20" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/XlCash/XlCashLoanOrder.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/XlCash/XlCashLoanOrder.php" />
       <jump line="27" column="32" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/XlCash/XlCashLoanOrder.php" />
       <jump line="261" column="46" filename="$USER_HOME$/Docker/shoufuyou-fund-system/lib/Models/Loan/LoanMiddle.php" />
@@ -294,6 +305,7 @@
       <jump line="64" column="25" filename="$USER_HOME$/Docker/my-framework/library/Components/Request.php" />
       <jump line="15" column="13" filename="$USER_HOME$/Docker/my-framework/library/Components/Request.php" />
       <jump line="98" column="0" filename="$USER_HOME$/Docker/my-framework/library/Components/Request.php" />
+      <jump line="54" column="23" filename="$USER_HOME$/Docker/my-framework/library/Application.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -301,8 +313,8 @@
       <register name="a" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>http_response_header</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -317,16 +329,16 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>http_response_header</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxib2R5UGFyYW1zXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">JHRoaXMtPmJvZHlQYXJhbXMgPSAkX1BPU1Q7</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdsaW5lJyA9PiAkZS0+Z2V0TGluZSgpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -338,22 +350,22 @@
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICRyZXNwb25zZSA9ICR0aGlzLT5oYW5kbGVSZXF1ZXN0KCR0aGlzLT5yZXF1ZXN0KTsKICAgICAgICRyZXNwb25zZS0+c2VuZCgpOwogICAgICAgcmV0dXJuICRyZXNwb25zZS0+ZXhpdFN0YXR1czsK</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICR0aGlzLT5ib2R5UGFyYW1zOwo=</text>
+        <text encoding="base64">ICAgICAgICB0cnkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y29uZmlnID0gJGNvbmZpZzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LyoqCiAqIEBwcm9wZXJ0eSBhcnJheXxudWxsIHF1ZXJ5UGFyYW1zCiAqIEBwcm9wZXJ0eSBhcnJheXxudWxsIGJvZHlQYXJhbXMKICovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -487,10 +499,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBmICBqc29uCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZW1wdHkoJHRoaXMtPmJvZHlQYXJhbXMpKSB7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>nohls</text>
