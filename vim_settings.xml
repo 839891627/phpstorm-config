@@ -44,11 +44,11 @@
         <entry>action CloseAllEditors</entry>
         <entry>action GotoFile</entry>
         <entry>wq</entry>
-        <entry>nohls</entry>
         <entry>action Back</entry>
         <entry>action KJumpAction.Word0</entry>
         <entry>action NextTab</entry>
         <entry>action PreviousTab</entry>
+        <entry>nohls</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -508,7 +508,7 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>action PreviousTab</text>
+        <text>nohls</text>
       </register>
     </registers>
   </component>
