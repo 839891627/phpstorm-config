@@ -31,24 +31,24 @@
       <history-cmd>
         <entry>action Forward</entry>
         <entry>action GotoFile</entry>
-        <entry>vs</entry>
         <entry>action FindInPath</entry>
         <entry>.action SelectInProjectView</entry>
         <entry>action OpenEditorInOppositeTabGroup</entry>
         <entry>action FileStructurePopup</entry>
-        <entry>action KJumpAction.Word0</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0NsYXNz</entry>
-        <entry>action Back</entry>
-        <entry>source ~/.ideavimrc</entry>
+        <entry>action GotoClass</entry>
+        <entry>action Find</entry>
+        <entry>action SelectInProjectView</entry>
+        <entry>action Annotate</entry>
+        <entry>vs</entry>
         <entry>action NextSplitter</entry>
         <entry>action PreviousTab</entry>
-        <entry>wq</entry>
-        <entry>action GotoClass</entry>
-        <entry>action Annotate</entry>
+        <entry>action KJumpAction.Word0</entry>
         <entry>action NextTab</entry>
-        <entry>action Find</entry>
+        <entry>source ~/.ideavimrc</entry>
+        <entry>wq</entry>
         <entry>nohls</entry>
-        <entry>action SelectInProjectView</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -112,8 +112,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/Service/CashLoanFacade.php" timestamp="1590030523816">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Docker/shoufuyou-fund-system/lib/Controllers/RouteController.php" timestamp="1590115092421">
+        <mark key="'" line="204" column="49" />
       </file>
       <file name="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/Traits/FundLoanOrderTrait.php" timestamp="1590031712804">
         <mark key="'" line="59" column="16" />
@@ -144,13 +144,6 @@
       <file name="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" timestamp="1590039708990">
         <mark key="'" line="130" column="17" />
         <mark key="^" line="30" column="27" />
-      </file>
-      <file name="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/Models/CashLoanOrder.php" timestamp="1590030980513">
-        <mark key="'" line="84" column="46" />
-        <mark key="[" line="80" column="27" />
-        <mark key="]" line="80" column="39" />
-        <mark key="^" line="80" column="39" />
-        <mark key="." line="80" column="38" />
       </file>
       <file name="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/IFundSource.php" timestamp="1590031632369">
         <mark key="[" line="12" column="20" />
@@ -184,11 +177,18 @@
         <mark key="]" line="128" column="0" />
         <mark key="." line="128" column="0" />
       </file>
-      <file name="$USER_HOME$/.ideavimrc" timestamp="1590039119361">
+      <file name="$USER_HOME$/Docker/shoufuyou-fund-system/lib/Models/FundSource/FundRecommendManage.php" timestamp="1590115850029">
+        <mark key="'" line="108" column="31" />
+        <mark key="[" line="135" column="76" />
+        <mark key="]" line="165" column="0" />
+        <mark key="." line="165" column="0" />
+      </file>
+      <file name="$USER_HOME$/.ideavimrc" timestamp="1590115474041">
         <mark key="'" line="26" column="0" />
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="0" />
-        <mark key="." line="69" column="0" />
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="2" />
+        <mark key="." line="70" column="0" />
+        <mark key="^" line="70" column="2" />
       </file>
       <file name="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashContract.php" timestamp="1590039663207" />
       <file name="$USER_HOME$/Docker/shoufuyou-console/lib/Controllers/Api/UserController.php" timestamp="1590040937152">
@@ -200,8 +200,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Docker/shoufuyou-php-lib/shoufuyou/Table/CashBill.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/CashBill/CashBill.php" />
       <jump line="115" column="44" filename="$USER_HOME$/Docker/shoufuyou-fund-system/lib/Models/FundSource/FundRecommendManage.php" />
       <jump line="77" column="41" filename="$USER_HOME$/Docker/shoufuyou-fund-system/lib/Models/FundSource/Recommend/RecFundSource.php" />
       <jump line="346" column="36" filename="$USER_HOME$/Docker/shoufuyou-fund-system/lib/Models/FundSource/Recommend/RecAbstract.php" />
@@ -300,6 +298,8 @@
       <jump line="125" column="19" filename="$USER_HOME$/Docker/shoufuyou-console/lib/Models/SmsRecord.php" />
       <jump line="127" column="59" filename="$USER_HOME$/Docker/shoufuyou-console/lib/Models/SmsRecord.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/CashLoan/StashLogicTrait.php" />
+      <jump line="204" column="49" filename="$USER_HOME$/Docker/shoufuyou-fund-system/lib/Controllers/RouteController.php" />
+      <jump line="108" column="31" filename="$USER_HOME$/Docker/shoufuyou-fund-system/lib/Models/FundSource/FundRecommendManage.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -308,7 +308,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICRzcWw7ZGllOwo=</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdXNlclBlcmlvZHMpO2RpZTsK</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -332,31 +332,31 @@
         <text encoding="base64">dXNlIFNob3VmdXlvdUJpekNvbW1vblxNb2RlbHNcRnVuZFNvdXJjZVxNb2RlbHNcQ2FzaExvYW5PcmRlcjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICRzcWw7ZGllOwo=</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdXNlclBlcmlvZHMpO2RpZTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkaXNXaGlsZUxpc3QpO2RpZTsK</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICRzcWw7ZGllOwo=</text>
+        <text encoding="base64">ICAgICAgICB2YXIK</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICRzcWw7Cg==</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICR1Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJGdyb3Vwcyk7ZGllOwo=</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICRzcWw7ZGllOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmEK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBlY2hvICRzcWw7ZGllOwo=</text>
@@ -493,13 +493,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdGFibGVzKTtkaWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICRzcWw7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJGdyb3Vwcyk7ZGllOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action SelectInProjectView</text>
+        <text>action Back</text>
       </register>
     </registers>
   </component>
