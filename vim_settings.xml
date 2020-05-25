@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxwb29sSW5mb1w+</entry>
         <entry encoding="base64">XDx1c2VQb29sXD4=</entry>
         <entry encoding="base64">XDxnZXRDYXNoTG9hbk9yZGVyU3RhdHVzXD4=</entry>
         <entry encoding="base64">XDxjYXNoTG9hbk9yZGVyXD4=</entry>
@@ -27,6 +26,7 @@
         <entry encoding="base64">XDxGRXhjZXB0aW9uXD4=</entry>
         <entry encoding="base64">XDxjb25maWdcPg==</entry>
         <entry encoding="base64">XDxyb3V0ZVw+</entry>
+        <entry encoding="base64">XDxTdHJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>action SurroundWith</entry>
@@ -46,9 +46,9 @@
         <entry>v/;/d</entry>
         <entry>g/;/d</entry>
         <entry>action SelectInProjectView</entry>
-        <entry>nohls</entry>
         <entry>action KJumpAction.Word0</entry>
         <entry>action Back</entry>
+        <entry>nohls</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -133,12 +133,6 @@
         <mark key="^" line="11" column="22" />
         <mark key="." line="11" column="21" />
       </file>
-      <file name="$USER_HOME$/Docker/my-framework/library/Exception/NotFoundException.php" timestamp="1590377969863">
-        <mark key="[" line="11" column="1" />
-        <mark key="]" line="12" column="26" />
-        <mark key="^" line="12" column="26" />
-        <mark key="." line="12" column="25" />
-      </file>
       <file name="/PHP Console" timestamp="1590387507246">
         <mark key="[" line="0" column="0" />
       </file>
@@ -166,6 +160,9 @@
         <mark key="]" line="10" column="44" />
         <mark key="^" line="11" column="147" />
         <mark key="." line="10" column="44" />
+      </file>
+      <file name="$USER_HOME$/Docker/pay/src/Pay.php" timestamp="1590395619269">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1590384644093">
         <mark key="[" line="0" column="0" />
@@ -209,8 +206,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="47" filename="$USER_HOME$/Docker/shoufuyou-fund-system/lib/Models/FundSource/FundSourceManage.php" />
-      <jump line="85" column="8" filename="$USER_HOME$/Docker/shoufuyou-fund-system/lib/Models/FundSource/FundSourceManage.php" />
       <jump line="50" column="61" filename="$USER_HOME$/Docker/shoufuyou-fund-system/lib/Models/FundSource/FundSourceManage.php" />
       <jump line="103" column="19" filename="$USER_HOME$/Docker/shoufuyou-fund-system/lib/Models/FundSource/FundSourceManage.php" />
       <jump line="105" column="22" filename="$USER_HOME$/Docker/shoufuyou-fund-system/lib/Models/FundSource/FundSourceManage.php" />
@@ -309,6 +304,8 @@
       <jump line="89" column="49" filename="$USER_HOME$/Docker/easy-sms/src/EasySms.php" />
       <jump line="95" column="22" filename="$USER_HOME$/Docker/easy-sms/src/EasySms.php" />
       <jump line="206" column="58" filename="$USER_HOME$/Docker/easy-sms/src/EasySms.php" />
+      <jump line="72" column="48" filename="$USER_HOME$/Docker/pay/src/Pay.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Docker/pay/src/Pay.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -335,7 +332,7 @@
         <text>index1</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyb3V0ZVw+</text>
+        <text encoding="base64">XDxTdHJcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwcmludF9yKCRjb250cm9sbGVyKTsK</text>
@@ -508,15 +505,15 @@
         <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkY29udHJvbGxlck5hbWUpO2RpZTsK</text>
       </register>
       <register name=":" type="4">
-        <text>action Back</text>
+        <text>nohls</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxyb3V0ZVw+</last-search>
+      <last-search encoding="base64">XDxTdHJcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyb3V0ZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxTdHJcPg==</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute encoding="base64">XDx1c2VQb29sXD4=</last-substitute>
       <last-dir>1</last-dir>
