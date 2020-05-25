@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDx1c2VQb29sXD4=</entry>
         <entry encoding="base64">XDxnZXRDYXNoTG9hbk9yZGVyU3RhdHVzXD4=</entry>
         <entry encoding="base64">XDxjYXNoTG9hbk9yZGVyXD4=</entry>
         <entry encoding="base64">XDxnZXROZXh0VXJsXD4=</entry>
@@ -27,6 +26,7 @@
         <entry encoding="base64">XDxjb25maWdcPg==</entry>
         <entry encoding="base64">XDxyb3V0ZVw+</entry>
         <entry encoding="base64">XDxTdHJcPg==</entry>
+        <entry encoding="base64">XDxhcHBfdXJsXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>action CloseAllEditors</entry>
@@ -45,10 +45,10 @@
         <entry>g/;/d</entry>
         <entry>action KJumpAction.Word0</entry>
         <entry>action Forward</entry>
-        <entry>nohls</entry>
-        <entry>action Annotate</entry>
         <entry>action SelectInProjectView</entry>
         <entry>action Back</entry>
+        <entry>nohls</entry>
+        <entry>action Annotate</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -120,15 +120,19 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Docker/my-framework/vendor/autoload.php" timestamp="1590386837311">
-        <mark key="'" line="4" column="34" />
-      </file>
       <file name="$USER_HOME$/Docker/my-framework/app/Config.php" timestamp="1590387843991">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="11" column="18" />
         <mark key="]" line="11" column="22" />
         <mark key="^" line="11" column="22" />
         <mark key="." line="11" column="21" />
+      </file>
+      <file name="$USER_HOME$/Docker/shoufuyou-notify/lib/Models/Utms/Jqks.php" timestamp="1590399310513">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="38" column="31" />
+        <mark key="]" line="38" column="98" />
+        <mark key="^" line="38" column="98" />
+        <mark key="." line="38" column="97" />
       </file>
       <file name="$USER_HOME$/Docker/my-framework/app/Http/IndexController.php" timestamp="1590387743390" />
       <file name="$USER_HOME$/Docker/my-framework/app/Http/DemoController.php" timestamp="1590387704301">
@@ -160,12 +164,6 @@
       <file name="$USER_HOME$/Docker/easy-sms/src/PhoneNumber.php" timestamp="1590395333969">
         <mark key="'" line="112" column="22" />
       </file>
-      <file name="$USER_HOME$/Docker/dnmp/config/php/php71.ini" timestamp="1590386981066">
-        <mark key="'" line="1963" column="21" />
-        <mark key="[" line="1970" column="0" />
-        <mark key="]" line="1970" column="0" />
-        <mark key="." line="1970" column="0" />
-      </file>
       <file name="$USER_HOME$/Docker/xyf-pay-system/vendor/xyf/lib/src/helper/validator/Validator.php" timestamp="1590397641752">
         <mark key="'" line="102" column="27" />
       </file>
@@ -187,15 +185,17 @@
       <file name="$USER_HOME$/Docker/xyf-pay-system/common/helper/Validator.php" timestamp="1590397638549">
         <mark key="'" line="27" column="35" />
       </file>
+      <file name="$USER_HOME$/Docker/shoufuyou-notify/lib/Models/Utms/Youxin.php" timestamp="1590399294960">
+        <mark key="[" line="33" column="30" />
+        <mark key="]" line="33" column="98" />
+        <mark key="." line="33" column="97" />
+        <mark key="^" line="33" column="98" />
+      </file>
       <file name="$USER_HOME$/Docker/easy-sms/src/Message.php" timestamp="1590395396225">
         <mark key="'" line="52" column="20" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="0" filename="$USER_HOME$/Docker/hyperf-skeleton/app/Controller/TestController.php" />
-      <jump line="25" column="28" filename="$USER_HOME$/Docker/hyperf-skeleton/app/Controller/TestController.php" />
-      <jump line="29" column="20" filename="$USER_HOME$/Docker/hyperf-skeleton/app/Listener/SendSms.php" />
-      <jump line="197" column="40" filename="$USER_HOME$/Docker/shoufuyou-php-lib/hyperframework/hyperframework/lib/Db/DbClient.php" />
       <jump line="330" column="29" filename="$USER_HOME$/Docker/shoufuyou-php-lib/hyperframework/hyperframework/lib/Db/DbClientEngine.php" />
       <jump line="422" column="52" filename="$USER_HOME$/Docker/shoufuyou-php-lib/hyperframework/hyperframework/lib/Db/DbClientEngine.php" />
       <jump line="80" column="8" filename="$USER_HOME$/Docker/shoufuyou-notify/lib/Models/Utms/Hs.php" />
@@ -292,6 +292,10 @@
       <jump line="60" column="24" filename="$USER_HOME$/Docker/xyf-pay-system/common/service/pay/AbstractPay.php" />
       <jump line="45" column="28" filename="$USER_HOME$/Docker/xyf-pay-system/common/service/pay/AbstractPay.php" />
       <jump line="95" column="61" filename="$USER_HOME$/Docker/xyf-pay-system/common/service/pay/PayService.php" />
+      <jump line="75" column="6" filename="$USER_HOME$/Docker/shoufuyou-notify/lib/Models/Utms/Jqks.php" />
+      <jump line="37" column="20" filename="$USER_HOME$/Docker/shoufuyou-notify/lib/Models/Utms/Jqks.php" />
+      <jump line="105" column="52" filename="$USER_HOME$/Docker/shoufuyou-notify/lib/Models/Utms/Jqks.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Docker/shoufuyou-notify/lib/Models/Utms/Jqks.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -299,8 +303,8 @@
       <register name="a" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">aHR0cHM6Ly9tLnhpbnlvbmdmZWkuY24vYWJvdXQvZG93bj9zdHlsZT01JnV0bV9zb3VyY2U9UUQtQ1BBLVhZRi1KUUtTMDInIC4gc2VsZjo6VVRNX1NPVVJDRTs=</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -315,13 +319,13 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>index1</text>
+        <text encoding="base64">aHR0cHM6Ly9tLnhpbnlvbmdmZWkuY24vYWJvdXQvZG93bj9zdHlsZT01JnV0bV9zb3VyY2U9UUQtQ1BBLVhZRi1KUUtTMDInIC4gc2VsZjo6VVRNX1NPVVJDRTs=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTdHJcPg==</text>
+        <text encoding="base64">XDxhcHBfdXJsXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludF9yKCRjb250cm9sbGVyKTsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljICRhcHBfdXJsID0gJ2h0dHBzOi8vbS54aW55b25nZmVpLmNuL2Fib3V0L2Rvd24/c3R5bGU9NSZ1dG1fc291cmNlPVFELUNQQS1YWUYtSlFLUzAyJyAuIHNlbGY6OlVUTV9TT1VSQ0U7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
@@ -491,15 +495,15 @@
         <text encoding="base64">ICAgIHByaXZhdGUgJGNvbnRyb2xsZXJOYW1lU3BhY2UgPSAnQXBwXFxIdHRwc1xcQ29udHJvbGxlclxcJzsKICAgIHByaXZhdGUgJGJhc2VDb250cm9sbGVyID0gJ0xpYnJhcnlcXEh0dHBcXENvbnRyb2xsZXInOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Back</text>
+        <text>action Annotate</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxTdHJcPg==</last-search>
+      <last-search encoding="base64">XDxhcHBfdXJsXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTdHJcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxhcHBfdXJsXD4=</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute encoding="base64">XDx1c2VQb29sXD4=</last-substitute>
       <last-dir>1</last-dir>
