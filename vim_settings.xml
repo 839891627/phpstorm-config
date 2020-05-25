@@ -29,7 +29,6 @@
         <entry encoding="base64">XDxyb3V0ZVw+</entry>
       </history-search>
       <history-cmd>
-        <entry>action KJumpAction.Word0</entry>
         <entry>action SurroundWith</entry>
         <entry>.,.+4nohls</entry>
         <entry>action CloseAllEditors</entry>
@@ -43,12 +42,13 @@
         <entry>action RecentFiles</entry>
         <entry>action NextTab</entry>
         <entry>action GotoClass</entry>
-        <entry>action Back</entry>
-        <entry>action SelectInProjectView</entry>
-        <entry>nohls</entry>
         <entry>wq</entry>
         <entry>v/;/d</entry>
         <entry>g/;/d</entry>
+        <entry>action SelectInProjectView</entry>
+        <entry>nohls</entry>
+        <entry>action KJumpAction.Word0</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -112,13 +112,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Docker/my-framework/library/Exception/FException.php" timestamp="1590375258871">
-        <mark key="'" line="21" column="30" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="8" column="17" />
-        <mark key="." line="6" column="0" />
-      </file>
       <file name="$USER_HOME$/Docker/dnmp/config/php/php71.ini" timestamp="1590386981066">
         <mark key="'" line="1963" column="21" />
         <mark key="[" line="1970" column="0" />
@@ -156,12 +149,6 @@
         <mark key="^" line="12" column="7" />
         <mark key="." line="12" column="6" />
       </file>
-      <file name="$USER_HOME$/Docker/dnmp/config/nginx/conf.d/my-framework.conf" timestamp="1590377712140">
-        <mark key="[" line="4" column="24" />
-        <mark key="]" line="4" column="36" />
-        <mark key="." line="4" column="35" />
-        <mark key="^" line="4" column="36" />
-      </file>
       <file name="$USER_HOME$/Docker/my-framework/app/Http/IndexController.php" timestamp="1590387743390" />
       <file name="$USER_HOME$/Docker/my-framework/app/Http/DemoController.php" timestamp="1590387704301">
         <mark key="'" line="7" column="29" />
@@ -170,11 +157,8 @@
         <mark key="^" line="12" column="21" />
         <mark key="." line="12" column="20" />
       </file>
-      <file name="$USER_HOME$/Docker/my-framework/library/Config.php" timestamp="1590377624398">
-        <mark key="[" line="5" column="3" />
-        <mark key="]" line="8" column="19" />
-        <mark key="^" line="8" column="19" />
-        <mark key="." line="8" column="18" />
+      <file name="$USER_HOME$/Docker/easy-sms/src/Contracts/MessageInterface.php" timestamp="1590395371181">
+        <mark key="'" line="41" column="5" />
       </file>
       <file name="$USER_HOME$/Docker/my-framework/library/System.php" timestamp="1590384747125">
         <mark key="'" line="7" column="40" />
@@ -192,6 +176,9 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
+      <file name="$USER_HOME$/Docker/easy-sms/src/EasySms.php" timestamp="1590395434731">
+        <mark key="'" line="206" column="58" />
+      </file>
       <file name="$USER_HOME$/Docker/my-framework/library/Application.php" timestamp="1590385352232">
         <mark key="'" line="53" column="27" />
         <mark key="[" line="54" column="0" />
@@ -205,29 +192,23 @@
         <mark key="." line="148" column="0" />
         <mark key="^" line="148" column="47" />
       </file>
+      <file name="$USER_HOME$/Docker/easy-sms/src/Support/Config.php" timestamp="1590395266596">
+        <mark key="'" line="93" column="4" />
+      </file>
       <file name="$USER_HOME$/Docker/my-framework/app/DemoController.php" timestamp="1590384698411">
         <mark key="[" line="21" column="39" />
         <mark key="]" line="21" column="30" />
         <mark key="^" line="21" column="33" />
         <mark key="." line="21" column="30" />
       </file>
+      <file name="$USER_HOME$/Docker/easy-sms/src/Message.php" timestamp="1590395396225">
+        <mark key="'" line="52" column="20" />
+      </file>
+      <file name="$USER_HOME$/Docker/easy-sms/src/PhoneNumber.php" timestamp="1590395333969">
+        <mark key="'" line="112" column="22" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="34" filename="$USER_HOME$/Docker/shoufuyou-fund-system/lib/Models/FundSource/Verify/VerifyPeriod.php" />
-      <jump line="60" column="34" filename="$USER_HOME$/Docker/shoufuyou-fund-system/lib/Models/FundSource/Verify/VerifyPeriod.php" />
-      <jump line="203" column="38" filename="$USER_HOME$/Docker/shoufuyou-fund-system/lib/Models/FundSource/Verify/VerifyPeriod.php" />
-      <jump line="144" column="32" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/CashPool/CashPoolPeriod.php" />
-      <jump line="232" column="44" filename="$USER_HOME$/Docker/shoufuyou-fund-system/lib/Models/FundSource/Verify/VerifyPeriod.php" />
-      <jump line="66" column="34" filename="$USER_HOME$/Docker/shoufuyou-fund-system/lib/Models/FundSource/Verify/VerifyPeriod.php" />
-      <jump line="28" column="73" filename="$USER_HOME$/Docker/shoufuyou-fund-system/lib/Models/FundSource/Verify/VerifyPeriod.php" />
-      <jump line="72" column="51" filename="$USER_HOME$/Docker/shoufuyou-fund-system/lib/Models/FundSource/Verify/VerifyPeriod.php" />
-      <jump line="30" column="37" filename="$USER_HOME$/Docker/shoufuyou-fund-system/lib/Models/FundSource/Verify/VerifyInnerApp.php" />
-      <jump line="91" column="8" filename="$USER_HOME$/Docker/shoufuyou-fund-system/lib/Models/FundSource/FundBehavior.php" />
-      <jump line="31" column="45" filename="$USER_HOME$/Docker/shoufuyou-fund-system/lib/Models/FundSource/Verify/VerifyInnerApp.php" />
-      <jump line="125" column="101" filename="$USER_HOME$/Docker/shoufuyou-fund-system/lib/Models/FundSource/FundBehavior.php" />
-      <jump line="65" column="47" filename="$USER_HOME$/Docker/shoufuyou-fund-system/lib/Models/FundSource/FundSourceManage.php" />
-      <jump line="62" column="37" filename="$USER_HOME$/Docker/shoufuyou-fund-system/lib/Models/FundSource/Verify/VerifyRules.php" />
-      <jump line="71" column="37" filename="$USER_HOME$/Docker/shoufuyou-fund-system/lib/Models/FundSource/Verify/VerifyRules.php" />
       <jump line="72" column="47" filename="$USER_HOME$/Docker/shoufuyou-fund-system/lib/Models/FundSource/FundSourceManage.php" />
       <jump line="85" column="8" filename="$USER_HOME$/Docker/shoufuyou-fund-system/lib/Models/FundSource/FundSourceManage.php" />
       <jump line="50" column="61" filename="$USER_HOME$/Docker/shoufuyou-fund-system/lib/Models/FundSource/FundSourceManage.php" />
@@ -313,6 +294,21 @@
       <jump line="12" column="19" filename="$USER_HOME$/Docker/dnmp/config/php/php71.ini" />
       <jump line="1963" column="21" filename="$USER_HOME$/Docker/dnmp/config/php/php71.ini" />
       <jump line="172" column="0" filename="$USER_HOME$/Docker/my-framework/library/Components/Request.php" />
+      <jump line="18" column="24" filename="$USER_HOME$/Docker/easy-sms/src/Support/Config.php" />
+      <jump line="93" column="4" filename="$USER_HOME$/Docker/easy-sms/src/Support/Config.php" />
+      <jump line="69" column="31" filename="$USER_HOME$/Docker/easy-sms/src/EasySms.php" />
+      <jump line="87" column="31" filename="$USER_HOME$/Docker/easy-sms/src/EasySms.php" />
+      <jump line="300" column="49" filename="$USER_HOME$/Docker/easy-sms/src/EasySms.php" />
+      <jump line="304" column="19" filename="$USER_HOME$/Docker/easy-sms/src/EasySms.php" />
+      <jump line="112" column="22" filename="$USER_HOME$/Docker/easy-sms/src/PhoneNumber.php" />
+      <jump line="88" column="31" filename="$USER_HOME$/Docker/easy-sms/src/EasySms.php" />
+      <jump line="314" column="48" filename="$USER_HOME$/Docker/easy-sms/src/EasySms.php" />
+      <jump line="41" column="5" filename="$USER_HOME$/Docker/easy-sms/src/Contracts/MessageInterface.php" />
+      <jump line="322" column="27" filename="$USER_HOME$/Docker/easy-sms/src/EasySms.php" />
+      <jump line="52" column="20" filename="$USER_HOME$/Docker/easy-sms/src/Message.php" />
+      <jump line="89" column="49" filename="$USER_HOME$/Docker/easy-sms/src/EasySms.php" />
+      <jump line="95" column="22" filename="$USER_HOME$/Docker/easy-sms/src/EasySms.php" />
+      <jump line="206" column="58" filename="$USER_HOME$/Docker/easy-sms/src/EasySms.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -512,7 +508,7 @@
         <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkY29udHJvbGxlck5hbWUpO2RpZTsK</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>action Back</text>
       </register>
     </registers>
   </component>
