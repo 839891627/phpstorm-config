@@ -47,8 +47,8 @@
         <entry>action Find</entry>
         <entry>wq</entry>
         <entry>action PreviousTab</entry>
-        <entry>nohls</entry>
         <entry>action Back</entry>
+        <entry>nohls</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -115,7 +115,12 @@
       <file name="$USER_HOME$/Docker/xyf-pay-system/api/controllers/BaseController.php" timestamp="1590397456339">
         <mark key="'" line="123" column="4" />
       </file>
-      <file name="$USER_HOME$/Docker/basic/config/web.php" timestamp="1590401216858" />
+      <file name="$USER_HOME$/Docker/basic/config/web.php" timestamp="1590464693025">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="30" />
+        <mark key="." line="71" column="0" />
+        <mark key="^" line="63" column="27" />
+      </file>
       <file name="$USER_HOME$/Docker/basic/controllers/SiteController.php" timestamp="1590462166278" />
       <file name="$USER_HOME$/Docker/shoufuyou-notify/lib/Models/UnionLoginFactory.php" timestamp="1590402760098" />
       <file name="$USER_HOME$/Docker/shoufuyou-notify/lib/Models/Utms/Jqks.php" timestamp="1590460127611">
@@ -124,9 +129,6 @@
         <mark key="]" line="38" column="0" />
         <mark key="^" line="37" column="98" />
         <mark key="." line="38" column="0" />
-      </file>
-      <file name="$USER_HOME$/Docker/easy-sms/src/Contracts/MessageInterface.php" timestamp="1590395371181">
-        <mark key="'" line="41" column="5" />
       </file>
       <file name="$USER_HOME$/Docker/pay/src/Pay.php" timestamp="1590395619269">
         <mark key="'" line="0" column="0" />
@@ -149,6 +151,12 @@
       </file>
       <file name="$USER_HOME$/Docker/basic/vendor/yiisoft/yii2/base/Application.php" timestamp="1590400310978">
         <mark key="'" line="201" column="17" />
+      </file>
+      <file name="$USER_HOME$/Docker/basic/config/db.php" timestamp="1590464972381">
+        <mark key="[" line="6" column="19" />
+        <mark key="]" line="6" column="23" />
+        <mark key="." line="6" column="22" />
+        <mark key="^" line="6" column="23" />
       </file>
       <file name="$USER_HOME$/Docker/xyf-pay-system/vendor/xyf/lib/src/helper/validator/Validator.php" timestamp="1590397641752">
         <mark key="'" line="102" column="27" />
@@ -291,7 +299,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>p</text>
+        <text>localhost</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -306,13 +314,13 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>localhost</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcHBfbmFtZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZWNobyAyCg==</text>
+        <text encoding="base64">ICAgICAgICAnYWxsb3dlZElQcycgPT4gWycqJ10sCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGVjaG8gJHAK</text>
@@ -491,7 +499,7 @@
         <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkY29udHJvbGxlck5hbWUpO2RpZTsK</text>
       </register>
       <register name=":" type="4">
-        <text>action Back</text>
+        <text>nohls</text>
       </register>
     </registers>
   </component>
