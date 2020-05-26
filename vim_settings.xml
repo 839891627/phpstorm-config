@@ -115,11 +115,11 @@
       <file name="$USER_HOME$/Docker/xyf-pay-system/api/controllers/BaseController.php" timestamp="1590397456339">
         <mark key="'" line="123" column="4" />
       </file>
-      <file name="$USER_HOME$/Docker/basic/config/web.php" timestamp="1590464693025">
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="30" />
-        <mark key="." line="71" column="0" />
-        <mark key="^" line="63" column="27" />
+      <file name="$USER_HOME$/Docker/basic/config/web.php" timestamp="1590475112017">
+        <mark key="'" line="45" column="0" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Docker/basic/controllers/SiteController.php" timestamp="1590462166278" />
       <file name="$USER_HOME$/Docker/shoufuyou-notify/lib/Models/UnionLoginFactory.php" timestamp="1590402760098" />
@@ -173,7 +173,7 @@
         <mark key="]" line="58" column="0" />
         <mark key="." line="58" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1590472791607">
+      <file name="/PHP Console" timestamp="1590474793308">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Docker/xyf-pay-system/common/helper/Validator.php" timestamp="1590397638549">
@@ -191,7 +191,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="186" column="4" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" />
       <jump line="2" column="0" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" />
       <jump line="193" column="40" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" />
       <jump line="182" column="19" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" />
@@ -291,6 +290,7 @@
       <jump line="280" column="23" filename="$USER_HOME$/Docker/basic/vendor/yiisoft/yii2/base/Application.php" />
       <jump line="196" column="14" filename="$USER_HOME$/Docker/basic/vendor/yiisoft/yii2/base/Application.php" />
       <jump line="92" column="4" filename="$USER_HOME$/Docker/shoufuyou-fund-system/lib/Controllers/BaseController.php" />
+      <jump line="45" column="0" filename="$USER_HOME$/Docker/basic/config/web.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -298,8 +298,8 @@
       <register name="a" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>localhost</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICdjYXRjaEFsbCcgPT4gWwogICAgICAgICdzaXRlL2luZGV4JwogICAgXSwK</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -323,12 +323,24 @@
         <text encoding="base64">ICAgICAgICAnYWxsb3dlZElQcycgPT4gWycqJ10sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGVjaG8gJHAK</text>
+        <text encoding="base64">ICAgICdjYXRjaEFsbCcgPT4gWwogICAgICAgICdzaXRlL2luZGV4JwogICAgXSwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="8">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAnY2F0Y2hBbGwnID0+IFsKICAgICAgICAgICAgJ3NpdGUvaW5kZXgnCiAgICAgICAgXQo=</text>
+      </register>
+      <register name="r" type="4">
+        <text>'</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGVjaG8gJHAK</text>
+      </register>
+      <register name="s" type="4">
+        <text>&quot;</text>
+      </register>
+      <register name="4" type="8">
         <text>#
 #
 #
@@ -340,26 +352,14 @@
 #
 #</text>
       </register>
-      <register name="r" type="4">
-        <text>'</text>
-      </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljICRhcHBfdXJsID0gJ2h0dHBzOi8vY2hhbmd4aW5naHVhLmpveWJvcnJvdy5jb20vZG93bmxvYWQ/dXRtX3NvdXJjZT1jeGhfanFuczAxJzsK</text>
       </register>
-      <register name="s" type="4">
-        <text>&quot;</text>
-      </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljICRhcHBfdXJsID0gJ2h0dHBzOi8vY2hhbmd4aW5naHVhLmpveWJvcnJvdy5jb20vZG93bmxvYWQ/dXRtX3NvdXJjZT1jeGhfeXhxYjAxJzsK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXBwX3VybCA9ICdodHRwczovL2NoYW5neGluZ2h1YS5qb3lib3Jyb3cuY29tL2Rvd25sb2FkP3V0bV9zb3VyY2U9Y3hoX3l4cWIwMSc7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+dmFsaWRhdGUoWWlpOjokYXBwLT5yZXF1ZXN0LT5wb3N0LFsKICAgICAgICAgICAgJ29yZGVyX251bWJlcicgPT4gW10KICAgICAgICBdKTsK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXBwX3VybCA9ICdodHRwczovL2NoYW5neGluZ2h1YS5qb3lib3Jyb3cuY29tL2Rvd25sb2FkP3V0bV9zb3VyY2U9Y3hoX3l4cWIwMSc7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -493,10 +493,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJGNvbnRyb2xsZXIsICRhY3Rpb24pO2RpZTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkY29udHJvbGxlck5hbWUpO2RpZTsK</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+dmFsaWRhdGUoWWlpOjokYXBwLT5yZXF1ZXN0LT5wb3N0LFsKICAgICAgICAgICAgJ29yZGVyX251bWJlcicgPT4gW10KICAgICAgICBdKTsK</text>
       </register>
       <register name=":" type="4">
         <text>nohls</text>
