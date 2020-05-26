@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxjYXNoTG9hbk9yZGVyXD4=</entry>
         <entry encoding="base64">XDxnZXROZXh0VXJsXD4=</entry>
         <entry encoding="base64">XDxDYXNoTG9hbk9yZGVyXD4=</entry>
         <entry encoding="base64">XDxGdW5kTG9hbk9yZGVySW50ZXJmYWNlXD4=</entry>
@@ -27,6 +26,7 @@
         <entry encoding="base64">XDxTdHJcPg==</entry>
         <entry encoding="base64">XDxhcHBfdXJsXD4=</entry>
         <entry encoding="base64">XDxhcHBfbmFtZVw+</entry>
+        <entry encoding="base64">XDxib290c3RyYXBcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>vs</entry>
@@ -45,10 +45,10 @@
         <entry>action Find</entry>
         <entry>wq</entry>
         <entry>action PreviousTab</entry>
-        <entry>nohls</entry>
         <entry>.nohls</entry>
         <entry>action FileStructurePopup</entry>
         <entry>action Back</entry>
+        <entry>nohls</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -149,8 +149,8 @@
       <file name="$USER_HOME$/Docker/basic/vendor/yiisoft/yii2/base/Module.php" timestamp="1590472093078">
         <mark key="'" line="224" column="47" />
       </file>
-      <file name="$USER_HOME$/Docker/basic/vendor/yiisoft/yii2/base/Application.php" timestamp="1590400310978">
-        <mark key="'" line="201" column="17" />
+      <file name="$USER_HOME$/Docker/basic/vendor/yiisoft/yii2/base/Application.php" timestamp="1590472818179">
+        <mark key="'" line="196" column="14" />
       </file>
       <file name="$USER_HOME$/Docker/basic/config/db.php" timestamp="1590464972381">
         <mark key="[" line="6" column="19" />
@@ -173,7 +173,7 @@
         <mark key="]" line="58" column="0" />
         <mark key="." line="58" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1590472090335">
+      <file name="/PHP Console" timestamp="1590472791607">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Docker/xyf-pay-system/common/helper/Validator.php" timestamp="1590397638549">
@@ -191,15 +191,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="25" filename="$USER_HOME$/Docker/my-framework/library/Components/Request.php" />
-      <jump line="61" column="26" filename="$USER_HOME$/Docker/my-framework/library/Components/Request.php" />
-      <jump line="39" column="6" filename="$USER_HOME$/Docker/my-framework/library/Components/Request.php" />
-      <jump line="64" column="25" filename="$USER_HOME$/Docker/my-framework/library/Components/Request.php" />
-      <jump line="15" column="13" filename="$USER_HOME$/Docker/my-framework/library/Components/Request.php" />
-      <jump line="98" column="0" filename="$USER_HOME$/Docker/my-framework/library/Components/Request.php" />
-      <jump line="54" column="23" filename="$USER_HOME$/Docker/my-framework/library/Application.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" />
-      <jump line="510" column="32" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" />
       <jump line="188" column="37" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" />
       <jump line="186" column="4" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" />
       <jump line="2" column="0" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" />
@@ -291,6 +282,15 @@
       <jump line="130" column="10" filename="$USER_HOME$/Docker/basic/controllers/SiteController.php" />
       <jump line="129" column="0" filename="$USER_HOME$/Docker/basic/controllers/SiteController.php" />
       <jump line="224" column="47" filename="$USER_HOME$/Docker/basic/vendor/yiisoft/yii2/base/Module.php" />
+      <jump line="272" column="22" filename="$USER_HOME$/Docker/basic/vendor/yiisoft/yii2/base/Application.php" />
+      <jump line="282" column="23" filename="$USER_HOME$/Docker/basic/vendor/yiisoft/yii2/base/Application.php" />
+      <jump line="303" column="24" filename="$USER_HOME$/Docker/basic/vendor/yiisoft/yii2/base/Application.php" />
+      <jump line="306" column="28" filename="$USER_HOME$/Docker/basic/vendor/yiisoft/yii2/base/Application.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Docker/basic/vendor/yiisoft/yii2/base/Application.php" />
+      <jump line="176" column="12" filename="$USER_HOME$/Docker/basic/vendor/yiisoft/yii2/base/Application.php" />
+      <jump line="276" column="43" filename="$USER_HOME$/Docker/basic/vendor/yiisoft/yii2/base/Application.php" />
+      <jump line="280" column="23" filename="$USER_HOME$/Docker/basic/vendor/yiisoft/yii2/base/Application.php" />
+      <jump line="196" column="14" filename="$USER_HOME$/Docker/basic/vendor/yiisoft/yii2/base/Application.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -317,7 +317,7 @@
         <text>localhost</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhcHBfbmFtZVw+</text>
+        <text encoding="base64">XDxib290c3RyYXBcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAnYWxsb3dlZElQcycgPT4gWycqJ10sCg==</text>
@@ -499,15 +499,15 @@
         <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkY29udHJvbGxlck5hbWUpO2RpZTsK</text>
       </register>
       <register name=":" type="4">
-        <text>action Back</text>
+        <text>nohls</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxhcHBfbmFtZVw+</last-search>
+      <last-search encoding="base64">XDxib290c3RyYXBcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhcHBfbmFtZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxib290c3RyYXBcPg==</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute encoding="base64">XDx1c2VQb29sXD4=</last-substitute>
       <last-dir>1</last-dir>
