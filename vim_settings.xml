@@ -35,7 +35,6 @@
         <entry>.action SelectInProjectView</entry>
         <entry>action RenameElement</entry>
         <entry>action PreviousTab</entry>
-        <entry>action Find</entry>
         <entry>action RecentFiles</entry>
         <entry>action NextTab</entry>
         <entry>action GotoClass</entry>
@@ -43,12 +42,13 @@
         <entry>g/;/d</entry>
         <entry>action KJumpAction.Word0</entry>
         <entry>action Forward</entry>
-        <entry>wq</entry>
-        <entry>nohls</entry>
         <entry>action FileStructurePopup</entry>
         <entry>action SelectInProjectView</entry>
         <entry>action Annotate</entry>
         <entry>action Back</entry>
+        <entry>action Find</entry>
+        <entry>nohls</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -119,10 +119,10 @@
       <file name="$USER_HOME$/Docker/shoufuyou-notify/lib/Models/UnionLoginFactory.php" timestamp="1590402760098" />
       <file name="$USER_HOME$/Docker/shoufuyou-notify/lib/Models/Utms/Jqks.php" timestamp="1590399310513">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="38" column="31" />
-        <mark key="]" line="38" column="98" />
-        <mark key="^" line="38" column="98" />
-        <mark key="." line="38" column="97" />
+        <mark key="[" line="37" column="31" />
+        <mark key="]" line="37" column="98" />
+        <mark key="^" line="37" column="98" />
+        <mark key="." line="37" column="97" />
       </file>
       <file name="$USER_HOME$/Docker/easy-sms/src/Contracts/MessageInterface.php" timestamp="1590395371181">
         <mark key="'" line="41" column="5" />
@@ -133,8 +133,8 @@
       <file name="$USER_HOME$/Docker/easy-sms/src/EasySms.php" timestamp="1590395434731">
         <mark key="'" line="206" column="58" />
       </file>
-      <file name="$USER_HOME$/Docker/shoufuyou-notify/lib/Models/Utms/Yxqb.php" timestamp="1590403184666">
-        <mark key="'" line="101" column="52" />
+      <file name="$USER_HOME$/Docker/shoufuyou-notify/lib/Models/Utms/Yxqb.php" timestamp="1590459648518">
+        <mark key="'" line="282" column="52" />
         <mark key="[" line="83" column="25" />
         <mark key="]" line="83" column="25" />
         <mark key="." line="83" column="25" />
@@ -185,7 +185,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="111" column="30" filename="$USER_HOME$/Docker/my-framework/library/Components/Request.php" />
       <jump line="92" column="19" filename="$USER_HOME$/Docker/my-framework/library/Components/Request.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Docker/my-framework/library/Components/Request.php" />
       <jump line="12" column="4" filename="$USER_HOME$/Docker/my-framework/library/Components/Request.php" />
@@ -285,6 +284,7 @@
       <jump line="136" column="0" filename="$USER_HOME$/Docker/shoufuyou-notify/lib/Models/Utms/Youxin.php" />
       <jump line="139" column="44" filename="$USER_HOME$/Docker/shoufuyou-notify/lib/Models/Utms/Yxqb.php" />
       <jump line="101" column="52" filename="$USER_HOME$/Docker/shoufuyou-notify/lib/Models/Utms/Yxqb.php" />
+      <jump line="282" column="52" filename="$USER_HOME$/Docker/shoufuyou-notify/lib/Models/Utms/Yxqb.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -484,7 +484,7 @@
         <text encoding="base64">ICAgIHByaXZhdGUgJGNvbnRyb2xsZXJOYW1lU3BhY2UgPSAnQXBwXFxIdHRwc1xcQ29udHJvbGxlclxcJzsKICAgIHByaXZhdGUgJGJhc2VDb250cm9sbGVyID0gJ0xpYnJhcnlcXEh0dHBcXENvbnRyb2xsZXInOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Back</text>
+        <text>wq</text>
       </register>
     </registers>
   </component>
@@ -496,7 +496,7 @@
       <last-replace>;</last-replace>
       <last-substitute encoding="base64">XDx1c2VQb29sXD4=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
