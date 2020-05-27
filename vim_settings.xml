@@ -32,8 +32,6 @@
         <entry>.nohls</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0NsYXNz</entry>
         <entry>w</entry>
-        <entry>action FileStructurePopup</entry>
-        <entry>action GotoClass</entry>
         <entry>action RecentFiles</entry>
         <entry>vs</entry>
         <entry>action Forward</entry>
@@ -46,9 +44,11 @@
         <entry>action Annotate</entry>
         <entry>wq</entry>
         <entry>nohls</entry>
-        <entry>action Back</entry>
         <entry>action KJumpAction.Word0</entry>
         <entry>action PreviousTab</entry>
+        <entry>action GotoClass</entry>
+        <entry>action FileStructurePopup</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -178,6 +178,9 @@
         <mark key="." line="282" column="0" />
         <mark key="^" line="281" column="47" />
       </file>
+      <file name="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/Loanmarket.php" timestamp="1590563051123">
+        <mark key="'" line="210" column="26" />
+      </file>
       <file name="$USER_HOME$/Docker/shoufuyou-php-lib/shoufuyou/Util/Env.php" timestamp="1590496639703">
         <mark key="'" line="371" column="31" />
       </file>
@@ -202,8 +205,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/BankCashTaskNewCommand.php" />
-      <jump line="780" column="34" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" />
       <jump line="2" column="10" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" />
       <jump line="6" column="0" filename="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/BankCashTaskNewCommand.php" />
       <jump line="7" column="0" filename="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/BankCashTaskNewCommand.php" />
@@ -302,6 +303,8 @@
       <jump line="15" column="57" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" />
       <jump line="505" column="45" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" />
       <jump line="82" column="42" filename="$USER_HOME$/Docker/shoufuyou-notify/lib/Models/Utms/Jqks.php" />
+      <jump line="208" column="54" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/Loanmarket.php" />
+      <jump line="210" column="26" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/Loanmarket.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -501,7 +504,7 @@
         <text encoding="base64">MTU3MiAgCjE1NzMgIAoxNTc0ICAKMTU3NSAgCjE1NzYgIAoxNTc3ICAKMTU3OCAgCjE1NzkgIAoxNTgwICAKMTU4MSAgCjE1ODIgIAoxNTgzICAKMTU4NCAgCjE1ODUgIAoxNTg2ICAKMTU4NyAgCjE1ODggIAoxNTg5ICAKMTU5MCAgCjE1OTEgIAoxNTkyICAKMTU5MyAgCjE1OTQgIAoxNTk1ICA=</text>
       </register>
       <register name=":" type="4">
-        <text>action PreviousTab</text>
+        <text>action Back</text>
       </register>
     </registers>
   </component>
