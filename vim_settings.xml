@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxmZGRDb250cmFjdHNcPg==</entry>
         <entry encoding="base64">XDxDYXNoTG9hbk9yZGVyXD4=</entry>
         <entry encoding="base64">XDxTVEFUVVNfVVBMT0FEX2ZJTEVfRkFJTEVEXD4=</entry>
         <entry encoding="base64">XDxyZW1pdEZhaWxlZFw+</entry>
@@ -27,6 +26,7 @@
         <entry encoding="base64">XDxvcmRlclJlbWl0XD4=</entry>
         <entry encoding="base64">XDxmaWxlc1w+</entry>
         <entry encoding="base64">XDxMZW5kQXBwbHlQYXJhbXNcPg==</entry>
+        <entry encoding="base64">XDxMb2FubWFya2V0VmlzaWJpbGl0eVw+</entry>
       </history-search>
       <history-cmd>
         <entry>.nohls</entry>
@@ -47,8 +47,8 @@
         <entry>action PreviousTab</entry>
         <entry>action GotoClass</entry>
         <entry>action FileStructurePopup</entry>
-        <entry>nohls</entry>
         <entry>action Back</entry>
+        <entry>nohls</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -118,9 +118,6 @@
       <file name="$USER_HOME$/Docker/shoufuyou-notify/lib/Models/Utms/Yxqb.php" timestamp="1590561485806">
         <mark key="'" line="179" column="0" />
       </file>
-      <file name="$USER_HOME$/Docker/shoufuyou-service/lib/Models/BankCash/BankCashApi.php" timestamp="1590487489411">
-        <mark key="'" line="28" column="34" />
-      </file>
       <file name="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/SlCash/SlUploadFile.php" timestamp="1590492762459">
         <mark key="'" line="94" column="30" />
         <mark key="[" line="127" column="0" />
@@ -145,6 +142,12 @@
         <mark key="]" line="7" column="0" />
         <mark key="^" line="15" column="57" />
         <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Docker/loanmarket/common/models/Loanmarket.php" timestamp="1590569534656">
+        <mark key="[" line="176" column="50" />
+        <mark key="]" line="176" column="63" />
+        <mark key="." line="176" column="62" />
+        <mark key="^" line="176" column="63" />
       </file>
       <file name="$USER_HOME$/Docker/shoufuyou-notify/lib/Models/Utms/Jqks.php" timestamp="1590562055569">
         <mark key="'" line="82" column="42" />
@@ -181,12 +184,12 @@
       <file name="$USER_HOME$/Docker/shoufuyou-php-lib/shoufuyou/Util/Env.php" timestamp="1590496639703">
         <mark key="'" line="371" column="31" />
       </file>
-      <file name="$USER_HOME$/Docker/loanmarket/common/service/Loanmarket.php" timestamp="1590567239746">
-        <mark key="'" line="1533" column="31" />
-        <mark key="[" line="1379" column="26" />
-        <mark key="]" line="1534" column="30" />
-        <mark key="." line="1534" column="29" />
-        <mark key="^" line="1534" column="30" />
+      <file name="$USER_HOME$/Docker/loanmarket/common/service/Loanmarket.php" timestamp="1590569876864">
+        <mark key="'" line="858" column="12" />
+        <mark key="[" line="869" column="80" />
+        <mark key="]" line="869" column="81" />
+        <mark key="." line="869" column="80" />
+        <mark key="^" line="869" column="81" />
       </file>
       <file name="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/CreditUser.php" timestamp="1590496669278">
         <mark key="'" line="0" column="0" />
@@ -209,7 +212,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="74" column="0" filename="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/BankCashTaskNewCommand.php" />
       <jump line="22" column="23" filename="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/BankCashTaskNewCommand.php" />
       <jump line="65" column="34" filename="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/BankCashTaskNewCommand.php" />
       <jump line="24" column="15" filename="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/BankFundTaskCommand.php" />
@@ -309,6 +311,7 @@
       <jump line="1280" column="28" filename="$USER_HOME$/Docker/loanmarket/common/service/Loanmarket.php" />
       <jump line="1532" column="31" filename="$USER_HOME$/Docker/loanmarket/common/service/Loanmarket.php" />
       <jump line="1533" column="31" filename="$USER_HOME$/Docker/loanmarket/common/service/Loanmarket.php" />
+      <jump line="858" column="12" filename="$USER_HOME$/Docker/loanmarket/common/service/Loanmarket.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -317,7 +320,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>mobile</text>
+        <text>TYPE_MOBILE_BLACKLIST,</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -332,13 +335,13 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>mobile</text>
+        <text>TYPE_MOBILE_BLACKLIST,</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxMZW5kQXBwbHlQYXJhbXNcPg==</text>
+        <text encoding="base64">XDxMb2FubWFya2V0VmlzaWJpbGl0eVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHNsRmlsZSA9IEJhbmtDYXNoVXBsb2FkRmlsZTo6Y3JlYXRlRmlsZSgkY2FzaExvYW5PcmRlci0+Z2V0T3JkZXJOdW1iZXIoKSwgJGZpbGVUeXBlLCAkZmlsZVVybCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ3R5cGUnICAgICAgICAgID0+IExvYW5tYXJrZXRWaXNpYmlsaXR5OjpUWVBFX01PQklMRV9CTEFDS0xJU1QsCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
@@ -508,15 +511,15 @@
         <text encoding="base64">IGFkYiBzaGVsbCBwbSAtaAogYWRiIHNoZWxsIHBtIGxpc3QKIGFkYiBzaGVsbCBwbSBsaXN0YWRiIHNoZWxsIHBtIGxpc3QgcGFja2FnZQogYWRiIHNoZWxsIHBtIGxpc3QgcGFja2FnZVxuCiBhZGIgc2hlbGwgcG0gbGlzdCBwYWNrYWdlIHwgZ3JlcCB2aWRlbwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Back</text>
+        <text>nohls</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxMZW5kQXBwbHlQYXJhbXNcPg==</last-search>
+      <last-search encoding="base64">XDxMb2FubWFya2V0VmlzaWJpbGl0eVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxMZW5kQXBwbHlQYXJhbXNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxMb2FubWFya2V0VmlzaWJpbGl0eVw+</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute encoding="base64">XDx1c2VQb29sXD4=</last-substitute>
       <last-dir>1</last-dir>
