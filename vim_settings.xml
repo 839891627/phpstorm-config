@@ -47,8 +47,8 @@
         <entry>action PreviousTab</entry>
         <entry>action GotoClass</entry>
         <entry>action FileStructurePopup</entry>
-        <entry>action Back</entry>
         <entry>nohls</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -112,9 +112,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Docker/shoufuyou-service/lib/Models/BankCash.php" timestamp="1590487804215">
-        <mark key="'" line="134" column="30" />
-      </file>
       <file name="$USER_HOME$/Docker/shoufuyou-notify/lib/Models/Utms/Yxqb.php" timestamp="1590561485806">
         <mark key="'" line="179" column="0" />
       </file>
@@ -130,6 +127,7 @@
         <mark key="." line="33" column="94" />
         <mark key="^" line="33" column="106" />
       </file>
+      <file name="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/LoanmarketController.php" timestamp="1590574449393" />
       <file name="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/VipCardController.php" timestamp="1590547811405">
         <mark key="'" line="120" column="24" />
       </file>
@@ -181,15 +179,21 @@
       <file name="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/Loanmarket.php" timestamp="1590563051123">
         <mark key="'" line="210" column="26" />
       </file>
+      <file name="$USER_HOME$/Docker/loanmarket/serviceapi/controllers/LoanmarketController.php" timestamp="1590574758952">
+        <mark key="'" line="215" column="30" />
+        <mark key="[" line="215" column="0" />
+        <mark key="]" line="215" column="0" />
+        <mark key="." line="215" column="0" />
+      </file>
       <file name="$USER_HOME$/Docker/shoufuyou-php-lib/shoufuyou/Util/Env.php" timestamp="1590496639703">
         <mark key="'" line="371" column="31" />
       </file>
-      <file name="$USER_HOME$/Docker/loanmarket/common/service/Loanmarket.php" timestamp="1590569876864">
-        <mark key="'" line="858" column="12" />
-        <mark key="[" line="869" column="80" />
-        <mark key="]" line="869" column="81" />
-        <mark key="." line="869" column="80" />
-        <mark key="^" line="869" column="81" />
+      <file name="$USER_HOME$/Docker/loanmarket/common/service/Loanmarket.php" timestamp="1590574791213">
+        <mark key="'" line="1492" column="27" />
+        <mark key="[" line="1531" column="88" />
+        <mark key="]" line="1531" column="88" />
+        <mark key="." line="1531" column="88" />
+        <mark key="^" line="1531" column="95" />
       </file>
       <file name="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/CreditUser.php" timestamp="1590496669278">
         <mark key="'" line="0" column="0" />
@@ -204,17 +208,11 @@
         <mark key="." line="220" column="40" />
         <mark key="^" line="220" column="41" />
       </file>
-      <file name="$USER_HOME$/Docker/shoufuyou-service/lib/Models/BankCash/BankCashWebClient.php" timestamp="1590487494933">
-        <mark key="'" line="25" column="30" />
-      </file>
       <file name="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashUploadFile.php" timestamp="1590559085110">
         <mark key="'" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="23" filename="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/BankCashTaskNewCommand.php" />
-      <jump line="65" column="34" filename="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/BankCashTaskNewCommand.php" />
-      <jump line="24" column="15" filename="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/BankFundTaskCommand.php" />
       <jump line="23" column="31" filename="$USER_HOME$/Docker/shoufuyou-task/config/command.php" />
       <jump line="480" column="16" filename="$USER_HOME$/Docker/shoufuyou-task/config/command.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Docker/shoufuyou-task/config/command.php" />
@@ -312,6 +310,9 @@
       <jump line="1532" column="31" filename="$USER_HOME$/Docker/loanmarket/common/service/Loanmarket.php" />
       <jump line="1533" column="31" filename="$USER_HOME$/Docker/loanmarket/common/service/Loanmarket.php" />
       <jump line="858" column="12" filename="$USER_HOME$/Docker/loanmarket/common/service/Loanmarket.php" />
+      <jump line="1530" column="108" filename="$USER_HOME$/Docker/loanmarket/common/service/Loanmarket.php" />
+      <jump line="215" column="30" filename="$USER_HOME$/Docker/loanmarket/serviceapi/controllers/LoanmarketController.php" />
+      <jump line="1492" column="27" filename="$USER_HOME$/Docker/loanmarket/common/service/Loanmarket.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -320,7 +321,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>TYPE_MOBILE_BLACKLIST,</text>
+        <text>mmond()</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -335,7 +336,7 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>TYPE_MOBILE_BLACKLIST,</text>
+        <text>mmond()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxMb2FubWFya2V0VmlzaWJpbGl0eVw+</text>
@@ -344,34 +345,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ3R5cGUnICAgICAgICAgID0+IExvYW5tYXJrZXRWaXNpYmlsaXR5OjpUWVBFX01PQklMRV9CTEFDS0xJU1QsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcGFyYW1zKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICRsaXN0O2RpZTsK</text>
+        <text encoding="base64">ICAgICAgICB2YQo=</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHNsRmlsZSA9IEJhbmtDYXNoVXBsb2FkRmlsZTo6ZmluZEJ5SWQoKTsK</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICRsaXN0O2RpZTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbWQ1KGhlbmd5b3VkYWkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbWQ1KGhlbmd5b3VkYWllMmY5ZmFhN2ZkY2VmYTc2Y2NiZDQwZDdiYzE0MDk2OTE1OTA1NDg2NjUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHNsRmlsZSA9IEJhbmtDYXNoVXBsb2FkRmlsZTo6ZmluZEJ5SWQoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IGFkYiBzaGVsbCBwbSBsaXN0IHBhY2thZ2UgPiBhLnR4dAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbWQ1KGhlbmd5b3VkYWkpOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -505,13 +506,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IGFkYiB1bmluc3RhbGwgcGFja2FnZTpjb20uc29odS5zb2h1dmlkZW8uZW1wbGF5ZXIK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbWQ1KGhlbmd5b3VkYWllMmY5ZmFhN2ZkY2VmYTc2Y2NiZDQwZDdiYzE0MDk2OTE1OTA1NDg2NjUpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IGFkYiBzaGVsbCBwbSAtaAogYWRiIHNoZWxsIHBtIGxpc3QKIGFkYiBzaGVsbCBwbSBsaXN0YWRiIHNoZWxsIHBtIGxpc3QgcGFja2FnZQogYWRiIHNoZWxsIHBtIGxpc3QgcGFja2FnZVxuCiBhZGIgc2hlbGwgcG0gbGlzdCBwYWNrYWdlIHwgZ3JlcCB2aWRlbwo=</text>
+        <text encoding="base64">IGFkYiBzaGVsbCBwbSBsaXN0IHBhY2thZ2UgPiBhLnR4dAo=</text>
       </register>
       <register name=":" type="4">
-        <text>nohls</text>
+        <text>action Back</text>
       </register>
     </registers>
   </component>
