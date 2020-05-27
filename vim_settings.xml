@@ -29,7 +29,6 @@
         <entry encoding="base64">XDxvcmRlclJlbWl0XD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>action Annotate</entry>
         <entry>.nohls</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0NsYXNz</entry>
         <entry>w</entry>
@@ -49,6 +48,7 @@
         <entry>action Back</entry>
         <entry>action Find</entry>
         <entry>nohls</entry>
+        <entry>action Annotate</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -112,11 +112,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/BankCashTaskCommand.php" timestamp="1590484903286">
-        <mark key="'" line="33" column="23" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/VipCardController.php" timestamp="1590547811405">
+        <mark key="'" line="120" column="24" />
       </file>
       <file name="$USER_HOME$/Downloads/platform-tools/t.txt" timestamp="1590545403974">
         <mark key="[" line="7" column="0" />
@@ -138,12 +135,6 @@
       <file name="$USER_HOME$/Docker/shoufuyou-notify/lib/Models/Utms/Yxqb.php" timestamp="1590499002360">
         <mark key="'" line="179" column="0" />
       </file>
-      <file name="$USER_HOME$/Docker/shoufuyou-task/config/db.php" timestamp="1590485005689">
-        <mark key="[" line="2" column="25" />
-        <mark key="]" line="2" column="50" />
-        <mark key="." line="2" column="49" />
-        <mark key="^" line="2" column="50" />
-      </file>
       <file name="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/SlCash/SlUploadFile.php" timestamp="1590492762459">
         <mark key="'" line="94" column="30" />
         <mark key="[" line="127" column="0" />
@@ -159,6 +150,9 @@
       <file name="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/CreditUser.php" timestamp="1590496669278">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Docker/loanmarket/common/service/unionlogin/strategies/AbstractStrategy.php" timestamp="1590547552610">
+        <mark key="'" line="61" column="9" />
+      </file>
       <file name="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashCredit.php" timestamp="1590487971085">
         <mark key="'" line="220" column="33" />
         <mark key="[" line="220" column="34" />
@@ -168,13 +162,6 @@
       </file>
       <file name="$USER_HOME$/Docker/shoufuyou-service/lib/Models/BankCash/BankCashWebClient.php" timestamp="1590487494933">
         <mark key="'" line="25" column="30" />
-      </file>
-      <file name="$USER_HOME$/Docker/shoufuyou-task/config/command.php" timestamp="1590484737666">
-        <mark key="'" line="3" column="21" />
-        <mark key="[" line="480" column="34" />
-        <mark key="]" line="480" column="23" />
-        <mark key="." line="480" column="22" />
-        <mark key="^" line="480" column="23" />
       </file>
       <file name="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" timestamp="1590546669838">
         <mark key="c" line="25" column="6" />
@@ -206,11 +193,11 @@
         <mark key="." line="33" column="94" />
         <mark key="^" line="33" column="106" />
       </file>
+      <file name="$USER_HOME$/Docker/loanmarket/common/service/unionlogin/strategies/ActiveStrategy.php" timestamp="1590547544713">
+        <mark key="'" line="125" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" />
-      <jump line="182" column="35" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" />
-      <jump line="221" column="10" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" />
       <jump line="241" column="0" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" />
       <jump line="248" column="0" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" />
       <jump line="285" column="23" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" />
@@ -308,6 +295,9 @@
       <jump line="231" column="57" filename="$USER_HOME$/Downloads/platform-tools/t.txt" />
       <jump line="23" column="56" filename="$USER_HOME$/Downloads/platform-tools/t.txt" />
       <jump line="0" column="1" filename="$USER_HOME$/Downloads/platform-tools/t.txt" />
+      <jump line="125" column="0" filename="$USER_HOME$/Docker/loanmarket/common/service/unionlogin/strategies/ActiveStrategy.php" />
+      <jump line="61" column="9" filename="$USER_HOME$/Docker/loanmarket/common/service/unionlogin/strategies/AbstractStrategy.php" />
+      <jump line="120" column="24" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/VipCardController.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -507,7 +497,7 @@
         <text encoding="base64">ICAgICAgICAkcGFyYW1zLT5zZXRGaWxlTmFtZShTZXF1ZW5jZTo6Z2VuUmVxdWVzdFNuKCkgLiBzdWJzdHIoJGZ1bmRVcGxvYWRGaWxlLT5nZXRGaWxlTmFtZSgpLCBzdHJycG9zKCRmdW5kVXBsb2FkRmlsZS0+Z2V0RmlsZU5hbWUoKSwgJy4nKSkpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>nohls</text>
+        <text>action Annotate</text>
       </register>
     </registers>
   </component>
