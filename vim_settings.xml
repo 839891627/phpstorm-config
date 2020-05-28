@@ -46,9 +46,9 @@
         <entry>action OpenEditorInOppositeTabGroup</entry>
         <entry>action NextSplitter</entry>
         <entry>action Annotate</entry>
-        <entry>nohls</entry>
         <entry>action SelectInProjectView</entry>
         <entry>action Back</entry>
+        <entry>nohls</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -480,7 +480,7 @@
         <text encoding="base64">ICAgICAgICBkZCgkcGFyYW1zKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>action Back</text>
+        <text>nohls</text>
       </register>
     </registers>
   </component>
