@@ -44,11 +44,11 @@
         <entry>vs</entry>
         <entry>wq</entry>
         <entry>action OpenEditorInOppositeTabGroup</entry>
-        <entry>action Back</entry>
         <entry>action NextSplitter</entry>
         <entry>action Annotate</entry>
         <entry>nohls</entry>
         <entry>action SelectInProjectView</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -114,8 +114,8 @@
     <filemarks>
       <file name="$USER_HOME$/Docker/shoufuyou-task/config/command.php" timestamp="1590646524763" />
       <file name="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/LoanmarketController.php" timestamp="1590574449393" />
-      <file name="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/VipCardController.php" timestamp="1590636950851">
-        <mark key="'" line="80" column="32" />
+      <file name="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/VipCardController.php" timestamp="1590653978815">
+        <mark key="'" line="32" column="39" />
       </file>
       <file name="$USER_HOME$/Docker/loanmarket/common/models/Loanmarket.php" timestamp="1590569534656">
         <mark key="[" line="176" column="50" />
@@ -157,9 +157,6 @@
         <mark key="." line="1536" column="0" />
         <mark key="^" line="1592" column="16" />
       </file>
-      <file name="$USER_HOME$/Docker/shoufuyou-notify/lib/Models/Utms/Yxqb.php" timestamp="1590561485806">
-        <mark key="'" line="179" column="0" />
-      </file>
       <file name="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/CashLoan/XlCash/XlCashLoanOrder.php" timestamp="1590646744772">
         <mark key="'" line="204" column="20" />
       </file>
@@ -173,6 +170,9 @@
         <mark key="." line="664" column="8" />
       </file>
       <file name="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/SlCash/SlRepayPlans.php" timestamp="1590646422563" />
+      <file name="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCard2019Service.php" timestamp="1590653980036">
+        <mark key="'" line="153" column="27" />
+      </file>
       <file name="$USER_HOME$/Docker/xinyongfei-app-api/config/db.php" timestamp="1590637295270">
         <mark key="[" line="6" column="23" />
         <mark key="]" line="6" column="31" />
@@ -181,8 +181,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="413" column="39" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" />
-      <jump line="414" column="9" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" />
       <jump line="417" column="0" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" />
       <jump line="422" column="19" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" />
       <jump line="34" column="27" filename="$USER_HOME$/Docker/shoufuyou-service/lib/Controllers/BankCashController.php" />
@@ -281,6 +279,8 @@
       <jump line="129" column="49" filename="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/RepayPlanQueueCommand.php" />
       <jump line="131" column="47" filename="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/RepayPlanQueueCommand.php" />
       <jump line="204" column="20" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/CashLoan/XlCash/XlCashLoanOrder.php" />
+      <jump line="32" column="39" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/VipCardController.php" />
+      <jump line="153" column="27" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCard2019Service.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -480,7 +480,7 @@
         <text encoding="base64">ICAgICAgICBkZCgkcGFyYW1zKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>action SelectInProjectView</text>
+        <text>action Back</text>
       </register>
     </registers>
   </component>
