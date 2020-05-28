@@ -7,9 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxTVEFUVVNfVVBMT0FEX2ZJTEVfRkFJTEVEXD4=</entry>
-        <entry encoding="base64">XDxyZW1pdEZhaWxlZFw+</entry>
-        <entry encoding="base64">XDxnZXRMaXN0QnlTdGF0dXNcPg==</entry>
         <entry encoding="base64">XDxCYW5rQ2FzaExvYW5PcmRlclw+</entry>
         <entry encoding="base64">XDxxdWVyeUNyZWRpdFJlc3VsdFBhcmFtc1w+</entry>
         <entry encoding="base64">XDxyZXF1ZXN0XD4=</entry>
@@ -27,27 +24,30 @@
         <entry encoding="base64">XDxMZW5kQXBwbHlQYXJhbXNcPg==</entry>
         <entry encoding="base64">XDxMb2FubWFya2V0VmlzaWJpbGl0eVw+</entry>
         <entry encoding="base64">XDxzeW5jUGxhblw+</entry>
+        <entry encoding="base64">XDxzZXRMb2FuU3RhcnREYXRlXD4=</entry>
+        <entry encoding="base64">XDxzZXRBcHBsRGF0ZVw+</entry>
+        <entry encoding="base64">XDxzZXRJbnRQZXJjZW50XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>action Forward</entry>
         <entry>sp</entry>
-        <entry>action Find</entry>
         <entry>action KJumpAction.Word0</entry>
-        <entry>action PreviousTab</entry>
-        <entry>action GotoClass</entry>
         <entry>action GotoFile</entry>
-        <entry>vs</entry>
-        <entry>wq</entry>
         <entry>action OpenEditorInOppositeTabGroup</entry>
-        <entry>action NextSplitter</entry>
         <entry>action Annotate</entry>
         <entry>action SelectInProjectView</entry>
-        <entry>action Back</entry>
-        <entry>action ShowBookmarks</entry>
         <entry>action popup@BookmarkContextMenu</entry>
-        <entry>action ToggleBookmark</entry>
         <entry>action NextTab</entry>
         <entry>action FileStructurePopup</entry>
+        <entry>action ToggleBookmark</entry>
+        <entry>action ShowBookmarks</entry>
+        <entry>action PreviousTab</entry>
+        <entry>vs</entry>
+        <entry>action NextSplitter</entry>
+        <entry>action GotoClass</entry>
+        <entry>wq</entry>
+        <entry>action Back</entry>
+        <entry>action Find</entry>
         <entry>nohls</entry>
       </history-cmd>
       <history-expr />
@@ -112,42 +112,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Docker/shoufuyou-task/config/command.php" timestamp="1590646524763" />
-      <file name="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/LoanmarketController.php" timestamp="1590574449393" />
-      <file name="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/VipCardController.php" timestamp="1590653978815">
-        <mark key="'" line="32" column="39" />
-      </file>
-      <file name="$USER_HOME$/Docker/shoufuyou-notify/lib/Models/Utms/Jqks.php" timestamp="1590656201881">
-        <mark key="'" line="82" column="42" />
-        <mark key="[" line="38" column="16" />
-        <mark key="]" line="38" column="20" />
-        <mark key="." line="38" column="19" />
-        <mark key="^" line="38" column="20" />
-      </file>
-      <file name="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/SlFundTaskCommand.php" timestamp="1590646382584">
-        <mark key="'" line="115" column="44" />
-      </file>
-      <file name="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" timestamp="1590646634002">
-        <mark key="c" line="25" column="6" />
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="282" column="0" />
-        <mark key="]" line="282" column="0" />
-        <mark key="." line="282" column="0" />
-        <mark key="^" line="281" column="47" />
-      </file>
-      <file name="$USER_HOME$/Docker/loanmarket/serviceapi/controllers/LoanmarketController.php" timestamp="1590574758952">
-        <mark key="'" line="215" column="30" />
-        <mark key="[" line="215" column="0" />
-        <mark key="]" line="215" column="0" />
-        <mark key="." line="215" column="0" />
-      </file>
-      <file name="$USER_HOME$/Docker/loanmarket/common/service/Loanmarket.php" timestamp="1590575089677">
-        <mark key="'" line="1492" column="27" />
-        <mark key="[" line="1536" column="0" />
-        <mark key="]" line="1536" column="0" />
-        <mark key="." line="1536" column="0" />
-        <mark key="^" line="1592" column="16" />
-      </file>
       <file name="$USER_HOME$/Docker/shoufuyou-notify/lib/Models/Utms/Xhhj.php" timestamp="1590656254643">
         <mark key="'" line="40" column="104" />
         <mark key="[" line="26" column="24" />
@@ -167,6 +131,22 @@
         <mark key="^" line="63" column="34" />
         <mark key="n" line="62" column="31" />
       </file>
+      <file name="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/VipCardController.php" timestamp="1590653978815">
+        <mark key="'" line="32" column="39" />
+      </file>
+      <file name="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/Params/CreditApply/ApplyInfoParams.php" timestamp="1590657926734">
+        <mark key="'" line="115" column="20" />
+      </file>
+      <file name="$USER_HOME$/Docker/shoufuyou-notify/lib/Models/Utms/Jqks.php" timestamp="1590656201881">
+        <mark key="'" line="82" column="42" />
+        <mark key="[" line="38" column="16" />
+        <mark key="]" line="38" column="20" />
+        <mark key="." line="38" column="19" />
+        <mark key="^" line="38" column="20" />
+      </file>
+      <file name="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/SlFundTaskCommand.php" timestamp="1590646382584">
+        <mark key="'" line="115" column="44" />
+      </file>
       <file name="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/RepayPlanQueueCommand.php" timestamp="1590646740891">
         <mark key="'" line="131" column="47" />
       </file>
@@ -177,9 +157,34 @@
         <mark key="^" line="664" column="9" />
         <mark key="." line="664" column="8" />
       </file>
-      <file name="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/SlCash/SlRepayPlans.php" timestamp="1590646422563" />
+      <file name="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" timestamp="1590658007205">
+        <mark key="c" line="25" column="6" />
+        <mark key="'" line="120" column="24" />
+        <mark key="[" line="507" column="0" />
+        <mark key="]" line="507" column="0" />
+        <mark key="." line="507" column="0" />
+      </file>
+      <file name="$USER_HOME$/Docker/loanmarket/serviceapi/controllers/LoanmarketController.php" timestamp="1590574758952">
+        <mark key="'" line="215" column="30" />
+        <mark key="[" line="215" column="0" />
+        <mark key="]" line="215" column="0" />
+        <mark key="." line="215" column="0" />
+      </file>
+      <file name="$USER_HOME$/Docker/loanmarket/common/service/Loanmarket.php" timestamp="1590575089677">
+        <mark key="'" line="1492" column="27" />
+        <mark key="[" line="1536" column="0" />
+        <mark key="]" line="1536" column="0" />
+        <mark key="." line="1536" column="0" />
+        <mark key="^" line="1592" column="16" />
+      </file>
       <file name="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCard2019Service.php" timestamp="1590653980036">
         <mark key="'" line="153" column="27" />
+      </file>
+      <file name="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashCredit.php" timestamp="1590657917756">
+        <mark key="'" line="219" column="24" />
+        <mark key="[" line="222" column="0" />
+        <mark key="]" line="222" column="0" />
+        <mark key="." line="222" column="0" />
       </file>
       <file name="$USER_HOME$/Docker/xinyongfei-app-api/config/db.php" timestamp="1590637295270">
         <mark key="[" line="6" column="23" />
@@ -189,13 +194,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="422" column="19" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" />
-      <jump line="34" column="27" filename="$USER_HOME$/Docker/shoufuyou-service/lib/Controllers/BankCashController.php" />
-      <jump line="418" column="9" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" />
-      <jump line="419" column="9" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" />
-      <jump line="420" column="53" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" />
-      <jump line="134" column="30" filename="$USER_HOME$/Docker/shoufuyou-service/lib/Models/BankCash.php" />
-      <jump line="28" column="34" filename="$USER_HOME$/Docker/shoufuyou-service/lib/Models/BankCash/BankCashApi.php" />
       <jump line="25" column="30" filename="$USER_HOME$/Docker/shoufuyou-service/lib/Models/BankCash/BankCashWebClient.php" />
       <jump line="220" column="33" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashCredit.php" />
       <jump line="322" column="46" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" />
@@ -281,7 +279,6 @@
       <jump line="80" column="32" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/VipCardController.php" />
       <jump line="115" column="44" filename="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/SlFundTaskCommand.php" />
       <jump line="431" column="18" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" />
-      <jump line="663" column="20" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" />
       <jump line="129" column="49" filename="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/RepayPlanQueueCommand.php" />
       <jump line="131" column="47" filename="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/RepayPlanQueueCommand.php" />
@@ -289,6 +286,14 @@
       <jump line="32" column="39" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/VipCardController.php" />
       <jump line="153" column="27" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCard2019Service.php" />
       <jump line="39" column="104" filename="$USER_HOME$/Docker/shoufuyou-notify/lib/Models/Utms/Xhhj.php" />
+      <jump line="202" column="25" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashCredit.php" />
+      <jump line="221" column="25" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashCredit.php" />
+      <jump line="216" column="25" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashCredit.php" />
+      <jump line="222" column="24" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashCredit.php" />
+      <jump line="219" column="24" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashCredit.php" />
+      <jump line="115" column="20" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/Params/CreditApply/ApplyInfoParams.php" />
+      <jump line="663" column="20" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" />
+      <jump line="120" column="24" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -296,8 +301,8 @@
       <register name="a" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>ShowBookmarksToggleBookmark</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -312,13 +317,13 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>ShowBookmarksToggleBookmark</text>
+        <text>206</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzeW5jUGxhblw+</text>
+        <text encoding="base64">XDxzZXRJbnRQZXJjZW50XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">bm5vcmVtYXAgbW0gOmFjdGlvbiBTaG93Qm9va21hcmtzPENSPgo=</text>
+        <text encoding="base64">ICAgICAgICAneHlmMTQyJyA9PiAnMTIwNicsCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -327,13 +332,13 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHRvZG8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5zZXRMb2FuQ29udHJhY3RObygkY29udHJhY3QtPmdldENvbnRyYWN0SWQoKSkK</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyB0b2RvCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
@@ -342,13 +347,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkbGlzdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHRvZG8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkaGl0TG9hbm1hcmtldElkcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyB0b2RvCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkbGlzdCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -485,7 +490,7 @@
         <text encoding="base64">ICAgICAgICBkZCgkbGlzdCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkaGl0TG9hbm1hcmtldElkcyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>nohls</text>
@@ -494,9 +499,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxzeW5jUGxhblw+</last-search>
+      <last-search encoding="base64">XDxzZXRJbnRQZXJjZW50XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzeW5jUGxhblw+</last-pattern>
+      <last-pattern encoding="base64">XDxzZXRJbnRQZXJjZW50XD4=</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute encoding="base64">XDx1c2VQb29sXD4=</last-substitute>
       <last-dir>1</last-dir>
