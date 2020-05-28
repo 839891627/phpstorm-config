@@ -29,15 +29,11 @@
         <entry encoding="base64">XDxzeW5jUGxhblw+</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0NsYXNz</entry>
-        <entry>w</entry>
-        <entry>action RecentFiles</entry>
         <entry>action Forward</entry>
         <entry>sp</entry>
         <entry>action Find</entry>
         <entry>action KJumpAction.Word0</entry>
         <entry>action PreviousTab</entry>
-        <entry>action FileStructurePopup</entry>
         <entry>action GotoClass</entry>
         <entry>action GotoFile</entry>
         <entry>vs</entry>
@@ -47,7 +43,11 @@
         <entry>action Annotate</entry>
         <entry>action SelectInProjectView</entry>
         <entry>action Back</entry>
+        <entry>action ShowBookmarks</entry>
+        <entry>action popup@BookmarkContextMenu</entry>
+        <entry>action ToggleBookmark</entry>
         <entry>action NextTab</entry>
+        <entry>action FileStructurePopup</entry>
         <entry>nohls</entry>
       </history-cmd>
       <history-expr />
@@ -117,12 +117,6 @@
       <file name="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/VipCardController.php" timestamp="1590653978815">
         <mark key="'" line="32" column="39" />
       </file>
-      <file name="$USER_HOME$/Docker/loanmarket/common/models/Loanmarket.php" timestamp="1590569534656">
-        <mark key="[" line="176" column="50" />
-        <mark key="]" line="176" column="63" />
-        <mark key="." line="176" column="62" />
-        <mark key="^" line="176" column="63" />
-      </file>
       <file name="$USER_HOME$/Docker/shoufuyou-notify/lib/Models/Utms/Jqks.php" timestamp="1590656201881">
         <mark key="'" line="82" column="42" />
         <mark key="[" line="38" column="16" />
@@ -164,12 +158,22 @@
       <file name="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/CashLoan/XlCash/XlCashLoanOrder.php" timestamp="1590646744772">
         <mark key="'" line="204" column="20" />
       </file>
+      <file name="$USER_HOME$/.ideavimrc" timestamp="1590657465132">
+        <mark key="s" line="62" column="31" />
+        <mark key="[" line="62" column="10" />
+        <mark key="]" line="62" column="11" />
+        <mark key="m" line="62" column="31" />
+        <mark key="." line="62" column="11" />
+        <mark key="^" line="63" column="34" />
+        <mark key="n" line="62" column="31" />
+      </file>
       <file name="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/RepayPlanQueueCommand.php" timestamp="1590646740891">
         <mark key="'" line="131" column="47" />
       </file>
-      <file name="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/CashLoan/BankCash/BankCashLoanOrder.php" timestamp="1590647065125">
+      <file name="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/CashLoan/BankCash/BankCashLoanOrder.php" timestamp="1590657242422">
         <mark key="[" line="664" column="27" />
         <mark key="]" line="664" column="9" />
+        <mark key="m" line="658" column="23" />
         <mark key="^" line="664" column="9" />
         <mark key="." line="664" column="8" />
       </file>
@@ -293,7 +297,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>QD-CPS-XYF-XHHJ02</text>
+        <text>ShowBookmarksToggleBookmark</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -308,13 +312,13 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>QD-CPS-XYF-XHHJ02</text>
+        <text>ShowBookmarksToggleBookmark</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzeW5jUGxhblw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IFVUTV9TT1VSQ0UgPSAnUUQtQ1BTLVhZRi1YSEhKMDInOwo=</text>
+        <text encoding="base64">bm5vcmVtYXAgbW0gOmFjdGlvbiBTaG93Qm9va21hcmtzPENSPgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
