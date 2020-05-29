@@ -39,7 +39,6 @@
         <entry>action PreviousTab</entry>
         <entry>action NextTab</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gU3Vycm91bmRXaXRo</entry>
-        <entry>action Back</entry>
         <entry>action RecentFiles</entry>
         <entry>action SelectInProjectView</entry>
         <entry>wq</entry>
@@ -49,6 +48,7 @@
         <entry>action KJumpAction.Word0</entry>
         <entry>action Annotate</entry>
         <entry>nohls</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -171,8 +171,8 @@
         <mark key="." line="14" column="19" />
         <mark key="^" line="14" column="20" />
       </file>
-      <file name="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/XyfSmsTaskController.php" timestamp="1590742970428">
-        <mark key="'" line="641" column="12" />
+      <file name="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/XyfSmsTaskController.php" timestamp="1590743645109">
+        <mark key="'" line="652" column="61" />
         <mark key="[" line="567" column="94" />
         <mark key="]" line="567" column="97" />
         <mark key="." line="567" column="96" />
@@ -215,7 +215,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="79" filename="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/XyfSmsTaskController.php" />
       <jump line="90" column="105" filename="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/XyfSmsTaskController.php" />
       <jump line="81" column="52" filename="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/XyfSmsTaskController.php" />
       <jump line="100" column="85" filename="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/XyfSmsTaskController.php" />
@@ -311,10 +310,11 @@
       <jump line="567" column="9" filename="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/XyfSmsTaskController.php" />
       <jump line="618" column="33" filename="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/XyfSmsTaskController.php" />
       <jump line="625" column="33" filename="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/XyfSmsTaskController.php" />
-      <jump line="652" column="65" filename="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/XyfSmsTaskController.php" />
       <jump line="640" column="12" filename="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/XyfSmsTaskController.php" />
       <jump line="593" column="16" filename="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/XyfSmsTaskController.php" />
       <jump line="641" column="12" filename="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/XyfSmsTaskController.php" />
+      <jump line="683" column="52" filename="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/XyfSmsTaskController.php" />
+      <jump line="652" column="61" filename="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/XyfSmsTaskController.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -514,7 +514,7 @@
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>nohls</text>
+        <text>action Back</text>
       </register>
     </registers>
   </component>
