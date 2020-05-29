@@ -31,10 +31,8 @@
       <history-cmd>
         <entry>action ShowPopupMenu</entry>
         <entry>action GotoClass</entry>
-        <entry>vs</entry>
         <entry>action ShowBookmarks</entry>
         <entry>action FileStructurePopup</entry>
-        <entry>action NextSplitter</entry>
         <entry>action ToggleBookmark</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>action RenameElement</entry>
@@ -47,8 +45,10 @@
         <entry>action Back</entry>
         <entry>action RecentFiles</entry>
         <entry>action SelectInProjectView</entry>
-        <entry>nohls</entry>
         <entry>wq</entry>
+        <entry>vs</entry>
+        <entry>action NextSplitter</entry>
+        <entry>nohls</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -170,8 +170,8 @@
       <file name="/Dummy.txt" timestamp="1590733520390">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Docker/my-framework/library/Application.php" timestamp="1590661501565">
-        <mark key="'" line="54" column="30" />
+      <file name="$USER_HOME$/Docker/my-framework/public/index.php" timestamp="1590733895047">
+        <mark key="[" line="5" column="3" />
       </file>
       <file name="$USER_HOME$/Docker/my-framework/library/Components/Container.php" timestamp="1590733629725">
         <mark key="'" line="48" column="33" />
@@ -212,10 +212,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="202" column="25" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashCredit.php" />
-      <jump line="221" column="25" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashCredit.php" />
-      <jump line="216" column="25" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashCredit.php" />
-      <jump line="222" column="24" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashCredit.php" />
       <jump line="219" column="24" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashCredit.php" />
       <jump line="115" column="20" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/Params/CreditApply/ApplyInfoParams.php" />
       <jump line="663" column="20" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" />
@@ -312,6 +308,10 @@
       <jump line="157" column="46" filename="$USER_HOME$/Docker/my-framework/library/Components/Container.php" />
       <jump line="48" column="33" filename="$USER_HOME$/Docker/my-framework/library/Components/Container.php" />
       <jump line="16" column="0" filename="$USER_HOME$/Docker/my-framework/app/Http/Controller/A.php" />
+      <jump line="15" column="30" filename="$USER_HOME$/Docker/my-framework/public/index.php" />
+      <jump line="95" column="34" filename="$USER_HOME$/Docker/my-framework/public/index.php" />
+      <jump line="1" column="0" filename="$USER_HOME$/Docker/my-framework/public/index.php" />
+      <jump line="68" column="4" filename="$USER_HOME$/Docker/my-framework/public/index.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -320,7 +320,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -344,34 +344,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICRvYmplY3QgPSAkdGhpcy0+YnVpbGQoJGlkLCAkZGVmaW5pdGlvbik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0aGkgLT4K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="7" type="2">
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB0aGkgLT4K</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -505,13 +505,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVmbGVjdG9yID0gJHRoaXMtPmdldFJlZmxlY3Rpb25DbGFzcygkY2xhc3MpOwogICAgICAgICRkZW5wZW5kZW5jaWVzID0gJHRoaXMtPmdldERlcGVuZGVuY2llcygkY2xhc3MsICRyZWZsZWN0b3IpOwogICAgICAgICRyZWZsZWN0b3IgPSAkcmVmbGVjdG9yLT5uZXdJbnRhbmNlQXJncygkZGVucGVuZGVuY2llcyk7CiAgICAgICAgcmV0dXJuICRyZWZsZWN0b3I7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>nohls</text>
       </register>
     </registers>
   </component>
