@@ -29,10 +29,7 @@
         <entry encoding="base64">XDxzbXN0cGwzNjAwMDNcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gU3Vycm91bmRXaXRo</entry>
         <entry>action RecentFiles</entry>
-        <entry>action SelectInProjectView</entry>
-        <entry>action Annotate</entry>
         <entry>.nohls</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>action OpenEditorInOppositeTabGroup</entry>
@@ -40,15 +37,18 @@
         <entry>action GotoClass</entry>
         <entry>action RenameElement</entry>
         <entry>vs</entry>
-        <entry>action Back</entry>
         <entry>action FileStructurePopup</entry>
         <entry>action NextSplitter</entry>
-        <entry>wq</entry>
-        <entry>action NextTab</entry>
         <entry>action PreviousTab</entry>
         <entry>action Find</entry>
         <entry>action ToggleBookmark</entry>
+        <entry>wq</entry>
+        <entry>action SelectInProjectView</entry>
+        <entry>action Back</entry>
+        <entry>action Annotate</entry>
+        <entry>action NextTab</entry>
         <entry>nohls</entry>
+        <entry>action ShowPopupMenu</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -112,12 +112,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Docker/xyf-middleware-system/common/models/SmsNewTasks.php" timestamp="1590667398478">
-        <mark key="[" line="20" column="19" />
-        <mark key="]" line="20" column="19" />
-        <mark key="." line="20" column="19" />
-        <mark key="^" line="73" column="30" />
-      </file>
       <file name="/Dummy.txt" timestamp="1590733520390">
         <mark key="[" line="0" column="0" />
       </file>
@@ -151,6 +145,9 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
+      <file name="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/CreditUser.php" timestamp="1590989739041">
+        <mark key="'" line="911" column="44" />
+      </file>
       <file name="$USER_HOME$/.ideavimrc" timestamp="1590981565089">
         <mark key="s" line="62" column="31" />
         <mark key="'" line="54" column="46" />
@@ -176,12 +173,6 @@
         <mark key="." line="901" column="584" />
         <mark key="^" line="918" column="0" />
       </file>
-      <file name="$USER_HOME$/Docker/my-framework/library/Components/Request.php" timestamp="1590661927506">
-        <mark key="[" line="107" column="0" />
-        <mark key="]" line="107" column="43" />
-        <mark key="^" line="107" column="13" />
-        <mark key="." line="107" column="0" />
-      </file>
       <file name="$USER_HOME$/Docker/my-framework/app/Http/Controller/DemoController.php" timestamp="1590731815432">
         <mark key="'" line="21" column="0" />
         <mark key="[" line="11" column="0" />
@@ -193,6 +184,12 @@
         <mark key="[" line="62" column="0" />
         <mark key="]" line="62" column="0" />
         <mark key="." line="62" column="0" />
+      </file>
+      <file name="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardVersion2Service.php" timestamp="1590990282302">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="22" column="13" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/BaseController.php" timestamp="1590980208333">
         <mark key="'" line="41" column="0" />
@@ -209,19 +206,11 @@
         <mark key="^" line="12" column="63" />
         <mark key="." line="12" column="62" />
       </file>
-      <file name="$USER_HOME$/Docker/loanmarket/common/service/unionlogin/strategies/StrategyResult.php" timestamp="1590719257347">
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="77" column="0" />
-        <mark key="^" line="71" column="19" />
-        <mark key="." line="77" column="0" />
+      <file name="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCard2019Service.php" timestamp="1590989765499">
+        <mark key="'" line="328" column="46" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="12" filename="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/XyfSmsTaskController.php" />
-      <jump line="842" column="0" filename="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/XyfSmsTaskController.php" />
-      <jump line="156" column="22" filename="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/XyfSmsTaskController.php" />
-      <jump line="150" column="28" filename="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/XyfSmsTaskController.php" />
-      <jump line="386" column="11" filename="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/XyfSmsTaskController.php" />
       <jump line="408" column="20" filename="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/XyfSmsTaskController.php" />
       <jump line="425" column="16" filename="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/XyfSmsTaskController.php" />
       <jump line="571" column="5" filename="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/XyfSmsTaskController.php" />
@@ -317,6 +306,11 @@
       <jump line="529" column="82" filename="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/XyfSmsTaskController.php" />
       <jump line="549" column="8" filename="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/XyfSmsTaskController.php" />
       <jump line="917" column="0" filename="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/XyfSmsTaskController.php" />
+      <jump line="81" column="8" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCard2019Service.php" />
+      <jump line="885" column="16" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/CreditUser.php" />
+      <jump line="103" column="28" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/CreditUser.php" />
+      <jump line="911" column="44" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/CreditUser.php" />
+      <jump line="328" column="46" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCard2019Service.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -325,7 +319,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">dXBkYXRlICBTbXNUZW1wbGF0ZUNvbmZpZyBzZXQgZGVzY3JpcHRpb249ICflpKfpop3ohJrmnKzvvJrov5jmuIXkvYbmnKrlho3lgJ/mrL4nIHdoZXJlIHRlbXBsYXRlX2lkID0gJ3Ntc3RwbDM2MDAwNic7Cg==</text>
+        <text encoding="base64">ICogQHBhY2thZ2UgWGlueW9uZ2ZlaUFwcEFwaVxNb2RlbHMK</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -340,7 +334,7 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">aHR0cHM6Ly93d3cudGFwZC5jbi8zODc3Mjc5OS9wcm9uZy9pdGVyYXRpb25zL2NhcmRfdmlldyNpdGVyYXRpb25JZD0xMTM4NzcyNzk5MDAxMDAwMTQyJnBlclBhZ2U9NTAmZmlsdGVyX2Nsb3NlPXRydWUmd2FsbENhcmRUeXBlPXN0b3J5JnRpbWVzcGFuPTE1NzQzMDU4NjI4OTE=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzbXN0cGwzNjAwMDNcPg==</text>
@@ -349,34 +343,34 @@
         <text encoding="base64">dXBkYXRlICBTbXNUZW1wbGF0ZUNvbmZpZyBzZXQgZGVzY3JpcHRpb249ICflpKfpop3ohJrmnKzvvJrov5jmuIXkvYbmnKrlho3lgJ/mrL4nIHdoZXJlIHRlbXBsYXRlX2lkID0gJ3Ntc3RwbDM2MDAwNic7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXBkYXRlICBTbXNUZW1wbGF0ZUNvbmZpZyBzZXQgZGVzY3JpcHRpb249ICflpKfpop3ohJrmnKzvvJrov5jmuIXkvYbmnKrlho3lgJ/mrL4nIHdoZXJlIHRlbXBsYXRlX2lkID0gJ3Ntc3RwbDM2MDAwNic7Cg==</text>
+        <text encoding="base64">ICogQHBhY2thZ2UgWGlueW9uZ2ZlaUFwcEFwaVxNb2RlbHMK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IiBub3JtYWzmqKHlvI/kuIsgTmkkIDxlc2M+IOi/nue7reaPkuWFpU7kuKokLCDmr5TlpoIgOWlhPGVzYz4g6L+e57ut5o+S5YWlOeS4qmHvvIzov5nlnKjlhpnliIblibLnur/nmoTml7blgJnlvojmlrnkvr8K</text>
+        <text encoding="base64">ICogQ2xhc3MgVmlwQ2FyZDIwMTkK</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">JAo=</text>
+        <text encoding="base64">dXBkYXRlICBTbXNUZW1wbGF0ZUNvbmZpZyBzZXQgZGVzY3JpcHRpb249ICflpKfpop3ohJrmnKzvvJrov5jmuIXkvYbmnKrlho3lgJ/mrL4nIHdoZXJlIHRlbXBsYXRlX2lkID0gJ3Ntc3RwbDM2MDAwNic7Cg==</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyMjIyMjIyMjIyMjIyMjIyMK</text>
+        <text encoding="base64">IiBub3JtYWzmqKHlvI/kuIsgTmkkIDxlc2M+IOi/nue7reaPkuWFpU7kuKokLCDmr5TlpoIgOWlhPGVzYz4g6L+e57ut5o+S5YWlOeS4qmHvvIzov5nlnKjlhpnliIblibLnur/nmoTml7blgJnlvojmlrnkvr8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">MTAgMDIgKiAqICogc291cmNlIC9ldGMvcHJvZmlsZTsgICAvZGF0YS9jb2RlL3JlbGVhc2VzL3h5Zi1taWRkbGV3YXJlLXN5c3RlbS9jdXJyZW50L3h5Zi1taWRkbGV3YXJlLXN5c3RlbS95aWkgeHlmLXNtcy10YXNrL2Nhc2UyICMg5qOA5rWLIFQrMSDms6jlhozlkI7kuInopoHntKDmnKrloavlhpkKMTAgMDIgKiAqICogc291cmNlIC9ldGMvcHJvZmlsZTsgICAvZGF0YS9jb2RlL3JlbGVhc2VzL3h5Zi1taWRkbGV3YXJlLXN5c3RlbS9jdXJyZW50L3h5Zi1taWRkbGV3YXJlLXN5c3RlbS95aWkgeHlmLXNtcy10YXNrL2Nhc2UyIDMgIyDmo4DmtYsgVCszIOazqOWGjOWQjuS4ieimgee0oOacquWhq+WGmQoxMCAwMiAqICogKiBzb3VyY2UgL2V0Yy9wcm9maWxlOyAgIC9kYXRhL2NvZGUvcmVsZWFzZXMveHlmLW1pZGRsZXdhcmUtc3lzdGVtL2N1cnJlbnQveHlmLW1pZGRsZXdhcmUtc3lzdGVtL3lpaSB4eWYtc21zLXRhc2svY2FzZTIgOCMg5qOA5rWLIFQrOCDms6jlhozlkI7kuInopoHntKDmnKrloavlhpkK</text>
+        <text encoding="base64">JAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyMjIyMjIyMjIyMjIyMjIyMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">MTAgMDIgKiAqICogc291cmNlIC9ldGMvcHJvZmlsZTsgICAvZGF0YS9jb2RlL3JlbGVhc2VzL3h5Zi1taWRkbGV3YXJlLXN5c3RlbS9jdXJyZW50L3h5Zi1taWRkbGV3YXJlLXN5c3RlbS95aWkgeHlmLXNtcy10YXNrL2Nhc2UyICMg5qOA5rWLIFQrMSDms6jlhozlkI7kuInopoHntKDmnKrloavlhpkKMTAgMDIgKiAqICogc291cmNlIC9ldGMvcHJvZmlsZTsgICAvZGF0YS9jb2RlL3JlbGVhc2VzL3h5Zi1taWRkbGV3YXJlLXN5c3RlbS9jdXJyZW50L3h5Zi1taWRkbGV3YXJlLXN5c3RlbS95aWkgeHlmLXNtcy10YXNrL2Nhc2UyIDMgIyDmo4DmtYsgVCszIOazqOWGjOWQjuS4ieimgee0oOacquWhq+WGmQoxMCAwMiAqICogKiBzb3VyY2UgL2V0Yy9wcm9maWxlOyAgIC9kYXRhL2NvZGUvcmVsZWFzZXMveHlmLW1pZGRsZXdhcmUtc3lzdGVtL2N1cnJlbnQveHlmLW1pZGRsZXdhcmUtc3lzdGVtL3lpaSB4eWYtc21zLXRhc2svY2FzZTIgOCMg5qOA5rWLIFQrOCDms6jlhozlkI7kuInopoHntKDmnKrloavlhpkK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -510,14 +504,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CjAwIDAyICogKiAqIHNvdXJjZSAvZXRjL3Byb2ZpbGU7ICAgL2RhdGEvY29kZS9yZWxlYXNlcy94eWYtbWlkZGxld2FyZS1zeXN0ZW0vY3VycmVudC94eWYtbWlkZGxld2FyZS1zeXN0ZW0veWlpIHh5Zi1zbXMtdGFzay9jYXNlMSAjIOajgOa1i1QrMSDms6jlhozlkI7mnKrnmbvlvZUKMDAgMDIgKiAqICogc291cmNlIC9ldGMvcHJvZmlsZTsgICAvZGF0YS9jb2RlL3JlbGVhc2VzL3h5Zi1taWRkbGV3YXJlLXN5c3RlbS9jdXJyZW50L3h5Zi1taWRkbGV3YXJlLXN5c3RlbS95aWkgeHlmLXNtcy10YXNrL2Nhc2UxIDMgIyDmo4DmtYtUKzMg5rOo5YaM5ZCO5pyq55m75b2VCjAwIDAyICogKiAqIHNvdXJjZSAvZXRjL3Byb2ZpbGU7ICAgL2RhdGEvY29kZS9yZWxlYXNlcy94eWYtbWlkZGxld2FyZS1zeXN0ZW0vY3VycmVudC94eWYtbWlkZGxld2FyZS1zeXN0ZW0veWlpIHh5Zi1zbXMtdGFzay9jYXNlMSA4ICMg5qOA5rWLVCs4IOazqOWGjOWQjuacqueZu+W9lQoxMCAwMiAqICogKiBzb3VyY2UgL2V0Yy9wcm9maWxlOyAgIC9kYXRhL2NvZGUvcmVsZWFzZXMveHlmLW1pZGRsZXdhcmUtc3lzdGVtL2N1cnJlbnQveHlmLW1pZGRsZXdhcmUtc3lzdGVtL3lpaSB4eWYtc21zLXRhc2svY2FzZTIgIyDmo4DmtYsgVCsxIOazqOWGjOWQjuS4ieimgee0oOacquWhq+WGmQoxMCAwMiAqICogKiBzb3VyY2UgL2V0Yy9wcm9maWxlOyAgIC9kYXRhL2NvZGUvcmVsZWFzZXMveHlmLW1pZGRsZXdhcmUtc3lzdGVtL2N1cnJlbnQveHlmLW1pZGRsZXdhcmUtc3lzdGVtL3lpaSB4eWYtc21zLXRhc2svY2FzZTIgMyAjIOajgOa1iyBUKzMg5rOo5YaM5ZCO5LiJ6KaB57Sg5pyq5aGr5YaZCjEwIDAyICogKiAqIHNvdXJjZSAvZXRjL3Byb2ZpbGU7ICAgL2RhdGEvY29kZS9yZWxlYXNlcy94eWYtbWlkZGxld2FyZS1zeXN0ZW0vY3VycmVudC94eWYtbWlkZGxld2FyZS1zeXN0ZW0veWlpIHh5Zi1zbXMtdGFzay9jYXNlMiA4IyDmo4DmtYsgVCs4IOazqOWGjOWQjuS4ieimgee0oOacquWhq+WGmQoxNSAwNyAqICogKiBzb3VyY2UgL2V0Yy9wcm9maWxlOyAgIC9kYXRhL2NvZGUvcmVsZWFzZXMveHlmLW1pZGRsZXdhcmUtc3lzdGVtL2N1cnJlbnQveHlmLW1pZGRsZXdhcmUtc3lzdGVtL3lpaSB4eWYtc21zLXRhc2svY2FzZTQgIyDmo4DmtYsgVCsxIOi/mOa4heacquWGjeWAnwoxNSAwNyAqICogKiBzb3VyY2UgL2V0Yy9wcm9maWxlOyAgIC9kYXRhL2NvZGUvcmVsZWFzZXMveHlmLW1pZGRsZXdhcmUtc3lzdGVtL2N1cnJlbnQveHlmLW1pZGRsZXdhcmUtc3lzdGVtL3lpaSB4eWYtc21zLXRhc2svY2FzZTQgMyAjIOajgOa1iyBUKzMg6L+Y5riF5pyq5YaN5YCfCjE1IDA3ICogKiAqIHNvdXJjZSAvZXRjL3Byb2ZpbGU7ICAgL2RhdGEvY29kZS9yZWxlYXNlcy94eWYtbWlkZGxld2FyZS1zeXN0ZW0vY3VycmVudC94eWYtbWlkZGxld2FyZS1zeXN0ZW0veWlpIHh5Zi1zbXMtdGFzay9jYXNlNCA1ICMg5qOA5rWLIFQrNSDov5jmuIXmnKrlho3lgJ8KMjAgMDcgKiAqICogc291cmNlIC9ldGMvcHJvZmlsZTsgICAvZGF0YS9jb2RlL3JlbGVhc2VzL3h5Zi1taWRkbGV3YXJlLXN5c3RlbS9jdXJyZW50L3h5Zi1taWRkbGV3YXJlLXN5c3RlbS95aWkgeHlmLXNtcy10YXNrL2Nhc2U0IDEwICMg5qOA5rWLIFQrMTAg6L+Y5riF5pyq5YaN5YCfCjAwIDAzICogKiAqIHNvdXJjZSAvZXRjL3Byb2ZpbGU7ICAgL2RhdGEvY29kZS9yZWxlYXNlcy94eWYtbWlkZGxld2FyZS1zeXN0ZW0vY3VycmVudC94eWYtbWlkZGxld2FyZS1zeXN0ZW0veWlpIHh5Zi1zbXMtdGFzay9jYXNlNyAxIDAKMDAgMDMgKiAqICogc291cmNlIC9ldGMvcHJvZmlsZTsgICAvZGF0YS9jb2RlL3JlbGVhc2VzL3h5Zi1taWRkbGV3YXJlLXN5c3RlbS9jdXJyZW50L3h5Zi1taWRkbGV3YXJlLXN5c3RlbS95aWkgeHlmLXNtcy10YXNrL2Nhc2U3IDEgMgowMCAwMyAqICogKiBzb3VyY2UgL2V0Yy9wcm9maWxlOyAgIC9kYXRhL2NvZGUvcmVsZWFzZXMveHlmLW1pZGRsZXdhcmUtc3lzdGVtL2N1cnJlbnQveHlmLW1pZGRsZXdhcmUtc3lzdGVtL3lpaSB4eWYtc21zLXRhc2svY2FzZTcgMSA0CjAwIDAzICogKiAqIHNvdXJjZSAvZXRjL3Byb2ZpbGU7ICAgL2RhdGEvY29kZS9yZWxlYXNlcy94eWYtbWlkZGxld2FyZS1zeXN0ZW0vY3VycmVudC94eWYtbWlkZGxld2FyZS1zeXN0ZW0veWlpIHh5Zi1zbXMtdGFzay9jYXNlNyAxIDYKMTAgMDMgKiAqICogc291cmNlIC9ldGMvcHJvZmlsZTsgICAvZGF0YS9jb2RlL3JlbGVhc2VzL3h5Zi1taWRkbGV3YXJlLXN5c3RlbS9jdXJyZW50L3h5Zi1taWRkbGV3YXJlLXN5c3RlbS95aWkgeHlmLXNtcy10YXNrL2Nhc2U3IDEgOAoxMCAwMyAqICogKiBzb3VyY2UgL2V0Yy9wcm9maWxlOyAgIC9kYXRhL2NvZGUvcmVsZWFzZXMveHlmLW1pZGRsZXdhcmUtc3lzdGVtL2N1cnJlbnQveHlmLW1pZGRsZXdhcmUtc3lzdGVtL3lpaSB4eWYtc21zLXRhc2svY2FzZTcgMSAxMAoxMCAwMyAqICogKiBzb3VyY2UgL2V0Yy9wcm9maWxlOyAgIC9kYXRhL2NvZGUvcmVsZWFzZXMveHlmLW1pZGRsZXdhcmUtc3lzdGVtL2N1cnJlbnQveHlmLW1pZGRsZXdhcmUtc3lzdGVtL3lpaSB4eWYtc21zLXRhc2svY2FzZTcgMSAxMgoxMCAwMyAqICogKiBzb3VyY2UgL2V0Yy9wcm9maWxlOyAgIC9kYXRhL2NvZGUvcmVsZWFzZXMveHlmLW1pZGRsZXdhcmUtc3lzdGVtL2N1cnJlbnQveHlmLW1pZGRsZXdhcmUtc3lzdGVtL3lpaSB4eWYtc21zLXRhc2svY2FzZTcgMSAxNAoyMCAwMyAqICogKiBzb3VyY2UgL2V0Yy9wcm9maWxlOyAgIC9kYXRhL2NvZGUvcmVsZWFzZXMveHlmLW1pZGRsZXdhcmUtc3lzdGVtL2N1cnJlbnQveHlmLW1pZGRsZXdhcmUtc3lzdGVtL3lpaSB4eWYtc21zLXRhc2svY2FzZTcgMSAxNgoyMCAwMyAqICogKiBzb3VyY2UgL2V0Yy9wcm9maWxlOyAgIC9kYXRhL2NvZGUvcmVsZWFzZXMveHlmLW1pZGRsZXdhcmUtc3lzdGVtL2N1cnJlbnQveHlmLW1pZGRsZXdhcmUtc3lzdGVtL3lpaSB4eWYtc21zLXRhc2svY2FzZTcgMSAxOAoyMCAwMyAqICogKiBzb3VyY2UgL2V0Yy9wcm9maWxlOyAgIC9kYXRhL2NvZGUvcmVsZWFzZXMveHlmLW1pZGRsZXdhcmUtc3lzdGVtL2N1cnJlbnQveHlmLW1pZGRsZXdhcmUtc3lzdGVtL3lpaSB4eWYtc21zLXRhc2svY2FzZTcgMSAyMAoyMCAwMyAqICogKiBzb3VyY2UgL2V0Yy9wcm9maWxlOyAgIC9kYXRhL2NvZGUvcmVsZWFzZXMveHlmLW1pZGRsZXdhcmUtc3lzdGVtL2N1cnJlbnQveHlmLW1pZGRsZXdhcmUtc3lzdGVtL3lpaSB4eWYtc21zLXRhc2svY2FzZTcgMSAyMgozMCAwMyAqICogKiBzb3VyY2UgL2V0Yy9wcm9maWxlOyAgIC9kYXRhL2NvZGUvcmVsZWFzZXMveHlmLW1pZGRsZXdhcmUtc3lzdGVtL2N1cnJlbnQveHlmLW1pZGRsZXdhcmUtc3lzdGVtL3lpaSB4eWYtc21zLXRhc2svY2FzZTcgMyAwCjMwIDAzICogKiAqIHNvdXJjZSAvZXRjL3Byb2ZpbGU7ICAgL2RhdGEvY29kZS9yZWxlYXNlcy94eWYtbWlkZGxld2FyZS1zeXN0ZW0vY3VycmVudC94eWYtbWlkZGxld2FyZS1zeXN0ZW0veWlpIHh5Zi1zbXMtdGFzay9jYXNlNyAzIDIKMzAgMDMgKiAqICogc291cmNlIC9ldGMvcHJvZmlsZTsgICAvZGF0YS9jb2RlL3JlbGVhc2VzL3h5Zi1taWRkbGV3YXJlLXN5c3RlbS9jdXJyZW50L3h5Zi1taWRkbGV3YXJlLXN5c3RlbS95aWkgeHlmLXNtcy10YXNrL2Nhc2U3IDMgNAozMCAwMyAqICogKiBzb3VyY2UgL2V0Yy9wcm9maWxlOyAgIC9kYXRhL2NvZGUvcmVsZWFzZXMveHlmLW1pZGRsZXdhcmUtc3lzdGVtL2N1cnJlbnQveHlmLW1pZGRsZXdhcmUtc3lzdGVtL3lpaSB4eWYtc21zLXRhc2svY2FzZTcgMyA2CjQwIDAzICogKiAqIHNvdXJjZSAvZXRjL3Byb2ZpbGU7ICAgL2RhdGEvY29kZS9yZWxlYXNlcy94eWYtbWlkZGxld2FyZS1zeXN0ZW0vY3VycmVudC94eWYtbWlkZGxld2FyZS1zeXN0ZW0veWlpIHh5Zi1zbXMtdGFzay9jYXNlNyAzIDgKNDAgMDMgKiAqICogc291cmNlIC9ldGMvcHJvZmlsZTsgICAvZGF0YS9jb2RlL3JlbGVhc2VzL3h5Zi1taWRkbGV3YXJlLXN5c3RlbS9jdXJyZW50L3h5Zi1taWRkbGV3YXJlLXN5c3RlbS95aWkgeHlmLXNtcy10YXNrL2Nhc2U3IDMgMTAKNDAgMDMgKiAqICogc291cmNlIC9ldGMvcHJvZmlsZTsgICAvZGF0YS9jb2RlL3JlbGVhc2VzL3h5Zi1taWRkbGV3YXJlLXN5c3RlbS9jdXJyZW50L3h5Zi1taWRkbGV3YXJlLXN5c3RlbS95aWkgeHlmLXNtcy10YXNrL2Nhc2U3IDMgMTIKNDAgMDMgKiAqICogc291cmNlIC9ldGMvcHJvZmlsZTsgICAvZGF0YS9jb2RlL3JlbGVhc2VzL3h5Zi1taWRkbGV3YXJlLXN5c3RlbS9jdXJyZW50L3h5Zi1taWRkbGV3YXJlLXN5c3RlbS95aWkgeHlmLXNtcy10YXNrL2Nhc2U3IDMgMTQKNTAgMDMgKiAqICogc291cmNlIC9ldGMvcHJvZmlsZTsgICAvZGF0YS9jb2RlL3JlbGVhc2VzL3h5Zi1taWRkbGV3YXJlLXN5c3RlbS9jdXJyZW50L3h5Zi1taWRkbGV3YXJlLXN5c3RlbS95aWkgeHlmLXNtcy10YXNrL2Nhc2U3IDMgMTYKNTAgMDMgKiAqICogc291cmNlIC9ldGMvcHJvZmlsZTsgICAvZGF0YS9jb2RlL3JlbGVhc2VzL3h5Zi1taWRkbGV3YXJlLXN5c3RlbS9jdXJyZW50L3h5Zi1taWRkbGV3YXJlLXN5c3RlbS95aWkgeHlmLXNtcy10YXNrL2Nhc2U3IDMgMTgKNTAgMDMgKiAqICogc291cmNlIC9ldGMvcHJvZmlsZTsgICAvZGF0YS9jb2RlL3JlbGVhc2VzL3h5Zi1taWRkbGV3YXJlLXN5c3RlbS9jdXJyZW50L3h5Zi1taWRkbGV3YXJlLXN5c3RlbS95aWkgeHlmLXNtcy10YXNrL2Nhc2U3IDMgMjAKMDAgMDQgKiAqICogc291cmNlIC9ldGMvcHJvZmlsZTsgICAvZGF0YS9jb2RlL3JlbGVhc2VzL3h5Zi1taWRkbGV3YXJlLXN5c3RlbS9jdXJyZW50L3h5Zi1taWRkbGV3YXJlLXN5c3RlbS95aWkgeHlmLXNtcy10YXNrL2Nhc2U3IDMgMjIKMDAgMDQgKiAqICogc291cmNlIC9ldGMvcHJvZmlsZTsgICAvZGF0YS9jb2RlL3JlbGVhc2VzL3h5Zi1taWRkbGV3YXJlLXN5c3RlbS9jdXJyZW50L3h5Zi1taWRkbGV3YXJlLXN5c3RlbS95aWkgeHlmLXNtcy10YXNrL2Nhc2U3IDggMAowMCAwNCAqICogKiBzb3VyY2UgL2V0Yy9wcm9maWxlOyAgIC9kYXRhL2NvZGUvcmVsZWFzZXMveHlmLW1pZGRsZXdhcmUtc3lzdGVtL2N1cnJlbnQveHlmLW1pZGRsZXdhcmUtc3lzdGVtL3lpaSB4eWYtc21zLXRhc2svY2FzZTcgOCAyCjAwIDA0ICogKiAqIHNvdXJjZSAvZXRjL3Byb2ZpbGU7ICAgL2RhdGEvY29kZS9yZWxlYXNlcy94eWYtbWlkZGxld2FyZS1zeXN0ZW0vY3VycmVudC94eWYtbWlkZGxld2FyZS1zeXN0ZW0veWlpIHh5Zi1zbXMtdGFzay9jYXNlNyA4IDQKMTAgMDQgKiAqICogc291cmNlIC9ldGMvcHJvZmlsZTsgICAvZGF0YS9jb2RlL3JlbGVhc2VzL3h5Zi1taWRkbGV3YXJlLXN5c3RlbS9jdXJyZW50L3h5Zi1taWRkbGV3YXJlLXN5c3RlbS95aWkgeHlmLXNtcy10YXNrL2Nhc2U3IDggNgoxMCAwNCAqICogKiBzb3VyY2UgL2V0Yy9wcm9maWxlOyAgIC9kYXRhL2NvZGUvcmVsZWFzZXMveHlmLW1pZGRsZXdhcmUtc3lzdGVtL2N1cnJlbnQveHlmLW1pZGRsZXdhcmUtc3lzdGVtL3lpaSB4eWYtc21zLXRhc2svY2FzZTcgOCA4CjEwIDA0ICogKiAqIHNvdXJjZSAvZXRjL3Byb2ZpbGU7ICAgL2RhdGEvY29kZS9yZWxlYXNlcy94eWYtbWlkZGxld2FyZS1zeXN0ZW0vY3VycmVudC94eWYtbWlkZGxld2FyZS1zeXN0ZW0veWlpIHh5Zi1zbXMtdGFzay9jYXNlNyA4IDEwCjEwIDA0ICogKiAqIHNvdXJjZSAvZXRjL3Byb2ZpbGU7ICAgL2RhdGEvY29kZS9yZWxlYXNlcy94eWYtbWlkZGxld2FyZS1zeXN0ZW0vY3VycmVudC94eWYtbWlkZGxld2FyZS1zeXN0ZW0veWlpIHh5Zi1zbXMtdGFzay9jYXNlNyA4IDEyCjIwIDA0ICogKiAqIHNvdXJjZSAvZXRjL3Byb2ZpbGU7ICAgL2RhdGEvY29kZS9yZWxlYXNlcy94eWYtbWlkZGxld2FyZS1zeXN0ZW0vY3VycmVudC94eWYtbWlkZGxld2FyZS1zeXN0ZW0veWlpIHh5Zi1zbXMtdGFzay9jYXNlNyA4IDE0CjIwIDA0ICogKiAqIHNvdXJjZSAvZXRjL3Byb2ZpbGU7ICAgL2RhdGEvY29kZS9yZWxlYXNlcy94eWYtbWlkZGxld2FyZS1zeXN0ZW0vY3VycmVudC94eWYtbWlkZGxld2FyZS1zeXN0ZW0veWlpIHh5Zi1zbXMtdGFzay9jYXNlNyA4IDE2CjIwIDA0ICogKiAqIHNvdXJjZSAvZXRjL3Byb2ZpbGU7ICAgL2RhdGEvY29kZS9yZWxlYXNlcy94eWYtbWlkZGxld2FyZS1zeXN0ZW0vY3VycmVudC94eWYtbWlkZGxld2FyZS1zeXN0ZW0veWlpIHh5Zi1zbXMtdGFzay9jYXNlNyA4IDE4CjIwIDA0ICogKiAqIHNvdXJjZSAvZXRjL3Byb2ZpbGU7ICAgL2RhdGEvY29kZS9yZWxlYXNlcy94eWYtbWlkZGxld2FyZS1zeXN0ZW0vY3VycmVudC94eWYtbWlkZGxld2FyZS1zeXN0ZW0veWlpIHh5Zi1zbXMtdGFzay9jYXNlNyA4IDIwCjIwIDA0ICogKiAqIHNvdXJjZSAvZXRjL3Byb2ZpbGU7ICAgL2RhdGEvY29kZS9yZWxlYXNlcy94eWYtbWlkZGxld2FyZS1zeXN0ZW0vY3VycmVudC94eWYtbWlkZGxld2FyZS1zeXN0ZW0veWlpIHh5Zi1zbXMtdGFzay9jYXNlNyA4IDIyCgoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="8">
-        <text>/bin/php
-/bin/php</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>nohls</text>
+        <text>action ShowPopupMenu</text>
       </register>
     </registers>
   </component>
