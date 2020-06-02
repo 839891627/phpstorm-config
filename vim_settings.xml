@@ -40,15 +40,15 @@
         <entry>action PreviousTab</entry>
         <entry>action Back</entry>
         <entry>vs</entry>
-        <entry>action SelectInProjectView</entry>
         <entry>wq</entry>
         <entry>action NextTab</entry>
         <entry>action Annotate</entry>
         <entry>action NextSplitter</entry>
-        <entry>action RecentFiles</entry>
         <entry>action KJumpAction.Word0</entry>
         <entry>action RenameElement</entry>
         <entry>nohls</entry>
+        <entry>action SelectInProjectView</entry>
+        <entry>action RecentFiles</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -522,7 +522,7 @@
         <text encoding="base64">ICAgICAgICAgICAgJ3JlcG9ydCcgICAgICAgID0+IHRydWUsLy8g5Liq5Lq65oql5ZGKCg==</text>
       </register>
       <register name=":" type="4">
-        <text>nohls</text>
+        <text>action RecentFiles</text>
       </register>
     </registers>
   </component>
