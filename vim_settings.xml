@@ -46,9 +46,9 @@
         <entry>.nohls</entry>
         <entry>action RecentFiles</entry>
         <entry>action PreviousTab</entry>
-        <entry>nohls</entry>
         <entry>action NextTab</entry>
         <entry>action Annotate</entry>
+        <entry>nohls</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -149,12 +149,7 @@
         <mark key="^" line="88" column="8" />
         <mark key="." line="88" column="7" />
       </file>
-      <file name="$USER_HOME$/Docker/shoufuyou-php-lib/shoufuyou/Util/Env.php" timestamp="1591156534129">
-        <mark key="'" line="30" column="28" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="58" column="6" />
-        <mark key="." line="438" column="0" />
-      </file>
+      <file name="$USER_HOME$/Docker/shoufuyou-php-lib/shoufuyou/Util/Env.php" timestamp="1591159407144" />
       <file name="$USER_HOME$/Docker/xinyongfei-mobile/lib/Controllers/Api/UserController.php" timestamp="1591091755729" />
       <file name="$USER_HOME$/Docker/xyf-middleware-system/common/config/test/redis.php" timestamp="1591095015291">
         <mark key="[" line="21" column="22" />
@@ -211,7 +206,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="353" column="16" filename="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/DelayQueueController.php" />
       <jump line="49" column="15" filename="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/DelayQueueController.php" />
       <jump line="2266" column="4" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/CreditUser.php" />
       <jump line="200" column="19" filename="$USER_HOME$/Docker/shoufuyou-notify/lib/Models/Utms/Loan360.php" />
@@ -311,6 +305,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/DelayQueueController.php" />
       <jump line="125" column="103" filename="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/DelayQueueController.php" />
       <jump line="223" column="103" filename="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/DelayQueueController.php" />
+      <jump line="54" column="0" filename="$USER_HOME$/Docker/shoufuyou-php-lib/shoufuyou/Util/Env.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -318,8 +313,8 @@
       <register name="a" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgICAgICAnUUQtQ1BTLVhZRi1QUEQwMicsCiAgICAgICAgJ1FELUNQUy1YWUYtU0hFTkJFSS0wMScsCiAgICAgICAgJ1FELUNQUy1YWUYtUlNESzAxJywKICAgICAgICAnRFEtWkMtWFlGLTM2MERLLTAxJywKICAgICAgICAnUUQtQ1BTLVhZRi01MVhZSzAzJywKICAgICAgICAnUUQtQ1BTLVhZRi01MVhZSzAyJywKICAgICAgICAnUUQtQ1BTLVhZRi01MVhZSzAxJywKICAgICAgICAnUUQtQ1BBLVhZRi1YSFFCMDEnLAogICAgICAgICdRRC1DUFMtWFlGLVFJQU5aMDEnLAogICAgICAgICdRRC1DUFMtWFlGLVBQRDAxJywKICAgICAgICAnUUQtQ1BTLVhZRi1TRFpKJywKICAgICAgICAnUUQtQ1BTLVhZRi1KRldLMDEnLAogICAgICAgICdRRC1DUFMtWFlGLUhRSEswMScsCiAgICAgICAgJ1FELUNQUy1YWUYtUFBEMDMnLAogICAgICAgICdRRC1DUFMtWFlGLVdBSzAxJywKICAgICAgICAnUUQtQ1BTLVhZRi1NT0dVSklFMDEnLAogICAgICAgICdRRC1DUFMtWFlGLUhLUlQwMScsCiAgICAgICAgJ1FELUNQUy1YWUYtSFlEMDEnLAogICAgICAgICdRRC1DUFMtWFlGLVFCWkYwMScsCiAgICAgICAgJ1FELUNQUy1YWUYtQUZRMDEnLAogICAgICAgICdRRC1aQy1YWEwtWFlGLUpHZ2R0MDEnLAogICAgICAgICdRRC1aQy1YWEwtWFlGLUpHZ2R0MDInLAogICAgICAgICdRRC1aQy1YWEwtWFlGLUpHZ2R0MDMnLAogICAgICAgICdRRC1aQy1YWEwtWFlGLUpHZ2R0MDQnLAogICAgICAgICdRRC1aQy1YWEwtWFlGLUpHZ2R0MDUnLAogICAgICAgICdRRC1aQy1YWEwtWFlGLUpHZ2R0MDYnLAogICAgICAgICdRRC1DUFMtWFlGLVpMUUIwMScs</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -342,11 +337,23 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgJGg1VXRtU291cmNlID0gWwogICAgICAgICdRRC1DUFMtWFlGLVBQRDAyJywKICAgICAgICAnUUQtQ1BTLVhZRi1TSEVOQkVJLTAxJywKICAgICAgICAnUUQtQ1BTLVhZRi1SU0RLMDEnLAogICAgICAgICdEUS1aQy1YWUYtMzYwREstMDEnLAogICAgICAgICdRRC1DUFMtWFlGLTUxWFlLMDMnLAogICAgICAgICdRRC1DUFMtWFlGLTUxWFlLMDInLAogICAgICAgICdRRC1DUFMtWFlGLTUxWFlLMDEnLAogICAgICAgICdRRC1DUEEtWFlGLVhIUUIwMScsCiAgICAgICAgJ1FELUNQUy1YWUYtUUlBTlowMScsCiAgICAgICAgJ1FELUNQUy1YWUYtUFBEMDEnLAogICAgICAgICdRRC1DUFMtWFlGLVNEWkonLAogICAgICAgICdRRC1DUFMtWFlGLUpGV0swMScsCiAgICAgICAgJ1FELUNQUy1YWUYtSFFISzAxJywKICAgICAgICAnUUQtQ1BTLVhZRi1QUEQwMycsCiAgICAgICAgJ1FELUNQUy1YWUYtV0FLMDEnLAogICAgICAgICdRRC1DUFMtWFlGLU1PR1VKSUUwMScsCiAgICAgICAgJ1FELUNQUy1YWUYtSEtSVDAxJywKICAgICAgICAnUUQtQ1BTLVhZRi1IWUQwMScsCiAgICAgICAgJ1FELUNQUy1YWUYtUUJaRjAxJywKICAgICAgICAnUUQtQ1BTLVhZRi1BRlEwMScsCiAgICAgICAgJ1FELVpDLVhYTC1YWUYtSkdnZHQwMScsCiAgICAgICAgJ1FELVpDLVhYTC1YWUYtSkdnZHQwMicsCiAgICAgICAgJ1FELVpDLVhYTC1YWUYtSkdnZHQwMycsCiAgICAgICAgJ1FELVpDLVhYTC1YWUYtSkdnZHQwNCcsCiAgICAgICAgJ1FELVpDLVhYTC1YWUYtSkdnZHQwNScsCiAgICAgICAgJ1FELVpDLVhYTC1YWUYtSkdnZHQwNicsCiAgICAgICAgJ1FELUNQUy1YWUYtWkxRQjAxJywKICAgIF07Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgICAgICAnUUQtQ1BTLVhZRi1QUEQwMicsCiAgICAgICAgJ1FELUNQUy1YWUYtU0hFTkJFSS0wMScsCiAgICAgICAgJ1FELUNQUy1YWUYtUlNESzAxJywKICAgICAgICAnRFEtWkMtWFlGLTM2MERLLTAxJywKICAgICAgICAnUUQtQ1BTLVhZRi01MVhZSzAzJywKICAgICAgICAnUUQtQ1BTLVhZRi01MVhZSzAyJywKICAgICAgICAnUUQtQ1BTLVhZRi01MVhZSzAxJywKICAgICAgICAnUUQtQ1BBLVhZRi1YSFFCMDEnLAogICAgICAgICdRRC1DUFMtWFlGLVFJQU5aMDEnLAogICAgICAgICdRRC1DUFMtWFlGLVBQRDAxJywKICAgICAgICAnUUQtQ1BTLVhZRi1TRFpKJywKICAgICAgICAnUUQtQ1BTLVhZRi1KRldLMDEnLAogICAgICAgICdRRC1DUFMtWFlGLUhRSEswMScsCiAgICAgICAgJ1FELUNQUy1YWUYtUFBEMDMnLAogICAgICAgICdRRC1DUFMtWFlGLVdBSzAxJywKICAgICAgICAnUUQtQ1BTLVhZRi1NT0dVSklFMDEnLAogICAgICAgICdRRC1DUFMtWFlGLUhLUlQwMScsCiAgICAgICAgJ1FELUNQUy1YWUYtSFlEMDEnLAogICAgICAgICdRRC1DUFMtWFlGLVFCWkYwMScsCiAgICAgICAgJ1FELUNQUy1YWUYtQUZRMDEnLAogICAgICAgICdRRC1aQy1YWEwtWFlGLUpHZ2R0MDEnLAogICAgICAgICdRRC1aQy1YWEwtWFlGLUpHZ2R0MDInLAogICAgICAgICdRRC1aQy1YWEwtWFlGLUpHZ2R0MDMnLAogICAgICAgICdRRC1aQy1YWEwtWFlGLUpHZ2R0MDQnLAogICAgICAgICdRRC1aQy1YWEwtWFlGLUpHZ2R0MDUnLAogICAgICAgICdRRC1aQy1YWEwtWFlGLUpHZ2R0MDYnLAogICAgICAgICdRRC1DUFMtWFlGLVpMUUIwMScs</text>
       </register>
       <register name="q" type="4">
-        <text />
+        <keys>
+          <key char="105" code="0" mods="0" />
+          <key char="39" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="39" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+        </keys>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -355,22 +362,22 @@
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZnVuY3Rpb24gbmV3UGF5KCRwYXlEYXRhLCAkYml6VHlwZSA9ICdwYXknKQogICAgewogICAgICAgICR1cmwgPSAnaHR0cHM6Ly8nIC4gQ29uZmlnOjpnZXRTdHJpbmcoJ3Nob3VmdXlvdS5wYXlfZG9tYWluJyk7CiAgICAgICAgJHdjID0gbmV3IFNmeVdlYkNsaWVudDsKICAgICAgICAkdWEgPSBDb25maWc6OmdldFN0cmluZygncGF5X3N5c3RlbS51YScpOwogICAgICAgICRrZXkgPSBDb25maWc6OmdldFN0cmluZygncGF5X3N5c3RlbS5rZXknKTsKICAgICAgICAkc2lnbktleSA9ICR1YS4ka2V5LiR1YTsKICAgICAgICAkYml6RGF0YSA9IGpzb25fZW5jb2RlKCRwYXlEYXRhKTsKICAgICAgICAkc2lnbiA9IG1kNSgkc2lnbktleS4kYml6VHlwZS4kc2lnbktleS4kYml6RGF0YS4kc2lnbktleSk7CiAgICAgICAgJHBhcmFtcyA9IFsKICAgICAgICAgICAgJ3VhJyA9PiAkdWEsCiAgICAgICAgICAgICdkZWJ1ZycgPT4gQ29uZmlnOjpnZXRTdHJpbmcoJ3BheV9zeXN0ZW0uZGVidWcnKSwKICAgICAgICAgICAgJ2Jpel90eXBlJyA9PiAkYml6VHlwZSwKICAgICAgICAgICAgJ2Jpel9kYXRhJyA9PiAkcGF5RGF0YSwKICAgICAgICAgICAgICAgICdzaWduJyA9PiAkc2lnbiwKICAgICAgICBdOwoKICAgICAgICAkcmVzdWx0ID0gJHdjLT5wb3N0KCR1cmwsICRwYXJhbXMsIFtDVVJMT1BUX1RJTUVPVVQgPT4gNjAsIFdlYkNsaWVudDo6T1BUX0RBVEFfVFlQRSA9PiAnYXBwbGljYXRpb24vanNvbiddKTsKICAgICAgICAkcmVzdWx0ID0ganNvbl9kZWNvZGUoJHJlc3VsdCwgdHJ1ZSk7CgogICAgICAgIHJldHVybiAkcmVzdWx0OwogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZnVuY3Rpb24gbmV3UGF5KCRwYXlEYXRhLCAkYml6VHlwZSA9ICdwYXknKQogICAgewogICAgICAgICR1cmwgPSAnaHR0cHM6Ly8nIC4gQ29uZmlnOjpnZXRTdHJpbmcoJ3Nob3VmdXlvdS5wYXlfZG9tYWluJyk7CiAgICAgICAgJHdjID0gbmV3IFNmeVdlYkNsaWVudDsKICAgICAgICAkdWEgPSBDb25maWc6OmdldFN0cmluZygncGF5X3N5c3RlbS51YScpOwogICAgICAgICRrZXkgPSBDb25maWc6OmdldFN0cmluZygncGF5X3N5c3RlbS5rZXknKTsKICAgICAgICAkc2lnbktleSA9ICR1YS4ka2V5LiR1YTsKICAgICAgICAkYml6RGF0YSA9IGpzb25fZW5jb2RlKCRwYXlEYXRhKTsKICAgICAgICAkc2lnbiA9IG1kNSgkc2lnbktleS4kYml6VHlwZS4kc2lnbktleS4kYml6RGF0YS4kc2lnbktleSk7CiAgICAgICAgJHBhcmFtcyA9IFsKICAgICAgICAgICAgJ3VhJyA9PiAkdWEsCiAgICAgICAgICAgICdkZWJ1ZycgPT4gQ29uZmlnOjpnZXRTdHJpbmcoJ3BheV9zeXN0ZW0uZGVidWcnKSwKICAgICAgICAgICAgJ2Jpel90eXBlJyA9PiAkYml6VHlwZSwKICAgICAgICAgICAgJ2Jpel9kYXRhJyA9PiAkcGF5RGF0YSwKICAgICAgICAgICAgICAgICdzaWduJyA9PiAkc2lnbiwKICAgICAgICBdOwoKICAgICAgICAkcmVzdWx0ID0gJHdjLT5wb3N0KCR1cmwsICRwYXJhbXMsIFtDVVJMT1BUX1RJTUVPVVQgPT4gNjAsIFdlYkNsaWVudDo6T1BUX0RBVEFfVFlQRSA9PiAnYXBwbGljYXRpb24vanNvbiddKTsKICAgICAgICAkcmVzdWx0ID0ganNvbl9kZWNvZGUoJHJlc3VsdCwgdHJ1ZSk7CgogICAgICAgIHJldHVybiAkcmVzdWx0OwogICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkc2lnbktleSA9ICR1YS4ka2V5LiR1YTsKICAgICAgICAkYml6RGF0YSA9IGpzb25fZW5jb2RlKCRwYXlEYXRhKTsKICAgICAgICAkc2lnbiA9IG1kNSgkc2lnbktleS4kYml6VHlwZS4kc2lnbktleS4kYml6RGF0YS4kc2lnbktleSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3NpZ25sID0+Jwo=</text>
+        <text encoding="base64">ICAgICAgICAkc2lnbktleSA9ICR1YS4ka2V5LiR1YTsKICAgICAgICAkYml6RGF0YSA9IGpzb25fZW5jb2RlKCRwYXlEYXRhKTsKICAgICAgICAkc2lnbiA9IG1kNSgkc2lnbktleS4kYml6VHlwZS4kc2lnbktleS4kYml6RGF0YS4kc2lnbktleSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAnc2lnbicK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3NpZ25sID0+Jwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -504,13 +511,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICcnCg==</text>
+        <text encoding="base64">ICAgICAgICAnc2lnbicK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICcnCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Annotate</text>
+        <text>nohls</text>
       </register>
     </registers>
   </component>
