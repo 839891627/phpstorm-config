@@ -122,8 +122,8 @@
         <mark key="." line="356" column="34" />
         <mark key="^" line="356" column="35" />
       </file>
-      <file name="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/DelayQueueController.php" timestamp="1591094823957">
-        <mark key="'" line="123" column="28" />
+      <file name="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/DelayQueueController.php" timestamp="1591095086994">
+        <mark key="'" line="190" column="92" />
         <mark key="[" line="127" column="71" />
         <mark key="]" line="127" column="71" />
         <mark key="." line="127" column="71" />
@@ -133,13 +133,6 @@
         <mark key="'" line="200" column="19" />
       </file>
       <file name="$USER_HOME$/Docker/xyf-middleware-system/common/config/prod/redis.php" timestamp="1591090411017" />
-      <file name="$USER_HOME$/Docker/shoufuyou-notify/lib/Controllers/XyfVipCardV2Controller.php" timestamp="1591003395605">
-        <mark key="'" line="65" column="41" />
-        <mark key="[" line="20" column="5" />
-        <mark key="]" line="21" column="22" />
-        <mark key="." line="21" column="21" />
-        <mark key="^" line="21" column="22" />
-      </file>
       <file name="$USER_HOME$/Docker/xyf-middleware-system/console/.gitignore" timestamp="1591092796922">
         <mark key="'" line="0" column="9" />
       </file>
@@ -174,6 +167,11 @@
         <mark key="^" line="31" column="105" />
       </file>
       <file name="$USER_HOME$/Docker/xinyongfei-mobile/lib/Controllers/Api/UserController.php" timestamp="1591091755729" />
+      <file name="$USER_HOME$/Docker/xyf-middleware-system/common/config/test/redis.php" timestamp="1591095015291">
+        <mark key="[" line="21" column="22" />
+        <mark key="]" line="21" column="22" />
+        <mark key="." line="21" column="22" />
+      </file>
       <file name="/Dummy.txt" timestamp="1591068226532">
         <mark key="[" line="0" column="0" />
       </file>
@@ -213,7 +211,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="126" column="0" filename="$USER_HOME$/Docker/shoufuyou-php-lib/shoufuyou/Table/XyfVipCardV2Service.php" />
       <jump line="37" column="13" filename="$USER_HOME$/Docker/shoufuyou-php-lib/shoufuyou/Table/XyfVipCardV2Service.php" />
       <jump line="105" column="51" filename="$USER_HOME$/Docker/shoufuyou-php-lib/shoufuyou/Table/XyfVipCardV2Service.php" />
       <jump line="103" column="31" filename="$USER_HOME$/Docker/shoufuyou-notify/lib/Models/Utms/Jqks.php" />
@@ -306,13 +303,14 @@
       <jump line="0" column="9" filename="$USER_HOME$/Docker/xyf-middleware-system/console/.gitignore" />
       <jump line="73" column="26" filename="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/DelayQueueController.php" />
       <jump line="81" column="23" filename="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/DelayQueueController.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/DelayQueueController.php" />
-      <jump line="96" column="92" filename="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/DelayQueueController.php" />
-      <jump line="190" column="92" filename="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/DelayQueueController.php" />
-      <jump line="298" column="85" filename="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/DelayQueueController.php" />
       <jump line="264" column="7" filename="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/DelayQueueController.php" />
       <jump line="17" column="0" filename="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/DelayQueueController.php" />
       <jump line="123" column="28" filename="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/DelayQueueController.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/DelayQueueController.php" />
+      <jump line="76" column="12" filename="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/DelayQueueController.php" />
+      <jump line="96" column="92" filename="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/DelayQueueController.php" />
+      <jump line="298" column="92" filename="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/DelayQueueController.php" />
+      <jump line="190" column="92" filename="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/DelayQueueController.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -321,7 +319,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>v</text>
+        <text>0</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -336,7 +334,7 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>v</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjcmVkaXRfdXNlclw+</text>
@@ -524,7 +522,7 @@
       <last-replace>;</last-replace>
       <last-substitute encoding="base64">XDx1c2VQb29sXD4=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
