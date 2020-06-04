@@ -29,7 +29,6 @@
         <entry encoding="base64">XDxwYXJhbXNcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>action FindUsages</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>action GotoFile</entry>
         <entry>action RenameElement</entry>
@@ -37,7 +36,6 @@
         <entry>action ShowPopupMenu</entry>
         <entry>.nohls</entry>
         <entry>action PreviousTab</entry>
-        <entry>action Annotate</entry>
         <entry>action NextTab</entry>
         <entry>action RecentFiles</entry>
         <entry>action Find</entry>
@@ -48,6 +46,8 @@
         <entry>wq</entry>
         <entry>action KJumpAction.Word0</entry>
         <entry>action SelectInProjectView</entry>
+        <entry>action ToggleBookmark</entry>
+        <entry>action Annotate</entry>
         <entry>nohls</entry>
       </history-cmd>
       <history-expr />
@@ -155,8 +155,12 @@
         <mark key="." line="11" column="27" />
         <mark key="^" line="11" column="28" />
       </file>
-      <file name="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/XyfSmsTaskController.php" timestamp="1591180533084">
-        <mark key="'" line="760" column="78" />
+      <file name="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/XyfSmsTaskController.php" timestamp="1591238890167">
+        <mark key="'" line="519" column="0" />
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="68" column="42" />
+        <mark key="^" line="68" column="42" />
+        <mark key="." line="68" column="41" />
       </file>
       <file name="$USER_HOME$/Docker/loanmarket/common/service/unionlogin/strategies/ActiveStrategy.php" timestamp="1591175550626">
         <mark key="'" line="65" column="12" />
@@ -180,9 +184,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="137" column="16" filename="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/DelayQueueController.php" />
-      <jump line="37" column="10" filename="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/DelayQueueController.php" />
-      <jump line="124" column="87" filename="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/DelayQueueController.php" />
       <jump line="125" column="96" filename="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/DelayQueueController.php" />
       <jump line="459" column="0" filename="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/DelayQueueController.php" />
       <jump line="9" column="37" filename="$USER_HOME$/a.txt" />
@@ -280,6 +281,9 @@
       <jump line="106" column="14" filename="$USER_HOME$/Docker/shoufuyou-notify/lib/Models/Utms/Fxk.php" />
       <jump line="164" column="0" filename="$USER_HOME$/Docker/shoufuyou-notify/lib/Models/Utms/Jqks.php" />
       <jump line="760" column="78" filename="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/XyfSmsTaskController.php" />
+      <jump line="757" column="24" filename="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/XyfSmsTaskController.php" />
+      <jump line="511" column="20" filename="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/XyfSmsTaskController.php" />
+      <jump line="517" column="0" filename="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/XyfSmsTaskController.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -288,7 +292,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">MTU5MTE3NjI0Nwo=</text>
+        <text encoding="base64">CiAgICAgICAgJHJlZ0JlZ2luID0gJzIwMjAtMDItMDEnOwogICAgICAgICRyZWdFbmQgPSAnMjAyMC0wNC0wMSc7Cg==</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -303,16 +307,16 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>from</text>
+        <text>regBegin</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXJhbXNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkcGhvbmUgPSAkcGFyYW1zWydwaG9uZSddOwo=</text>
+        <text encoding="base64">ICAgICAgICAkcmVnQmVnaW4gPSAnMjAyMC0wMi0wMSc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">MTU5MTE3NjI0Nwo=</text>
+        <text encoding="base64">CiAgICAgICAgJHJlZ0JlZ2luID0gJzIwMjAtMDItMDEnOwogICAgICAgICRyZWdFbmQgPSAnMjAyMC0wNC0wMSc7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -330,28 +334,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CjE1OTExNzYyNDdzaG91ZnV5b3Utbm90aWZ5CjE1OTExNzYyNDcK</text>
+        <text encoding="base64">MTU5MTE3NjI0Nwo=</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkY29tcGFyZVNpZ24gPSBtZDUoc2VsZjo6TUVSQ0hBTlRfQ09ERSAuICRmcm9tIC4gJHBob25lKTsK</text>
+        <text encoding="base64">CjE1OTExNzYyNDdzaG91ZnV5b3Utbm90aWZ5CjE1OTExNzYyNDcK</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IE1FUkNIQU5UX0NPREUgPSAnZnhrLWJhbm5lcic7IC8vIOS/neaMgeWSjOi0t+i2heWQjuWPsOmFjee9rueahOS4gOiHtAo=</text>
+        <text encoding="base64">ICAgICAgICAkY29tcGFyZVNpZ24gPSBtZDUoc2VsZjo6TUVSQ0hBTlRfQ09ERSAuICRmcm9tIC4gJHBob25lKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJHVpZHMpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IE1FUkNIQU5UX0NPREUgPSAnZnhrLWJhbm5lcic7IC8vIOS/neaMgeWSjOi0t+i2heWQjuWPsOmFjee9rueahOS4gOiHtAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRzY29yZSA8PSB0aW1lKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJHVpZHMpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRzY29yZSA8PSB0aW1lKCkpOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -485,10 +489,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFxZaWk6OmluZm8oJ+a3u+WKoOWPkemAgeefreS/oeS7u+WKoSzmiJDlip8nLCAndW5pb24tc21zLXRhc2snKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFxZaWk6OmluZm8oJ+a3u+WKoOWPkemAgeefreS/oeS7u+WKoSzmiJDlip86Jy4kbW9iaWxlLCAndW5pb24tc21zLXRhc2snKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFxZaWk6OmluZm8oJ+a3u+WKoOWPkemAgeefreS/oeS7u+WKoSzmiJDlip8nLCAndW5pb24tc21zLXRhc2snKTsK</text>
       </register>
       <register name=":" type="4">
         <text>nohls</text>
