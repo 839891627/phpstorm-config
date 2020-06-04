@@ -7,16 +7,10 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxjcmVkaXRfdXNlclw+</entry>
-        <entry encoding="base64">XDxVVE1fU09VUkNFXD4=</entry>
-        <entry encoding="base64">XDxzbGVlcFw+</entry>
-        <entry encoding="base64">XDx1dG1fc291cmNlXD4=</entry>
-        <entry encoding="base64">XDxjb250aW51ZVw+</entry>
         <entry encoding="base64">XDzmiJDlip9cPg==</entry>
         <entry encoding="base64">XDxsb2dBcnJcPg==</entry>
         <entry encoding="base64">XDxzZW5kXD4=</entry>
         <entry encoding="base64">XDxmcm9tXD4=</entry>
-        <entry encoding="base64">XDxwYXJhbXNcPg==</entry>
         <entry encoding="base64">XDxhZGRTbXNUYXNrc1w+</entry>
         <entry>gold</entry>
         <entry>未完成OCR</entry>
@@ -27,28 +21,34 @@
         <entry>成功激活额度</entry>
         <entry encoding="base64">XDxjb250ZXh0XD4=</entry>
         <entry encoding="base64">XDxwYXlTaWduXD4=</entry>
+        <entry encoding="base64">XDx2aXBcPg==</entry>
+        <entry encoding="base64">XDxiaXpfb3JkZXJfbm9cPg==</entry>
+        <entry encoding="base64">XDxwYXJhbXNcPg==</entry>
+        <entry encoding="base64">XDxoYW5kbGVTdWNjZXNzXD4=</entry>
+        <entry encoding="base64">XDx0b2RvXD4=</entry>
+        <entry encoding="base64">XDxiaXpfZGF0YVw+</entry>
       </history-search>
       <history-cmd>
-        <entry>action Annotate</entry>
         <entry encoding="base64">JzwsJz5zOi89Pi9n</entry>
         <entry encoding="base64">JzwsJz5zLzovPT4vZw==</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0NsYXNz</entry>
         <entry encoding="base64">JzwsJz52cw==</entry>
-        <entry>action KJumpAction.Word0</entry>
         <entry>action RecentFiles</entry>
-        <entry>action Forward</entry>
-        <entry>action NextTab</entry>
-        <entry>action OpenEditorInOppositeTabGroup</entry>
-        <entry>wq</entry>
-        <entry>action CloseAllEditors</entry>
         <entry>action FileStructurePopup</entry>
-        <entry>action Back</entry>
         <entry>vs</entry>
         <entry>action RenameElement</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
-        <entry>nohls</entry>
-        <entry>action NextSplitter</entry>
+        <entry>action NextTab</entry>
+        <entry>action KJumpAction.Word0</entry>
         <entry>action PreviousTab</entry>
+        <entry>.,.+8nohls</entry>
+        <entry>action Forward</entry>
+        <entry>action OpenEditorInOppositeTabGroup</entry>
+        <entry>action Back</entry>
+        <entry>wq</entry>
+        <entry>action NextSplitter</entry>
+        <entry>action CloseAllEditors</entry>
+        <entry>nohls</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -112,6 +112,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Docker/shoufuyou-notify/lib/Router.php" timestamp="1591259337820">
+        <mark key="'" line="169" column="17" />
+        <mark key="[" line="169" column="29" />
+        <mark key="]" line="169" column="30" />
+        <mark key="." line="169" column="30" />
+        <mark key="^" line="169" column="33" />
+      </file>
       <file name="$USER_HOME$/Docker/xinyongfei-app-api/lib/Router.php" timestamp="1591249524730">
         <mark key="'" line="0" column="0" />
       </file>
@@ -121,6 +128,13 @@
         <mark key="]" line="144" column="53" />
         <mark key="." line="144" column="52" />
         <mark key="^" line="144" column="53" />
+      </file>
+      <file name="$USER_HOME$/Docker/shoufuyou-notify/lib/Controllers/XyfVipCardV2Controller.php" timestamp="1591260568168">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="20" column="7" />
+        <mark key="]" line="20" column="14" />
+        <mark key="." line="20" column="13" />
+        <mark key="^" line="20" column="14" />
       </file>
       <file name="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/LoanmarketController.php" timestamp="1591253938926">
         <mark key="[" line="56" column="0" />
@@ -143,24 +157,18 @@
         <mark key="'" line="45" column="19" />
       </file>
       <file name="$USER_HOME$/Docker/xinyongfei-app-api/log/webclient/20200604.log" timestamp="1591258358480" />
-      <file name="$USER_HOME$/Docker/loanmarket/logs/serviceapi/web_client/20200603.log" timestamp="1591176533084">
-        <mark key="'" line="27" column="1" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-      </file>
       <file name="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/UserReport.php" timestamp="1591257380545">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="216" column="0" />
         <mark key="]" line="222" column="9" />
       </file>
-      <file name="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" timestamp="1591259149974">
-        <mark key="'" line="323" column="8" />
+      <file name="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" timestamp="1591260817475">
+        <mark key="'" line="76" column="121" />
         <mark key="z" line="27" column="27" />
-        <mark key="[" line="343" column="16" />
-        <mark key="]" line="343" column="57" />
-        <mark key="." line="343" column="56" />
-        <mark key="^" line="343" column="57" />
+        <mark key="[" line="76" column="42" />
+        <mark key="]" line="76" column="42" />
+        <mark key="." line="76" column="42" />
+        <mark key="^" line="76" column="83" />
       </file>
       <file name="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/GoldController.php" timestamp="1591249915871">
         <mark key="'" line="29" column="44" />
@@ -185,11 +193,6 @@
         <mark key="^" line="521" column="8" />
         <mark key="." line="846" column="0" />
       </file>
-      <file name="$USER_HOME$/Docker/loanmarket/common/service/unionlogin/strategies/ActiveStrategy.php" timestamp="1591175550626">
-        <mark key="'" line="65" column="12" />
-        <mark key="[" line="131" column="0" />
-        <mark key="]" line="131" column="78" />
-      </file>
       <file name="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/VipCardV2Controller.php" timestamp="1591259177916">
         <mark key="'" line="175" column="20" />
         <mark key="[" line="171" column="50" />
@@ -212,63 +215,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Router.php" />
-      <jump line="29" column="44" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/GoldController.php" />
-      <jump line="207" column="12" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
-      <jump line="13" column="6" filename="$USER_HOME$/Docker/shoufuyou-php-lib/shoufuyou/Table/XyfVipCardV2Service.php" />
-      <jump line="27" column="7" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
-      <jump line="337" column="0" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCard2019Service.php" />
-      <jump line="335" column="85" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCard2019Service.php" />
-      <jump line="330" column="30" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCard2019Service.php" />
-      <jump line="188" column="0" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/VipCardV2Controller.php" />
-      <jump line="185" column="4" filename="$USER_HOME$/Docker/shoufuyou-php-lib/shoufuyou/Table/XyfVipCardV2Service.php" />
-      <jump line="24" column="0" filename="$USER_HOME$/Docker/shoufuyou-php-lib/shoufuyou/Table/XyfVipCardV2Service.php" />
-      <jump line="341" column="69" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCard2019Service.php" />
-      <jump line="345" column="25" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCard2019Service.php" />
-      <jump line="322" column="6" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCard2019Service.php" />
-      <jump line="336" column="6" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCard2019Service.php" />
-      <jump line="349" column="20" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCard2019Service.php" />
-      <jump line="526" column="66" filename="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/XyfSmsTaskController.php" />
-      <jump line="316" column="8" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCard2019Service.php" />
-      <jump line="29" column="6" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
-      <jump line="33" column="19" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/VipCardV2Controller.php" />
-      <jump line="61" column="28" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/UserReportController.php" />
-      <jump line="73" column="28" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/UserReportController.php" />
-      <jump line="215" column="30" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/UserReport.php" />
-      <jump line="52" column="8" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
-      <jump line="36" column="33" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
-      <jump line="240" column="0" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
-      <jump line="351" column="4" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
-      <jump line="321" column="4" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
-      <jump line="304" column="3" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
-      <jump line="292" column="8" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
-      <jump line="283" column="19" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
-      <jump line="284" column="9" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
-      <jump line="94" column="5" filename="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/XyfSmsTaskController.php" />
-      <jump line="544" column="60" filename="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/XyfSmsTaskController.php" />
-      <jump line="91" column="28" filename="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/XyfSmsTaskController.php" />
-      <jump line="45" column="19" filename="$USER_HOME$/Docker/xinyongfei-app-api/config/env.prod.template.php" />
-      <jump line="540" column="8" filename="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/XyfSmsTaskController.php" />
-      <jump line="857" column="79" filename="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/XyfSmsTaskController.php" />
-      <jump line="422" column="49" filename="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/XyfSmsTaskController.php" />
-      <jump line="480" column="61" filename="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/XyfSmsTaskController.php" />
-      <jump line="485" column="80" filename="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/XyfSmsTaskController.php" />
-      <jump line="285" column="21" filename="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/XyfSmsTaskController.php" />
-      <jump line="845" column="28" filename="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/XyfSmsTaskController.php" />
-      <jump line="407" column="21" filename="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/XyfSmsTaskController.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/XyfSmsTaskController.php" />
-      <jump line="409" column="21" filename="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/XyfSmsTaskController.php" />
-      <jump line="585" column="33" filename="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/XyfSmsTaskController.php" />
-      <jump line="277" column="21" filename="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/XyfSmsTaskController.php" />
-      <jump line="736" column="29" filename="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/XyfSmsTaskController.php" />
-      <jump line="231" column="8" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
-      <jump line="200" column="8" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
-      <jump line="236" column="8" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
-      <jump line="280" column="40" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
-      <jump line="63" column="32" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
-      <jump line="38" column="12" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
-      <jump line="246" column="8" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
-      <jump line="290" column="0" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
       <jump line="279" column="12" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
       <jump line="80" column="0" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
       <jump line="245" column="10" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
@@ -279,7 +225,6 @@
       <jump line="259" column="21" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/UserReport.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/UserReport.php" />
       <jump line="261" column="38" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
-      <jump line="76" column="89" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
       <jump line="184" column="36" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/VipCardV2Controller.php" />
       <jump line="158" column="0" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/VipCardV2Controller.php" />
       <jump line="168" column="0" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/VipCardV2Controller.php" />
@@ -306,12 +251,70 @@
       <jump line="366" column="0" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
       <jump line="378" column="4" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
       <jump line="221" column="0" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
-      <jump line="220" column="21" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
       <jump line="301" column="11" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
       <jump line="308" column="23" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
       <jump line="326" column="0" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
       <jump line="348" column="43" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
       <jump line="323" column="8" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
+      <jump line="290" column="0" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
+      <jump line="23" column="40" filename="$USER_HOME$/Docker/shoufuyou-notify/lib/Router.php" />
+      <jump line="166" column="0" filename="$USER_HOME$/Docker/shoufuyou-notify/lib/Router.php" />
+      <jump line="170" column="17" filename="$USER_HOME$/Docker/shoufuyou-notify/lib/Router.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Docker/shoufuyou-notify/lib/Router.php" />
+      <jump line="149" column="45" filename="$USER_HOME$/Docker/shoufuyou-notify/lib/Router.php" />
+      <jump line="150" column="43" filename="$USER_HOME$/Docker/shoufuyou-notify/lib/Router.php" />
+      <jump line="169" column="17" filename="$USER_HOME$/Docker/shoufuyou-notify/lib/Router.php" />
+      <jump line="85" column="0" filename="$USER_HOME$/Docker/shoufuyou-notify/lib/Controllers/XyfVipCardV2Controller.php" />
+      <jump line="337" column="47" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
+      <jump line="311" column="27" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
+      <jump line="220" column="21" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
+      <jump line="41" column="8" filename="$USER_HOME$/Docker/shoufuyou-notify/lib/Controllers/XyfVipCardV2Controller.php" />
+      <jump line="65" column="54" filename="$USER_HOME$/Docker/shoufuyou-notify/lib/Controllers/XyfVipCardV2Controller.php" />
+      <jump line="29" column="51" filename="$USER_HOME$/Docker/shoufuyou-notify/lib/Controllers/XyfVipCardV2Controller.php" />
+      <jump line="22" column="9" filename="$USER_HOME$/Docker/shoufuyou-notify/lib/Controllers/XyfVipCardV2Controller.php" />
+      <jump line="23" column="19" filename="$USER_HOME$/Docker/shoufuyou-notify/lib/Controllers/XyfVipCardV2Controller.php" />
+      <jump line="28" column="31" filename="$USER_HOME$/Docker/shoufuyou-notify/lib/Controllers/XyfVipCardV2Controller.php" />
+      <jump line="38" column="20" filename="$USER_HOME$/Docker/shoufuyou-notify/lib/Controllers/XyfVipCardV2Controller.php" />
+      <jump line="51" column="13" filename="$USER_HOME$/Docker/shoufuyou-notify/lib/Controllers/XyfVipCardV2Controller.php" />
+      <jump line="80" column="46" filename="$USER_HOME$/Docker/shoufuyou-notify/lib/Controllers/XyfVipCardV2Controller.php" />
+      <jump line="82" column="2" filename="$USER_HOME$/Docker/shoufuyou-notify/lib/Controllers/XyfVipCardV2Controller.php" />
+      <jump line="48" column="8" filename="$USER_HOME$/Docker/shoufuyou-notify/lib/Controllers/XyfVipCardV2Controller.php" />
+      <jump line="31" column="40" filename="$USER_HOME$/Docker/shoufuyou-notify/lib/Controllers/XyfVipCardV2Controller.php" />
+      <jump line="88" column="12" filename="$USER_HOME$/Docker/shoufuyou-notify/lib/Controllers/XyfVipCardV2Controller.php" />
+      <jump line="3" column="0" filename="$USER_HOME$/Docker/shoufuyou-notify/lib/Controllers/XyfVipCardV2Controller.php" />
+      <jump line="42" column="12" filename="$USER_HOME$/Docker/shoufuyou-notify/lib/Controllers/XyfVipCardV2Controller.php" />
+      <jump line="104" column="0" filename="$USER_HOME$/Docker/shoufuyou-notify/lib/Controllers/XyfVipCardV2Controller.php" />
+      <jump line="76" column="13" filename="$USER_HOME$/Docker/shoufuyou-notify/lib/Controllers/XyfVipCardV2Controller.php" />
+      <jump line="49" column="12" filename="$USER_HOME$/Docker/shoufuyou-notify/lib/Controllers/XyfVipCardV2Controller.php" />
+      <jump line="67" column="109" filename="$USER_HOME$/Docker/shoufuyou-notify/lib/Controllers/XyfVipCardV2Controller.php" />
+      <jump line="132" column="27" filename="$USER_HOME$/Docker/shoufuyou-notify/lib/Controllers/XyfVipCardV2Controller.php" />
+      <jump line="83" column="8" filename="$USER_HOME$/Docker/shoufuyou-notify/lib/Controllers/XyfVipCardV2Controller.php" />
+      <jump line="116" column="12" filename="$USER_HOME$/Docker/shoufuyou-notify/lib/Controllers/XyfVipCardV2Controller.php" />
+      <jump line="75" column="12" filename="$USER_HOME$/Docker/shoufuyou-notify/lib/Controllers/XyfVipCardV2Controller.php" />
+      <jump line="106" column="8" filename="$USER_HOME$/Docker/shoufuyou-notify/lib/Controllers/XyfVipCardV2Controller.php" />
+      <jump line="179" column="0" filename="$USER_HOME$/Docker/shoufuyou-notify/lib/Controllers/XyfVipCardV2Controller.php" />
+      <jump line="163" column="21" filename="$USER_HOME$/Docker/shoufuyou-notify/lib/Controllers/XyfVipCardV2Controller.php" />
+      <jump line="109" column="49" filename="$USER_HOME$/Docker/shoufuyou-notify/lib/Controllers/XyfVipCardV2Controller.php" />
+      <jump line="43" column="0" filename="$USER_HOME$/Docker/shoufuyou-notify/lib/Controllers/XyfVipCardV2Controller.php" />
+      <jump line="53" column="8" filename="$USER_HOME$/Docker/shoufuyou-notify/lib/Controllers/XyfVipCardV2Controller.php" />
+      <jump line="78" column="8" filename="$USER_HOME$/Docker/shoufuyou-notify/lib/Controllers/XyfVipCardV2Controller.php" />
+      <jump line="99" column="5" filename="$USER_HOME$/Docker/shoufuyou-notify/lib/Controllers/XyfVipCardV2Controller.php" />
+      <jump line="52" column="52" filename="$USER_HOME$/Docker/shoufuyou-notify/lib/Controllers/XyfVipCardV2Controller.php" />
+      <jump line="155" column="8" filename="$USER_HOME$/Docker/shoufuyou-notify/lib/Controllers/XyfVipCardV2Controller.php" />
+      <jump line="5" column="0" filename="$USER_HOME$/Docker/shoufuyou-notify/lib/Controllers/XyfVipCardV2Controller.php" />
+      <jump line="63" column="0" filename="$USER_HOME$/Docker/shoufuyou-notify/lib/Controllers/XyfVipCardV2Controller.php" />
+      <jump line="98" column="19" filename="$USER_HOME$/Docker/shoufuyou-notify/lib/Controllers/XyfVipCardV2Controller.php" />
+      <jump line="169" column="29" filename="$USER_HOME$/Docker/shoufuyou-notify/lib/Controllers/XyfVipCardV2Controller.php" />
+      <jump line="173" column="29" filename="$USER_HOME$/Docker/shoufuyou-notify/lib/Controllers/XyfVipCardV2Controller.php" />
+      <jump line="21" column="11" filename="$USER_HOME$/Docker/shoufuyou-notify/lib/Controllers/XyfVipCardV2Controller.php" />
+      <jump line="64" column="6" filename="$USER_HOME$/Docker/shoufuyou-notify/lib/Controllers/XyfVipCardV2Controller.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Docker/shoufuyou-notify/lib/Controllers/XyfVipCardV2Controller.php" />
+      <jump line="313" column="4" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
+      <jump line="50" column="8" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
+      <jump line="235" column="9" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
+      <jump line="60" column="13" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
+      <jump line="76" column="121" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -320,7 +323,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>ret</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -335,16 +338,16 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>ret</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwYXlTaWduXD4=</text>
+        <text encoding="base64">XDxiaXpfZGF0YVw+</text>
       </register>
-      <register name="0" type="4">
-        <text>XyfVipCardV2Service::CARD_NAME</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZjo6aGFuZGxlU3VjY2VzcygkcGF5UmV0LCAkcmVjb3JkKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgXTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyB0b2RvIOWMuuWIhuaUr+S7mOexu+Weiwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -362,28 +365,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFsK</text>
+        <text encoding="base64">ICAgICAgICAvLyB0b2RvIOWMuuWIhuaUr+S7mOexu+Weiwo=</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmOjphbGlwYXkoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgRGJDbGllbnQ6OnVwZGF0ZUJ5SWQoJ3h5Zl9wYXlfcmVjb3JkJywgJHBheVJldCwgJHJlY29yZFsnaWQnXSk7Cg==</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDliJ3lp4vljJbmlK/ku5jorrDlvZUKICAgICAgICBEYkNsaWVudDo6aW5zZXJ0KCd4eWZfcGF5X3JlY29yZCcsIFsKICAgICAgICAgICAgJ3VzZXJfaWQnICAgICAgPT4gQ3JlZGl0VXNlcjo6Z2V0Q3VycmVudElkKCksCiAgICAgICAgICAgICdiaXpfb3JkZXJfbm8nID0+ICRwYXJhbXNbJ29yZGVyX251bWJlciddLAogICAgICAgICAgICAnc3RhdHVzJyAgICAgICA9PiBYeWZWaXBDYXJkVjJTZXJ2aWNlOjpQQVlfUkVDT1JEX1NUQVRVU19QRU5ESU5HLAogICAgICAgICAgICAnYW1vdW50JyAgICAgICA9PiAkcGFyYW1zWydvcmRlcl9hbW91bnQnXSwKICAgICAgICAgICAgJ2JhbmtfY2FyZF9ubycgPT4gJycsCiAgICAgICAgICAgICdiYW5rX25hbWUnICAgID0+ICcnLAogICAgICAgICAgICAnY2NfYmFua19pZCcgICA9PiAwLAogICAgICAgICAgICAncGF5X3R5cGUnICAgICA9PiAnYWxpcGF5JywKICAgICAgICAgICAgJ3RhZycgICAgICAgICAgPT4gJHBhcmFtc1snc3ViamVjdCddLAogICAgICAgIF0pOwogICAgICAgICRwYXJhbXMgPSBzZWxmOjpwYXlTaWduKCRwYXJhbXMpOwogICAgICAgICRwYXlSZXN1bHQgPSBCaXpTZnlXZWJDbGllbnQ6OnBheSgkcGFyYW1zKTsKICAgICAgICBCaXpMb2c6OmxvZygi5pSv5LuY5a6d5pSv5LuY6L+U5Zue77yaIiAuIGpzb25fZW5jb2RlKCRwYXlSZXN1bHQpKTsKICAgICAgICBpZiAoaXNzZXQoJHBheVJlc3VsdFsnc3RhdHVzJ10pICYmICRwYXlSZXN1bHRbJ3N0YXR1cyddID09IDEpIHsKICAgICAgICAgICAgLy8g6Lez6L2s5Yiw5pSv5LuY6aG1CiAgICAgICAgICAgIHJldHVybiBbCiAgICAgICAgICAgICAgICAncGF5X3VybCcgPT4gJHBheVJlc3VsdFsncmVzcG9uc2UnXVsncGF5X3VybCddLAogICAgICAgICAgICBdOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIERiQ2xpZW50Ojp1cGRhdGVCeUlkKCd4eWZfcGF5X3JlY29yZCcsIFsKICAgICAgICAgICAgICAgICdzdGF0dXMnICA9PiBYeWZWaXBDYXJkVjJTZXJ2aWNlOjpQQVlfUkVDT1JEX1NUQVRVU19GQUlMRUQsCiAgICAgICAgICAgICAgICAnbWVzc2FnZScgPT4gJ+aUr+S7mOWksei0pTonIC4gJHBheVJlc3VsdFsnbWVzc2FnZSddLAogICAgICAgICAgICBdLCBEYkNsaWVudDo6Z2V0TGFzdEluc2VydElkKCkpOwogICAgICAgICAgICB0aHJvdyBuZXcgXEV4Y2VwdGlvbign5pSv5LuY5aSx6LSlIScpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAkcGF5UmV0WydtZXNzYWdlJ10gPSAn5YW25LuW5pSv5LuY54q25oCBOicgLiAkcGFyYW1zWydwYXlfc3RhdHVzJ10gLiAkcGFyYW1zWydjaGFubmVsX3Jlc3BvbnNlJ107Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkcGFyYW1zID0gWwogICAgICAgICAgICAicGF5X3R5cGUiICAgICA9PiAiYWxpX2g1IiwgLy8g5pSv5LuY57G75Z6LCiAgICAgICAgICAgICJvcmRlcl9udW1iZXIiID0+IFxTaG91ZnV5b3VCaXpDb21tb25cTW9kZWxzXENhc2hCaWxsXFV0aWw6OnNlcXVlbmNlSWQoKSwgIC8vIOiuouWNleWPtwogICAgICAgICAgICAib3JkZXJfYW1vdW50IiA9PiAkcHJpY2UsIC8vIOiuouWNlemHkemine+8jOWNleS9jeWIhgogICAgICAgICAgICAic3ViamVjdCIgICAgICA9PiBYeWZWaXBDYXJkVjJTZXJ2aWNlOjpDQVJEX05BTUUsICAvLyDllYblk4HmoIfpopgKICAgICAgICAgICAgImJvZHkiICAgICAgICAgPT4gWHlmVmlwQ2FyZFYyU2VydmljZTo6Q0FSRF9OQU1FLAogICAgICAgICAgICAibm90aWZ5X3VybCIgICA9PiAkbm90aWZ5VXJsLAogICAgICAgICAgICAicmV0dXJuX3VybCIgICA9PiAiIiwgLy8g5Zue6Lez5Zyw5Z2AIHRvZG8KICAgICAgICAgICAgLy8gInJldHVybl9wYXJhbSIgPT4gIiIsIC8vIOWbnui3s+WcsOWdgOWinuWKoOeahOWPguaVsCB0b2RvCiAgICAgICAgICAgICJxdWl0X3VybCIgICAgID0+ICIiLCAgLy8g5Y+W5raI5pSv5LuY6Lez6L2s5Zyw5Z2AIHRvZG8KICAgICAgICAgICAgImV4cGlyZWRfdGltZSIgPT4gc3RydG90aW1lKCcrIDMwIG1pbnV0ZScpICAvLyDorqLljZXov4fmnJ/ml7bpl7TvvIzml7bpl7TmiLMKICAgICAgICBdOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYml6X29yZGVyX25vCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHBheVJldFsnbWVzc2FnZSddID0gJ+aUr+S7mOaIkOWKnyc7CiAgICAgICAgICAgICRwYXlSZXRbJ3N0YXR1cyddID0gWHlmVmlwQ2FyZFYyU2VydmljZTo6UEFZX1JFQ09SRF9TVEFUVVNfU1VDQ0VTUzsKICAgICAgICAgICAgJHJldCA9IERiQ2xpZW50Ojp1cGRhdGUoJ3h5Zl9wYXlfcmVjb3JkJywgJHBheVJldCwgWwogICAgICAgICAgICAgICAgJ2lkJyAgICAgPT4gJHJlY29yZFsnaWQnXSwKICAgICAgICAgICAgICAgICdzdGF0dXMnID0+IFh5ZlZpcENhcmRWMlNlcnZpY2U6OlBBWV9SRUNPUkRfU1RBVFVTX1BFTkRJTkcsCiAgICAgICAgICAgIF0pOwogICAgICAgICAgICBpZiAoJHJldCA9PSAwKSB7CiAgICAgICAgICAgICAgICAvLyDpmLLmraLlubblj5Hlm57osIMKICAgICAgICAgICAgICAgIHJldHVybjsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBCaXpMb2c6OmxvZygi5pSv5LuY5a6d5pSv5LuY6L+U5Zue77yaIiAuIGpzb25fZW5jb2RlKCRwYXlSZXN1bHQpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -517,21 +520,21 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInF1aXRfdXJsIiAgICAgPT4gJHF1aXRVcmwsICAvLyDlj5bmtojmlK/ku5jot7PovazlnLDlnYAgdG9kbwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGJpekRhdGEgPSBqc29uX2RlY29kZSgkcmVjb3JkWydiaXpfZGF0YSddLCB0cnVlKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgIC8vIOaUr+S7mOaIkOWKn++8jOWPkeWIuOadg+ebigogICAgICAgICAgICAkY2FzaENvdXBvbklkcyA9IFh5ZlZpcENhcmRWMlNlcnZpY2U6OnNlbmRDb3Vwb25WMigkcmVjb3JkWyd1c2VyX2lkJ10sICRiaXpEYXRhWydjYXJkX3R5cGUnXSk7CiAgICAgICAgICAgIFh5ZlZpcENhcmRWMlNlcnZpY2U6OnNlbmRWaXBDYXJkVjIoJHJlY29yZFsndXNlcl9pZCddLCAkcmVjb3JkWydpZCddLCAkY2FzaENvdXBvbklkcywgJGJpekRhdGFbJ2NhcmRfdHlwZSddKTsKCiAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICAkZmlsZU5hbWUgPSAkcmVjb3JkWydiaXpfb3JkZXJfbm8nXSAuICcucGRmJzsKICAgICAgICAgICAgICAgIFh5ZlZpcENhcmRWMlNlcnZpY2U6OmdlbkFncmVlbWVudCgkZmlsZU5hbWUsICRyZWNvcmRbJ3VzZXJfaWQnXSwgJ3BheScpOwogICAgICAgICAgICAgICAgWHlmVmlwQ2FyZFYyU2VydmljZTo6Z2VuQWdyZWVtZW50KCRmaWxlTmFtZSwgJHJlY29yZFsndXNlcl9pZCddLCAnc2VydmljZScpOwogICAgICAgICAgICB9IGNhdGNoIChcRXhjZXB0aW9uICRlKSB7CiAgICAgICAgICAgICAgICBCaXpMb2c6OmxvZygn55Sf5oiQ5Y2P6K6u5aSx6LSl77yBcGF5X29yZGVyX25vOicgLiAkcmVjb3JkWydwYXlfb3JkZXJfbm8nXSAuICc7JyAuICRlLT5nZXRNZXNzYWdlKCkpOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action PreviousTab</text>
+        <text>nohls</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxwYXlTaWduXD4=</last-search>
+      <last-search encoding="base64">XDxiaXpfZGF0YVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwYXlTaWduXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxiaXpfZGF0YVw+</last-pattern>
       <last-replace encoding="base64">PT4=</last-replace>
       <last-substitute>:</last-substitute>
       <last-dir>1</last-dir>
