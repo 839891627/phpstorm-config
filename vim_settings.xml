@@ -29,26 +29,26 @@
         <entry encoding="base64">XDxhZGRTbXNUYXNrc1w+</entry>
       </history-search>
       <history-cmd>
-        <entry>source ~/.ideavimrc</entry>
-        <entry>action GotoFile</entry>
-        <entry>action RenameElement</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>action ShowPopupMenu</entry>
         <entry>.nohls</entry>
         <entry>action PreviousTab</entry>
-        <entry>action NextTab</entry>
         <entry>action RecentFiles</entry>
         <entry>action Find</entry>
         <entry>vs</entry>
         <entry>action GotoClass</entry>
         <entry>action NextSplitter</entry>
         <entry>wq</entry>
-        <entry>action KJumpAction.Word0</entry>
         <entry>action SelectInProjectView</entry>
         <entry>action ToggleBookmark</entry>
-        <entry>action Annotate</entry>
-        <entry>action Back</entry>
+        <entry>action Forward</entry>
         <entry>nohls</entry>
+        <entry>action Back</entry>
+        <entry>action NextTab</entry>
+        <entry>action FileStructurePopup</entry>
+        <entry>action KJumpAction.Word0</entry>
+        <entry>action KJumpAction.Line</entry>
+        <entry>action Annotate</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -139,15 +139,16 @@
         <mark key="]" line="193" column="0" />
         <mark key="." line="193" column="0" />
       </file>
-      <file name="$USER_HOME$/a.txt" timestamp="1591163257908">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/CreditUser.php" timestamp="1591249039517">
+        <mark key="'" line="186" column="22" />
       </file>
       <file name="$USER_HOME$/Docker/xinyongfei-app-api/config/env.test.template.php" timestamp="1591172779248">
         <mark key="'" line="197" column="25" />
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="53" />
+      </file>
+      <file name="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/UserController.php" timestamp="1591249022718">
+        <mark key="'" line="168" column="27" />
       </file>
       <file name="$USER_HOME$/Docker/xyf-middleware-system/common/config/local/redis.php" timestamp="1591167761617">
         <mark key="[" line="11" column="23" />
@@ -183,22 +184,14 @@
         <mark key="." line="842" column="9" />
         <mark key="^" line="842" column="10" />
       </file>
-      <file name="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/CreditUser.php" timestamp="1591156517011">
-        <mark key="'" line="2254" column="125" />
+      <file name="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/CreditUser.php" timestamp="1591248980703">
+        <mark key="'" line="2167" column="44" />
         <mark key="[" line="2254" column="196" />
         <mark key="]" line="2254" column="196" />
         <mark key="." line="2254" column="196" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="250" column="17" filename="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/DelayQueueController.php" />
-      <jump line="251" column="16" filename="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/DelayQueueController.php" />
-      <jump line="270" column="13" filename="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/DelayQueueController.php" />
-      <jump line="276" column="16" filename="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/DelayQueueController.php" />
-      <jump line="356" column="21" filename="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/DelayQueueController.php" />
-      <jump line="361" column="17" filename="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/DelayQueueController.php" />
-      <jump line="362" column="16" filename="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/DelayQueueController.php" />
-      <jump line="382" column="13" filename="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/DelayQueueController.php" />
       <jump line="388" column="16" filename="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/DelayQueueController.php" />
       <jump line="391" column="0" filename="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/DelayQueueController.php" />
       <jump line="468" column="21" filename="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/DelayQueueController.php" />
@@ -291,6 +284,14 @@
       <jump line="527" column="15" filename="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/XyfSmsTaskController.php" />
       <jump line="276" column="25" filename="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/XyfSmsTaskController.php" />
       <jump line="271" column="57" filename="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/XyfSmsTaskController.php" />
+      <jump line="78" column="38" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/UserController.php" />
+      <jump line="80" column="40" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/UserController.php" />
+      <jump line="127" column="35" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/CreditUser.php" />
+      <jump line="91" column="49" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/CreditUser.php" />
+      <jump line="2166" column="27" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/CreditUser.php" />
+      <jump line="2167" column="44" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/CreditUser.php" />
+      <jump line="168" column="27" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/UserController.php" />
+      <jump line="186" column="22" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/CreditUser.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -502,7 +503,7 @@
         <text encoding="base64">CiAgICAgICAgJG1zZyA9IHNwcmludGYoJ+etm+mAieadoeS7tu+8miVzJywgJHdoZXJlKTsKCg==</text>
       </register>
       <register name=":" type="4">
-        <text>nohls</text>
+        <text>action Annotate</text>
       </register>
     </registers>
   </component>
