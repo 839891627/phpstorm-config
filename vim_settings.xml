@@ -35,7 +35,6 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gU3Vycm91bmRXaXRo</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>action CloseAllEditors</entry>
-        <entry>action Annotate</entry>
         <entry>action OpenEditorInOppositeTabGroup</entry>
         <entry>action RenameElement</entry>
         <entry>action SelectInProjectView</entry>
@@ -49,6 +48,7 @@
         <entry>action FileStructurePopup</entry>
         <entry>action Back</entry>
         <entry>nohls</entry>
+        <entry>action Annotate</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -136,9 +136,6 @@
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
-      </file>
-      <file name="$USER_HOME$/Docker/xyf-common-sms/common/services/sms/XyfSms.php" timestamp="1591334918000">
-        <mark key="'" line="46" column="28" />
       </file>
       <file name="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" timestamp="1591595015161">
         <mark key="'" line="557" column="17" />
@@ -531,7 +528,7 @@
         <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcmVjb3JkKTsKICAgICAgICBkaWU7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>nohls</text>
+        <text>action Annotate</text>
       </register>
     </registers>
   </component>
