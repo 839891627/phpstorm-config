@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxwYXJhbXNcPg==</entry>
-        <entry encoding="base64">XDxoYW5kbGVTdWNjZXNzXD4=</entry>
         <entry encoding="base64">XDx0b2RvXD4=</entry>
         <entry encoding="base64">XDxiaXpfZGF0YVw+</entry>
         <entry encoding="base64">XDxwYXlSZWNvcmRJZFw+</entry>
@@ -27,6 +25,8 @@
         <entry encoding="base64">XDxnZXRDb2RlTWVzc2FnZTJcPg==</entry>
         <entry encoding="base64">XDxwYXlTaWduXD4=</entry>
         <entry encoding="base64">XDxnZXRGaW5hbmNpYWxDb25maWdcPg==</entry>
+        <entry>loanmarket</entry>
+        <entry>homepage</entry>
       </history-search>
       <history-cmd>
         <entry>.nohls</entry>
@@ -47,8 +47,8 @@
         <entry>action KJumpAction.Word0</entry>
         <entry>action PreviousTab</entry>
         <entry>action NextTab</entry>
-        <entry>nohls</entry>
         <entry>wq</entry>
+        <entry>nohls</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -148,6 +148,13 @@
         <mark key="." line="559" column="14" />
         <mark key="^" line="559" column="15" />
       </file>
+      <file name="$USER_HOME$/Docker/shoufuyou-tool/bin/conf/common_env.test.template.php" timestamp="1591600279384">
+        <mark key="'" line="165" column="8" />
+        <mark key="[" line="152" column="63" />
+        <mark key="]" line="152" column="73" />
+        <mark key="." line="152" column="72" />
+        <mark key="^" line="152" column="73" />
+      </file>
       <file name="$USER_HOME$/Docker/shoufuyou-notify/lib/Controllers/XyfVipCardV2Controller.php" timestamp="1591596696554">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="196" column="0" />
@@ -172,12 +179,6 @@
         <mark key="]" line="47" column="14" />
         <mark key="^" line="47" column="14" />
         <mark key="." line="47" column="13" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/phpstorm.vmoptions" timestamp="1591267918589">
-        <mark key="'" line="7" column="2" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Docker/shoufuyou-php-lib/shoufuyou/Table/XyfVipCardV2Service.php" timestamp="1591596646069">
         <mark key="'" line="0" column="0" />
@@ -219,8 +220,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="476" column="14" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
-      <jump line="387" column="0" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
       <jump line="484" column="14" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
       <jump line="313" column="27" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
       <jump line="355" column="0" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Router.php" />
@@ -319,6 +318,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Docker/shoufuyou-php-lib/shoufuyou/Table/XyfVipCardV2Service.php" />
       <jump line="196" column="0" filename="$USER_HOME$/Docker/shoufuyou-notify/lib/Controllers/XyfVipCardV2Controller.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Docker/shoufuyou-notify/lib/Controllers/XyfVipCardV2Controller.php" />
+      <jump line="8" column="16" filename="$USER_HOME$/Docker/shoufuyou-tool/bin/conf/common_env.test.template.php" />
+      <jump line="165" column="8" filename="$USER_HOME$/Docker/shoufuyou-tool/bin/conf/common_env.test.template.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -326,8 +327,8 @@
       <register name="a" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkY2FzaENvdXBvbklkcywgJHN0YXJ0LCAkZW5kKTtkaWU7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>xinyongpurse</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -342,10 +343,10 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>xinyongpurse</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRGaW5hbmNpYWxDb25maWdcPg==</text>
+        <text>homepage</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICgkY2FyZFR5cGUgPT0gWHlmVmlwQ2FyZFYyU2VydmljZTo6Q0FSRF9UWVBFX0hBTEZfWUVBUiAmJiAkaXRlbVsnaXNfaGFsZl95ZWFyJ10gIT0gJGNhcmRUeXBlKSB7CiAgICAgICAgICAgICAgICAgICAgdW5zZXQoJGdvbGRSZXN1bHRbJGluZGV4XSk7CiAgICAgICAgICAgICAgICB9Cg==</text>
@@ -530,19 +531,19 @@
         <text encoding="base64">ICAgICAgICAgICAgJ2RlYnVnJyAgICA9PiBmYWxzZSwK</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>nohls</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxnZXRGaW5hbmNpYWxDb25maWdcPg==</last-search>
+      <last-search>homepage</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRGaW5hbmNpYWxDb25maWdcPg==</last-pattern>
+      <last-pattern>homepage</last-pattern>
       <last-replace encoding="base64">PT4=</last-replace>
       <last-substitute>:</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
