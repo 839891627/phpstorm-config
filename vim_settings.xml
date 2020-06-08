@@ -36,19 +36,19 @@
         <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>action CloseAllEditors</entry>
         <entry>action OpenEditorInOppositeTabGroup</entry>
-        <entry>action RenameElement</entry>
         <entry>action SelectInProjectView</entry>
         <entry>action KJumpAction.Word0</entry>
-        <entry>action PreviousTab</entry>
-        <entry>action NextTab</entry>
         <entry>action RecentFiles</entry>
         <entry>vs</entry>
         <entry>wq</entry>
+        <entry>action Annotate</entry>
+        <entry>action PreviousTab</entry>
         <entry>action NextSplitter</entry>
+        <entry>action NextTab</entry>
         <entry>action FileStructurePopup</entry>
         <entry>action Back</entry>
         <entry>nohls</entry>
-        <entry>action Annotate</entry>
+        <entry>action RenameElement</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -137,13 +137,12 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" timestamp="1591595015161">
-        <mark key="'" line="557" column="17" />
+      <file name="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" timestamp="1591611544994">
+        <mark key="'" line="555" column="8" />
         <mark key="z" line="27" column="27" />
-        <mark key="[" line="559" column="8" />
-        <mark key="]" line="559" column="15" />
-        <mark key="." line="559" column="14" />
-        <mark key="^" line="559" column="15" />
+        <mark key="[" line="567" column="0" />
+        <mark key="]" line="567" column="0" />
+        <mark key="." line="567" column="0" />
       </file>
       <file name="$USER_HOME$/Docker/shoufuyou-tool/bin/conf/common_env.test.template.php" timestamp="1591600279384">
         <mark key="'" line="165" column="8" />
@@ -184,8 +183,8 @@
         <mark key="." line="192" column="49" />
         <mark key="^" line="192" column="42" />
       </file>
-      <file name="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/VipCardV2Controller.php" timestamp="1591604945998">
-        <mark key="'" line="193" column="43" />
+      <file name="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/VipCardV2Controller.php" timestamp="1591611201842">
+        <mark key="'" line="247" column="4" />
         <mark key="[" line="276" column="28" />
         <mark key="]" line="276" column="32" />
         <mark key="^" line="276" column="32" />
@@ -217,8 +216,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="253" column="8" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/VipCardV2Controller.php" />
-      <jump line="495" column="140" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
       <jump line="63" column="152" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
       <jump line="100" column="61" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
       <jump line="207" column="32" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
@@ -317,6 +314,8 @@
       <jump line="67" column="36" filename="$USER_HOME$/Docker/shoufuyou-php-lib/shoufuyou/Table/XyfVipCardV2Service.php" />
       <jump line="36" column="13" filename="$USER_HOME$/Docker/shoufuyou-php-lib/shoufuyou/Table/XyfVipCardV2Service.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Docker/shoufuyou-php-lib/shoufuyou/Table/XyfVipCardV2Service.php" />
+      <jump line="554" column="8" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
+      <jump line="247" column="4" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/VipCardV2Controller.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -325,7 +324,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAvKioKICAgICAqIEBwYXJhbSAkcGlkCiAgICAgKiBAcmV0dXJuIGJvb2wKICAgICAqLwogICAgcHVibGljIHN0YXRpYyBmdW5jdGlvbiBoYXNCb3VnaHRQcm9kdWN0KCRwaWQpOiBib29sCiAgICB7CgogICAgfQo=</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -340,16 +339,16 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>xinyongpurse</text>
+        <text>name</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqdWppdXBlaV9udW1cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICgkcmV0WydwYXlfc3RhdHVzJ10gPT0gJ3N1Y2Nlc3MnKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmOjpwYXlQcmVDaGVjaygkbmFtZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAvKioKICAgICAqIEBwYXJhbSAkcGlkCiAgICAgKiBAcmV0dXJuIGJvb2wKICAgICAqLwogICAgcHVibGljIHN0YXRpYyBmdW5jdGlvbiBoYXNCb3VnaHRQcm9kdWN0KCRwaWQpOiBib29sCiAgICB7CgogICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -367,13 +366,13 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkY2FzaENvdXBvbklkcywgJHN0YXJ0LCAkZW5kKTtkaWU7Cg==</text>
+        <text encoding="base64">ICAgICAqIOaYr+WQpgo=</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAqIOaYr+WQpui0reS5sC/nlJ/mlYjkuK3nmoTkuqflk4EK</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
@@ -382,13 +381,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkY2FzaENvdXBvbklkcywgJHN0YXJ0LCAkZW5kKTtkaWU7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgyLCRjb3Vwb24pO2RpZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -522,13 +521,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgyLCRjb3Vwb24pO2RpZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcmVjb3JkKTsKICAgICAgICBkaWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Annotate</text>
+        <text>action RenameElement</text>
       </register>
     </registers>
   </component>
@@ -540,7 +539,7 @@
       <last-replace encoding="base64">PT4=</last-replace>
       <last-substitute>:</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
