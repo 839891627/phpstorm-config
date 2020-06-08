@@ -44,11 +44,11 @@
         <entry>action NextTab</entry>
         <entry>action RecentFiles</entry>
         <entry>vs</entry>
-        <entry>nohls</entry>
         <entry>wq</entry>
         <entry>action NextSplitter</entry>
         <entry>action FileStructurePopup</entry>
         <entry>action Back</entry>
+        <entry>nohls</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -180,8 +180,8 @@
         <mark key="^" line="47" column="14" />
         <mark key="." line="47" column="13" />
       </file>
-      <file name="$USER_HOME$/Docker/shoufuyou-php-lib/shoufuyou/Table/XyfVipCardV2Service.php" timestamp="1591596646069">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Docker/shoufuyou-php-lib/shoufuyou/Table/XyfVipCardV2Service.php" timestamp="1591607013335">
+        <mark key="'" line="67" column="36" />
         <mark key="[" line="186" column="49" />
         <mark key="]" line="186" column="50" />
         <mark key="." line="186" column="49" />
@@ -220,7 +220,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="175" column="10" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/VipCardV2Controller.php" />
       <jump line="210" column="10" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/VipCardV2Controller.php" />
       <jump line="253" column="8" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/VipCardV2Controller.php" />
       <jump line="495" column="140" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
@@ -320,6 +319,7 @@
       <jump line="314" column="4" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/VipCardV2Controller.php" />
       <jump line="260" column="20" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/VipCardV2Controller.php" />
       <jump line="193" column="43" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/VipCardV2Controller.php" />
+      <jump line="67" column="36" filename="$USER_HOME$/Docker/shoufuyou-php-lib/shoufuyou/Table/XyfVipCardV2Service.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -531,7 +531,7 @@
         <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcmVjb3JkKTsKICAgICAgICBkaWU7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Back</text>
+        <text>nohls</text>
       </register>
     </registers>
   </component>
