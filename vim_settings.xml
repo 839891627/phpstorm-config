@@ -42,13 +42,13 @@
         <entry>action CloseAllEditors</entry>
         <entry>action KJumpAction.Word0</entry>
         <entry>action NextSplitter</entry>
-        <entry>action RecentFiles</entry>
         <entry>wq</entry>
-        <entry>action NextTab</entry>
         <entry>action PreviousTab</entry>
         <entry>vs</entry>
         <entry>action Back</entry>
         <entry>nohls</entry>
+        <entry>action NextTab</entry>
+        <entry>action RecentFiles</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -132,12 +132,12 @@
       <file name="$USER_HOME$/Docker/shoufuyou-notify/lib/Models/UserReport.php" timestamp="1591595937342">
         <mark key="'" line="39" column="27" />
       </file>
-      <file name="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" timestamp="1591672776382">
+      <file name="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" timestamp="1591674720459">
         <mark key="'" line="372" column="0" />
         <mark key="z" line="27" column="27" />
-        <mark key="[" line="599" column="7" />
-        <mark key="]" line="599" column="13" />
-        <mark key="." line="599" column="12" />
+        <mark key="[" line="593" column="107" />
+        <mark key="]" line="593" column="107" />
+        <mark key="." line="593" column="107" />
         <mark key="^" line="599" column="13" />
       </file>
       <file name="$USER_HOME$/Docker/shoufuyou-tool/bin/conf/common_env.test.template.php" timestamp="1591600279384">
@@ -154,7 +154,11 @@
         <mark key="^" line="214" column="104" />
         <mark key="." line="214" column="103" />
       </file>
-      <file name="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/GoldController.php" timestamp="1591674001401" />
+      <file name="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/GoldController.php" timestamp="1591674575430">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
+      </file>
       <file name="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/CreditUser.php" timestamp="1591337884332">
         <mark key="'" line="301" column="16" />
         <mark key="[" line="318" column="0" />
@@ -167,8 +171,8 @@
         <mark key="^" line="47" column="14" />
         <mark key="." line="47" column="13" />
       </file>
-      <file name="$USER_HOME$/Docker/shoufuyou-php-lib/shoufuyou/Table/XyfVipCardV2Service.php" timestamp="1591672091591">
-        <mark key="'" line="267" column="23" />
+      <file name="$USER_HOME$/Docker/shoufuyou-php-lib/shoufuyou/Table/XyfVipCardV2Service.php" timestamp="1591674579983">
+        <mark key="'" line="22" column="17" />
         <mark key="[" line="265" column="114" />
         <mark key="]" line="265" column="115" />
         <mark key="^" line="265" column="115" />
@@ -210,7 +214,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="204" column="20" filename="$USER_HOME$/Docker/shoufuyou-notify/lib/Controllers/XyfVipCardV2Controller.php" />
       <jump line="228" column="1" filename="$USER_HOME$/Docker/shoufuyou-notify/lib/Controllers/XyfVipCardV2Controller.php" />
       <jump line="226" column="4" filename="$USER_HOME$/Docker/shoufuyou-notify/lib/Controllers/XyfVipCardV2Controller.php" />
       <jump line="149" column="88" filename="$USER_HOME$/Docker/shoufuyou-notify/lib/Router.php" />
@@ -310,6 +313,7 @@
       <jump line="266" column="23" filename="$USER_HOME$/Docker/shoufuyou-php-lib/shoufuyou/Table/XyfVipCardV2Service.php" />
       <jump line="372" column="0" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
       <jump line="321" column="38" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/VipCardV2Controller.php" />
+      <jump line="22" column="17" filename="$USER_HOME$/Docker/shoufuyou-php-lib/shoufuyou/Table/XyfVipCardV2Service.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -317,8 +321,8 @@
       <register name="a" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBheGlvcy5wb3N0KCd4eHgnKQo=</text>
+      <register name="&quot;" type="4">
+        <text>_</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -333,7 +337,7 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>sql</text>
@@ -342,7 +346,7 @@
         <text encoding="base64">ICAgICAgICBheGlvcy5wb3N0KCd4eHgnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqIGRkCg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAKICAgICAgICBheGlvcy5wb3N0KCd4eHgnKQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -360,28 +364,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAqIGRkCg==</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHJldCA/OiBbXTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHJldCA/OiBbXTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAyLiDmm7TmlrAg5YWR5o2i56CB6KGoCiAgICAgICAgRGJDbGllbnQ6OmV4ZWN1dGUoJHNxbCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkc3FsID0gInVwZGF0ZSAgYHh5Zl91bmlvbl9zeXN0ZW1gLmB1bmlvbl9nb2xkX2NvZGVfZGV0YWlsYCBzZXQgaXNfdXNlID0gMSx1c2VyX2lkPTEgd2hlcmUgc2hvcF9pZCA9IDEgYW5kIGlzX3VzZSA9IDAgbGltaXQgMSI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyAyLiDmm7TmlrAg5YWR5o2i56CB6KGoCiAgICAgICAgRGJDbGllbnQ6OmV4ZWN1dGUoJHNxbCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcmV0KTtkaWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkc3FsID0gInVwZGF0ZSAgYHh5Zl91bmlvbl9zeXN0ZW1gLmB1bmlvbl9nb2xkX2NvZGVfZGV0YWlsYCBzZXQgaXNfdXNlID0gMSx1c2VyX2lkPTEgd2hlcmUgc2hvcF9pZCA9IDEgYW5kIGlzX3VzZSA9IDAgbGltaXQgMSI7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -515,13 +519,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcmV0KTtkaWU7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gRGJDbGllbnQ6OmZpbmRSb3dCeUNvbHVtbnMoYHh5Zl91bmlvbl9zeXN0ZW1gLid1bmlvbl9nb2xkX2NvZGVfZGV0YWlsJywgWwogICAgICAgICAgICAndXNlcl9pZCcgPT4gQ3JlZGl0VXNlcjo6Z2V0Q3VycmVudElkKCksCiAgICAgICAgICAgICdzaG9wX2lkJyA9PiAkcGlkLAogICAgICAgIF0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>nohls</text>
+        <text>action RecentFiles</text>
       </register>
     </registers>
   </component>
