@@ -44,10 +44,10 @@
         <entry>action PreviousTab</entry>
         <entry>vs</entry>
         <entry>action NextSplitter</entry>
+        <entry>action Annotate</entry>
+        <entry>action Back</entry>
         <entry>action NextTab</entry>
         <entry>wq</entry>
-        <entry>action Back</entry>
-        <entry>action Annotate</entry>
         <entry>nohls</entry>
       </history-cmd>
       <history-expr />
@@ -126,12 +126,24 @@
         <mark key="." line="362" column="37" />
         <mark key="^" line="362" column="37" />
       </file>
+      <file name="$USER_HOME$/Docker/cloud-ocr-sdk-php-1.0.3/HWOcrClient/HWOcrClientToken.php" timestamp="1591696924397">
+        <mark key="'" line="197" column="0" />
+        <mark key="[" line="197" column="0" />
+        <mark key="]" line="197" column="0" />
+        <mark key="." line="197" column="0" />
+      </file>
       <file name="$USER_HOME$/Docker/shoufuyou-notify/lib/Controllers/XyfVipCardV2Controller.php" timestamp="1591670682962">
         <mark key="'" line="179" column="19" />
         <mark key="[" line="214" column="81" />
         <mark key="]" line="214" column="104" />
         <mark key="^" line="214" column="104" />
         <mark key="." line="214" column="103" />
+      </file>
+      <file name="$USER_HOME$/Docker/cloud-ocr-sdk-php-1.0.3/OcrDemo.php" timestamp="1591698038931">
+        <mark key="'" line="50" column="0" />
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
       </file>
       <file name="$USER_HOME$/Docker/xinyongfei-app-api/public/index.php" timestamp="1591692331082">
         <mark key="'" line="16" column="0" />
@@ -146,10 +158,6 @@
         <mark key="]" line="265" column="115" />
         <mark key="^" line="265" column="115" />
         <mark key="." line="265" column="114" />
-      </file>
-      <file name="$USER_HOME$/Docker/shoufuyou-php-lib/shoufuyou/Util/Util.php" timestamp="1591594922168">
-        <mark key="[" line="13" column="53" />
-        <mark key="]" line="13" column="58" />
       </file>
       <file name="$USER_HOME$/Docker/shoufuyou-notify/lib/Controllers/UserReportController.php" timestamp="1591595934814">
         <mark key="'" line="50" column="31" />
@@ -203,9 +211,6 @@
         <mark key="." line="310" column="11" />
         <mark key="^" line="310" column="12" />
       </file>
-      <file name="$USER_HOME$/Docker/shoufuyou-php-lib/shoufuyou/Table/XyfVipCard2019Service.php" timestamp="1591594816515">
-        <mark key="'" line="38" column="10" />
-      </file>
       <file name="$USER_HOME$/Docker/shoufuyou-php-lib/hyperframework/hyperframework/lib/Db/DbClient.php" timestamp="1591670875696">
         <mark key="'" line="197" column="36" />
       </file>
@@ -214,14 +219,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="196" column="0" filename="$USER_HOME$/Docker/shoufuyou-notify/lib/Controllers/XyfVipCardV2Controller.php" />
-      <jump line="8" column="16" filename="$USER_HOME$/Docker/shoufuyou-tool/bin/conf/common_env.test.template.php" />
-      <jump line="165" column="8" filename="$USER_HOME$/Docker/shoufuyou-tool/bin/conf/common_env.test.template.php" />
-      <jump line="268" column="8" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/VipCardV2Controller.php" />
-      <jump line="275" column="26" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/VipCardV2Controller.php" />
-      <jump line="279" column="42" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/VipCardV2Controller.php" />
-      <jump line="141" column="53" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/VipCardV2Controller.php" />
-      <jump line="314" column="4" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/VipCardV2Controller.php" />
       <jump line="260" column="20" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/VipCardV2Controller.php" />
       <jump line="193" column="43" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/VipCardV2Controller.php" />
       <jump line="67" column="36" filename="$USER_HOME$/Docker/shoufuyou-php-lib/shoufuyou/Table/XyfVipCardV2Service.php" />
@@ -314,6 +311,14 @@
       <jump line="175" column="20" filename="$USER_HOME$/Docker/xyf-middleware-system/common/models/SmsRetryRecord.php" />
       <jump line="179" column="7" filename="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/XyfSmsRetryController.php" />
       <jump line="4" column="0" filename="$USER_HOME$/Docker/xinyongfei-app-api/public/index.php" />
+      <jump line="63" column="0" filename="$USER_HOME$/Docker/cloud-ocr-sdk-php-1.0.3/OcrDemo.php" />
+      <jump line="32" column="27" filename="$USER_HOME$/Docker/cloud-ocr-sdk-php-1.0.3/OcrDemo.php" />
+      <jump line="26" column="28" filename="$USER_HOME$/Docker/cloud-ocr-sdk-php-1.0.3/OcrDemo.php" />
+      <jump line="40" column="41" filename="$USER_HOME$/Docker/cloud-ocr-sdk-php-1.0.3/OcrDemo.php" />
+      <jump line="198" column="0" filename="$USER_HOME$/Docker/cloud-ocr-sdk-php-1.0.3/HWOcrClient/HWOcrClientToken.php" />
+      <jump line="48" column="29" filename="$USER_HOME$/Docker/cloud-ocr-sdk-php-1.0.3/OcrDemo.php" />
+      <jump line="27" column="0" filename="$USER_HOME$/Docker/cloud-ocr-sdk-php-1.0.3/OcrDemo.php" />
+      <jump line="50" column="0" filename="$USER_HOME$/Docker/cloud-ocr-sdk-php-1.0.3/OcrDemo.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -322,7 +327,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGVjaG8gJGEsJGI7Cg==</text>
+        <text encoding="base64">ICAgICRpbWFnZVBhdGggPSBfX0RJUl9fLicvZGF0YS9pZC1jYXJkLWRlbW8uanBnJzsK</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -337,16 +342,16 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>cn-east-3</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGFubmVsTWF5XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGVjaG8gJGEsJGIsUEhQX0VPTDsK</text>
+        <text encoding="base64">ICAgICRyZWdpb25OYW1lID0gImNuLW5vcnRoLTQiOwogICAgJHVyaSA9ICIvdjEuMC9vY3IvZ2VuZXJhbC10ZXh0IjsKICAgICRpbWFnZVBhdGggPSBfX0RJUl9fLicvZGF0YS9hLmpwZyc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGVjaG8gJGEsJGI7Cg==</text>
+        <text encoding="base64">ICAgICRpbWFnZVBhdGggPSBfX0RJUl9fLicvZGF0YS9pZC1jYXJkLWRlbW8uanBnJzsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -364,28 +369,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVjaG8gJGEsJGI7Cg==</text>
+        <text encoding="base64">ICAgICRyZWdpb25OYW1lID0gImNuLWVhc3QtMyI7CiAgICAkdXJpID0gIi92MS4wL29jci9pZC1jYXJkIjsK</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGVjaG8gJAo=</text>
+        <text encoding="base64">ICAgICRpbWFnZVBhdGggPSBfX0RJUl9fLicvZGF0YS9iLmpwZyc7Cg==</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gdG9kbwo=</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkdXJsLCRkYXRhKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgL3YxLjAvb2NyL2lkLWNhcmQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAKICAgICAgICBheGlvcy5wb3N0KCd4eHgnKQo=</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICR1cmw7ZGllOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqIGRkCg==</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkZGF0YSk7CiAgICAgICAgZWNobyAkdXJsO2RpZTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -519,10 +524,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHJldCA/OiBbXTsK</text>
+        <text encoding="base64">ICAgIGh0dHBzOi8vb2NyLmNuLWVhc3QtMy5teWh1YXdlaWNsb3VkLmNvbS92MS4wL29jci9pZC1jYXJkcm9vdAogICAgaHR0cHM6Ly9vY3IuY24tZWFzdC0zLm15aHVhd2VpY2xvdWQuY29tCS8K</text>
       </register>
       <register name=":" type="4">
         <text>nohls</text>
