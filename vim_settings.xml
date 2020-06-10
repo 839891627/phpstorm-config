@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRGaW5hbmNpYWxDb25maWdcPg==</entry>
-        <entry>loanmarket</entry>
         <entry>homepage</entry>
         <entry encoding="base64">XDxwYXlfc3RhdHVzXD4=</entry>
         <entry encoding="base64">XDxqdWppdXBlaV9udW1cPg==</entry>
@@ -27,28 +25,30 @@
         <entry encoding="base64">XDxzaWduZXJcPg==</entry>
         <entry encoding="base64">XDxVc2VyQWN0aW9uTG9nXD4=</entry>
         <entry encoding="base64">XDxtb2RlbFw+</entry>
+        <entry>utm_source</entry>
+        <entry encoding="base64">XDx1dG1fc291cmNlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5hY3Rpb24gU3Vycm91bmRXaXRo</entry>
         <entry>action OpenEditorInOppositeTabGroup</entry>
         <entry>action RenameElement</entry>
-        <entry>action RecentFiles</entry>
         <entry>action CloseAllEditors</entry>
         <entry>action FileStructurePopup</entry>
         <entry>.,.+10nohls</entry>
         <entry>action KJumpAction.Line</entry>
         <entry encoding="base64">JzwsJz5zL2FwcC9pbm5lcl9hcHAvZw==</entry>
         <entry>action Annotate</entry>
-        <entry>action NextSplitter</entry>
         <entry>action PreviousTab</entry>
-        <entry>action NextTab</entry>
         <entry>action KJumpAction.Word0</entry>
-        <entry>vs</entry>
-        <entry>wq</entry>
-        <entry>action SelectInProjectView</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
-        <entry>nohls</entry>
+        <entry>action SelectInProjectView</entry>
+        <entry>vs</entry>
+        <entry>action NextSplitter</entry>
         <entry>action Back</entry>
+        <entry>wq</entry>
+        <entry>action RecentFiles</entry>
+        <entry>nohls</entry>
+        <entry>action NextTab</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -112,21 +112,27 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Docker/loanmarket/common/service/User.php" timestamp="1591785453543">
-        <mark key="'" line="189" column="28" />
+      <file name="$USER_HOME$/Docker/loanmarket/common/service/User.php" timestamp="1591785997562">
+        <mark key="'" line="147" column="31" />
+        <mark key="[" line="147" column="26" />
+        <mark key="]" line="147" column="56" />
+        <mark key="^" line="147" column="56" />
+        <mark key="." line="147" column="55" />
       </file>
       <file name="/a.dummy" timestamp="1591783865868">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/BaseController.php" timestamp="1591778647548">
-        <mark key="'" line="65" column="20" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="68" column="5" />
-      </file>
       <file name="$USER_HOME$/Docker/xyf-api-gateway/common/controllers/BaseController.php" timestamp="1591782780313">
         <mark key="'" line="51" column="28" />
+      </file>
+      <file name="$USER_HOME$/Docker/loanmarket/common/unit/Env.php" timestamp="1591786238104">
+        <mark key="'" line="143" column="61" />
+        <mark key="[" line="143" column="55" />
+        <mark key="]" line="143" column="56" />
+        <mark key="^" line="143" column="56" />
+        <mark key="." line="143" column="55" />
       </file>
       <file name="$USER_HOME$/Docker/cloud-ocr-sdk-php-1.0.3/OcrDemo.php" timestamp="1591779124858">
         <mark key="'" line="50" column="0" />
@@ -135,12 +141,12 @@
         <mark key="." line="53" column="35" />
         <mark key="^" line="53" column="36" />
       </file>
-      <file name="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/Tools/OcrController.php" timestamp="1591785111395">
+      <file name="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/Tools/OcrController.php" timestamp="1591785690971">
         <mark key="'" line="43" column="44" />
-        <mark key="[" line="49" column="14" />
-        <mark key="]" line="49" column="38" />
-        <mark key="." line="49" column="37" />
-        <mark key="^" line="49" column="38" />
+        <mark key="[" line="67" column="47" />
+        <mark key="]" line="68" column="32" />
+        <mark key="." line="68" column="31" />
+        <mark key="^" line="68" column="32" />
       </file>
       <file name="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/Before/OcrController.php" timestamp="1591780294556">
         <mark key="'" line="16" column="6" />
@@ -159,8 +165,12 @@
         <mark key="[" line="47" column="0" />
         <mark key="]" line="49" column="31" />
       </file>
-      <file name="$USER_HOME$/Docker/loanmarket/serviceapi/controllers/BaseController.php" timestamp="1591785287545">
-        <mark key="'" line="76" column="22" />
+      <file name="$USER_HOME$/Docker/loanmarket/serviceapi/controllers/BaseController.php" timestamp="1591785889162">
+        <mark key="'" line="95" column="27" />
+        <mark key="[" line="95" column="40" />
+        <mark key="]" line="95" column="68" />
+        <mark key="^" line="95" column="68" />
+        <mark key="." line="95" column="67" />
       </file>
       <file name="$USER_HOME$/Docker/xyf-api-gateway/composer.json" timestamp="1591779978254">
         <mark key="'" line="28" column="34" />
@@ -203,19 +213,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="943" column="9" filename="$USER_HOME$/Docker/shoufuyou-tool/bin/conf/common_env.prod.template.php" />
-      <jump line="932" column="9" filename="$USER_HOME$/Docker/shoufuyou-tool/bin/conf/common_env.prod.template.php" />
-      <jump line="922" column="9" filename="$USER_HOME$/Docker/shoufuyou-tool/bin/conf/common_env.prod.template.php" />
-      <jump line="887" column="9" filename="$USER_HOME$/Docker/shoufuyou-tool/bin/conf/common_env.prod.template.php" />
-      <jump line="874" column="9" filename="$USER_HOME$/Docker/shoufuyou-tool/bin/conf/common_env.prod.template.php" />
-      <jump line="864" column="9" filename="$USER_HOME$/Docker/shoufuyou-tool/bin/conf/common_env.prod.template.php" />
-      <jump line="667" column="17" filename="$USER_HOME$/Docker/shoufuyou-tool/bin/conf/common_env.prod.template.php" />
-      <jump line="665" column="12" filename="$USER_HOME$/Docker/shoufuyou-tool/bin/conf/common_env.prod.template.php" />
-      <jump line="640" column="9" filename="$USER_HOME$/Docker/shoufuyou-tool/bin/conf/common_env.prod.template.php" />
-      <jump line="571" column="9" filename="$USER_HOME$/Docker/shoufuyou-tool/bin/conf/common_env.prod.template.php" />
-      <jump line="564" column="9" filename="$USER_HOME$/Docker/shoufuyou-tool/bin/conf/common_env.prod.template.php" />
-      <jump line="543" column="9" filename="$USER_HOME$/Docker/shoufuyou-tool/bin/conf/common_env.prod.template.php" />
-      <jump line="1039" column="24" filename="$USER_HOME$/Docker/shoufuyou-tool/bin/conf/common_env.test.template.php" />
       <jump line="1046" column="18" filename="$USER_HOME$/Docker/shoufuyou-tool/bin/conf/common_env.test.template.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Docker/shoufuyou-tool/bin/conf/common_env.test.template.php" />
       <jump line="504" column="30" filename="$USER_HOME$/Docker/shoufuyou-tool/bin/conf/common_env.test.template.php" />
@@ -303,6 +300,19 @@
       <jump line="183" column="13" filename="$USER_HOME$/Docker/loanmarket/common/service/User.php" />
       <jump line="184" column="13" filename="$USER_HOME$/Docker/loanmarket/common/service/User.php" />
       <jump line="189" column="28" filename="$USER_HOME$/Docker/loanmarket/common/service/User.php" />
+      <jump line="186" column="45" filename="$USER_HOME$/Docker/loanmarket/common/service/User.php" />
+      <jump line="45" column="12" filename="$USER_HOME$/Docker/loanmarket/serviceapi/controllers/BaseController.php" />
+      <jump line="98" column="12" filename="$USER_HOME$/Docker/loanmarket/serviceapi/controllers/BaseController.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Docker/loanmarket/serviceapi/controllers/BaseController.php" />
+      <jump line="68" column="15" filename="$USER_HOME$/Docker/loanmarket/serviceapi/controllers/BaseController.php" />
+      <jump line="93" column="32" filename="$USER_HOME$/Docker/loanmarket/serviceapi/controllers/BaseController.php" />
+      <jump line="95" column="27" filename="$USER_HOME$/Docker/loanmarket/serviceapi/controllers/BaseController.php" />
+      <jump line="149" column="92" filename="$USER_HOME$/Docker/loanmarket/common/service/User.php" />
+      <jump line="150" column="17" filename="$USER_HOME$/Docker/loanmarket/common/service/User.php" />
+      <jump line="171" column="41" filename="$USER_HOME$/Docker/loanmarket/common/service/User.php" />
+      <jump line="147" column="31" filename="$USER_HOME$/Docker/loanmarket/common/service/User.php" />
+      <jump line="147" column="12" filename="$USER_HOME$/Docker/loanmarket/common/unit/Env.php" />
+      <jump line="143" column="61" filename="$USER_HOME$/Docker/loanmarket/common/unit/Env.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -310,8 +320,8 @@
       <register name="a" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoY291bnQoJHNhbWUpID4gMykgewogICAgICAgICAgICAkdHlwZSA9ICdyZWFsbmFtZSc7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgJHR5cGUgPSAncmVhbG5hbWUnOwogICAgICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>?</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -326,16 +336,16 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>realname</text>
+        <text>?</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtb2RlbFw+</text>
+        <text encoding="base64">XDx1dG1fc291cmNlXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkc2FtZSA9IGFycmF5X2ludGVyc2VjdChbJycsJ+iKnem6u+WIhicsJ+aIkeeahOiKnem6uycsJ+e6puWumueuoeeQhicsICfkv6Hku7vnp6/ntK8nLCAn5L+h55So566h55CGJ10sICR3b3Jkcyk7Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">XFlpaTo6JGFwcC0+Y29udHJvbGxlci0+dXRtX3NvdXJjZQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoY291bnQoJHNhbWUpID4gMykgewogICAgICAgICAgICAkdHlwZSA9ICdyZWFsbmFtZSc7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgJHR5cGUgPSAncmVhbG5hbWUnOwogICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -353,28 +363,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkdHlwZSA9IG51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoY291bnQoJHNhbWUpID4gMykgewogICAgICAgICAgICAkdHlwZSA9ICdyZWFsbmFtZSc7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgJHR5cGUgPSAncmVhbG5hbWUnOwogICAgICAgIH0K</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkc2FtZSA9IGFycmF5X2ludGVyc2VjdChbJycsJ+iKnem6u+WIhicsJ+aIkeeahOiKnem6uycsJ+e6puWumueuoeeQhicsICfkv6Hku7vnp6/ntK8nLCAn5L+h55So566h55CGJ10sICR3b3Jkcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdHlwZSA9IG51bGw7Cg==</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkdHlwZSA9IG51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkc2FtZSA9IGFycmF5X2ludGVyc2VjdChbJycsJ+iKnem6u+WIhicsJ+aIkeeahOiKnem6uycsJ+e6puWumueuoeeQhicsICfkv6Hku7vnp6/ntK8nLCAn5L+h55So566h55CGJ10sICR3b3Jkcyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkc2NvcmUgPSBudWxsOwogICAgICAgICR0eXBlID0gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICAkdHlwZSA9IG51bGw7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkc2NvcmUgPSBudWxsOwogICAgICAgICR0eXBlID0gbnVsbDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkdHlwZSA9ICdyZWFsbmFtZSc7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -508,21 +518,21 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdHlwZSA9ICdyZWFsbmFtZSc7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoJGl0ZW1bJ3dvcmRzJ10gPT0gKXsKICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Back</text>
+        <text>action NextTab</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxtb2RlbFw+</last-search>
+      <last-search encoding="base64">XDx1dG1fc291cmNlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtb2RlbFw+</last-pattern>
+      <last-pattern encoding="base64">XDx1dG1fc291cmNlXD4=</last-pattern>
       <last-replace>inner_app</last-replace>
       <last-substitute>app</last-substitute>
       <last-dir>1</last-dir>
