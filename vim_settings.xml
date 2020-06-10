@@ -34,8 +34,6 @@
         <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>action RenameElement</entry>
         <entry>action RecentFiles</entry>
-        <entry>action Annotate</entry>
-        <entry>action KJumpAction.Word0</entry>
         <entry>action NextSplitter</entry>
         <entry>action CloseAllEditors</entry>
         <entry>action FileStructurePopup</entry>
@@ -47,8 +45,10 @@
         <entry>wq</entry>
         <entry>action NextTab</entry>
         <entry>vs</entry>
-        <entry>nohls</entry>
+        <entry>action Annotate</entry>
+        <entry>action KJumpAction.Word0</entry>
         <entry>action Back</entry>
+        <entry>nohls</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -112,48 +112,19 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Docker/xyf-pay-system/composer.json" timestamp="1591756858150">
-        <mark key="[" line="16" column="12" />
-        <mark key="]" line="16" column="14" />
-        <mark key="." line="16" column="13" />
-        <mark key="^" line="16" column="14" />
-      </file>
-      <file name="$USER_HOME$/Docker/shoufuyou-sms-task/lib/Subcommands/CreateTableSmsRecordCommand.php" timestamp="1591767162769">
-        <mark key="[" line="45" column="56" />
-        <mark key="]" line="47" column="66" />
-        <mark key="." line="47" column="65" />
-        <mark key="^" line="47" column="66" />
-      </file>
-      <file name="$USER_HOME$/Docker/shoufuyou-notify/lib/Controllers/XyfVipCardV2Controller.php" timestamp="1591759956573">
-        <mark key="'" line="179" column="19" />
-        <mark key="[" line="216" column="0" />
-        <mark key="]" line="216" column="0" />
-        <mark key="." line="216" column="0" />
-      </file>
-      <file name="$USER_HOME$/Docker/shoufuyou-sms-system/lib/Models/Sms.php" timestamp="1591770760695">
-        <mark key="'" line="257" column="17" />
-        <mark key="[" line="283" column="0" />
-        <mark key="]" line="284" column="40" />
-        <mark key="." line="283" column="0" />
-        <mark key="^" line="275" column="25" />
-      </file>
-      <file name="$USER_HOME$/Docker/shoufuyou-php-lib/shoufuyou/Table/XyfVipCardV2Service.php" timestamp="1591759862301">
-        <mark key="'" line="276" column="29" />
-        <mark key="[" line="275" column="36" />
-        <mark key="]" line="275" column="49" />
-        <mark key="^" line="275" column="49" />
-        <mark key="." line="275" column="48" />
-      </file>
-      <file name="$USER_HOME$/Docker/shoufuyou-sms-system/lib/Controllers/SmsController.php" timestamp="1591767720032">
-        <mark key="'" line="81" column="0" />
-        <mark key="[" line="90" column="16" />
-        <mark key="]" line="91" column="21" />
-        <mark key="." line="91" column="20" />
-        <mark key="^" line="91" column="21" />
+      <file name="$USER_HOME$/Docker/shoufuyou-sms-system/lib/Models/Sms.php" timestamp="1591773212737">
+        <mark key="'" line="289" column="27" />
+        <mark key="[" line="262" column="0" />
+        <mark key="]" line="262" column="0" />
+        <mark key="." line="262" column="0" />
+        <mark key="^" line="289" column="28" />
       </file>
       <file name="$USER_HOME$/Docker/shoufuyou-tool/bin/conf/test.hosts.template" timestamp="1591768703893" />
       <file name="$USER_HOME$/Docker/shoufuyou-tool/bin/conf/common_env.prod.template.php" timestamp="1591768470227">
         <mark key="'" line="543" column="9" />
+      </file>
+      <file name="$USER_HOME$/Docker/xyf-common-sms/api/modules/sms/controllers/CommonController.php" timestamp="1591771404533">
+        <mark key="'" line="34" column="22" />
       </file>
       <file name="$USER_HOME$/Docker/shoufuyou-sms-system/lib/Table/SmsRecord.php" timestamp="1591767794295">
         <mark key="'" line="30" column="0" />
@@ -162,11 +133,54 @@
         <mark key="." line="133" column="30" />
         <mark key="^" line="133" column="31" />
       </file>
-      <file name="$USER_HOME$/Docker/xyf-pay-system/common/service/fundPay/PayConstant.php" timestamp="1591756888848">
-        <mark key="[" line="27" column="4" />
-        <mark key="]" line="27" column="4" />
-        <mark key="." line="27" column="4" />
-        <mark key="^" line="27" column="16" />
+      <file name="$USER_HOME$/Docker/xyf-middleware-system/common/models/SmsRecord.php" timestamp="1591773531659">
+        <mark key="'" line="116" column="27" />
+        <mark key="[" line="28" column="20" />
+        <mark key="]" line="28" column="26" />
+        <mark key="^" line="28" column="26" />
+        <mark key="." line="28" column="25" />
+      </file>
+      <file name="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/BizSfyWebClient.php" timestamp="1591769485982" />
+      <file name="$USER_HOME$/Docker/shoufuyou-sms-system/config/env.php" timestamp="1591767668671">
+        <mark key="'" line="44" column="34" />
+      </file>
+      <file name="$USER_HOME$/Docker/shoufuyou-sms-system/lib/Models/SmsDispatcher.php" timestamp="1591773153881">
+        <mark key="'" line="39" column="37" />
+        <mark key="[" line="35" column="38" />
+        <mark key="]" line="35" column="47" />
+        <mark key="^" line="35" column="47" />
+        <mark key="." line="35" column="46" />
+      </file>
+      <file name="$USER_HOME$/Docker/xyf-common-sms/composer.json" timestamp="1591771785618" />
+      <file name="$USER_HOME$/Docker/xyf-common-sms/common/models/sms/common/SmsFacade.php" timestamp="1591771679565">
+        <mark key="'" line="11" column="37" />
+      </file>
+      <file name="$USER_HOME$/Docker/shoufuyou-sms-task/lib/Subcommands/CreateTableSmsRecordCommand.php" timestamp="1591767162769">
+        <mark key="[" line="45" column="56" />
+        <mark key="]" line="47" column="66" />
+        <mark key="." line="47" column="65" />
+        <mark key="^" line="47" column="66" />
+      </file>
+      <file name="$USER_HOME$/Docker/shoufuyou-sms-system/lib/Controllers/SmsController.php" timestamp="1591773186045">
+        <mark key="'" line="81" column="30" />
+        <mark key="[" line="89" column="17" />
+        <mark key="]" line="89" column="16" />
+        <mark key="." line="89" column="15" />
+        <mark key="^" line="89" column="16" />
+      </file>
+      <file name="$USER_HOME$/Docker/xyf-middleware-system/common/models/SmsRetryRecord.php" timestamp="1591773516117">
+        <mark key="'" line="114" column="37" />
+        <mark key="[" line="28" column="13" />
+        <mark key="]" line="28" column="13" />
+        <mark key="." line="28" column="13" />
+        <mark key="^" line="27" column="28" />
+      </file>
+      <file name="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/XyfSmsRetryController.php" timestamp="1591773416364">
+        <mark key="'" line="85" column="33" />
+        <mark key="[" line="79" column="71" />
+        <mark key="]" line="79" column="91" />
+        <mark key="^" line="79" column="91" />
+        <mark key="." line="79" column="90" />
       </file>
       <file name="$USER_HOME$/Docker/shoufuyou-tool/bin/conf/common_env.test.template.php" timestamp="1591768612953">
         <mark key="'" line="543" column="0" />
@@ -175,52 +189,20 @@
         <mark key="." line="1037" column="43" />
         <mark key="^" line="1037" column="44" />
       </file>
-      <file name="$USER_HOME$/Docker/xyf-pay-system/api/controllers/FundPayController.php" timestamp="1591756802979">
-        <mark key="'" line="69" column="16" />
-      </file>
-      <file name="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/BizSfyWebClient.php" timestamp="1591769485982" />
       <file name="$USER_HOME$/Docker/loanmarket/common/service/unionlogin/strategies/ActiveStrategy.php" timestamp="1591760186980">
         <mark key="[" line="68" column="90" />
         <mark key="]" line="68" column="52" />
         <mark key="^" line="68" column="52" />
         <mark key="." line="68" column="51" />
       </file>
-      <file name="$USER_HOME$/Docker/shoufuyou-sms-system/config/env.php" timestamp="1591767668671">
-        <mark key="'" line="44" column="34" />
-      </file>
-      <file name="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/VipCardV2Controller.php" timestamp="1591759942305">
-        <mark key="'" line="324" column="38" />
-        <mark key="[" line="280" column="0" />
-        <mark key="]" line="280" column="118" />
-        <mark key="." line="280" column="84" />
-        <mark key="^" line="280" column="86" />
-      </file>
-      <file name="$USER_HOME$/Docker/shoufuyou-sms-system/lib/Models/SmsDispatcher.php" timestamp="1591767845066">
-        <mark key="'" line="39" column="37" />
-        <mark key="[" line="35" column="18" />
-        <mark key="]" line="35" column="19" />
-        <mark key="^" line="35" column="36" />
-        <mark key="." line="35" column="19" />
+      <file name="$USER_HOME$/Docker/xyf-common-sms/console/controllers/LpCommonSmsController.php" timestamp="1591771482691">
+        <mark key="'" line="23" column="18" />
       </file>
       <file name="$USER_HOME$/Docker/shoufuyou-sms-system/lib/Models/SmsRecord.php" timestamp="1591767533239">
         <mark key="'" line="3" column="29" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="0" filename="$USER_HOME$/Docker/cloud-ocr-sdk-php-1.0.3/OcrDemo.php" />
-      <jump line="32" column="27" filename="$USER_HOME$/Docker/cloud-ocr-sdk-php-1.0.3/OcrDemo.php" />
-      <jump line="26" column="28" filename="$USER_HOME$/Docker/cloud-ocr-sdk-php-1.0.3/OcrDemo.php" />
-      <jump line="40" column="41" filename="$USER_HOME$/Docker/cloud-ocr-sdk-php-1.0.3/OcrDemo.php" />
-      <jump line="198" column="0" filename="$USER_HOME$/Docker/cloud-ocr-sdk-php-1.0.3/HWOcrClient/HWOcrClientToken.php" />
-      <jump line="48" column="29" filename="$USER_HOME$/Docker/cloud-ocr-sdk-php-1.0.3/OcrDemo.php" />
-      <jump line="27" column="0" filename="$USER_HOME$/Docker/cloud-ocr-sdk-php-1.0.3/OcrDemo.php" />
-      <jump line="50" column="0" filename="$USER_HOME$/Docker/cloud-ocr-sdk-php-1.0.3/OcrDemo.php" />
-      <jump line="50" column="45" filename="$USER_HOME$/Docker/xyf-pay-system/common/models/CashLoanBatchOrderModel.php" />
-      <jump line="53" column="76" filename="$USER_HOME$/Docker/xyf-pay-system/common/form/fundPay/CreatePayOrderForm.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Docker/xyf-pay-system/common/form/fundPay/CreatePayOrderForm.php" />
-      <jump line="40" column="72" filename="$USER_HOME$/Docker/xyf-pay-system/common/form/fundPay/CreatePayOrderForm.php" />
-      <jump line="54" column="76" filename="$USER_HOME$/Docker/xyf-pay-system/common/form/fundPay/CreatePayOrderForm.php" />
-      <jump line="30" column="15" filename="$USER_HOME$/Docker/xyf-pay-system/api/controllers/FundPayController.php" />
       <jump line="29" column="36" filename="$USER_HOME$/Docker/xyf-pay-system/api/controllers/FundPayController.php" />
       <jump line="40" column="18" filename="$USER_HOME$/Docker/xyf-pay-system/common/models/CashLoanBatchOrderModel.php" />
       <jump line="51" column="21" filename="$USER_HOME$/Docker/xyf-pay-system/common/service/fundPay/FundPayService.php" />
@@ -248,7 +230,6 @@
       <jump line="251" column="24" filename="$USER_HOME$/Docker/shoufuyou-sms-system/lib/Models/Sms.php" />
       <jump line="282" column="16" filename="$USER_HOME$/Docker/shoufuyou-sms-system/lib/Models/Sms.php" />
       <jump line="262" column="0" filename="$USER_HOME$/Docker/shoufuyou-sms-system/lib/Models/Sms.php" />
-      <jump line="283" column="16" filename="$USER_HOME$/Docker/shoufuyou-sms-system/lib/Models/Sms.php" />
       <jump line="82" column="30" filename="$USER_HOME$/Docker/shoufuyou-sms-system/lib/Controllers/SmsController.php" />
       <jump line="266" column="27" filename="$USER_HOME$/Docker/shoufuyou-sms-system/lib/Models/Sms.php" />
       <jump line="38" column="32" filename="$USER_HOME$/Docker/shoufuyou-sms-system/lib/Models/SmsDispatcher.php" />
@@ -264,7 +245,6 @@
       <jump line="39" column="30" filename="$USER_HOME$/Docker/shoufuyou-sms-system/config/env.php" />
       <jump line="40" column="33" filename="$USER_HOME$/Docker/shoufuyou-sms-system/config/env.php" />
       <jump line="44" column="34" filename="$USER_HOME$/Docker/shoufuyou-sms-system/config/env.php" />
-      <jump line="81" column="0" filename="$USER_HOME$/Docker/shoufuyou-sms-system/lib/Controllers/SmsController.php" />
       <jump line="30" column="0" filename="$USER_HOME$/Docker/shoufuyou-sms-system/lib/Table/SmsRecord.php" />
       <jump line="455" column="7" filename="$USER_HOME$/Docker/shoufuyou-tool/bin/conf/common_env.test.template.php" />
       <jump line="127" column="30" filename="$USER_HOME$/Docker/shoufuyou-tool/bin/conf/common_env.test.template.php" />
@@ -307,6 +287,22 @@
       <jump line="504" column="30" filename="$USER_HOME$/Docker/shoufuyou-tool/bin/conf/common_env.test.template.php" />
       <jump line="543" column="0" filename="$USER_HOME$/Docker/shoufuyou-tool/bin/conf/common_env.test.template.php" />
       <jump line="257" column="17" filename="$USER_HOME$/Docker/shoufuyou-sms-system/lib/Models/Sms.php" />
+      <jump line="34" column="22" filename="$USER_HOME$/Docker/xyf-common-sms/api/modules/sms/controllers/CommonController.php" />
+      <jump line="23" column="18" filename="$USER_HOME$/Docker/xyf-common-sms/console/controllers/LpCommonSmsController.php" />
+      <jump line="11" column="37" filename="$USER_HOME$/Docker/xyf-common-sms/common/models/sms/common/SmsFacade.php" />
+      <jump line="284" column="36" filename="$USER_HOME$/Docker/shoufuyou-sms-system/lib/Models/Sms.php" />
+      <jump line="283" column="32" filename="$USER_HOME$/Docker/shoufuyou-sms-system/lib/Models/Sms.php" />
+      <jump line="275" column="22" filename="$USER_HOME$/Docker/shoufuyou-sms-system/lib/Models/Sms.php" />
+      <jump line="278" column="16" filename="$USER_HOME$/Docker/shoufuyou-sms-system/lib/Models/Sms.php" />
+      <jump line="263" column="0" filename="$USER_HOME$/Docker/shoufuyou-sms-system/lib/Models/Sms.php" />
+      <jump line="269" column="27" filename="$USER_HOME$/Docker/shoufuyou-sms-system/lib/Models/Sms.php" />
+      <jump line="81" column="30" filename="$USER_HOME$/Docker/shoufuyou-sms-system/lib/Controllers/SmsController.php" />
+      <jump line="289" column="27" filename="$USER_HOME$/Docker/shoufuyou-sms-system/lib/Models/Sms.php" />
+      <jump line="119" column="13" filename="$USER_HOME$/Docker/xyf-middleware-system/common/models/SmsRetryRecord.php" />
+      <jump line="85" column="33" filename="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/XyfSmsRetryController.php" />
+      <jump line="112" column="27" filename="$USER_HOME$/Docker/xyf-middleware-system/common/models/SmsRetryRecord.php" />
+      <jump line="138" column="38" filename="$USER_HOME$/Docker/xyf-middleware-system/common/models/SmsRetryRecord.php" />
+      <jump line="114" column="37" filename="$USER_HOME$/Docker/xyf-middleware-system/common/models/SmsRetryRecord.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -314,8 +310,8 @@
       <register name="a" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>test</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICogQHByb3BlcnR5IHN0cmluZyBhcHAK</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -330,16 +326,16 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>test</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>env_pl</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRBcHAoKSB7CiAgICAgICAgcmV0dXJuICR0aGlzLT5nZXRDb2x1bW4oJ2FwcCcpOwogICAgfQoKICAgIHB1YmxpYyBmdW5jdGlvbiBzZXRBcHAoJGFwcCkgewogICAgICAgICR0aGlzLT5zZXRDb2x1bW4oJ2FwcCcsICRhcHApOwogICAgfQo=</text>
+        <text encoding="base64">ICogQHByb3BlcnR5IHN0cmluZyBhcHAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHJldHJ5UmVjb3JkLT5hcHAgPSBkYXRlKCdZLW0tZCBIOmk6cycpOwogICAgICAgICAgICAkcmV0cnlSZWNvcmQtPmNyZWF0ZWRfdGltZSA9IGRhdGUoJ1ktbS1kIEg6aTpzJyk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -357,28 +353,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdhcHAnID0+ICRhcHBOYW1lLAo=</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyAkYXBwOwogICAgcHVibGljICRpbm5lcl9hcHA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGlubmVyQXBwCg==</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGlubmVyQXBwID0gJHJlZGlzVmFsdWVbJ2lubmVyX2FwcCddID8/ICcnOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGFwcCwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdpbm4nCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGlubmVyQXBwCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdtZXNzYWdlJyA9PiAnc3RhcnQgc2VuZCBzbXMnLAogICAgICAgICAgICAgICAgJ21lc3NhZ2UnID0+ICdzdGFydCBzZW5kIHNtcycsCg==</text>
+        <text encoding="base64">ICAgICAgICAkaW5uZXJBcHAgPSAkdGhpcy0+cmVxdWVzdEluZm9bJ2lubmVyX2FwcCddID8/ICcnOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAyMDIwMDQwOTE1MjEyOTVlOGVjY2Y5MjllMTEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJycgPT4gJGlubmVyQXBwCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -512,13 +508,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkY29udGVudCA9IHNwcmludGYoJ+OAkCVz44CR5YWR5o2i56CB77yaJXPvvIzngrnlh7vmn6XnnIvlhZHmjaLor7TmmI4+PicsICRyZXRbJ3BuYW1lJ10sICRyZXRbJ2tleSddKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdpbm5lcl9hcHAnID0+ICRpbm5lckFwcAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRpbm5lckFwcAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Back</text>
+        <text>nohls</text>
       </register>
     </registers>
   </component>
