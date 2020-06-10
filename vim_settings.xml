@@ -47,8 +47,8 @@
         <entry>action Back</entry>
         <entry>wq</entry>
         <entry>action RecentFiles</entry>
-        <entry>nohls</entry>
         <entry>action NextTab</entry>
+        <entry>nohls</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -141,12 +141,12 @@
         <mark key="." line="53" column="35" />
         <mark key="^" line="53" column="36" />
       </file>
-      <file name="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/Tools/OcrController.php" timestamp="1591785690971">
+      <file name="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/Tools/OcrController.php" timestamp="1591786902104">
         <mark key="'" line="43" column="44" />
-        <mark key="[" line="67" column="47" />
-        <mark key="]" line="68" column="32" />
-        <mark key="." line="68" column="31" />
-        <mark key="^" line="68" column="32" />
+        <mark key="[" line="63" column="47" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
+        <mark key="^" line="48" column="36" />
       </file>
       <file name="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/Before/OcrController.php" timestamp="1591780294556">
         <mark key="'" line="16" column="6" />
@@ -320,8 +320,8 @@
       <register name="a" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>?</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgkc2NvcmVTYW1lLCAkcmVhbE5hbWVTYW1lKTsK</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -345,7 +345,7 @@
         <text encoding="base64">XFlpaTo6JGFwcC0+Y29udHJvbGxlci0+dXRtX3NvdXJjZQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkc2NvcmVTYW1lLCAkcmVhbE5hbWVTYW1lKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -363,28 +363,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoY291bnQoJHNhbWUpID4gMykgewogICAgICAgICAgICAkdHlwZSA9ICdyZWFsbmFtZSc7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgJHR5cGUgPSAncmVhbG5hbWUnOwogICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkdHlwZSA9IG51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoY291bnQoJHNhbWUpID4gMykgewogICAgICAgICAgICAkdHlwZSA9ICdyZWFsbmFtZSc7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgJHR5cGUgPSAncmVhbG5hbWUnOwogICAgICAgIH0K</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkc2FtZSA9IGFycmF5X2ludGVyc2VjdChbJycsJ+iKnem6u+WIhicsJ+aIkeeahOiKnem6uycsJ+e6puWumueuoeeQhicsICfkv6Hku7vnp6/ntK8nLCAn5L+h55So566h55CGJ10sICR3b3Jkcyk7Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAkdHlwZSA9IG51bGw7Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAkc2FtZSA9IGFycmF5X2ludGVyc2VjdChbJycsJ+iKnem6u+WIhicsJ+aIkeeahOiKnem6uycsJ+e6puWumueuoeeQhicsICfkv6Hku7vnp6/ntK8nLCAn5L+h55So566h55CGJ10sICR3b3Jkcyk7Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkc2NvcmUgPSBudWxsOwogICAgICAgICR0eXBlID0gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICAkdHlwZSA9IG51bGw7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkc2NvcmUgPSBudWxsOwogICAgICAgICR0eXBlID0gbnVsbDsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -518,13 +518,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkdHlwZSA9ICdyZWFsbmFtZSc7Cg==</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAkdHlwZSA9ICdyZWFsbmFtZSc7Cg==</text>
+      </register>
       <register name=":" type="4">
-        <text>action NextTab</text>
+        <text>nohls</text>
       </register>
     </registers>
   </component>
