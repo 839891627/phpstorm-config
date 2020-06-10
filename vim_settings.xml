@@ -41,7 +41,6 @@
         <entry>action FileStructurePopup</entry>
         <entry>.,.+10nohls</entry>
         <entry>action KJumpAction.Line</entry>
-        <entry>action Back</entry>
         <entry encoding="base64">JzwsJz5zL2FwcC9pbm5lcl9hcHAvZw==</entry>
         <entry>action PreviousTab</entry>
         <entry>action SelectInProjectView</entry>
@@ -49,6 +48,7 @@
         <entry>action NextTab</entry>
         <entry>vs</entry>
         <entry>nohls</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -130,8 +130,8 @@
         <mark key="]" line="216" column="0" />
         <mark key="." line="216" column="0" />
       </file>
-      <file name="$USER_HOME$/Docker/shoufuyou-sms-system/lib/Models/Sms.php" timestamp="1591767501739">
-        <mark key="'" line="266" column="27" />
+      <file name="$USER_HOME$/Docker/shoufuyou-sms-system/lib/Models/Sms.php" timestamp="1591770760695">
+        <mark key="'" line="257" column="17" />
         <mark key="[" line="283" column="0" />
         <mark key="]" line="284" column="40" />
         <mark key="." line="283" column="0" />
@@ -207,7 +207,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="0" filename="$USER_HOME$/Docker/xinyongfei-app-api/public/index.php" />
       <jump line="63" column="0" filename="$USER_HOME$/Docker/cloud-ocr-sdk-php-1.0.3/OcrDemo.php" />
       <jump line="32" column="27" filename="$USER_HOME$/Docker/cloud-ocr-sdk-php-1.0.3/OcrDemo.php" />
       <jump line="26" column="28" filename="$USER_HOME$/Docker/cloud-ocr-sdk-php-1.0.3/OcrDemo.php" />
@@ -307,6 +306,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/Docker/shoufuyou-tool/bin/conf/common_env.test.template.php" />
       <jump line="504" column="30" filename="$USER_HOME$/Docker/shoufuyou-tool/bin/conf/common_env.test.template.php" />
       <jump line="543" column="0" filename="$USER_HOME$/Docker/shoufuyou-tool/bin/conf/common_env.test.template.php" />
+      <jump line="257" column="17" filename="$USER_HOME$/Docker/shoufuyou-sms-system/lib/Models/Sms.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -518,7 +518,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>nohls</text>
+        <text>action Back</text>
       </register>
     </registers>
   </component>
