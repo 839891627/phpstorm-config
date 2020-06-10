@@ -42,13 +42,13 @@
         <entry>action Annotate</entry>
         <entry>action NextSplitter</entry>
         <entry>action PreviousTab</entry>
-        <entry>action SelectInProjectView</entry>
         <entry>action NextTab</entry>
         <entry>action KJumpAction.Word0</entry>
         <entry>vs</entry>
         <entry>action Back</entry>
         <entry>wq</entry>
         <entry>nohls</entry>
+        <entry>action SelectInProjectView</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -112,10 +112,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1591778122019">
-        <mark key="[" line="0" column="2" />
-        <mark key="]" line="0" column="3" />
-        <mark key="." line="0" column="3" />
+      <file name="/a.dummy" timestamp="1591783865868">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/BaseController.php" timestamp="1591778647548">
         <mark key="'" line="65" column="20" />
@@ -188,8 +188,8 @@
         <mark key="." line="31" column="30" />
         <mark key="^" line="31" column="26" />
       </file>
-      <file name="$USER_HOME$/Docker/xyf-api-gateway/api/library/hwOcrSdk/HWOcrClient/HWOcrClientAKSK.php" timestamp="1591780103219">
-        <mark key="'" line="69" column="9" />
+      <file name="$USER_HOME$/Docker/xyf-api-gateway/api/library/hwOcrSdk/HWOcrClient/HWOcrClientAKSK.php" timestamp="1591783847676">
+        <mark key="'" line="33" column="8" />
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
@@ -204,7 +204,7 @@
         <mark key="]" line="119" column="46" />
         <mark key="." line="119" column="46" />
       </file>
-      <file name="$USER_HOME$/Docker/xyf-api-gateway/api/helper/RequestEnv.php" timestamp="1591778714187">
+      <file name="$USER_HOME$/Docker/xyf-api-gateway/api/helper/RequestEnv.php" timestamp="1591783690396">
         <mark key="'" line="126" column="4" />
         <mark key="[" line="21" column="28" />
         <mark key="]" line="22" column="23" />
@@ -213,7 +213,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="973" column="9" filename="$USER_HOME$/Docker/shoufuyou-tool/bin/conf/common_env.test.template.php" />
       <jump line="985" column="9" filename="$USER_HOME$/Docker/shoufuyou-tool/bin/conf/common_env.test.template.php" />
       <jump line="996" column="9" filename="$USER_HOME$/Docker/shoufuyou-tool/bin/conf/common_env.test.template.php" />
       <jump line="1011" column="14" filename="$USER_HOME$/Docker/shoufuyou-tool/bin/conf/common_env.test.template.php" />
@@ -313,6 +312,7 @@
       <jump line="44" column="21" filename="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/Tools/OcrController.php" />
       <jump line="166" column="21" filename="$USER_HOME$/Docker/xyf-api-gateway/api/library/hwOcrSdk/HWOcrClient/signer.php" />
       <jump line="70" column="26" filename="$USER_HOME$/Docker/xyf-api-gateway/api/service/gateways/CreditGateway.php" />
+      <jump line="33" column="8" filename="$USER_HOME$/Docker/xyf-api-gateway/api/library/hwOcrSdk/HWOcrClient/HWOcrClientAKSK.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -320,8 +320,8 @@
       <register name="a" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAkaW1hZ2VQYXRoID0gXFlpaTo6Z2V0QWxpYXMoJ0BhcHAnKSAuICcvbGlicmFyeS9od09jclNkay9kYXRhL3pteHkuanBnJzsK</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -336,7 +336,7 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>\Yii::getAlias('@app') . '/library/hwOcrSdk/data/zmxy.jpg';</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaWduZXJcPg==</text>
@@ -524,7 +524,7 @@
         <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPnN1Y2Nlc3MoWwogICAgICAgICAgICAnc2NvcmUnID0+IChpbnQpJHNjb3JlLAogICAgICAgIF0pOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>nohls</text>
+        <text>action SelectInProjectView</text>
       </register>
     </registers>
   </component>
