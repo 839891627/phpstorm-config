@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxzcWxcPg==</entry>
         <entry encoding="base64">XDxnZXRDb2RlTWVzc2FnZTJcPg==</entry>
         <entry encoding="base64">XDxwYXlTaWduXD4=</entry>
         <entry encoding="base64">XDxnZXRGaW5hbmNpYWxDb25maWdcPg==</entry>
@@ -27,6 +26,7 @@
         <entry encoding="base64">XDx5dW5mZW5nXD4=</entry>
         <entry>api_url</entry>
         <entry>env_pl</entry>
+        <entry encoding="base64">XDxzaWduZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5hY3Rpb24gU3Vycm91bmRXaXRo</entry>
@@ -40,14 +40,14 @@
         <entry>action KJumpAction.Line</entry>
         <entry encoding="base64">JzwsJz5zL2FwcC9pbm5lcl9hcHAvZw==</entry>
         <entry>action Annotate</entry>
+        <entry>action NextSplitter</entry>
+        <entry>action PreviousTab</entry>
+        <entry>action SelectInProjectView</entry>
+        <entry>action NextTab</entry>
         <entry>action KJumpAction.Word0</entry>
         <entry>vs</entry>
-        <entry>action NextSplitter</entry>
-        <entry>action NextTab</entry>
-        <entry>action PreviousTab</entry>
-        <entry>wq</entry>
         <entry>action Back</entry>
-        <entry>action SelectInProjectView</entry>
+        <entry>wq</entry>
         <entry>nohls</entry>
       </history-cmd>
       <history-expr />
@@ -112,12 +112,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/BankCashTaskCommand.php" timestamp="1591775824771">
-        <mark key="[" line="29" column="12" />
-        <mark key="]" line="29" column="12" />
-        <mark key="." line="29" column="11" />
-        <mark key="^" line="29" column="12" />
-      </file>
       <file name="/a.dummy" timestamp="1591778122019">
         <mark key="[" line="0" column="2" />
         <mark key="]" line="0" column="3" />
@@ -128,12 +122,8 @@
         <mark key="[" line="52" column="0" />
         <mark key="]" line="68" column="5" />
       </file>
-      <file name="$USER_HOME$/Docker/shoufuyou-sms-system/lib/Models/Sms.php" timestamp="1591773212737">
-        <mark key="'" line="289" column="27" />
-        <mark key="[" line="262" column="0" />
-        <mark key="]" line="262" column="0" />
-        <mark key="." line="262" column="0" />
-        <mark key="^" line="289" column="28" />
+      <file name="$USER_HOME$/Docker/xyf-api-gateway/common/controllers/BaseController.php" timestamp="1591782780313">
+        <mark key="'" line="51" column="28" />
       </file>
       <file name="$USER_HOME$/Docker/cloud-ocr-sdk-php-1.0.3/OcrDemo.php" timestamp="1591779124858">
         <mark key="'" line="50" column="0" />
@@ -142,15 +132,12 @@
         <mark key="." line="53" column="35" />
         <mark key="^" line="53" column="36" />
       </file>
-      <file name="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/Tools/OcrController.php" timestamp="1591779320131">
-        <mark key="'" line="25" column="25" />
-        <mark key="[" line="17" column="17" />
-        <mark key="]" line="17" column="16" />
-        <mark key="." line="17" column="16" />
-        <mark key="^" line="31" column="22" />
-      </file>
-      <file name="$USER_HOME$/Docker/shoufuyou-fund-system/lib/Models/Loan/LoanMiddle.php" timestamp="1591775968682">
-        <mark key="'" line="48" column="13" />
+      <file name="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/Tools/OcrController.php" timestamp="1591783155222">
+        <mark key="'" line="44" column="21" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="29" column="46" />
       </file>
       <file name="$USER_HOME$/Docker/dnmp/config/nginx/conf.d/xyf-api-gateway.conf" timestamp="1591778560641">
         <mark key="[" line="4" column="35" />
@@ -158,49 +145,41 @@
         <mark key="." line="4" column="35" />
         <mark key="^" line="4" column="36" />
       </file>
+      <file name="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/Before/OcrController.php" timestamp="1591780294556">
+        <mark key="'" line="16" column="6" />
+      </file>
+      <file name="$USER_HOME$/Docker/xyf-api-gateway/api/library/hwOcrSdk/HWOcrClient/signer.php" timestamp="1591782953561">
+        <mark key="'" line="166" column="21" />
+        <mark key="[" line="165" column="22" />
+        <mark key="]" line="165" column="29" />
+        <mark key="^" line="165" column="29" />
+        <mark key="." line="165" column="28" />
+      </file>
       <file name="$USER_HOME$/Docker/xyf-api-gateway/api/library/hwOcrSdk/AutoClassificationDemo.php" timestamp="1591777973252">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="49" />
       </file>
-      <file name="$USER_HOME$/Docker/xyf-middleware-system/common/models/SmsRecord.php" timestamp="1591773531659">
-        <mark key="'" line="116" column="27" />
-        <mark key="[" line="28" column="20" />
-        <mark key="]" line="28" column="26" />
-        <mark key="^" line="28" column="26" />
-        <mark key="." line="28" column="25" />
-      </file>
-      <file name="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/CashLoan/BankCash/BankCashLoanOrder.php" timestamp="1591773713081">
-        <mark key="[" line="664" column="0" />
-        <mark key="]" line="664" column="0" />
-        <mark key="." line="664" column="0" />
+      <file name="$USER_HOME$/Docker/xyf-api-gateway/api/service/gateways/CreditGateway.php" timestamp="1591782985787">
+        <mark key="'" line="70" column="26" />
       </file>
       <file name="$USER_HOME$/Docker/xyf-api-gateway/api/library/hwOcrSdk/OcrDemo.php" timestamp="1591779179526">
         <mark key="[" line="47" column="0" />
         <mark key="]" line="49" column="31" />
       </file>
-      <file name="$USER_HOME$/Docker/shoufuyou-sms-system/lib/Controllers/SmsController.php" timestamp="1591773186045">
-        <mark key="'" line="81" column="30" />
-        <mark key="[" line="89" column="17" />
-        <mark key="]" line="89" column="16" />
-        <mark key="." line="89" column="15" />
-        <mark key="^" line="89" column="16" />
+      <file name="$USER_HOME$/Docker/xyf-api-gateway/composer.json" timestamp="1591779978254">
+        <mark key="'" line="28" column="34" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+      </file>
+      <file name="$USER_HOME$/Docker/xyf-api-gateway/logs/api/error/20200610.log" timestamp="1591779960085">
+        <mark key="'" line="8" column="1007" />
+      </file>
+      <file name="$USER_HOME$/Docker/xyf-api-gateway/vendor/xyf/lib/src/helper/CodeMessage.php" timestamp="1591782785011">
+        <mark key="'" line="44" column="32" />
       </file>
       <file name="/Dummy.txt" timestamp="1591777845362">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Docker/xyf-middleware-system/common/models/SmsRetryRecord.php" timestamp="1591773516117">
-        <mark key="'" line="114" column="37" />
-        <mark key="[" line="28" column="13" />
-        <mark key="]" line="28" column="13" />
-        <mark key="." line="28" column="13" />
-        <mark key="^" line="27" column="28" />
-      </file>
-      <file name="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/XyfSmsRetryController.php" timestamp="1591773416364">
-        <mark key="'" line="85" column="33" />
-        <mark key="[" line="79" column="71" />
-        <mark key="]" line="79" column="91" />
-        <mark key="^" line="79" column="91" />
-        <mark key="." line="79" column="90" />
       </file>
       <file name="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/Tools/OrcController.php" timestamp="1591778093856">
         <mark key="'" line="31" column="25" />
@@ -209,14 +188,21 @@
         <mark key="." line="31" column="30" />
         <mark key="^" line="31" column="26" />
       </file>
+      <file name="$USER_HOME$/Docker/xyf-api-gateway/api/library/hwOcrSdk/HWOcrClient/HWOcrClientAKSK.php" timestamp="1591780103219">
+        <mark key="'" line="69" column="9" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/AppController.php" timestamp="1591778071776">
         <mark key="'" line="20" column="23" />
       </file>
-      <file name="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/RouteController.php" timestamp="1591778779171">
-        <mark key="'" line="120" column="8" />
-        <mark key="[" line="172" column="0" />
-        <mark key="]" line="172" column="0" />
-        <mark key="." line="172" column="0" />
+      <file name="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/RouteController.php" timestamp="1591780225720">
+        <mark key="'" line="175" column="33" />
+        <mark key="[" line="119" column="45" />
+        <mark key="]" line="119" column="46" />
+        <mark key="." line="119" column="46" />
       </file>
       <file name="$USER_HOME$/Docker/xyf-api-gateway/api/helper/RequestEnv.php" timestamp="1591778714187">
         <mark key="'" line="126" column="4" />
@@ -227,40 +213,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="31" filename="$USER_HOME$/Docker/shoufuyou-sms-system/lib/Models/Sms.php" />
-      <jump line="91" column="22" filename="$USER_HOME$/Docker/shoufuyou-sms-system/lib/Models/Sms.php" />
-      <jump line="231" column="12" filename="$USER_HOME$/Docker/shoufuyou-sms-system/lib/Models/Sms.php" />
-      <jump line="251" column="24" filename="$USER_HOME$/Docker/shoufuyou-sms-system/lib/Models/Sms.php" />
-      <jump line="282" column="16" filename="$USER_HOME$/Docker/shoufuyou-sms-system/lib/Models/Sms.php" />
-      <jump line="262" column="0" filename="$USER_HOME$/Docker/shoufuyou-sms-system/lib/Models/Sms.php" />
-      <jump line="82" column="30" filename="$USER_HOME$/Docker/shoufuyou-sms-system/lib/Controllers/SmsController.php" />
-      <jump line="266" column="27" filename="$USER_HOME$/Docker/shoufuyou-sms-system/lib/Models/Sms.php" />
-      <jump line="38" column="32" filename="$USER_HOME$/Docker/shoufuyou-sms-system/lib/Models/SmsDispatcher.php" />
-      <jump line="3" column="29" filename="$USER_HOME$/Docker/shoufuyou-sms-system/lib/Models/SmsRecord.php" />
-      <jump line="6" column="6" filename="$USER_HOME$/Docker/shoufuyou-sms-system/lib/Table/SmsRecord.php" />
-      <jump line="113" column="0" filename="$USER_HOME$/Docker/shoufuyou-sms-system/lib/Table/SmsRecord.php" />
-      <jump line="15" column="0" filename="$USER_HOME$/Docker/shoufuyou-sms-system/lib/Table/SmsRecord.php" />
-      <jump line="35" column="4" filename="$USER_HOME$/Docker/shoufuyou-sms-system/lib/Table/SmsRecord.php" />
-      <jump line="5" column="0" filename="$USER_HOME$/Docker/shoufuyou-sms-system/lib/Table/SmsRecord.php" />
-      <jump line="125" column="0" filename="$USER_HOME$/Docker/shoufuyou-sms-system/lib/Table/SmsRecord.php" />
-      <jump line="139" column="3" filename="$USER_HOME$/Docker/shoufuyou-sms-system/lib/Table/SmsRecord.php" />
-      <jump line="39" column="37" filename="$USER_HOME$/Docker/shoufuyou-sms-system/lib/Models/SmsDispatcher.php" />
-      <jump line="39" column="30" filename="$USER_HOME$/Docker/shoufuyou-sms-system/config/env.php" />
-      <jump line="40" column="33" filename="$USER_HOME$/Docker/shoufuyou-sms-system/config/env.php" />
-      <jump line="44" column="34" filename="$USER_HOME$/Docker/shoufuyou-sms-system/config/env.php" />
-      <jump line="30" column="0" filename="$USER_HOME$/Docker/shoufuyou-sms-system/lib/Table/SmsRecord.php" />
-      <jump line="455" column="7" filename="$USER_HOME$/Docker/shoufuyou-tool/bin/conf/common_env.test.template.php" />
-      <jump line="127" column="30" filename="$USER_HOME$/Docker/shoufuyou-tool/bin/conf/common_env.test.template.php" />
-      <jump line="515" column="0" filename="$USER_HOME$/Docker/shoufuyou-tool/bin/conf/common_env.test.template.php" />
-      <jump line="528" column="9" filename="$USER_HOME$/Docker/shoufuyou-tool/bin/conf/common_env.test.template.php" />
-      <jump line="534" column="9" filename="$USER_HOME$/Docker/shoufuyou-tool/bin/conf/common_env.test.template.php" />
-      <jump line="600" column="9" filename="$USER_HOME$/Docker/shoufuyou-tool/bin/conf/common_env.test.template.php" />
-      <jump line="626" column="12" filename="$USER_HOME$/Docker/shoufuyou-tool/bin/conf/common_env.test.template.php" />
-      <jump line="628" column="17" filename="$USER_HOME$/Docker/shoufuyou-tool/bin/conf/common_env.test.template.php" />
-      <jump line="834" column="9" filename="$USER_HOME$/Docker/shoufuyou-tool/bin/conf/common_env.test.template.php" />
-      <jump line="844" column="9" filename="$USER_HOME$/Docker/shoufuyou-tool/bin/conf/common_env.test.template.php" />
-      <jump line="857" column="9" filename="$USER_HOME$/Docker/shoufuyou-tool/bin/conf/common_env.test.template.php" />
-      <jump line="893" column="9" filename="$USER_HOME$/Docker/shoufuyou-tool/bin/conf/common_env.test.template.php" />
       <jump line="973" column="9" filename="$USER_HOME$/Docker/shoufuyou-tool/bin/conf/common_env.test.template.php" />
       <jump line="985" column="9" filename="$USER_HOME$/Docker/shoufuyou-tool/bin/conf/common_env.test.template.php" />
       <jump line="996" column="9" filename="$USER_HOME$/Docker/shoufuyou-tool/bin/conf/common_env.test.template.php" />
@@ -324,9 +276,43 @@
       <jump line="138" column="8" filename="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/RouteController.php" />
       <jump line="172" column="0" filename="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/RouteController.php" />
       <jump line="120" column="8" filename="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/RouteController.php" />
-      <jump line="18" column="0" filename="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/Tools/OcrController.php" />
       <jump line="20" column="0" filename="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/Tools/OcrController.php" />
       <jump line="25" column="25" filename="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/Tools/OcrController.php" />
+      <jump line="17" column="0" filename="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/Tools/OcrController.php" />
+      <jump line="28" column="34" filename="$USER_HOME$/Docker/xyf-api-gateway/composer.json" />
+      <jump line="0" column="1279" filename="$USER_HOME$/Docker/xyf-api-gateway/logs/api/error/20200610.log" />
+      <jump line="70" column="28" filename="$USER_HOME$/Docker/xyf-api-gateway/api/library/hwOcrSdk/HWOcrClient/signer.php" />
+      <jump line="12" column="0" filename="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/Tools/OcrController.php" />
+      <jump line="10" column="51" filename="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/Tools/OcrController.php" />
+      <jump line="8" column="1007" filename="$USER_HOME$/Docker/xyf-api-gateway/logs/api/error/20200610.log" />
+      <jump line="115" column="8" filename="$USER_HOME$/Docker/xyf-api-gateway/api/library/hwOcrSdk/HWOcrClient/HWOcrClientAKSK.php" />
+      <jump line="28" column="20" filename="$USER_HOME$/Docker/xyf-api-gateway/api/library/hwOcrSdk/HWOcrClient/HWOcrClientAKSK.php" />
+      <jump line="67" column="22" filename="$USER_HOME$/Docker/xyf-api-gateway/api/library/hwOcrSdk/HWOcrClient/HWOcrClientAKSK.php" />
+      <jump line="68" column="9" filename="$USER_HOME$/Docker/xyf-api-gateway/api/library/hwOcrSdk/HWOcrClient/HWOcrClientAKSK.php" />
+      <jump line="69" column="9" filename="$USER_HOME$/Docker/xyf-api-gateway/api/library/hwOcrSdk/HWOcrClient/HWOcrClientAKSK.php" />
+      <jump line="175" column="33" filename="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/RouteController.php" />
+      <jump line="183" column="0" filename="$USER_HOME$/Docker/xyf-api-gateway/api/library/hwOcrSdk/HWOcrClient/signer.php" />
+      <jump line="16" column="6" filename="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/Before/OcrController.php" />
+      <jump line="18" column="27" filename="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/Tools/OcrController.php" />
+      <jump line="33" column="48" filename="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/Tools/OcrController.php" />
+      <jump line="1032" column="5" filename="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/Tools/OcrController.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/Tools/OcrController.php" />
+      <jump line="106" column="16" filename="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/Tools/OcrController.php" />
+      <jump line="1044" column="0" filename="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/Tools/OcrController.php" />
+      <jump line="1028" column="9" filename="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/Tools/OcrController.php" />
+      <jump line="1034" column="15" filename="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/Tools/OcrController.php" />
+      <jump line="1035" column="15" filename="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/Tools/OcrController.php" />
+      <jump line="41" column="118" filename="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/Tools/OcrController.php" />
+      <jump line="58" column="0" filename="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/Tools/OcrController.php" />
+      <jump line="57" column="0" filename="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/Tools/OcrController.php" />
+      <jump line="35" column="8" filename="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/Tools/OcrController.php" />
+      <jump line="37" column="0" filename="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/Tools/OcrController.php" />
+      <jump line="38" column="26" filename="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/Tools/OcrController.php" />
+      <jump line="51" column="28" filename="$USER_HOME$/Docker/xyf-api-gateway/common/controllers/BaseController.php" />
+      <jump line="44" column="32" filename="$USER_HOME$/Docker/xyf-api-gateway/vendor/xyf/lib/src/helper/CodeMessage.php" />
+      <jump line="44" column="21" filename="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/Tools/OcrController.php" />
+      <jump line="166" column="21" filename="$USER_HOME$/Docker/xyf-api-gateway/api/library/hwOcrSdk/HWOcrClient/signer.php" />
+      <jump line="70" column="26" filename="$USER_HOME$/Docker/xyf-api-gateway/api/service/gateways/CreditGateway.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -334,8 +320,8 @@
       <register name="a" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>\Yii::getAlias('@app')</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAvLyAkaW1hZ2VQYXRoID0gXFlpaTo6Z2V0QWxpYXMoJ0BhcHAnKSAuICcvbGlicmFyeS9od09jclNkay9kYXRhL3pteHkuanBnJzsK</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -350,16 +336,16 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>\Yii::getAlias('@app')</text>
+        <text>\Yii::getAlias('@app') . '/library/hwOcrSdk/data/zmxy.jpg';</text>
       </register>
       <register name="/" type="4">
-        <text>env_pl</text>
+        <text encoding="base64">XDxzaWduZXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1aXJlIFxZaWk6OmdldEFsaWFzKCdAYXBwJykgLiAnL2xpYnJhcnkvaHdPY3JTZGsvSFdPY3JDbGllbnQvSFdPY3JDbGllbnRBS1NLLnBocCc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkaW1hZ2VQYXRoID0gXFlpaTo6Z2V0QWxpYXMoJ0BhcHAnKSAuICcvbGlicmFyeS9od09jclNkay9kYXRhL3pteHkuanBnJzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkYXBwS2V5ID0gInh4eCI7CiAgICAgICAgJGFwcFNlY3JldCA9ICJ4eHgiOwogICAgICAgICRyZWdpb25OYW1lID0gImNuLW5vcnRoLTQiOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyAkaW1hZ2VQYXRoID0gXFlpaTo6Z2V0QWxpYXMoJ0BhcHAnKSAuICcvbGlicmFyeS9od09jclNkay9kYXRhL3pteHkuanBnJzsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -377,28 +363,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkdXJpID0gIi92MS4wL29jci9pZC1jYXJkIjsK</text>
+        <text encoding="base64">ICAgICAgICAvLyAkaW1hZ2VQYXRoID0gXFlpaTo6Z2V0QWxpYXMoJ0BhcHAnKSAuICcvbGlicmFyeS9od09jclNkay9kYXRhL2EuanBnJzsK</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkdXJpID0gIi92MS4wL29jci9pZC1jYXJkIjsK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkX0ZJTEVTKTsK</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkYXBwS2V5ID0gInh4eCI7CiAgICAgICAgJGFwcFNlY3JldCA9ICJ4eHgiOwogICAgICAgICRyZWdpb25OYW1lID0gImNuLW5vcnRoLTQiOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyAkdHlwZSA9ICdzY29yZSc7CiAgICAgICAgLy8gJHR5cGUgPSAncmVhbG5hbWUnOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkYXBwS2V5ID0gInh4eCI7CiAgICAgICAgJGFwcFNlY3JldCA9ICJ4eHgiOwogICAgICAgICRyZWdpb25OYW1lID0gImNuLW5vcnRoLTQiOwogICAgICAgICR1cmkgPSAiL3YxLjAvb2NyL2lkLWNhcmQiOwo=</text>
+        <text encoding="base64">ICAgICAgICAkdHlwZSA9ICdzY29yZSc7CiAgICAgICAgLy8gJHR5cGUgPSAncmVhbG5hbWUnOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkYSk7Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkYSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPnN1Y2Nlc3MoJHJlYWxOYW1lKTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -532,10 +518,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cmVxdWlyZV9vbmNlIFxZaWk6OmdldEFsaWFzKCdAYXBwJykgLiAnL2xpYnJhcnkvaHdPY3JTZGsvSFdPY3JDbGllbnQvSFdPY3JDbGllbnRBS1NLLnBocCc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBicmVhazsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkaW1hZ2VQYXRoKTsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPnN1Y2Nlc3MoWwogICAgICAgICAgICAnc2NvcmUnID0+IChpbnQpJHNjb3JlLAogICAgICAgIF0pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>nohls</text>
@@ -544,9 +530,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>env_pl</last-search>
+      <last-search encoding="base64">XDxzaWduZXJcPg==</last-search>
       <last-offset />
-      <last-pattern>env_pl</last-pattern>
+      <last-pattern encoding="base64">XDxzaWduZXJcPg==</last-pattern>
       <last-replace>inner_app</last-replace>
       <last-substitute>app</last-substitute>
       <last-dir>1</last-dir>
