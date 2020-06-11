@@ -141,12 +141,12 @@
         <mark key="." line="53" column="35" />
         <mark key="^" line="53" column="36" />
       </file>
-      <file name="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/Tools/OcrController.php" timestamp="1591792405793">
-        <mark key="'" line="92" column="39" />
-        <mark key="[" line="71" column="53" />
-        <mark key="]" line="71" column="37" />
-        <mark key="." line="71" column="36" />
-        <mark key="^" line="71" column="37" />
+      <file name="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/Tools/OcrController.php" timestamp="1591841265226">
+        <mark key="'" line="65" column="66" />
+        <mark key="[" line="66" column="88" />
+        <mark key="]" line="66" column="89" />
+        <mark key="." line="66" column="89" />
+        <mark key="^" line="66" column="62" />
       </file>
       <file name="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/Before/OcrController.php" timestamp="1591780294556">
         <mark key="'" line="16" column="6" />
@@ -212,7 +212,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="269" column="27" filename="$USER_HOME$/Docker/shoufuyou-sms-system/lib/Models/Sms.php" />
       <jump line="81" column="30" filename="$USER_HOME$/Docker/shoufuyou-sms-system/lib/Controllers/SmsController.php" />
       <jump line="289" column="27" filename="$USER_HOME$/Docker/shoufuyou-sms-system/lib/Models/Sms.php" />
       <jump line="119" column="13" filename="$USER_HOME$/Docker/xyf-middleware-system/common/models/SmsRetryRecord.php" />
@@ -312,6 +311,7 @@
       <jump line="69" column="24" filename="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/Tools/OcrController.php" />
       <jump line="74" column="0" filename="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/Tools/OcrController.php" />
       <jump line="92" column="39" filename="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/Tools/OcrController.php" />
+      <jump line="65" column="66" filename="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/Tools/OcrController.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -320,7 +320,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>4</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -335,7 +335,7 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>4</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZXJjZW50XD4=</text>
@@ -343,8 +343,8 @@
       <register name="0" type="4">
         <text encoding="base64">KCR4UGVyY2VudCA9ICRsb2NhdGlvblsnMCddIC8gJGltZ1NpemVbJ3dpZHRoJ10pICYmICR4UGVyY2VudCA8IDAuMzcgJiYgJHhQZXJjZW50ID4gMC4zNA==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyDmmK/mlbDlrZflubbkuJQgMyDkvY3mlbDvvIzlnKggMzAwLTEwMDAg5YiG5LmL6Ze0Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgaWYgKCgk</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -362,28 +362,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8g5piv5pWw5a2X5bm25LiUIDMg5L2N5pWw77yM5ZyoIDMwMC0xMDAwIOWIhuS5i+mXtAo=</text>
+        <text encoding="base64">ICAgICAgICAvLyAgICAgICAiZXh0cmFjdGVkX2RhdGEiID0+IGFycmF5OjEgWwogICAgICAgIC8vICAgICAgICJpbWFnZV9zaXplIiA9PiBhcnJheToyIFsKICAgICAgICAvLyAgICAgICAiaGVpZ2h0IiA9PiAyNjQwCiAgICAgICAgLy8gICAgICJ3aWR0aCIgPT4gMTIwMAogICAgICAgIC8vICAgXQogICAgICAgIC8vIF0K</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyDmmK/mlbDlrZflubbkuJQgMyDkvY3mlbDvvIzlnKggMzAwLTEwMDAg5YiG5LmL6Ze0Cg==</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyDmmK/mlbDlrZflubbkuJQgMyDkvY3mlbDvvIzlnKggMzAwLTEwMDAg5YiG5LmL6Ze0CiAgICAgICAgICAgICAgICAgICAgJHNjb3JlID0gJGl0ZW1bJ3dvcmRzJ107CgogICAgICAgICAgICAgICAgICAgIHJldHVybiAkdGhpcy0+c3VjY2VzcyhbCiAgICAgICAgICAgICAgICAgICAgICAgICdzY29yZScgICAgICAgID0+IChpbnQpJHNjb3JlLAogICAgICAgICAgICAgICAgICAgICAgICAnaXRlbScgICAgICAgICA9PiAkaXRlbSwKICAgICAgICAgICAgICAgICAgICAgICAgJ2V4dHJhY3RfdHlwZScgPT4gJHJlc3VsdFsnZXh0cmFjdGVkX2RhdGEnXVsnaW1hZ2Vfc2l6ZSddID8/IFtdLAogICAgICAgICAgICAgICAgICAgIF0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8g5piv5pWw5a2X5bm25LiUIDMg5L2N5pWw77yM5ZyoIDMwMC0xMDAwIOWIhuS5i+mXtAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcmVzdWx0KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyDmmK/mlbDlrZflubbkuJQgMyDkvY3mlbDvvIzlnKggMzAwLTEwMDAg5YiG5LmL6Ze0CiAgICAgICAgICAgICAgICAgICAgJHNjb3JlID0gJGl0ZW1bJ3dvcmRzJ107CgogICAgICAgICAgICAgICAgICAgIHJldHVybiAkdGhpcy0+c3VjY2VzcyhbCiAgICAgICAgICAgICAgICAgICAgICAgICdzY29yZScgICAgICAgID0+IChpbnQpJHNjb3JlLAogICAgICAgICAgICAgICAgICAgICAgICAnaXRlbScgICAgICAgICA9PiAkaXRlbSwKICAgICAgICAgICAgICAgICAgICAgICAgJ2V4dHJhY3RfdHlwZScgPT4gJHJlc3VsdFsnZXh0cmFjdGVkX2RhdGEnXVsnaW1hZ2Vfc2l6ZSddID8/IFtdLAogICAgICAgICAgICAgICAgICAgIF0pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2RldGVjdF9kaXJlY3Rpb24nID0+IHRydWUsCg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcmVzdWx0KTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -517,10 +517,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcmVzdWx0KTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ2l0ZW0nID0+JGl0ZW0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2RldGVjdF9kaXJlY3Rpb24nID0+IHRydWUsCg==</text>
       </register>
       <register name=":" type="4">
         <text>nohls</text>
