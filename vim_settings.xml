@@ -38,7 +38,6 @@
         <entry encoding="base64">JzwsJz5zL2FwcC9pbm5lcl9hcHAvZw==</entry>
         <entry>action Annotate</entry>
         <entry>action PreviousTab</entry>
-        <entry>action KJumpAction.Word0</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>action SelectInProjectView</entry>
         <entry>vs</entry>
@@ -46,9 +45,10 @@
         <entry>wq</entry>
         <entry>action NextTab</entry>
         <entry>action RenameElement</entry>
-        <entry>action Back</entry>
         <entry>action RecentFiles</entry>
         <entry>nohls</entry>
+        <entry>action KJumpAction.Word0</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -112,8 +112,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Docker/loanmarket/common/service/User.php" timestamp="1591785997562">
-        <mark key="'" line="147" column="31" />
+      <file name="$USER_HOME$/Docker/loanmarket/common/service/User.php" timestamp="1591847389866">
+        <mark key="'" line="196" column="33" />
         <mark key="[" line="147" column="26" />
         <mark key="]" line="147" column="56" />
         <mark key="^" line="147" column="56" />
@@ -162,26 +162,23 @@
         <mark key="^" line="95" column="68" />
         <mark key="." line="95" column="67" />
       </file>
-      <file name="$USER_HOME$/Docker/xyf-api-gateway/composer.json" timestamp="1591779978254">
-        <mark key="'" line="28" column="34" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-      </file>
       <file name="$USER_HOME$/Docker/xyf-api-gateway/api/service/gateways/MiddlegroundGateway.php" timestamp="1591785326351">
         <mark key="'" line="89" column="49" />
       </file>
       <file name="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/CashLoanOrder.php" timestamp="1591843770237">
         <mark key="'" line="830" column="20" />
       </file>
+      <file name="$USER_HOME$/Docker/loanmarket/vendor/yiisoft/yii2/base/StaticInstanceTrait.php" timestamp="1591847292742">
+        <mark key="'" line="36" column="50" />
+      </file>
       <file name="$USER_HOME$/Docker/loanmarket/serviceapi/controllers/LoanmarketController.php" timestamp="1591785275497">
         <mark key="'" line="167" column="20" />
       </file>
-      <file name="$USER_HOME$/Docker/xyf-api-gateway/logs/api/error/20200610.log" timestamp="1591779960085">
-        <mark key="'" line="8" column="1007" />
-      </file>
       <file name="$USER_HOME$/Docker/xyf-api-gateway/vendor/xyf/lib/src/helper/CodeMessage.php" timestamp="1591782785011">
         <mark key="'" line="44" column="32" />
+      </file>
+      <file name="$USER_HOME$/Docker/loanmarket/common/service/ClientAccount.php" timestamp="1591847207792">
+        <mark key="'" line="53" column="14" />
       </file>
       <file name="$USER_HOME$/Docker/xyf-api-gateway/api/library/hwOcrSdk/HWOcrClient/HWOcrClientAKSK.php" timestamp="1591790938649">
         <mark key="'" line="103" column="0" />
@@ -205,10 +202,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="32" filename="$USER_HOME$/Docker/xyf-api-gateway/api/library/hwOcrSdk/OcrDemo.php" />
-      <jump line="45" column="4" filename="$USER_HOME$/Docker/xyf-api-gateway/api/library/hwOcrSdk/OcrDemo.php" />
-      <jump line="33" column="0" filename="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/Tools/OrcController.php" />
-      <jump line="16" column="0" filename="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/Tools/OrcController.php" />
       <jump line="35" column="21" filename="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/Tools/OrcController.php" />
       <jump line="12" column="0" filename="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/Tools/OrcController.php" />
       <jump line="20" column="23" filename="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/AppController.php" />
@@ -305,6 +298,10 @@
       <jump line="0" column="0" filename="$USER_HOME$/Docker/xyf-api-gateway/api/helper/RequestEnv.php" />
       <jump line="830" column="20" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/CashLoanOrder.php" />
       <jump line="124" column="6" filename="$USER_HOME$/Docker/xyf-api-gateway/api/helper/RequestEnv.php" />
+      <jump line="53" column="14" filename="$USER_HOME$/Docker/loanmarket/common/service/ClientAccount.php" />
+      <jump line="36" column="50" filename="$USER_HOME$/Docker/loanmarket/vendor/yiisoft/yii2/base/StaticInstanceTrait.php" />
+      <jump line="156" column="55" filename="$USER_HOME$/Docker/loanmarket/common/service/User.php" />
+      <jump line="196" column="33" filename="$USER_HOME$/Docker/loanmarket/common/service/User.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -516,7 +513,7 @@
         <text encoding="base64">ICAgICAgICBkZCgkcmVzdWx0KTsK</text>
       </register>
       <register name=":" type="4">
-        <text>nohls</text>
+        <text>action Back</text>
       </register>
     </registers>
   </component>
