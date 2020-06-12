@@ -47,8 +47,8 @@
         <entry>action RenameElement</entry>
         <entry>nohls</entry>
         <entry>action Back</entry>
-        <entry>wq</entry>
         <entry>action NextTab</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -211,17 +211,14 @@
         <mark key="^" line="53" column="41" />
         <mark key="." line="53" column="40" />
       </file>
-      <file name="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/VipCardV2Controller.php" timestamp="1591930399498">
-        <mark key="'" line="150" column="56" />
-        <mark key="[" line="150" column="0" />
-        <mark key="]" line="150" column="0" />
-        <mark key="." line="150" column="0" />
-        <mark key="^" line="150" column="96" />
+      <file name="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/VipCardV2Controller.php" timestamp="1591930536512">
+        <mark key="'" line="282" column="23" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="115" column="8" filename="$USER_HOME$/Docker/xyf-api-gateway/api/library/hwOcrSdk/HWOcrClient/HWOcrClientAKSK.php" />
-      <jump line="28" column="20" filename="$USER_HOME$/Docker/xyf-api-gateway/api/library/hwOcrSdk/HWOcrClient/HWOcrClientAKSK.php" />
       <jump line="67" column="22" filename="$USER_HOME$/Docker/xyf-api-gateway/api/library/hwOcrSdk/HWOcrClient/HWOcrClientAKSK.php" />
       <jump line="68" column="9" filename="$USER_HOME$/Docker/xyf-api-gateway/api/library/hwOcrSdk/HWOcrClient/HWOcrClientAKSK.php" />
       <jump line="69" column="9" filename="$USER_HOME$/Docker/xyf-api-gateway/api/library/hwOcrSdk/HWOcrClient/HWOcrClientAKSK.php" />
@@ -320,6 +317,8 @@
       <jump line="194" column="43" filename="$USER_HOME$/Docker/shoufuyou-notify/lib/Controllers/XyfVipCardV2Controller.php" />
       <jump line="184" column="8" filename="$USER_HOME$/Docker/shoufuyou-notify/lib/Controllers/XyfVipCardV2Controller.php" />
       <jump line="222" column="61" filename="$USER_HOME$/Docker/shoufuyou-notify/lib/Controllers/XyfVipCardV2Controller.php" />
+      <jump line="280" column="55" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/VipCardV2Controller.php" />
+      <jump line="282" column="23" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/VipCardV2Controller.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -328,7 +327,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkcmVkaXJlY3RVcmwgPSAnJzsgLy8gdG9kbyDphY3nva7liY3nq6/ot7Povazpk77mjqUK</text>
+        <text encoding="base64">CiAgICAgICAgWHlmVmlwQ2FyZFYyU2VydmljZTo6c2VuZFN5c3RlbU5vdGlmeSgyMiwgJ3NhZGZhZCcsIDIsIFsKICAgICAgICAgICAgJ3Byb2R1Y3RfaWQnID0+ICRwYXJhbXNbJ3Byb2R1Y3RfaWQnXSwKICAgICAgICBdKTsKICAgICAgICBkaWU7Cgo=</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -343,7 +342,7 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>$</text>
+        <text>$params['product_id'],</text>
       </register>
       <register name="/" type="4">
         <text>code</text>
@@ -352,7 +351,7 @@
         <text encoding="base64">ICAgICAgICAkdmlwQ2FyZCA9IDE7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkcmVkaXJlY3RVcmwgPSAnJzsgLy8gdG9kbyDphY3nva7liY3nq6/ot7Povazpk77mjqUK</text>
+        <text encoding="base64">CiAgICAgICAgWHlmVmlwQ2FyZFYyU2VydmljZTo6c2VuZFN5c3RlbU5vdGlmeSgyMiwgJ3NhZGZhZCcsIDIsIFsKICAgICAgICAgICAgJ3Byb2R1Y3RfaWQnID0+ICRwYXJhbXNbJ3Byb2R1Y3RfaWQnXSwKICAgICAgICBdKTsKICAgICAgICBkaWU7Cgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -376,22 +375,22 @@
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVkaXJlY3RVcmwgPSAnJzsgLy90b2RvCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkcmVkaXJlY3RVcmwgPSAnJzsgLy8gdG9kbwo=</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkcmVkaXJlY3RVcmwgPSAnJzsgLy8gdG9kbyDphY3nva7liY3nq6/ot7Povazpk77mjqUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAkcmVkaXJlY3RVcmwgPSAnJzsgLy90b2RvCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVkaXJlY3RVcmwgPSAnJzsgLy8gdG9kbyDphY3nva7liY3nq6/ot7Povazpk77mjqUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -525,13 +524,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAnYnRuX21vcmVfdXJsJyA9PiAnaHR0cDovL3Rlc3QtbS5yZWR4aW55b25nLmNvbS9ob21lcGFnZT91dG1fc291cmNlPWhvbWUteHlmJywvLyDotLfotoXmm7TlpJrmjInpkq7pk77mjqUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzICAgICAgICdidG5fbW9yZV91cmwnID0+ICdodHRwOi8vbS5yZWR4aW55b25nLmNvbS9ob21lcGFnZT91dG1fc291cmNlPWhvbWUteHlmJywvLyDotLfotoXmm7TlpJrmjInpkq7pk77mjqUK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>action NextTab</text>
+        <text>wq</text>
       </register>
     </registers>
   </component>
