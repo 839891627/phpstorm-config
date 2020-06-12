@@ -45,10 +45,10 @@
         <entry>action PreviousTab</entry>
         <entry>action GotoClass</entry>
         <entry>action RenameElement</entry>
-        <entry>nohls</entry>
         <entry>action Back</entry>
         <entry>action NextTab</entry>
         <entry>wq</entry>
+        <entry>nohls</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -204,8 +204,8 @@
         <mark key="." line="111" column="38" />
         <mark key="^" line="111" column="39" />
       </file>
-      <file name="$USER_HOME$/Docker/xyf-api-gateway/api/helper/RequestEnv.php" timestamp="1591845022201">
-        <mark key="'" line="124" column="6" />
+      <file name="$USER_HOME$/Docker/xyf-api-gateway/api/helper/RequestEnv.php" timestamp="1591931691574">
+        <mark key="'" line="74" column="12" />
         <mark key="[" line="74" column="36" />
         <mark key="]" line="53" column="41" />
         <mark key="^" line="53" column="41" />
@@ -219,9 +219,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="22" filename="$USER_HOME$/Docker/xyf-api-gateway/api/library/hwOcrSdk/HWOcrClient/HWOcrClientAKSK.php" />
-      <jump line="68" column="9" filename="$USER_HOME$/Docker/xyf-api-gateway/api/library/hwOcrSdk/HWOcrClient/HWOcrClientAKSK.php" />
-      <jump line="69" column="9" filename="$USER_HOME$/Docker/xyf-api-gateway/api/library/hwOcrSdk/HWOcrClient/HWOcrClientAKSK.php" />
       <jump line="175" column="33" filename="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/RouteController.php" />
       <jump line="183" column="0" filename="$USER_HOME$/Docker/xyf-api-gateway/api/library/hwOcrSdk/HWOcrClient/signer.php" />
       <jump line="16" column="6" filename="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/Before/OcrController.php" />
@@ -319,6 +316,9 @@
       <jump line="222" column="61" filename="$USER_HOME$/Docker/shoufuyou-notify/lib/Controllers/XyfVipCardV2Controller.php" />
       <jump line="280" column="55" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/VipCardV2Controller.php" />
       <jump line="282" column="23" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/VipCardV2Controller.php" />
+      <jump line="111" column="21" filename="$USER_HOME$/Docker/xyf-api-gateway/api/helper/RequestEnv.php" />
+      <jump line="174" column="29" filename="$USER_HOME$/Docker/xyf-api-gateway/api/helper/RequestEnv.php" />
+      <jump line="74" column="12" filename="$USER_HOME$/Docker/xyf-api-gateway/api/helper/RequestEnv.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -530,7 +530,7 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>nohls</text>
       </register>
     </registers>
   </component>
