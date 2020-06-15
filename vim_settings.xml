@@ -42,13 +42,13 @@
         <entry>action RecentFiles</entry>
         <entry>wq</entry>
         <entry>nohls</entry>
-        <entry>action Back</entry>
         <entry>action NextTab</entry>
         <entry>action PreviousTab</entry>
         <entry>action Annotate</entry>
         <entry>action SelectInProjectView</entry>
         <entry>vs</entry>
         <entry>action NextSplitter</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -503,7 +503,7 @@
         <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiBAdmFyICRjYXNoTG9hbk9yZGVyIENhc2hMb2FuT3JkZXIKICAgICAgICAgKi8KICAgICAgICAkY2FzaExvYW5PcmRlciA9IENhc2hMb2FuT3JkZXI6OmZpbmRSb3dCeUNvbHVtbnMoWydvcmRlcl9udW1iZXInID0+ICR0aGlzLT5nZXRPcmRlck51bWJlcigpXSk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action NextSplitter</text>
+        <text>action Back</text>
       </register>
     </registers>
   </component>
