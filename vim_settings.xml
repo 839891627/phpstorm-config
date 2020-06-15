@@ -7,16 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxjaGFubmVsTWF5XD4=</entry>
-        <entry encoding="base64">XDxyZWRpc1ZhbHVlXD4=</entry>
-        <entry encoding="base64">XDx5dW5mZW5nXD4=</entry>
-        <entry>api_url</entry>
-        <entry>env_pl</entry>
-        <entry encoding="base64">XDxzaWduZXJcPg==</entry>
-        <entry encoding="base64">XDxVc2VyQWN0aW9uTG9nXD4=</entry>
-        <entry encoding="base64">XDxtb2RlbFw+</entry>
-        <entry>utm_source</entry>
-        <entry encoding="base64">XDx1dG1fc291cmNlXD4=</entry>
         <entry encoding="base64">XDxvcHRpb25zXD4=</entry>
         <entry encoding="base64">XDxkYXRhXD4=</entry>
         <entry encoding="base64">XDxyZXN1bHRcPg==</entry>
@@ -27,27 +17,37 @@
         <entry>app-index</entry>
         <entry>code</entry>
         <entry encoding="base64">XDxVVE1fU09VUkNFXD4=</entry>
+        <entry encoding="base64">XDxvcmRlclJlbWl0XD4=</entry>
+        <entry encoding="base64">XDxyZXBheVBsYW5cPg==</entry>
+        <entry encoding="base64">XDxyZW1pdFN1Y2Nlc3NcPg==</entry>
+        <entry encoding="base64">XDxjcmVkaXRBcHBseVw+</entry>
+        <entry encoding="base64">XDxDYXNoTG9hbk9yZGVyXD4=</entry>
+        <entry encoding="base64">XDxnZXRDYXNoTG9hbk9yZGVyU3RhdHVzXD4=</entry>
+        <entry encoding="base64">XDxnZXROZXh0VXJsXD4=</entry>
+        <entry encoding="base64">XDxnZXRGdW5kT2NyU3RhdHVzXD4=</entry>
+        <entry encoding="base64">XDxjaGVja0hlbHBMb2FuU3RhdHVzXD4=</entry>
+        <entry encoding="base64">XDxjYXNoTG9hbk9yZGVyXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>action OpenEditorInOppositeTabGroup</entry>
-        <entry>action CloseAllEditors</entry>
-        <entry>.,.+10nohls</entry>
         <entry encoding="base64">JzwsJz5zL2FwcC9pbm5lcl9hcHAvZw==</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
-        <entry>vs</entry>
         <entry>action RecentFiles</entry>
-        <entry>action SelectInProjectView</entry>
         <entry>action KJumpAction.Line</entry>
-        <entry>action PreviousTab</entry>
         <entry>action GotoClass</entry>
         <entry>action RenameElement</entry>
         <entry>action NextTab</entry>
-        <entry>action NextSplitter</entry>
-        <entry>action Back</entry>
-        <entry>action FileStructurePopup</entry>
-        <entry>wq</entry>
         <entry>action KJumpAction.Word0</entry>
         <entry>action Annotate</entry>
+        <entry>action PreviousTab</entry>
+        <entry>action ToggleBookmark</entry>
+        <entry>wq</entry>
+        <entry>action CloseAllEditors</entry>
+        <entry>action ShowBookmarks</entry>
+        <entry>vs</entry>
+        <entry>action NextSplitter</entry>
+        <entry>action Back</entry>
+        <entry>action SelectInProjectView</entry>
+        <entry>action FileStructurePopup</entry>
         <entry>nohls</entry>
       </history-cmd>
       <history-expr />
@@ -121,24 +121,9 @@
       <file name="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/DelayQueueController.php" timestamp="1592189584931">
         <mark key="'" line="36" column="10" />
       </file>
-      <file name="$USER_HOME$/Docker/shoufuyou-notify/lib/Controllers/XyfVipCardV2Controller.php" timestamp="1591930369861">
-        <mark key="'" line="223" column="61" />
-        <mark key="[" line="223" column="28" />
-        <mark key="]" line="223" column="62" />
-        <mark key="." line="223" column="61" />
-        <mark key="^" line="223" column="62" />
-      </file>
-      <file name="$USER_HOME$/Docker/xinyongfei-app-api/config/env.php" timestamp="1591867482168">
-        <mark key="[" line="107" column="0" />
-        <mark key="]" line="107" column="126" />
-        <mark key="^" line="107" column="39" />
-        <mark key="." line="107" column="38" />
-      </file>
       <file name="$USER_HOME$/Docker/xyf-api-gateway/api/config/test/main.php" timestamp="1592186205985" />
-      <file name="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/App.php" timestamp="1591865420554">
-        <mark key="'" line="1188" column="27" />
-        <mark key="[" line="1179" column="0" />
-        <mark key="." line="1179" column="0" />
+      <file name="$USER_HOME$/Docker/shoufuyou-php-lib/shoufuyou/Table/BankCashLoanOrder.php" timestamp="1592191693750">
+        <mark key="'" line="82" column="20" />
       </file>
       <file name="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/Tools/OcrController.php" timestamp="1591959065669">
         <mark key="'" line="41" column="14" />
@@ -147,32 +132,30 @@
         <mark key="." line="83" column="0" />
         <mark key="^" line="72" column="44" />
       </file>
+      <file name="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/FundSourceFactory.php" timestamp="1592192498482">
+        <mark key="'" line="25" column="27" />
+      </file>
       <file name="$USER_HOME$/Docker/shoufuyou-php-lib/shoufuyou/Table/XyfVipCardV2Service.php" timestamp="1591951917052">
         <mark key="'" line="249" column="67" />
         <mark key="[" line="245" column="0" />
         <mark key="]" line="245" column="0" />
         <mark key="." line="245" column="0" />
       </file>
-      <file name="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/Loanmarket.php" timestamp="1591865190658">
-        <mark key="[" line="107" column="9" />
-        <mark key="]" line="196" column="114" />
-        <mark key="." line="196" column="113" />
-        <mark key="^" line="196" column="114" />
+      <file name="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" timestamp="1592193025191">
+        <mark key="'" line="217" column="4" />
+        <mark key="[" line="329" column="33" />
+        <mark key="]" line="311" column="4" />
+        <mark key="^" line="311" column="4" />
+        <mark key="." line="311" column="3" />
       </file>
-      <file name="$USER_HOME$/Docker/xinyongfei-app-api/config/env.prod.template.php" timestamp="1591867491142">
-        <mark key="[" line="107" column="0" />
-        <mark key="]" line="107" column="122" />
-        <mark key="." line="107" column="35" />
-        <mark key="^" line="107" column="32" />
+      <file name="$USER_HOME$/Docker/shoufuyou-fund-system/lib/Models/Loan/LoanMiddle.php" timestamp="1592192872795">
+        <mark key="'" line="386" column="37" />
       </file>
-      <file name="$USER_HOME$/Docker/loanmarket/serviceapi/controllers/UnionLoginController.php" timestamp="1591928313115">
-        <mark key="'" line="72" column="12" />
+      <file name="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/Models/CashLoanOrder.php" timestamp="1592191402111">
+        <mark key="'" line="164" column="8" />
       </file>
-      <file name="$USER_HOME$/Docker/shoufuyou-notify/lib/Models/Utms/Zlqb.php" timestamp="1591856358368">
-        <mark key="[" line="32" column="30" />
-        <mark key="]" line="32" column="30" />
-        <mark key="^" line="33" column="0" />
-        <mark key="." line="32" column="30" />
+      <file name="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/SlCash/SlCashLoanOrder.php" timestamp="1592192043903">
+        <mark key="'" line="11" column="48" />
       </file>
       <file name="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" timestamp="1591953463222">
         <mark key="'" line="136" column="33" />
@@ -183,13 +166,10 @@
         <mark key="^" line="570" column="41" />
       </file>
       <file name="$USER_HOME$/Docker/xyf-api-gateway/api/config/local/main.php" timestamp="1592186207718" />
-      <file name="$USER_HOME$/Docker/xinyongfei-app-api/config/env.test.template.php" timestamp="1591867504294">
-        <mark key="[" line="111" column="34" />
-        <mark key="]" line="111" column="39" />
-        <mark key="." line="111" column="38" />
-        <mark key="^" line="111" column="39" />
-      </file>
       <file name="$USER_HOME$/Docker/xyf-api-gateway/api/service/gateways/CreditGateway.php" timestamp="1592185915682" />
+      <file name="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashContract.php" timestamp="1592192137034">
+        <mark key="'" line="19" column="19" />
+      </file>
       <file name="$USER_HOME$/Docker/dnmp/README.MD" timestamp="1592187489009">
         <mark key="'" line="124" column="29" />
         <mark key="[" line="91" column="26" />
@@ -204,6 +184,9 @@
         <mark key="^" line="53" column="41" />
         <mark key="." line="53" column="40" />
       </file>
+      <file name="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/CashLoan/BankCash/BankCashLoanOrder.php" timestamp="1592191464686">
+        <mark key="'" line="161" column="4" />
+      </file>
       <file name="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/VipCardV2Controller.php" timestamp="1591930536512">
         <mark key="'" line="282" column="23" />
         <mark key="[" line="33" column="0" />
@@ -215,76 +198,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/Tools/OcrController.php" />
-      <jump line="106" column="16" filename="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/Tools/OcrController.php" />
-      <jump line="1044" column="0" filename="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/Tools/OcrController.php" />
-      <jump line="1028" column="9" filename="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/Tools/OcrController.php" />
-      <jump line="1034" column="15" filename="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/Tools/OcrController.php" />
-      <jump line="1035" column="15" filename="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/Tools/OcrController.php" />
-      <jump line="58" column="0" filename="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/Tools/OcrController.php" />
-      <jump line="57" column="0" filename="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/Tools/OcrController.php" />
-      <jump line="35" column="8" filename="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/Tools/OcrController.php" />
-      <jump line="37" column="0" filename="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/Tools/OcrController.php" />
-      <jump line="38" column="26" filename="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/Tools/OcrController.php" />
-      <jump line="51" column="28" filename="$USER_HOME$/Docker/xyf-api-gateway/common/controllers/BaseController.php" />
-      <jump line="44" column="32" filename="$USER_HOME$/Docker/xyf-api-gateway/vendor/xyf/lib/src/helper/CodeMessage.php" />
-      <jump line="166" column="21" filename="$USER_HOME$/Docker/xyf-api-gateway/api/library/hwOcrSdk/HWOcrClient/signer.php" />
-      <jump line="70" column="26" filename="$USER_HOME$/Docker/xyf-api-gateway/api/service/gateways/CreditGateway.php" />
-      <jump line="33" column="8" filename="$USER_HOME$/Docker/xyf-api-gateway/api/library/hwOcrSdk/HWOcrClient/HWOcrClientAKSK.php" />
-      <jump line="46" column="30" filename="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/Tools/OcrController.php" />
-      <jump line="167" column="20" filename="$USER_HOME$/Docker/loanmarket/serviceapi/controllers/LoanmarketController.php" />
-      <jump line="76" column="22" filename="$USER_HOME$/Docker/loanmarket/serviceapi/controllers/BaseController.php" />
-      <jump line="89" column="49" filename="$USER_HOME$/Docker/xyf-api-gateway/api/service/gateways/MiddlegroundGateway.php" />
-      <jump line="15" column="18" filename="$USER_HOME$/Docker/loanmarket/common/service/User.php" />
-      <jump line="143" column="9" filename="$USER_HOME$/Docker/loanmarket/common/service/User.php" />
-      <jump line="183" column="13" filename="$USER_HOME$/Docker/loanmarket/common/service/User.php" />
-      <jump line="184" column="13" filename="$USER_HOME$/Docker/loanmarket/common/service/User.php" />
-      <jump line="189" column="28" filename="$USER_HOME$/Docker/loanmarket/common/service/User.php" />
-      <jump line="186" column="45" filename="$USER_HOME$/Docker/loanmarket/common/service/User.php" />
-      <jump line="45" column="12" filename="$USER_HOME$/Docker/loanmarket/serviceapi/controllers/BaseController.php" />
-      <jump line="98" column="12" filename="$USER_HOME$/Docker/loanmarket/serviceapi/controllers/BaseController.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Docker/loanmarket/serviceapi/controllers/BaseController.php" />
-      <jump line="68" column="15" filename="$USER_HOME$/Docker/loanmarket/serviceapi/controllers/BaseController.php" />
-      <jump line="93" column="32" filename="$USER_HOME$/Docker/loanmarket/serviceapi/controllers/BaseController.php" />
-      <jump line="95" column="27" filename="$USER_HOME$/Docker/loanmarket/serviceapi/controllers/BaseController.php" />
-      <jump line="149" column="92" filename="$USER_HOME$/Docker/loanmarket/common/service/User.php" />
-      <jump line="150" column="17" filename="$USER_HOME$/Docker/loanmarket/common/service/User.php" />
-      <jump line="171" column="41" filename="$USER_HOME$/Docker/loanmarket/common/service/User.php" />
-      <jump line="147" column="31" filename="$USER_HOME$/Docker/loanmarket/common/service/User.php" />
-      <jump line="147" column="12" filename="$USER_HOME$/Docker/loanmarket/common/unit/Env.php" />
-      <jump line="143" column="61" filename="$USER_HOME$/Docker/loanmarket/common/unit/Env.php" />
-      <jump line="53" column="55" filename="$USER_HOME$/Docker/xyf-api-gateway/api/library/hwOcrSdk/HWOcrClient/HWOcrClientAKSK.php" />
-      <jump line="96" column="12" filename="$USER_HOME$/Docker/xyf-api-gateway/api/library/hwOcrSdk/HWOcrClient/HWOcrClientAKSK.php" />
-      <jump line="40" column="43" filename="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/Tools/OcrController.php" />
-      <jump line="103" column="0" filename="$USER_HOME$/Docker/xyf-api-gateway/api/library/hwOcrSdk/HWOcrClient/HWOcrClientAKSK.php" />
-      <jump line="31" column="38" filename="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/Tools/OcrController.php" />
-      <jump line="68" column="8" filename="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/Tools/OcrController.php" />
-      <jump line="44" column="12" filename="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/Tools/OcrController.php" />
-      <jump line="51" column="18" filename="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/Tools/OcrController.php" />
-      <jump line="71" column="42" filename="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/Tools/OcrController.php" />
-      <jump line="30" column="0" filename="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/Tools/OcrController.php" />
-      <jump line="55" column="0" filename="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/Tools/OcrController.php" />
-      <jump line="43" column="19" filename="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/Tools/OcrController.php" />
-      <jump line="69" column="24" filename="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/Tools/OcrController.php" />
-      <jump line="74" column="0" filename="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/Tools/OcrController.php" />
-      <jump line="92" column="39" filename="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/Tools/OcrController.php" />
-      <jump line="65" column="66" filename="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/Tools/OcrController.php" />
-      <jump line="20" column="31" filename="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/Tools/OcrController.php" />
-      <jump line="90" column="0" filename="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/Tools/OcrController.php" />
-      <jump line="41" column="14" filename="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/Tools/OcrController.php" />
-      <jump line="183" column="24" filename="$USER_HOME$/Docker/xyf-api-gateway/api/helper/RequestEnv.php" />
-      <jump line="14" column="0" filename="$USER_HOME$/Docker/xyf-api-gateway/api/helper/RequestEnv.php" />
-      <jump line="39" column="12" filename="$USER_HOME$/Docker/xyf-api-gateway/api/helper/RequestEnv.php" />
-      <jump line="224" column="28" filename="$USER_HOME$/Docker/xyf-api-gateway/api/helper/RequestEnv.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Docker/xyf-api-gateway/api/helper/RequestEnv.php" />
-      <jump line="830" column="20" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/CashLoanOrder.php" />
-      <jump line="124" column="6" filename="$USER_HOME$/Docker/xyf-api-gateway/api/helper/RequestEnv.php" />
-      <jump line="53" column="14" filename="$USER_HOME$/Docker/loanmarket/common/service/ClientAccount.php" />
-      <jump line="36" column="50" filename="$USER_HOME$/Docker/loanmarket/vendor/yiisoft/yii2/base/StaticInstanceTrait.php" />
-      <jump line="156" column="55" filename="$USER_HOME$/Docker/loanmarket/common/service/User.php" />
-      <jump line="196" column="33" filename="$USER_HOME$/Docker/loanmarket/common/service/User.php" />
-      <jump line="1037" column="43" filename="$USER_HOME$/Docker/shoufuyou-tool/bin/conf/common_env.test.template.php" />
-      <jump line="355" column="36" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Router.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Router.php" />
       <jump line="2" column="20" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Router.php" />
       <jump line="65" column="13" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Router.php" />
@@ -315,6 +228,76 @@
       <jump line="406" column="22" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCard2019Service.php" />
       <jump line="128" column="29" filename="$USER_HOME$/Docker/dnmp/README.MD" />
       <jump line="36" column="10" filename="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/DelayQueueController.php" />
+      <jump line="796" column="22" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" />
+      <jump line="164" column="8" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/Models/CashLoanOrder.php" />
+      <jump line="658" column="43" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/CashLoan/BankCash/BankCashLoanOrder.php" />
+      <jump line="97" column="4" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" />
+      <jump line="161" column="4" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/CashLoan/BankCash/BankCashLoanOrder.php" />
+      <jump line="144" column="16" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" />
+      <jump line="158" column="16" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" />
+      <jump line="75" column="4" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" />
+      <jump line="180" column="35" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" />
+      <jump line="181" column="34" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" />
+      <jump line="228" column="12" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" />
+      <jump line="169" column="4" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" />
+      <jump line="175" column="14" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" />
+      <jump line="139" column="14" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" />
+      <jump line="82" column="20" filename="$USER_HOME$/Docker/shoufuyou-php-lib/shoufuyou/Table/BankCashLoanOrder.php" />
+      <jump line="178" column="20" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" />
+      <jump line="386" column="20" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/SlCash/SlCashLoanOrder.php" />
+      <jump line="717" column="20" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" />
+      <jump line="563" column="26" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" />
+      <jump line="191" column="53" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" />
+      <jump line="329" column="20" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" />
+      <jump line="371" column="30" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" />
+      <jump line="500" column="4" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/SlCash/SlCashLoanOrder.php" />
+      <jump line="268" column="12" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" />
+      <jump line="331" column="10" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" />
+      <jump line="332" column="31" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" />
+      <jump line="350" column="33" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" />
+      <jump line="349" column="33" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" />
+      <jump line="9" column="48" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" />
+      <jump line="125" column="40" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/SlCash/SlCashLoanOrder.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/SlCash/SlCashLoanOrder.php" />
+      <jump line="11" column="48" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/SlCash/SlCashLoanOrder.php" />
+      <jump line="19" column="19" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashContract.php" />
+      <jump line="142" column="20" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" />
+      <jump line="342" column="38" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" />
+      <jump line="374" column="38" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" />
+      <jump line="403" column="15" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" />
+      <jump line="406" column="4" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" />
+      <jump line="38" column="45" filename="$USER_HOME$/Docker/shoufuyou-fund-system/lib/Models/Loan/LoanMiddle.php" />
+      <jump line="25" column="27" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/FundSourceFactory.php" />
+      <jump line="25" column="6" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" />
+      <jump line="597" column="20" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" />
+      <jump line="70" column="53" filename="$USER_HOME$/Docker/shoufuyou-fund-system/lib/Models/Loan/LoanMiddle.php" />
+      <jump line="136" column="86" filename="$USER_HOME$/Docker/shoufuyou-fund-system/lib/Models/Loan/LoanMiddle.php" />
+      <jump line="226" column="9" filename="$USER_HOME$/Docker/shoufuyou-fund-system/lib/Models/Loan/LoanMiddle.php" />
+      <jump line="266" column="35" filename="$USER_HOME$/Docker/shoufuyou-fund-system/lib/Models/Loan/LoanMiddle.php" />
+      <jump line="299" column="45" filename="$USER_HOME$/Docker/shoufuyou-fund-system/lib/Models/Loan/LoanMiddle.php" />
+      <jump line="267" column="16" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" />
+      <jump line="263" column="12" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" />
+      <jump line="235" column="9" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" />
+      <jump line="205" column="8" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" />
+      <jump line="216" column="46" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" />
+      <jump line="219" column="12" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" />
+      <jump line="220" column="33" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" />
+      <jump line="221" column="33" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" />
+      <jump line="240" column="71" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" />
+      <jump line="274" column="54" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" />
+      <jump line="276" column="73" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" />
+      <jump line="282" column="54" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" />
+      <jump line="293" column="73" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" />
+      <jump line="333" column="30" filename="$USER_HOME$/Docker/shoufuyou-fund-system/lib/Models/Loan/LoanMiddle.php" />
+      <jump line="183" column="35" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" />
+      <jump line="254" column="12" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" />
+      <jump line="283" column="29" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" />
+      <jump line="359" column="37" filename="$USER_HOME$/Docker/shoufuyou-fund-system/lib/Models/Loan/LoanMiddle.php" />
+      <jump line="310" column="29" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" />
+      <jump line="386" column="37" filename="$USER_HOME$/Docker/shoufuyou-fund-system/lib/Models/Loan/LoanMiddle.php" />
+      <jump line="311" column="4" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" />
+      <jump line="217" column="4" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -322,8 +305,8 @@
       <register name="a" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiBAdmFyICRjYXNoTG9hbk9yZGVyIENhc2hMb2FuT3JkZXIKICAgICAgICAgKi8KICAgICAgICAkY2FzaExvYW5PcmRlciA9IENhc2hMb2FuT3JkZXI6OmZpbmRSb3dCeUNvbHVtbnMoWydvcmRlcl9udW1iZXInID0+ICR0aGlzLT5nZXRPcmRlck51bWJlcigpXSk7Cg==</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -341,13 +324,13 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxVVE1fU09VUkNFXD4=</text>
+        <text encoding="base64">XDxjYXNoTG9hbk9yZGVyXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">IyMjIGZpc2ggc2hlbGwg5Lit55u05o6l6L+Q6KGM5a655Zmo5YaF5ZG95LukCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CgoKCmFsaWFzIHB4PXByb3h5Y2hhaW5zNAphbGlhcyBtPXRsZHIK</text>
+        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiBAdmFyICRjYXNoTG9hbk9yZGVyIENhc2hMb2FuT3JkZXIKICAgICAgICAgKi8KICAgICAgICAkY2FzaExvYW5PcmRlciA9IENhc2hMb2FuT3JkZXI6OmZpbmRSb3dCeUNvbHVtbnMoWydvcmRlcl9udW1iZXInID0+ICR0aGlzLT5nZXRPcmRlck51bWJlcigpXSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -365,7 +348,7 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmOjpnZW4K</text>
+        <text encoding="base64">CgoKCmFsaWFzIHB4PXByb3h5Y2hhaW5zNAphbGlhcyBtPXRsZHIK</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
@@ -377,16 +360,16 @@
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmOjpnZW4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAhJGEK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAhJHZpcENhcmQK</text>
+        <text encoding="base64">ICAgICAgICAhJGEK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmOjpnZW4K</text>
+        <text encoding="base64">ICAgICAgICAhJHZpcENhcmQK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -520,10 +503,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgWHlmVmlwQ2FyZFYyU2VydmljZTo6c2VuZFN5c3RlbU5vdGlmeSgyMiwgJ3NhZGZhZCcsIDIsIFsKICAgICAgICAgICAgJ3Byb2R1Y3RfaWQnID0+ICRwYXJhbXNbJ3Byb2R1Y3RfaWQnXSwKICAgICAgICBdKTsKICAgICAgICBkaWU7Cgo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmOjpnZW4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">CiAgICAgICAgWHlmVmlwQ2FyZFYyU2VydmljZTo6c2VuZFN5c3RlbU5vdGlmeSgyMiwgJ3NhZGZhZCcsIDIsIFsKICAgICAgICAgICAgJ3Byb2R1Y3RfaWQnID0+ICRwYXJhbXNbJ3Byb2R1Y3RfaWQnXSwKICAgICAgICBdKTsKICAgICAgICBkaWU7Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>nohls</text>
@@ -532,11 +515,11 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxVVE1fU09VUkNFXD4=</last-search>
+      <last-search encoding="base64">XDxjYXNoTG9hbk9yZGVyXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxVVE1fU09VUkNFXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxjYXNoTG9hbk9yZGVyXD4=</last-pattern>
       <last-replace>inner_app</last-replace>
-      <last-substitute>app</last-substitute>
+      <last-substitute encoding="base64">XDxjYXNoTG9hbk9yZGVyXD4=</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
