@@ -31,7 +31,6 @@
       <history-cmd>
         <entry>action OpenEditorInOppositeTabGroup</entry>
         <entry>action CloseAllEditors</entry>
-        <entry>action FileStructurePopup</entry>
         <entry>.,.+10nohls</entry>
         <entry encoding="base64">JzwsJz5zL2FwcC9pbm5lcl9hcHAvZw==</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
@@ -45,9 +44,10 @@
         <entry>action GotoClass</entry>
         <entry>action RenameElement</entry>
         <entry>action NextTab</entry>
-        <entry>wq</entry>
         <entry>action NextSplitter</entry>
         <entry>action Back</entry>
+        <entry>action FileStructurePopup</entry>
+        <entry>wq</entry>
         <entry>nohls</entry>
       </history-cmd>
       <history-expr />
@@ -112,18 +112,14 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Docker/loanmarket/common/service/ClientAccount.php" timestamp="1591847207792">
-        <mark key="'" line="53" column="14" />
-      </file>
       <file name="$USER_HOME$/Docker/xinyongfei-app-api/lib/Router.php" timestamp="1591855579009">
         <mark key="'" line="65" column="13" />
       </file>
-      <file name="$USER_HOME$/Docker/loanmarket/common/service/User.php" timestamp="1591847389866">
-        <mark key="'" line="196" column="33" />
-        <mark key="[" line="147" column="26" />
-        <mark key="]" line="147" column="56" />
-        <mark key="^" line="147" column="56" />
-        <mark key="." line="147" column="55" />
+      <file name="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/UserController.php" timestamp="1592186992388">
+        <mark key="[" line="31" column="52" />
+        <mark key="]" line="31" column="52" />
+        <mark key="^" line="31" column="53" />
+        <mark key="." line="31" column="52" />
       </file>
       <file name="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" timestamp="1591953463222">
         <mark key="'" line="136" column="33" />
@@ -147,18 +143,21 @@
         <mark key="." line="223" column="61" />
         <mark key="^" line="223" column="62" />
       </file>
+      <file name="$USER_HOME$/Docker/xyf-api-gateway/api/config/local/main.php" timestamp="1592186207718" />
       <file name="$USER_HOME$/Docker/xinyongfei-app-api/config/env.php" timestamp="1591867482168">
         <mark key="[" line="107" column="0" />
         <mark key="]" line="107" column="126" />
         <mark key="^" line="107" column="39" />
         <mark key="." line="107" column="38" />
       </file>
+      <file name="$USER_HOME$/Docker/xyf-api-gateway/api/config/test/main.php" timestamp="1592186205985" />
       <file name="$USER_HOME$/Docker/xinyongfei-app-api/config/env.test.template.php" timestamp="1591867504294">
         <mark key="[" line="111" column="34" />
         <mark key="]" line="111" column="39" />
         <mark key="." line="111" column="38" />
         <mark key="^" line="111" column="39" />
       </file>
+      <file name="$USER_HOME$/Docker/xyf-api-gateway/api/service/gateways/CreditGateway.php" timestamp="1592185915682" />
       <file name="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/App.php" timestamp="1591865420554">
         <mark key="'" line="1188" column="27" />
         <mark key="[" line="1179" column="0" />
@@ -171,18 +170,12 @@
         <mark key="." line="83" column="0" />
         <mark key="^" line="72" column="44" />
       </file>
-      <file name="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/CashLoanOrder.php" timestamp="1591843770237">
-        <mark key="'" line="830" column="20" />
-      </file>
       <file name="$USER_HOME$/Docker/xyf-api-gateway/api/helper/RequestEnv.php" timestamp="1591931691574">
         <mark key="'" line="74" column="12" />
         <mark key="[" line="74" column="36" />
         <mark key="]" line="53" column="41" />
         <mark key="^" line="53" column="41" />
         <mark key="." line="53" column="40" />
-      </file>
-      <file name="$USER_HOME$/Docker/loanmarket/vendor/yiisoft/yii2/base/StaticInstanceTrait.php" timestamp="1591847292742">
-        <mark key="'" line="36" column="50" />
       </file>
       <file name="$USER_HOME$/Docker/shoufuyou-php-lib/shoufuyou/Table/XyfVipCardV2Service.php" timestamp="1591951917052">
         <mark key="'" line="249" column="67" />
@@ -211,7 +204,9 @@
       <file name="$USER_HOME$/Docker/loanmarket/serviceapi/controllers/UnionLoginController.php" timestamp="1591928313115">
         <mark key="'" line="72" column="12" />
       </file>
-      <file name="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCard2019Service.php" timestamp="1591956299395" />
+      <file name="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCard2019Service.php" timestamp="1592185404185">
+        <mark key="'" line="406" column="22" />
+      </file>
       <file name="$USER_HOME$/Docker/shoufuyou-notify/lib/Models/Utms/Zlqb.php" timestamp="1591856358368">
         <mark key="[" line="32" column="30" />
         <mark key="]" line="32" column="30" />
@@ -220,7 +215,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="27" filename="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/Tools/OcrController.php" />
       <jump line="33" column="48" filename="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/Tools/OcrController.php" />
       <jump line="1032" column="5" filename="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/Tools/OcrController.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/Tools/OcrController.php" />
@@ -320,6 +314,7 @@
       <jump line="129" column="22" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
       <jump line="133" column="33" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
       <jump line="136" column="33" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
+      <jump line="406" column="22" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCard2019Service.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -327,8 +322,8 @@
       <register name="a" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmOjpnZW4K</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -343,7 +338,7 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>—</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>code</text>
