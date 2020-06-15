@@ -36,7 +36,6 @@
         <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>vs</entry>
         <entry>action RecentFiles</entry>
-        <entry>action Annotate</entry>
         <entry>action SelectInProjectView</entry>
         <entry>action KJumpAction.Line</entry>
         <entry>action PreviousTab</entry>
@@ -48,6 +47,7 @@
         <entry>action FileStructurePopup</entry>
         <entry>wq</entry>
         <entry>action KJumpAction.Word0</entry>
+        <entry>action Annotate</entry>
         <entry>nohls</entry>
       </history-cmd>
       <history-expr />
@@ -538,7 +538,7 @@
       <last-replace>inner_app</last-replace>
       <last-substitute>app</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
