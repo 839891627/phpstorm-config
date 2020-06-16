@@ -42,13 +42,13 @@
         <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>action KJumpAction.Line</entry>
         <entry>action Annotate</entry>
-        <entry>action KJumpAction.Word0</entry>
         <entry>action FileStructurePopup</entry>
         <entry>nohls</entry>
         <entry>action Back</entry>
         <entry>action SelectInProjectView</entry>
         <entry>wq</entry>
         <entry>action NextTab</entry>
+        <entry>action KJumpAction.Word0</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -118,9 +118,6 @@
       <file name="$USER_HOME$/Docker/xyf-api-gateway/common/controllers/BaseController.php" timestamp="1592285046985">
         <mark key="'" line="14" column="6" />
       </file>
-      <file name="$USER_HOME$/Docker/xyf-common-sms/common/services/sms/BizLogic/AddTaskHelper.php" timestamp="1592274696364">
-        <mark key="'" line="46" column="18" />
-      </file>
       <file name="$USER_HOME$/Docker/xyf-common-sms/common/services/sms/BizLogic/DoTaskHelper.php" timestamp="1592275441774">
         <mark key="'" line="123" column="69" />
       </file>
@@ -147,6 +144,13 @@
       </file>
       <file name="$USER_HOME$/Docker/xyf-sms-center/common/models/message/TemplateSms.php" timestamp="1592284764307">
         <mark key="'" line="96" column="27" />
+      </file>
+      <file name="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" timestamp="1592293034757">
+        <mark key="'" line="10" column="39" />
+        <mark key="[" line="356" column="0" />
+        <mark key="]" line="358" column="83" />
+        <mark key="^" line="331" column="80" />
+        <mark key="." line="356" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1592292519335">
         <mark key="[" line="0" column="0" />
@@ -184,7 +188,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="355" column="20" filename="$USER_HOME$/Docker/shoufuyou-fund-system/lib/Models/Loan/LoanMiddle.php" />
       <jump line="23" column="17" filename="$USER_HOME$/Docker/shoufuyou-fund-system/lib/Controllers/BaseController.php" />
       <jump line="265" column="65" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/Models/CashLoanOrder.php" />
       <jump line="246" column="13" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/XlCash/XlCashLoanOrder.php" />
@@ -284,6 +287,7 @@
       <jump line="78" column="0" filename="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/FundMonitorCommand.php" />
       <jump line="95" column="13" filename="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/FundMonitorCommand.php" />
       <jump line="16" column="6" filename="$USER_HOME$/Docker/shoufuyou-php-lib/shoufuyou/Table/XyfVipCard2019Service.php" />
+      <jump line="10" column="39" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -495,7 +499,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJG1lc3NhZ2UgLj0gJ+OAkCcuJGFnZW50IC4gIuOAkVx0IiAuICRncm91cCAuICJcdCIgLiBiY2Rpdigkc3VjY2VzcywgJHRvdGFsLCAyKSAuICIlXHQiIC4gJHN1Y2Nlc3MgLiAnLycgLiAkdG90YWwgLiAiXHRcbiI7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action NextTab</text>
+        <text>action KJumpAction.Word0</text>
       </register>
     </registers>
   </component>
