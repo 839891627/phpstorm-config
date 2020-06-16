@@ -43,11 +43,11 @@
         <entry>action CloseAllEditors</entry>
         <entry>action SelectInProjectView</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
-        <entry>action FileStructurePopup</entry>
         <entry>action KJumpAction.Line</entry>
-        <entry>action KJumpAction.Word0</entry>
         <entry>action Back</entry>
         <entry>action Annotate</entry>
+        <entry>action KJumpAction.Word0</entry>
+        <entry>action FileStructurePopup</entry>
         <entry>nohls</entry>
       </history-cmd>
       <history-expr />
@@ -142,11 +142,11 @@
       <file name="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/DelayQueueController.php" timestamp="1592277036111">
         <mark key="'" line="40" column="20" />
       </file>
-      <file name="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/FundMonitorCommand.php" timestamp="1592278971492">
-        <mark key="'" line="717" column="21" />
-        <mark key="[" line="723" column="0" />
-        <mark key="]" line="723" column="0" />
-        <mark key="." line="723" column="0" />
+      <file name="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/FundMonitorCommand.php" timestamp="1592291342636">
+        <mark key="'" line="94" column="13" />
+        <mark key="[" line="95" column="8" />
+        <mark key="]" line="98" column="0" />
+        <mark key="." line="98" column="0" />
       </file>
       <file name="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/Sms.php" timestamp="1592284777568">
         <mark key="'" line="104" column="40" />
@@ -187,18 +187,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="671" column="18" filename="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/FundMonitorCommand.php" />
-      <jump line="687" column="0" filename="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/FundMonitorCommand.php" />
-      <jump line="509" column="13" filename="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/FundMonitorCommand.php" />
-      <jump line="704" column="34" filename="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/FundMonitorCommand.php" />
-      <jump line="603" column="6" filename="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/FundMonitorCommand.php" />
-      <jump line="85" column="38" filename="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/FundMonitorCommand.php" />
-      <jump line="673" column="35" filename="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/FundMonitorCommand.php" />
-      <jump line="36" column="36" filename="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/FundMonitorCommand.php" />
-      <jump line="74" column="0" filename="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/FundMonitorCommand.php" />
-      <jump line="87" column="8" filename="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/FundMonitorCommand.php" />
-      <jump line="686" column="61" filename="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/FundMonitorCommand.php" />
-      <jump line="46" column="26" filename="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/BankCashTaskCommand.php" />
       <jump line="401" column="20" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/CashLoan/BankCash/BankCashLoanOrder.php" />
       <jump line="355" column="20" filename="$USER_HOME$/Docker/shoufuyou-fund-system/lib/Models/Loan/LoanMiddle.php" />
       <jump line="23" column="17" filename="$USER_HOME$/Docker/shoufuyou-fund-system/lib/Controllers/BaseController.php" />
@@ -274,7 +262,6 @@
       <jump line="722" column="10" filename="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/FundMonitorCommand.php" />
       <jump line="691" column="0" filename="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/FundMonitorCommand.php" />
       <jump line="713" column="0" filename="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/FundMonitorCommand.php" />
-      <jump line="728" column="9" filename="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/FundMonitorCommand.php" />
       <jump line="670" column="35" filename="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/FundMonitorCommand.php" />
       <jump line="723" column="50" filename="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/FundMonitorCommand.php" />
       <jump line="702" column="42" filename="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/FundMonitorCommand.php" />
@@ -287,6 +274,19 @@
       <jump line="104" column="40" filename="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/Sms.php" />
       <jump line="136" column="53" filename="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/BaseController.php" />
       <jump line="14" column="6" filename="$USER_HOME$/Docker/xyf-api-gateway/common/controllers/BaseController.php" />
+      <jump line="75" column="74" filename="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/FundMonitorCommand.php" />
+      <jump line="701" column="55" filename="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/FundMonitorCommand.php" />
+      <jump line="684" column="61" filename="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/FundMonitorCommand.php" />
+      <jump line="87" column="19" filename="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/FundMonitorCommand.php" />
+      <jump line="76" column="0" filename="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/FundMonitorCommand.php" />
+      <jump line="731" column="5" filename="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/FundMonitorCommand.php" />
+      <jump line="512" column="0" filename="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/FundMonitorCommand.php" />
+      <jump line="728" column="0" filename="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/FundMonitorCommand.php" />
+      <jump line="708" column="12" filename="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/FundMonitorCommand.php" />
+      <jump line="40" column="0" filename="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/FundMonitorCommand.php" />
+      <jump line="66" column="0" filename="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/FundMonitorCommand.php" />
+      <jump line="78" column="0" filename="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/FundMonitorCommand.php" />
+      <jump line="95" column="13" filename="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/FundMonitorCommand.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -295,7 +295,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB2YXJfZHVtcCgkc21zUmVjb3JkKTtkaWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -310,16 +310,16 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>】</text>
+        <text>9</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDznn63kv6HpgIHovr7mg4XlhrVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkbWVzc2FnZSAuPSAkYWdlbnQgLiAiXHQiIC4gJGdyb3VwIC4gIlx0IiAuIGJjZGl2KCRzdWNjZXNzLCAkdG90YWwsIDIpIC4gIiVcdCIgLiAkc3VjY2VzcyAuICcvJyAuICR0b3RhbCAuICJcdFxuIjsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoJHRoaXMtPmdldEgoKSA9PSA5KSB7CiAgICAgICAgICAgICR0aGlzLT5zbENhc2hNb25pdG9yKCk7ICAgICAgICAgLy/nn6Lpmobmr4/ml6XmlbDmja7mjqjpgIHnm5HmjqcKICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB2YXJfZHVtcCgkc21zUmVjb3JkKTtkaWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -337,28 +337,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJG1lc3NhZ2UgLj0gJ+OAkCcuJGFnZW50IC4gIuOAkVx0IiAuICRncm91cCAuICJcdCIgLiBiY2Rpdigkc3VjY2VzcywgJHRvdGFsLCAyKSAuICIlXHQiIC4gJHN1Y2Nlc3MgLiAnLycgLiAkdG90YWwgLiAiXHRcbiI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPnNtc0RlbGl2ZXJ5UmF0ZU1vbml0b3IoKTsgLy/liY3kuIDml6Xnn63kv6HpgIHovr7njofnm5HmjqcK</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkbWVzc2FnZSAuPSAkYWdlbnQgLiAiXHQiIC4gJGdyb3VwIC4gIlx0IiAuIGJjZGl2KCRzdWNjZXNzLCAkdG90YWwsIDIpIC4gIiVcdCIgLiAkc3VjY2VzcyAuICcvJyAuICR0b3RhbCAuICJcdFxuIjsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoJHRoaXMtPmdldEgoKSA9PSA5KSB7CiAgICAgICAgfQo=</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPnNsQ2FzaE1vbml0b3IoKTsgICAgICAgICAvL+efoumahuavj+aXpeaVsOaNruaOqOmAgeebkeaOpwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+c21zRGVsaXZlcnlSYXRlTW9uaXRvcigpOyAvL+WJjeS4gOaXpeefreS/oemAgei+vueOh+ebkeaOpwogICAgICAgIHJldHVybjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobyAkeWVzdGVyZGF5LCAkdG90YWw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJHJlY29yZHMpO2RpZTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICR0aGlzLT5zZW5kU21zTm90aWZ5KCfjgJDnn63kv6Hns7vnu5/nm5HmjqfjgJEtICcgLiBkYXRlKCdZLW0tZCcsIHN0cnRvdGltZSgnLTEgZGF5JykpIC4gJ+efreS/oemAgei+vuaDheWGtTrjgJBzbXNfcmV0cnlfcmVjb3Jk44CRJywgJG1lc3NhZ2UpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -492,10 +492,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyB2YXJfZHVtcCgkc21zUmVjb3JkKTtkaWU7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCRyZWNvcmRzKSB7CiAgICAgICAgICAgICAgICBmb3JlYWNoICgkcmVjb3JkcyBhcyAkcmVjb3JkKSB7CiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJG1lc3NhZ2UgLj0gJ+OAkCcuJGFnZW50IC4gIuOAkVx0IiAuICRncm91cCAuICJcdCIgLiBiY2Rpdigkc3VjY2VzcywgJHRvdGFsLCAyKSAuICIlXHQiIC4gJHN1Y2Nlc3MgLiAnLycgLiAkdG90YWwgLiAiXHRcbiI7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>nohls</text>
