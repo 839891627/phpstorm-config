@@ -38,17 +38,17 @@
         <entry>action NextTab</entry>
         <entry>action Forward</entry>
         <entry>vs</entry>
-        <entry>action Annotate</entry>
         <entry>action RecentFiles</entry>
         <entry>action NextSplitter</entry>
         <entry>action CloseAllEditors</entry>
-        <entry>action KJumpAction.Line</entry>
         <entry>action SelectInProjectView</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
-        <entry>action KJumpAction.Word0</entry>
         <entry>action FileStructurePopup</entry>
-        <entry>nohls</entry>
+        <entry>action KJumpAction.Line</entry>
+        <entry>action KJumpAction.Word0</entry>
         <entry>action Back</entry>
+        <entry>nohls</entry>
+        <entry>action Annotate</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -112,14 +112,20 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/BaseController.php" timestamp="1592285040299">
+        <mark key="'" line="136" column="53" />
+      </file>
+      <file name="$USER_HOME$/Docker/xyf-api-gateway/common/controllers/BaseController.php" timestamp="1592285046985">
+        <mark key="'" line="14" column="6" />
+      </file>
       <file name="$USER_HOME$/Docker/xyf-common-sms/common/services/sms/BizLogic/AddTaskHelper.php" timestamp="1592274696364">
         <mark key="'" line="46" column="18" />
       </file>
       <file name="$USER_HOME$/Docker/xyf-common-sms/common/services/sms/BizLogic/DoTaskHelper.php" timestamp="1592275441774">
         <mark key="'" line="123" column="69" />
       </file>
-      <file name="$USER_HOME$/Docker/xyf-sms-center/common/facade/Sms.php" timestamp="1592274564396">
-        <mark key="'" line="93" column="20" />
+      <file name="$USER_HOME$/Docker/xyf-sms-center/common/facade/Sms.php" timestamp="1592284755034">
+        <mark key="'" line="120" column="98" />
       </file>
       <file name="$USER_HOME$/Docker/xyf-sms-center/vendor/xyf/lib/src/commonSms/CommonSms.php" timestamp="1592273777946">
         <mark key="'" line="15" column="6" />
@@ -130,24 +136,14 @@
       <file name="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/XyfSmsTaskController.php" timestamp="1592276603733">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/CashLoan/BankCash/BankCashCredit.php" timestamp="1592212047526">
-        <mark key="'" line="345" column="12" />
-        <mark key="[" line="351" column="0" />
-        <mark key="]" line="351" column="0" />
-        <mark key="." line="351" column="0" />
-      </file>
-      <file name="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashCredit.php" timestamp="1592212082332">
-        <mark key="'" line="42" column="27" />
-        <mark key="[" line="353" column="77" />
-        <mark key="]" line="353" column="76" />
-        <mark key="^" line="353" column="76" />
-        <mark key="." line="353" column="75" />
-      </file>
       <file name="$USER_HOME$/Docker/xyf-common-sms/api/components/SmsAuthorizeFilter.php" timestamp="1592274664359">
         <mark key="'" line="17" column="15" />
       </file>
       <file name="$USER_HOME$/Docker/xyf-sms-center/common/helper/RequestHelper.php" timestamp="1592273933374">
         <mark key="'" line="63" column="43" />
+      </file>
+      <file name="$USER_HOME$/Docker/xyf-sms-center/console/controllers/LpSmsController.php" timestamp="1592284738133">
+        <mark key="'" line="31" column="29" />
       </file>
       <file name="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/DelayQueueController.php" timestamp="1592277036111">
         <mark key="'" line="40" column="20" />
@@ -158,11 +154,11 @@
         <mark key="]" line="723" column="0" />
         <mark key="." line="723" column="0" />
       </file>
-      <file name="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/Sms.php" timestamp="1592274603253">
-        <mark key="'" line="101" column="15" />
+      <file name="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/Sms.php" timestamp="1592284777568">
+        <mark key="'" line="104" column="40" />
       </file>
-      <file name="$USER_HOME$/Docker/xyf-sms-center/common/models/message/TemplateSms.php" timestamp="1592274413426">
-        <mark key="'" line="74" column="21" />
+      <file name="$USER_HOME$/Docker/xyf-sms-center/common/models/message/TemplateSms.php" timestamp="1592284764307">
+        <mark key="'" line="96" column="27" />
       </file>
       <file name="$USER_HOME$/Docker/xyf-common-sms/common/services/sms/XyfSms.php" timestamp="1592275531876">
         <mark key="'" line="46" column="26" />
@@ -188,12 +184,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="623" column="10" filename="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/FundMonitorCommand.php" />
-      <jump line="516" column="6" filename="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/FundMonitorCommand.php" />
-      <jump line="688" column="22" filename="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/FundMonitorCommand.php" />
-      <jump line="374" column="0" filename="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/FundMonitorCommand.php" />
-      <jump line="676" column="31" filename="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/FundMonitorCommand.php" />
-      <jump line="692" column="19" filename="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/FundMonitorCommand.php" />
       <jump line="671" column="18" filename="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/FundMonitorCommand.php" />
       <jump line="687" column="0" filename="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/FundMonitorCommand.php" />
       <jump line="509" column="13" filename="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/FundMonitorCommand.php" />
@@ -288,6 +278,12 @@
       <jump line="709" column="296" filename="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/FundMonitorCommand.php" />
       <jump line="717" column="21" filename="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/FundMonitorCommand.php" />
       <jump line="343" column="6" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/VipCardV2Controller.php" />
+      <jump line="31" column="29" filename="$USER_HOME$/Docker/xyf-sms-center/console/controllers/LpSmsController.php" />
+      <jump line="120" column="98" filename="$USER_HOME$/Docker/xyf-sms-center/common/facade/Sms.php" />
+      <jump line="96" column="27" filename="$USER_HOME$/Docker/xyf-sms-center/common/models/message/TemplateSms.php" />
+      <jump line="104" column="40" filename="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/Sms.php" />
+      <jump line="136" column="53" filename="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/BaseController.php" />
+      <jump line="14" column="6" filename="$USER_HOME$/Docker/xyf-api-gateway/common/controllers/BaseController.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -499,7 +495,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICRtZXNzYWdlID0gIumAmumBk1x0ICAgIOWIhue7hFx0ICAg54q25oCBXHQgICDmnaHmlbBcdFxuIjsK</text>
       </register>
       <register name=":" type="4">
-        <text>action Back</text>
+        <text>action Annotate</text>
       </register>
     </registers>
   </component>
