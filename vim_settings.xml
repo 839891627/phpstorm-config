@@ -38,7 +38,6 @@
         <entry>action CloseAllEditors</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>action KJumpAction.Line</entry>
-        <entry>action FileStructurePopup</entry>
         <entry>wq</entry>
         <entry>action NextTab</entry>
         <entry>action KJumpAction.Word0</entry>
@@ -47,6 +46,7 @@
         <entry>action RecentFiles</entry>
         <entry>action Annotate</entry>
         <entry>action SelectInProjectView</entry>
+        <entry>action FileStructurePopup</entry>
         <entry>action Back</entry>
         <entry>nohls</entry>
       </history-cmd>
@@ -112,6 +112,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Docker/shoufuyou-php-lib/shoufuyou/Service/XyfVipCardV2Service.php" timestamp="1592299360681">
+        <mark key="'" line="97" column="4" />
+        <mark key="[" line="108" column="27" />
+        <mark key="]" line="108" column="36" />
+        <mark key="." line="108" column="35" />
+        <mark key="^" line="108" column="36" />
+      </file>
       <file name="$USER_HOME$/Docker/xyf-common-sms/common/services/sms/BizLogic/DoTaskHelper.php" timestamp="1592296419141">
         <mark key="'" line="123" column="69" />
       </file>
@@ -188,7 +195,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="84" column="40" filename="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/Sms.php" />
       <jump line="93" column="20" filename="$USER_HOME$/Docker/xyf-sms-center/common/facade/Sms.php" />
       <jump line="93" column="36" filename="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/Sms.php" />
       <jump line="101" column="15" filename="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/Sms.php" />
@@ -288,6 +294,7 @@
       <jump line="76" column="20" filename="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/Limit.php" />
       <jump line="55" column="23" filename="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/Limit.php" />
       <jump line="76" column="40" filename="$USER_HOME$/Docker/xyf-common-sms/common/services/sms/XyfSms.php" />
+      <jump line="97" column="4" filename="$USER_HOME$/Docker/shoufuyou-php-lib/shoufuyou/Service/XyfVipCardV2Service.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -295,8 +302,8 @@
       <register name="a" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>self::CARD_NAME,</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -311,13 +318,13 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>9</text>
+        <text>self::CARD_NAME,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxMaW1pdFN0cmF0ZWd5XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoJHRoaXMtPmdldEgoKSA9PSA5KSB7CiAgICAgICAgICAgICR0aGlzLT5zbENhc2hNb25pdG9yKCk7ICAgICAgICAgLy/nn6Lpmobmr4/ml6XmlbDmja7mjqjpgIHnm5HmjqcKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdjYXJkX25hbWUnICA9PiBzZWxmOjpDQVJEX05BTUUsCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
