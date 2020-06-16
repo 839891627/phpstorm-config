@@ -47,8 +47,8 @@
         <entry>action KJumpAction.Line</entry>
         <entry>action KJumpAction.Word0</entry>
         <entry>action Back</entry>
-        <entry>nohls</entry>
         <entry>action Annotate</entry>
+        <entry>nohls</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -127,12 +127,6 @@
       <file name="$USER_HOME$/Docker/xyf-sms-center/common/facade/Sms.php" timestamp="1592284755034">
         <mark key="'" line="120" column="98" />
       </file>
-      <file name="$USER_HOME$/Docker/xyf-sms-center/vendor/xyf/lib/src/commonSms/CommonSms.php" timestamp="1592273777946">
-        <mark key="'" line="15" column="6" />
-      </file>
-      <file name="$USER_HOME$/Docker/xyf-sms-center/api/controllers/SmsController.php" timestamp="1592273751017">
-        <mark key="'" line="31" column="10" />
-      </file>
       <file name="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/XyfSmsTaskController.php" timestamp="1592276603733">
         <mark key="'" line="0" column="0" />
       </file>
@@ -159,6 +153,15 @@
       </file>
       <file name="$USER_HOME$/Docker/xyf-sms-center/common/models/message/TemplateSms.php" timestamp="1592284764307">
         <mark key="'" line="96" column="27" />
+      </file>
+      <file name="$USER_HOME$/Docker/xyf-middleware-system/common/models/SmsRetryRecord.php" timestamp="1592290353513">
+        <mark key="[" line="125" column="0" />
+        <mark key="]" line="125" column="0" />
+        <mark key="." line="125" column="0" />
+      </file>
+      <file name="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/XyfSmsRetryController.php" timestamp="1592290161987">
+        <mark key="'" line="115" column="21" />
+        <mark key="[" line="38" column="39" />
       </file>
       <file name="$USER_HOME$/Docker/xyf-common-sms/common/services/sms/XyfSms.php" timestamp="1592275531876">
         <mark key="'" line="46" column="26" />
@@ -292,7 +295,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJG1lc3NhZ2UgLj0gJ+OAkCcuJGFnZW50IC4gIuOAkVx0IiAuICRncm91cCAuICJcdCIgLiBiY2Rpdigkc3VjY2VzcywgJHRvdGFsLCAyKSAuICIlXHQiIC4gJHN1Y2Nlc3MgLiAnLycgLiAkdG90YWwgLiAiXHRcbiI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyB2YXJfZHVtcCgkc21zUmVjb3JkKTtkaWU7Cg==</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -316,7 +319,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkbWVzc2FnZSAuPSAkYWdlbnQgLiAiXHQiIC4gJGdyb3VwIC4gIlx0IiAuIGJjZGl2KCRzdWNjZXNzLCAkdG90YWwsIDIpIC4gIiVcdCIgLiAkc3VjY2VzcyAuICcvJyAuICR0b3RhbCAuICJcdFxuIjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJG1lc3NhZ2UgLj0gJ+OAkCcuJGFnZW50IC4gIuOAkVx0IiAuICRncm91cCAuICJcdCIgLiBiY2Rpdigkc3VjY2VzcywgJHRvdGFsLCAyKSAuICIlXHQiIC4gJHN1Y2Nlc3MgLiAnLycgLiAkdG90YWwgLiAiXHRcbiI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyB2YXJfZHVtcCgkc21zUmVjb3JkKTtkaWU7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -334,13 +337,13 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkbWVzc2FnZSAuPSAkYWdlbnQgLiAiXHQiIC4gJGdyb3VwIC4gIlx0IiAuIGJjZGl2KCRzdWNjZXNzLCAkdG90YWwsIDIpIC4gIiVcdCIgLiAkc3VjY2VzcyAuICcvJyAuICR0b3RhbCAuICJcdFxuIjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJG1lc3NhZ2UgLj0gJ+OAkCcuJGFnZW50IC4gIuOAkVx0IiAuICRncm91cCAuICJcdCIgLiBiY2Rpdigkc3VjY2VzcywgJHRvdGFsLCAyKSAuICIlXHQiIC4gJHN1Y2Nlc3MgLiAnLycgLiAkdG90YWwgLiAiXHRcbiI7Cg==</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkbWVzc2FnZSAuPSAkYWdlbnQgLiAiXHQiIC4gJGdyb3VwIC4gIlx0IiAuIGJjZGl2KCRzdWNjZXNzLCAkdG90YWwsIDIpIC4gIiVcdCIgLiAkc3VjY2VzcyAuICcvJyAuICR0b3RhbCAuICJcdFxuIjsK</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
@@ -349,13 +352,13 @@
         <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobyAkeWVzdGVyZGF5LCAkdG90YWw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICR0aGlzLT5zZW5kU21zTm90aWZ5KCfjgJDnn63kv6Hns7vnu5/nm5HmjqfjgJEtICcgLiBkYXRlKCdZLW0tZCcsIHN0cnRvdGltZSgnLTEgZGF5JykpIC4gJ+efreS/oemAgei+vuaDheWGtTrjgJBzbXNfcmV0cnlfcmVjb3Jk44CRJywgJG1lc3NhZ2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWNobyAkeWVzdGVyZGF5LCAkdG90YWw7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICR0aGlzLT5zZW5kU21zTm90aWZ5KCfjgJDnn63kv6Hns7vnu5/nm5HmjqfjgJEtICcgLiBkYXRlKCdZLW0tZCcsIHN0cnRvdGltZSgnLTEgZGF5JykpIC4gJ+efreS/oemAgei+vuaDheWGtTrjgJBzbXNfcmV0cnlfcmVjb3Jk44CRJywgJG1lc3NhZ2UpOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -489,13 +492,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCRyZWNvcmRzKSB7CiAgICAgICAgICAgICAgICBmb3JlYWNoICgkcmVjb3JkcyBhcyAkcmVjb3JkKSB7CiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRtZXNzYWdlID0gIumAmumBk1x0ICAgIOWIhue7hFx0ICAg54q25oCBXHQgICDmnaHmlbBcdFxuIjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCRyZWNvcmRzKSB7CiAgICAgICAgICAgICAgICBmb3JlYWNoICgkcmVjb3JkcyBhcyAkcmVjb3JkKSB7CiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Annotate</text>
+        <text>nohls</text>
       </register>
     </registers>
   </component>
