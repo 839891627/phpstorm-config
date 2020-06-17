@@ -42,13 +42,13 @@
         <entry>wq</entry>
         <entry>action NextTab</entry>
         <entry>vs</entry>
-        <entry>action KJumpAction.Word0</entry>
         <entry>action NextSplitter</entry>
         <entry>action CloseAllEditors</entry>
         <entry>action PreviousTab</entry>
         <entry>action FileStructurePopup</entry>
-        <entry>nohls</entry>
         <entry>action Back</entry>
+        <entry>nohls</entry>
+        <entry>action KJumpAction.Word0</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -152,13 +152,13 @@
       <file name="$USER_HOME$/Docker/shoufuyou-fund-system/lib/Models/FundSource/Recommend/RecFundSource.php" timestamp="1592364666855">
         <mark key="'" line="43" column="27" />
       </file>
-      <file name="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" timestamp="1592388720307">
-        <mark key="'" line="559" column="77" />
+      <file name="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" timestamp="1592391325643">
+        <mark key="'" line="220" column="25" />
         <mark key="z" line="27" column="27" />
-        <mark key="[" line="560" column="0" />
-        <mark key="]" line="560" column="0" />
-        <mark key="." line="560" column="0" />
-        <mark key="^" line="559" column="83" />
+        <mark key="[" line="340" column="43" />
+        <mark key="]" line="340" column="44" />
+        <mark key="." line="340" column="43" />
+        <mark key="^" line="340" column="44" />
       </file>
       <file name="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/BizSfyWebClient.php" timestamp="1592386298955">
         <mark key="'" line="7040" column="25" />
@@ -181,8 +181,8 @@
         <mark key="^" line="96" column="95" />
       </file>
       <file name="$USER_HOME$/Docker/xinyongfei-app-api/log/pay_client/20200617.log" timestamp="1592385996197" />
-      <file name="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/VipCardV2Controller.php" timestamp="1592387960867">
-        <mark key="'" line="246" column="36" />
+      <file name="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/VipCardV2Controller.php" timestamp="1592391311318">
+        <mark key="'" line="189" column="44" />
         <mark key="[" line="320" column="78" />
         <mark key="]" line="320" column="97" />
         <mark key="^" line="320" column="97" />
@@ -270,7 +270,6 @@
       <jump line="12" column="6" filename="$USER_HOME$/Docker/xyf-api-gateway/api/service/gateways/HelperTrait.php" />
       <jump line="130" column="0" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/VipCardV2Controller.php" />
       <jump line="161" column="19" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/VipCardV2Controller.php" />
-      <jump line="220" column="25" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
       <jump line="336" column="27" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
       <jump line="7036" column="25" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/BizSfyWebClient.php" />
       <jump line="142" column="39" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/VipCardController.php" />
@@ -285,7 +284,6 @@
       <jump line="128" column="17" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/VipCardV2Controller.php" />
       <jump line="129" column="17" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/VipCardV2Controller.php" />
       <jump line="152" column="20" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/VipCardV2Controller.php" />
-      <jump line="189" column="44" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/VipCardV2Controller.php" />
       <jump line="320" column="41" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/VipCardV2Controller.php" />
       <jump line="495" column="48" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
       <jump line="246" column="36" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/VipCardV2Controller.php" />
@@ -293,6 +291,8 @@
       <jump line="562" column="12" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
       <jump line="559" column="77" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
       <jump line="331" column="47" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" />
+      <jump line="189" column="44" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/VipCardV2Controller.php" />
+      <jump line="220" column="25" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -300,8 +300,8 @@
       <register name="a" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -316,7 +316,7 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>BANK</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXJhbXNcPg==</text>
@@ -504,7 +504,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Back</text>
+        <text>action KJumpAction.Word0</text>
       </register>
     </registers>
   </component>
