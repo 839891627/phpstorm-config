@@ -47,8 +47,8 @@
         <entry>action CloseAllEditors</entry>
         <entry>action PreviousTab</entry>
         <entry>action FileStructurePopup</entry>
-        <entry>action Back</entry>
         <entry>nohls</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -504,7 +504,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>nohls</text>
+        <text>action Back</text>
       </register>
     </registers>
   </component>
