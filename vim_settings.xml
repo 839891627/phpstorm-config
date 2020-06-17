@@ -46,9 +46,9 @@
         <entry>action CloseAllEditors</entry>
         <entry>action PreviousTab</entry>
         <entry>action FileStructurePopup</entry>
-        <entry>action Back</entry>
         <entry>nohls</entry>
         <entry>action KJumpAction.Word0</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -112,9 +112,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Docker/shoufuyou-fund-system/lib/Controllers/RouteController.php" timestamp="1592364649181">
-        <mark key="'" line="205" column="39" />
-      </file>
       <file name="$USER_HOME$/Docker/xyf-api-gateway/vendor/symfony/http-foundation/ExpressionRequestMatcher.php" timestamp="1592378689776">
         <mark key="'" line="42" column="30" />
       </file>
@@ -124,6 +121,9 @@
         <mark key="]" line="96" column="48" />
         <mark key="." line="96" column="48" />
         <mark key="^" line="96" column="52" />
+      </file>
+      <file name="$USER_HOME$/Docker/xyf-pay-system/api/controllers/PayController.php" timestamp="1592392751639">
+        <mark key="'" line="34" column="46" />
       </file>
       <file name="$USER_HOME$/Docker/xyf-api-gateway/api/service/gateways/HelperTrait.php" timestamp="1592378719212">
         <mark key="'" line="12" column="6" />
@@ -149,6 +149,9 @@
       </file>
       <file name="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/Models/CashLoanOrder.php" timestamp="1592389600228" />
       <file name="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/Before/OcrController.php" timestamp="1592373171662" />
+      <file name="$USER_HOME$/Docker/xinyongfei-app-api/log/webclient/20200617.log" timestamp="1592391444629">
+        <mark key="'" line="17" column="45" />
+      </file>
       <file name="$USER_HOME$/Docker/shoufuyou-fund-system/lib/Models/FundSource/Recommend/RecFundSource.php" timestamp="1592364666855">
         <mark key="'" line="43" column="27" />
       </file>
@@ -166,9 +169,6 @@
         <mark key="]" line="7038" column="30" />
         <mark key="." line="7038" column="29" />
         <mark key="^" line="7038" column="30" />
-      </file>
-      <file name="$USER_HOME$/Docker/shoufuyou-fund-system/lib/Models/FundSource/FundRecommendManage.php" timestamp="1592364658878">
-        <mark key="'" line="122" column="48" />
       </file>
       <file name="$USER_HOME$/Docker/xyf-api-gateway/api/service/gateways/CreditGateway.php" timestamp="1592378708204">
         <mark key="'" line="132" column="6" />
@@ -193,8 +193,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="144" column="61" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/VipCardV2Controller.php" />
-      <jump line="192" column="15" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/VipCardV2Controller.php" />
       <jump line="24" column="6" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
       <jump line="619" column="44" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
       <jump line="58" column="17" filename="$USER_HOME$/Docker/xyf-pay-system/common/tables/CashLoanOrderTable.php" />
@@ -293,6 +291,8 @@
       <jump line="331" column="47" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" />
       <jump line="189" column="44" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/VipCardV2Controller.php" />
       <jump line="220" column="25" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
+      <jump line="17" column="45" filename="$USER_HOME$/Docker/xinyongfei-app-api/log/webclient/20200617.log" />
+      <jump line="34" column="46" filename="$USER_HOME$/Docker/xyf-pay-system/api/controllers/PayController.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -504,7 +504,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action KJumpAction.Word0</text>
+        <text>action Back</text>
       </register>
     </registers>
   </component>
