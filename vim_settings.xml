@@ -34,7 +34,6 @@
         <entry>action GotoClass</entry>
         <entry>action SelectInProjectView</entry>
         <entry>action Annotate</entry>
-        <entry>action FileStructurePopup</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0ZpbGU=</entry>
         <entry>action NextSplitter</entry>
         <entry>source ~/.ideavimrc</entry>
@@ -49,6 +48,7 @@
         <entry>wq</entry>
         <entry>action Back</entry>
         <entry>nohls</entry>
+        <entry>action FileStructurePopup</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -503,7 +503,7 @@
         <text encoding="base64">dm5vcmVtYXAgPFNwYWNlPnMgOmFjdGlvbiBTdXJyb3VuZFdpdGg8Q1I+Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>nohls</text>
+        <text>action FileStructurePopup</text>
       </register>
     </registers>
   </component>
