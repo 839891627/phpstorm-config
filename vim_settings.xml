@@ -29,7 +29,6 @@
         <entry encoding="base64">XDxwZXJpb2RMaW1pdEFtb3VudFw+</entry>
       </history-search>
       <history-cmd>
-        <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>action GotoAction</entry>
         <entry>action GotoClass</entry>
         <entry>action SelectInProjectView</entry>
@@ -46,9 +45,10 @@
         <entry encoding="base64">JzwsJz5hY3Rpb24gU3Vycm91bmRXaXRo</entry>
         <entry>action CloseAllEditors</entry>
         <entry>wq</entry>
-        <entry>action Back</entry>
-        <entry>action FileStructurePopup</entry>
         <entry>nohls</entry>
+        <entry>action FileStructurePopup</entry>
+        <entry>action KJumpAction.Word0</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -112,6 +112,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Docker/shoufuyou-fund-system/lib/Controllers/RouteController.php" timestamp="1592364649181">
+        <mark key="'" line="205" column="39" />
+      </file>
       <file name="$USER_HOME$/Docker/shoufuyou-php-lib/shoufuyou/Service/XyfVipCardV2Service.php" timestamp="1592360544344">
         <mark key="'" line="52" column="24" />
         <mark key="[" line="70" column="12" />
@@ -119,17 +122,11 @@
         <mark key="." line="70" column="11" />
         <mark key="^" line="70" column="12" />
       </file>
-      <file name="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/Sms.php" timestamp="1592297154926">
-        <mark key="'" line="28" column="11" />
-      </file>
       <file name="$USER_HOME$/Docker/xinyongfei-app-api/public/index.php" timestamp="1592364277850">
         <mark key="'" line="4" column="0" />
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/Docker/xyf-sms-center/common/facade/Sms.php" timestamp="1592297134148">
-        <mark key="'" line="27" column="23" />
       </file>
       <file name="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/CashPool/CashPoolInnerApp.php" timestamp="1592361480329">
         <mark key="'" line="114" column="0" />
@@ -138,17 +135,11 @@
         <mark key="^" line="103" column="43" />
         <mark key="." line="103" column="42" />
       </file>
-      <file name="$USER_HOME$/Docker/xyf-sms-center/common/models/message/TemplateSms.php" timestamp="1592297150216">
-        <mark key="'" line="33" column="15" />
-      </file>
       <file name="$USER_HOME$/Docker/xyf-pay-system/common/service/fundPay/FundPayService.php" timestamp="1592358457058">
         <mark key="'" line="36" column="44" />
       </file>
       <file name="$USER_HOME$/Docker/xyf-pay-system/common/tables/CashLoanOrderTable.php" timestamp="1592358307780">
         <mark key="'" line="58" column="17" />
-      </file>
-      <file name="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/Limit.php" timestamp="1592297192699">
-        <mark key="'" line="55" column="23" />
       </file>
       <file name="$USER_HOME$/Docker/xyf-api-gateway/api/config/local/params.php" timestamp="1592363019762">
         <mark key="[" line="6" column="38" />
@@ -156,11 +147,14 @@
         <mark key="." line="6" column="49" />
         <mark key="^" line="6" column="50" />
       </file>
-      <file name="$USER_HOME$/Docker/xyf-common-sms/common/services/sms/XyfSms.php" timestamp="1592297217553">
-        <mark key="'" line="76" column="40" />
+      <file name="$USER_HOME$/Docker/shoufuyou-fund-system/lib/Models/FundSource/FundSourceManage.php" timestamp="1592364631573">
+        <mark key="'" line="58" column="47" />
       </file>
       <file name="$USER_HOME$/Docker/xyf-pay-system/common/models/CashLoanOrderModel.php" timestamp="1592358459585">
         <mark key="'" line="17" column="33" />
+      </file>
+      <file name="$USER_HOME$/Docker/shoufuyou-fund-system/lib/Models/FundSource/Recommend/RecFundSource.php" timestamp="1592364666855">
+        <mark key="'" line="43" column="27" />
       </file>
       <file name="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" timestamp="1592358963165">
         <mark key="'" line="36" column="14" />
@@ -186,6 +180,9 @@
         <mark key="." line="41" column="43" />
         <mark key="^" line="41" column="44" />
       </file>
+      <file name="$USER_HOME$/Docker/shoufuyou-fund-system/lib/Models/FundSource/FundRecommendManage.php" timestamp="1592364658878">
+        <mark key="'" line="122" column="48" />
+      </file>
       <file name="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/VipCardV2Controller.php" timestamp="1592358912266">
         <mark key="'" line="140" column="43" />
         <mark key="[" line="198" column="43" />
@@ -198,11 +195,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/DelayQueueController.php" />
-      <jump line="225" column="48" filename="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/DelayQueueController.php" />
-      <jump line="337" column="48" filename="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/DelayQueueController.php" />
-      <jump line="446" column="54" filename="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/DelayQueueController.php" />
-      <jump line="40" column="20" filename="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/DelayQueueController.php" />
       <jump line="700" column="64" filename="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/FundMonitorCommand.php" />
       <jump line="715" column="0" filename="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/FundMonitorCommand.php" />
       <jump line="690" column="29" filename="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/FundMonitorCommand.php" />
@@ -298,6 +290,11 @@
       <jump line="119" column="77" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/CashPool/CashPoolInnerApp.php" />
       <jump line="114" column="0" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/CashPool/CashPoolInnerApp.php" />
       <jump line="4" column="0" filename="$USER_HOME$/Docker/xinyongfei-app-api/public/index.php" />
+      <jump line="181" column="40" filename="$USER_HOME$/Docker/shoufuyou-fund-system/lib/Controllers/RouteController.php" />
+      <jump line="58" column="47" filename="$USER_HOME$/Docker/shoufuyou-fund-system/lib/Models/FundSource/FundSourceManage.php" />
+      <jump line="205" column="39" filename="$USER_HOME$/Docker/shoufuyou-fund-system/lib/Controllers/RouteController.php" />
+      <jump line="122" column="48" filename="$USER_HOME$/Docker/shoufuyou-fund-system/lib/Models/FundSource/FundRecommendManage.php" />
+      <jump line="43" column="27" filename="$USER_HOME$/Docker/shoufuyou-fund-system/lib/Models/FundSource/Recommend/RecFundSource.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -509,7 +506,7 @@
         <text encoding="base64">bm5vcmVtYXAgPFNwYWNlPmUgOmFjdGlvbiBSZWNlbnRGaWxlczxDUj4K</text>
       </register>
       <register name=":" type="4">
-        <text>nohls</text>
+        <text>action Back</text>
       </register>
     </registers>
   </component>
