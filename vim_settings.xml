@@ -29,25 +29,25 @@
         <entry encoding="base64">XDxMaW1pdFN0cmF0ZWd5XD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>action ToggleBookmark</entry>
-        <entry>action ShowBookmarks</entry>
-        <entry>.nohls</entry>
-        <entry>action GotoClass</entry>
+        <entry>action OpenEditorInOppositeTabGroup</entry>
+        <entry>action FindUsages</entry>
+        <entry>w</entry>
         <entry>action PreviousTab</entry>
-        <entry>action Forward</entry>
-        <entry>action CloseAllEditors</entry>
+        <entry>action ShowBookmarks</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
-        <entry>action KJumpAction.Line</entry>
-        <entry>wq</entry>
-        <entry>action NextTab</entry>
-        <entry>action KJumpAction.Word0</entry>
-        <entry>vs</entry>
-        <entry>action NextSplitter</entry>
-        <entry>action Annotate</entry>
+        <entry>action GotoAction</entry>
+        <entry>action GotoClass</entry>
         <entry>action SelectInProjectView</entry>
+        <entry>action FindInPath</entry>
+        <entry>action Annotate</entry>
         <entry>action FileStructurePopup</entry>
+        <entry encoding="base64">JzwsJz5hY3Rpb24gR290b0ZpbGU=</entry>
+        <entry>action SurroundWith</entry>
+        <entry>action NextSplitter</entry>
+        <entry>source ~/.ideavimrc</entry>
         <entry>action RecentFiles</entry>
-        <entry>action Back</entry>
+        <entry>action RecentChanges</entry>
+        <entry>action RecentLocations</entry>
         <entry>nohls</entry>
       </history-cmd>
       <history-expr />
@@ -112,12 +112,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Docker/shoufuyou-php-lib/shoufuyou/Service/XyfVipCardV2Service.php" timestamp="1592299360681">
+      <file name="$USER_HOME$/Docker/shoufuyou-php-lib/shoufuyou/Service/XyfVipCardV2Service.php" timestamp="1592359512344">
         <mark key="'" line="97" column="4" />
-        <mark key="[" line="108" column="27" />
-        <mark key="]" line="108" column="36" />
-        <mark key="." line="108" column="35" />
-        <mark key="^" line="108" column="36" />
+        <mark key="[" line="99" column="8" />
+        <mark key="]" line="99" column="8" />
+        <mark key="." line="99" column="7" />
+        <mark key="^" line="99" column="8" />
       </file>
       <file name="$USER_HOME$/Docker/xyf-common-sms/common/services/sms/BizLogic/DoTaskHelper.php" timestamp="1592296419141">
         <mark key="'" line="123" column="69" />
@@ -139,12 +139,6 @@
       </file>
       <file name="$USER_HOME$/Docker/shoufuyou-sms-system/config/env.php" timestamp="1592295352672">
         <mark key="'" line="47" column="5" />
-      </file>
-      <file name="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/CashLoan/BankCash/BankCashCredit.php" timestamp="1592294080373">
-        <mark key="'" line="339" column="5" />
-        <mark key="[" line="351" column="0" />
-        <mark key="]" line="351" column="0" />
-        <mark key="." line="351" column="0" />
       </file>
       <file name="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCard2019Service.php" timestamp="1592299418564">
         <mark key="'" line="914" column="8" />
@@ -181,8 +175,18 @@
         <mark key="." line="293" column="29" />
         <mark key="^" line="293" column="30" />
       </file>
-      <file name="$USER_HOME$/Docker/xyf-pay-system/api/controllers/FundPayController.php" timestamp="1592358391077">
+      <file name="$USER_HOME$/Docker/xyf-pay-system/api/controllers/FundPayController.php" timestamp="1592359726029">
         <mark key="'" line="35" column="51" />
+        <mark key="[" line="30" column="41" />
+        <mark key="]" line="30" column="51" />
+        <mark key="^" line="30" column="51" />
+        <mark key="." line="30" column="50" />
+      </file>
+      <file name="$USER_HOME$/.ideavimrc" timestamp="1592360146814">
+        <mark key="[" line="41" column="26" />
+        <mark key="]" line="41" column="44" />
+        <mark key="." line="41" column="43" />
+        <mark key="^" line="41" column="44" />
       </file>
       <file name="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/VipCardV2Controller.php" timestamp="1592358912266">
         <mark key="'" line="140" column="43" />
@@ -301,7 +305,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>9</text>
+        <text>RecentFiles</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -316,16 +320,16 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>9</text>
+        <text>RecentFiles</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxMaW1pdFN0cmF0ZWd5XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdjYXJkX25hbWUnICA9PiBzZWxmOjpDQVJEX05BTUUsCg==</text>
+        <text encoding="base64">bm5vcmVtYXAgPFNwYWNlPnMgOmFjdGlvbiBTdXJyb3VuZFdpdGg8Q1I+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAkY29uZmlncyA9IHNlbGY6OmdldEZpbmFuY2lhbENvbmZpZygkY2FyZFR5cGUpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -343,28 +347,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPnNtc0RlbGl2ZXJ5UmF0ZU1vbml0b3IoKTsgLy/liY3kuIDml6Xnn63kv6HpgIHovr7njofnm5HmjqcK</text>
+        <text encoding="base64">ICAgICAgICBEYlRyYW5zYWN0aW9uOjpydW4oZnVuY3Rpb24gKCkgdXNlICgkY2FyZFR5cGUsICR1c2VySWQsICRzdGFydCwgJGVuZCwgJHBheVJlY29yZElkLCAkY2FzaENvdXBvbklkcywgJGNvbmZpZ3MpIHsK</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoJHRoaXMtPmdldEgoKSA9PSA5KSB7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">bm5vcmVtYXAgPFNwYWNlPm4gOmFjdGlvbiBHb3RvRmlsZTxDUj4Kdm5vcmVtYXAgPFNwYWNlPm4gOmFjdGlvbiBHb3RvRmlsZTxDUj4K</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPnNsQ2FzaE1vbml0b3IoKTsgICAgICAgICAvL+efoumahuavj+aXpeaVsOaNruaOqOmAgeebkeaOpwo=</text>
+        <text encoding="base64">bm5vcmVtYXAgPFNwYWNlPm4gOmFjdGlvbiBHb3RvRmlsZTxDUj4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+c21zRGVsaXZlcnlSYXRlTW9uaXRvcigpOyAvL+WJjeS4gOaXpeefreS/oemAgei+vueOh+ebkeaOpwogICAgICAgIHJldHVybjsK</text>
+        <text encoding="base64">ICAgICAgICAkZW5kID0gZGF0ZSgnWS1tLWQnLCBzdHJ0b3RpbWUoJysnIC4gc2VsZjo6Q0FSRF9DT05GSUdbJGNhcmRUeXBlXVsndmFsaWRfZGF5J10gLiAiIGRheXMiKSk7CiAgICAgICAgJGNvbmZpZ3MgPSBzZWxmOjpnZXRGaW5hbmNpYWxDb25maWcoJGNhcmRUeXBlKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJHJlY29yZHMpO2RpZTsK</text>
+        <text encoding="base64">bm5vcmVtYXAgPFNwYWNlPjxTcGFjZT5lIDphY3Rpb24gU2VsZWN0SW5Qcm9qZWN0VmlldzxDUj4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bm5vcmVtYXAgPFNwYWNlPmUgOmFjdGlvbiBSZWNlbnRGaWxlczxDUj4K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -498,10 +502,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB2YXJfZHVtcCgkc21zUmVjb3JkKTtkaWU7Cg==</text>
+        <text encoding="base64">dm5vcmVtYXAgPFNwYWNlPnMgOmFjdGlvbiBTdXJyb3VuZFdpdGg8Q1I+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJG1lc3NhZ2UgLj0gJ+OAkCcuJGFnZW50IC4gIuOAkVx0IiAuICRncm91cCAuICJcdCIgLiBiY2Rpdigkc3VjY2VzcywgJHRvdGFsLCAyKSAuICIlXHQiIC4gJHN1Y2Nlc3MgLiAnLycgLiAkdG90YWwgLiAiXHRcbiI7Cg==</text>
+        <text encoding="base64">dm5vcmVtYXAgPFNwYWNlPmYgOmFjdGlvbiBGaW5kSW5QYXRoPENSPgo=</text>
       </register>
       <register name=":" type="4">
         <text>nohls</text>
