@@ -45,10 +45,10 @@
         <entry>action KJumpAction.Word0</entry>
         <entry>action NextSplitter</entry>
         <entry>action CloseAllEditors</entry>
-        <entry>nohls</entry>
-        <entry>action Back</entry>
         <entry>action PreviousTab</entry>
         <entry>action FileStructurePopup</entry>
+        <entry>action Back</entry>
+        <entry>nohls</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -141,13 +141,14 @@
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="22" />
       </file>
+      <file name="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" timestamp="1592389575413">
+        <mark key="'" line="331" column="47" />
+      </file>
       <file name="$USER_HOME$/Docker/shoufuyou-php-lib/shoufuyou/Util/Env.php" timestamp="1592371834913">
         <mark key="'" line="371" column="29" />
       </file>
+      <file name="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/Models/CashLoanOrder.php" timestamp="1592389600228" />
       <file name="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/Before/OcrController.php" timestamp="1592373171662" />
-      <file name="$USER_HOME$/Docker/shoufuyou-fund-system/lib/Models/FundSource/FundSourceManage.php" timestamp="1592364631573">
-        <mark key="'" line="58" column="47" />
-      </file>
       <file name="$USER_HOME$/Docker/shoufuyou-fund-system/lib/Models/FundSource/Recommend/RecFundSource.php" timestamp="1592364666855">
         <mark key="'" line="43" column="27" />
       </file>
@@ -192,7 +193,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="97" column="4" filename="$USER_HOME$/Docker/shoufuyou-php-lib/shoufuyou/Service/XyfVipCardV2Service.php" />
       <jump line="144" column="61" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/VipCardV2Controller.php" />
       <jump line="192" column="15" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/VipCardV2Controller.php" />
       <jump line="24" column="6" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
@@ -292,6 +292,7 @@
       <jump line="550" column="0" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
       <jump line="562" column="12" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
       <jump line="559" column="77" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
+      <jump line="331" column="47" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -503,7 +504,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action FileStructurePopup</text>
+        <text>nohls</text>
       </register>
     </registers>
   </component>
