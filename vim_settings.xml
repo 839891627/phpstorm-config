@@ -32,7 +32,6 @@
         <entry>action SurroundWith</entry>
         <entry>action KJumpAction.Line</entry>
         <entry>action FindInPath</entry>
-        <entry>action GotoClass</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gU3Vycm91bmRXaXRo</entry>
         <entry>action Annotate</entry>
         <entry>action FileStructurePopup</entry>
@@ -41,14 +40,15 @@
         <entry>action OpenEditorInOppositeTabGroup</entry>
         <entry>action NextSplitter</entry>
         <entry>action CloseAllEditors</entry>
-        <entry>action RecentChangedFiles</entry>
         <entry>action PreviousTab</entry>
         <entry>action Back</entry>
         <entry>action NextTab</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>action SelectInProjectView</entry>
-        <entry>wq</entry>
         <entry>nohls</entry>
+        <entry>action RecentChangedFiles</entry>
+        <entry>action GotoClass</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -112,34 +112,35 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Docker/xyf-api-gateway/common/config/main.php" timestamp="1592465857616" />
       <file name="$USER_HOME$/Docker/xyf-api-gateway/common/helper/Validator.php" timestamp="1592465293476">
         <mark key="'" line="27" column="27" />
       </file>
-      <file name="/a.dummy" timestamp="1592465675514">
-        <mark key="[" line="0" column="0" />
+      <file name="/a.dummy" timestamp="1592465919478">
+        <mark key="[" line="0" column="1" />
       </file>
       <file name="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/BaseController.php" timestamp="1592465262787">
         <mark key="'" line="41" column="23" />
       </file>
-      <file name="$USER_HOME$/Docker/xyf-api-gateway/api/web/index.php" timestamp="1592464050681">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Docker/xyf-api-gateway/api/config/dev/main.php" timestamp="1592464027378" />
       <file name="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/Before/OcrController.php" timestamp="1592465243614">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="30" column="11" />
         <mark key="." line="36" column="32" />
         <mark key="^" line="36" column="33" />
       </file>
-      <file name="$USER_HOME$/Docker/xyf-api-gateway/common/logging/ErrorReportLog.php" timestamp="1592465699171" />
+      <file name="$USER_HOME$/Docker/xyf-api-gateway/common/logging/ErrorReportLog.php" timestamp="1592465880488">
+        <mark key="[" line="22" column="29" />
+        <mark key="]" line="22" column="29" />
+        <mark key="." line="22" column="29" />
+      </file>
       <file name="$USER_HOME$/Docker/xyf-api-gateway/common/logging/ErrorReport.php" timestamp="1592465650360">
         <mark key="[" line="14" column="3" />
         <mark key="]" line="14" column="12" />
         <mark key="." line="14" column="11" />
         <mark key="^" line="14" column="12" />
+      </file>
+      <file name="/" timestamp="1592466139794">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Docker/xyf-api-gateway/api/service/gateways/CreditGateway.php" timestamp="1592465030516">
         <mark key="'" line="83" column="4" />
@@ -151,12 +152,12 @@
       <file name="$USER_HOME$/Docker/xyf-api-gateway/logs/api/access/20200618.log" timestamp="1592465611106">
         <mark key="'" line="4" column="85" />
       </file>
-      <file name="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/AppController.php" timestamp="1592465667008">
+      <file name="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/AppController.php" timestamp="1592466623148">
         <mark key="'" line="105" column="22" />
-        <mark key="[" line="107" column="8" />
-        <mark key="]" line="108" column="19" />
-        <mark key="^" line="108" column="19" />
-        <mark key="." line="108" column="18" />
+        <mark key="[" line="103" column="31" />
+        <mark key="]" line="103" column="31" />
+        <mark key="^" line="103" column="36" />
+        <mark key="." line="103" column="31" />
       </file>
       <file name="$USER_HOME$/Docker/xyf-api-gateway/api/config/local/main.php" timestamp="1592465363131">
         <mark key="[" line="19" column="38" />
@@ -171,11 +172,11 @@
         <mark key="." line="63" column="43" />
         <mark key="^" line="63" column="44" />
       </file>
-      <file name="$USER_HOME$/Docker/xyf-api-gateway/api/helper/RequestEnv.php" timestamp="1592465215643">
-        <mark key="[" line="21" column="28" />
-        <mark key="]" line="22" column="22" />
+      <file name="$USER_HOME$/Docker/xyf-api-gateway/api/helper/RequestEnv.php" timestamp="1592466694118">
+        <mark key="[" line="22" column="19" />
+        <mark key="]" line="22" column="19" />
         <mark key="^" line="22" column="22" />
-        <mark key="." line="22" column="21" />
+        <mark key="." line="22" column="19" />
       </file>
       <file name="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/VipCardV2Controller.php" timestamp="1592464312472">
         <mark key="'" line="41" column="42" />
@@ -299,7 +300,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>AccessLog</text>
+        <text>log</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -314,7 +315,7 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>AccessLog</text>
+        <text>log</text>
       </register>
       <register name="/" type="4">
         <text>上报</text>
@@ -502,7 +503,7 @@
         <text encoding="base64">ICAgICAgICRkYXRhID0gJF9QT1NUWydkYXRhJ10/P1tdOyAK</text>
       </register>
       <register name=":" type="4">
-        <text>nohls</text>
+        <text>wq</text>
       </register>
     </registers>
   </component>
