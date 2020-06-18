@@ -39,7 +39,6 @@
         <entry>action RecentChangedFiles</entry>
         <entry>action KJumpAction.Word0</entry>
         <entry>action CloseAllEditors</entry>
-        <entry>action Back</entry>
         <entry>vs</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gU3Vycm91bmRXaXRo</entry>
         <entry>action NextSplitter</entry>
@@ -49,6 +48,7 @@
         <entry>action FileStructurePopup</entry>
         <entry>nohls</entry>
         <entry>action Annotate</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -516,7 +516,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFsK</text>
       </register>
       <register name=":" type="4">
-        <text>action Annotate</text>
+        <text>action Back</text>
       </register>
     </registers>
   </component>
