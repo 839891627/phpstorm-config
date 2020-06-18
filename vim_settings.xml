@@ -34,21 +34,21 @@
         <entry>action KJumpAction.Line</entry>
         <entry>action FindInPath</entry>
         <entry>action GotoClass</entry>
-        <entry>action SelectInProjectView</entry>
         <entry>action RecentChangedFiles</entry>
-        <entry>action CloseAllEditors</entry>
         <entry>vs</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gU3Vycm91bmRXaXRo</entry>
         <entry>action NextSplitter</entry>
-        <entry>action PreviousTab</entry>
-        <entry>action NextTab</entry>
-        <entry>wq</entry>
         <entry>action Annotate</entry>
-        <entry>action Back</entry>
-        <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>action FileStructurePopup</entry>
         <entry>action KJumpAction.Word0</entry>
+        <entry>action Refactorings.QuickListPopupAction</entry>
+        <entry>action Back</entry>
+        <entry>action NextTab</entry>
+        <entry>action PreviousTab</entry>
+        <entry>wq</entry>
+        <entry>action SelectInProjectView</entry>
         <entry>nohls</entry>
+        <entry>action CloseAllEditors</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -112,27 +112,34 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/UserController.php" timestamp="1592445529278">
+      <file name="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/UserController.php" timestamp="1592463995862">
         <mark key="[" line="31" column="52" />
+        <mark key="]" line="31" column="52" />
+        <mark key="." line="31" column="52" />
       </file>
-      <file name="$USER_HOME$/Docker/xyf-api-gateway/api/config/prod/params.php" timestamp="1592444389880" />
       <file name="$USER_HOME$/Docker/shoufuyou-sms-system/lib/Models/Sms.php" timestamp="1592457814919">
         <mark key="'" line="209" column="8" />
         <mark key="[" line="221" column="0" />
         <mark key="]" line="221" column="0" />
         <mark key="." line="221" column="0" />
       </file>
-      <file name="$USER_HOME$/Docker/xyf-api-gateway/api/web/index.php" timestamp="1592447097331">
-        <mark key="'" line="13" column="0" />
+      <file name="$USER_HOME$/Docker/xyf-api-gateway/api/config/test/main.php" timestamp="1592464015899">
+        <mark key="[" line="25" column="28" />
+        <mark key="]" line="25" column="28" />
+        <mark key="." line="25" column="28" />
+      </file>
+      <file name="$USER_HOME$/Docker/xyf-api-gateway/api/web/index.php" timestamp="1592464050681">
+        <mark key="'" line="1" column="0" />
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Docker/xyf-api-gateway/api/config/prod/main.php" timestamp="1592446959396">
-        <mark key="'" line="43" column="0" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/Docker/xyf-api-gateway/api/config/dev/main.php" timestamp="1592464027378" />
+      <file name="$USER_HOME$/Docker/xyf-api-gateway/api/config/prod/main.php" timestamp="1592463880929">
+        <mark key="'" line="41" column="0" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/Docker/xyf-api-gateway/vendor/xyf/lib/src/helper/Env.php" timestamp="1592444892391">
         <mark key="[" line="66" column="0" />
@@ -157,17 +164,14 @@
         <mark key="." line="690" column="60" />
         <mark key="^" line="690" column="61" />
       </file>
-      <file name="$USER_HOME$/Docker/xyf-pay-system/api/controllers/PayController.php" timestamp="1592392751639">
-        <mark key="'" line="34" column="46" />
-      </file>
-      <file name="$USER_HOME$/Docker/xyf-api-gateway/vendor/xyf/lib/src/commonSms/CommonSms.php" timestamp="1592446942874">
+      <file name="$USER_HOME$/Docker/xyf-api-gateway/vendor/xyf/lib/src/commonSms/CommonSms.php" timestamp="1592463790074">
         <mark key="'" line="44" column="51" />
         <mark key="[" line="64" column="0" />
         <mark key="]" line="64" column="0" />
         <mark key="." line="64" column="0" />
       </file>
-      <file name="$USER_HOME$/Docker/xyf-api-gateway/vendor/xyf/lib/src/helper/webClient/WebClient.php" timestamp="1592444707880">
-        <mark key="'" line="34" column="44" />
+      <file name="$USER_HOME$/Docker/xyf-credit-system/common/logging/EmailTarget.php" timestamp="1592463576497">
+        <mark key="'" line="39" column="56" />
       </file>
       <file name="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" timestamp="1592448815282">
         <mark key="'" line="220" column="25" />
@@ -177,24 +181,19 @@
         <mark key="." line="582" column="176" />
         <mark key="^" line="582" column="177" />
       </file>
-      <file name="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/AppController.php" timestamp="1592444280451">
-        <mark key="'" line="78" column="22" />
-        <mark key="[" line="82" column="35" />
-        <mark key="]" line="82" column="35" />
-        <mark key="^" line="82" column="36" />
-        <mark key="." line="82" column="35" />
-      </file>
-      <file name="$USER_HOME$/Docker/xyf-api-gateway/api/config/local/main.php" timestamp="1592444387820" />
-      <file name="$USER_HOME$/Docker/xyf-api-gateway/common/logging/EmailTarget.php" timestamp="1592446856083">
-        <mark key="'" line="23" column="36" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/Docker/xyf-api-gateway/api/config/local/main.php" timestamp="1592464029004" />
+      <file name="$USER_HOME$/Docker/xyf-credit-system/common/facade/Config.php" timestamp="1592463598784" />
+      <file name="$USER_HOME$/Docker/xyf-api-gateway/common/logging/EmailTarget.php" timestamp="1592463013197">
+        <mark key="'" line="22" column="49" />
+        <mark key="[" line="22" column="48" />
+        <mark key="]" line="22" column="48" />
+        <mark key="." line="22" column="47" />
+        <mark key="^" line="22" column="48" />
       </file>
       <file name="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/RouteController.php" timestamp="1592448568895">
         <mark key="'" line="47" column="68" />
       </file>
-      <file name="$USER_HOME$/Docker/xyf-api-gateway/api/helper/HttpClient.php" timestamp="1592462309485">
+      <file name="$USER_HOME$/Docker/xyf-api-gateway/api/helper/HttpClient.php" timestamp="1592462638598">
         <mark key="[" line="63" column="42" />
         <mark key="]" line="63" column="44" />
         <mark key="." line="63" column="43" />
@@ -209,8 +208,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="702" column="64" filename="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/FundMonitorCommand.php" />
-      <jump line="697" column="35" filename="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/FundMonitorCommand.php" />
       <jump line="687" column="61" filename="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/FundMonitorCommand.php" />
       <jump line="710" column="12" filename="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/FundMonitorCommand.php" />
       <jump line="97" column="8" filename="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/FundMonitorCommand.php" />
@@ -276,7 +273,6 @@
       <jump line="78" column="22" filename="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/AppController.php" />
       <jump line="29" column="59" filename="$USER_HOME$/Docker/xyf-api-gateway/api/config/prod/main.php" />
       <jump line="23" column="34" filename="$USER_HOME$/Docker/xyf-api-gateway/api/config/prod/main.php" />
-      <jump line="24" column="13" filename="$USER_HOME$/Docker/xyf-api-gateway/common/logging/EmailTarget.php" />
       <jump line="64" column="0" filename="$USER_HOME$/Docker/xyf-api-gateway/vendor/xyf/lib/src/commonSms/CommonSms.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Docker/xyf-api-gateway/vendor/xyf/lib/src/commonSms/CommonSms.php" />
       <jump line="44" column="51" filename="$USER_HOME$/Docker/xyf-api-gateway/vendor/xyf/lib/src/commonSms/CommonSms.php" />
@@ -285,7 +281,6 @@
       <jump line="12" column="0" filename="$USER_HOME$/Docker/xyf-api-gateway/api/web/index.php" />
       <jump line="24" column="33" filename="$USER_HOME$/Docker/xyf-api-gateway/api/config/prod/main.php" />
       <jump line="43" column="0" filename="$USER_HOME$/Docker/xyf-api-gateway/api/config/prod/main.php" />
-      <jump line="23" column="36" filename="$USER_HOME$/Docker/xyf-api-gateway/common/logging/EmailTarget.php" />
       <jump line="106" column="0" filename="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/RouteController.php" />
       <jump line="45" column="11" filename="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/RouteController.php" />
       <jump line="46" column="54" filename="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/RouteController.php" />
@@ -309,6 +304,10 @@
       <jump line="723" column="92" filename="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/FundMonitorCommand.php" />
       <jump line="717" column="0" filename="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/FundMonitorCommand.php" />
       <jump line="690" column="60" filename="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/FundMonitorCommand.php" />
+      <jump line="24" column="47" filename="$USER_HOME$/Docker/xyf-api-gateway/common/logging/EmailTarget.php" />
+      <jump line="23" column="49" filename="$USER_HOME$/Docker/xyf-api-gateway/common/logging/EmailTarget.php" />
+      <jump line="39" column="56" filename="$USER_HOME$/Docker/xyf-credit-system/common/logging/EmailTarget.php" />
+      <jump line="1" column="0" filename="$USER_HOME$/Docker/xyf-api-gateway/api/web/index.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -316,8 +315,8 @@
       <register name="a" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZWNobyAkd2ViRW52O2RpZTsK</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -332,16 +331,16 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
         <text>credit</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPnNtc0RlbGl2ZXJ5UmF0ZU1vbml0b3IoKTsgLy/liY3kuIDml6Xnn63kv6HpgIHovr7njofnm5HmjqcK</text>
+      <register name="0" type="4">
+        <text>周光涛</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobyAkbWVzc2FnZTtkaWU7Cg==</text>
+        <text encoding="base64">ZWNobyAkd2ViRW52O2RpZTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -359,28 +358,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobyAkbWVzc2FnZTtkaWU7Cg==</text>
+        <text encoding="base64">CiAgICAgICAgLy8gZGQoWwogICAgICAgIC8vICAgICAnZW1haWxzJyA9PiBhcnJheV9jb2x1bW4oJGFkZHJlc3NCb29rLCAnZW1haWwnKSwKICAgICAgICAvLyAgICAgJ21vYmlsZXMnID0+IGFycmF5X2NvbHVtbigkYWRkcmVzc0Jvb2ssICdtb2JpbGUnKSwKICAgICAgICAvLyAgICAgJ3N1YmplY3QnID0+ICRzdWJqZWN0LAogICAgICAgIC8vICAgICAnY29udGVudCcgPT4gJGNvbnRlbnQsCiAgICAgICAgLy8gXSk7Cg==</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoJHJlZGlzVmFsdWVbJ3RlbXBsYXRlX2lkJ10gPT0gJ3Ntc3RwbDYzODMyOCcgJiYgZGF0ZSgnWS1tLWQnKT09ICcyMDIwLTA2LTE4JykgewogICAgICAgICAgICAgICAgLy8g5Li05pe25o6S6Zmk6ZSZ6K+v562+5ZCN5Lu75YqhCiAgICAgICAgICAgICAgICBMb2c6OnNtcyhbCiAgICAgICAgICAgICAgICAgICAgJ21vYmlsZScgPT4gJHJlZGlzVmFsdWVbJ21vYmlsZSddLAogICAgICAgICAgICAgICAgICAgICd0ZW1wbGF0ZV9pZCcgPT4gJHJlZGlzVmFsdWVbJ3RlbXBsYXRlX2lkJ10sCiAgICAgICAgICAgICAgICAgICAgJ21lc3NhZ2UnID0+ICfkuLTml7bmjpLpmaTplJnor6/nrb7lkI3ku7vliqEnCiAgICAgICAgICAgICAgICBdKTsKICAgICAgICAgICAgICAgIGNvbnRpbnVlOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBbCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ21vYmlsZScgPT4gWwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnMTMwNjI3NjUxNzUnLC8vIOabuemHkeS6rgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnMTU4MDA3NjUyMzYnLCAvLyDlkajlhYnmtpsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBdLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgXSwK</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAndGltZScgPT4gXHRpbWUoKSAtICR0aW1lLAogICAgICAgICAgICAgICAgICAgICdhcHBfYWNjb3VudCcgPT4gJGFwcE5hbWUsCiAgICAgICAgICAgICAgICAgICAgJ2FwcF9wYXJhbXMnID0+IFsKICAgICAgICAgICAgICAgICAgICAgICAgJ2FwcCcgPT4gJHJlZGlzVmFsdWVbJ2FwcF9uYW1lJ10/PycnLAogICAgICAgICAgICAgICAgICAgICAgICAnaW5uZXJfYXBwJyA9PiAkaW5uZXJBcHAKICAgICAgICAgICAgICAgICAgICBdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnZW1haWwnID0+IFsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ2FydmluLmNhb0B4aW5mZWkuY24nLCAvLyDmm7nph5Hkuq4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ21hZXRyby56aG91QHhpbmZlaS5jbicsIC8vIOWRqOWFiea2mwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIF0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBdLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnbWVzc2FnZScgPT4gJ3N0YXJ0IHNlbmQgc21zJywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnJywgLy8g5pu56YeR5LquCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnZW1haWwnID0+ICdjbS53YW5nQHhpbnlvbmdmZWkuY24nLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">JF9TRVJWRVJbJ1dFQl9FTlYnXT0gJ3Byb2QnOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkYWRkcmVzc0Jvb2ssYXJyYXlfY29sdW1uKCRhZGRyZXNzQm9vaywgJ21vYmlsZScpKTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -514,13 +513,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIF0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFsK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkYWRkcmVzc0Jvb2spOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>nohls</text>
+        <text>action CloseAllEditors</text>
       </register>
     </registers>
   </component>
