@@ -29,7 +29,6 @@
         <entry>credit</entry>
       </history-search>
       <history-cmd>
-        <entry>action RecentChanges</entry>
         <entry>action RecentLocations</entry>
         <entry>action SurroundWith</entry>
         <entry>action KJumpAction.Line</entry>
@@ -37,7 +36,6 @@
         <entry>action GotoClass</entry>
         <entry>action SelectInProjectView</entry>
         <entry>action RecentChangedFiles</entry>
-        <entry>action KJumpAction.Word0</entry>
         <entry>action CloseAllEditors</entry>
         <entry>vs</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gU3Vycm91bmRXaXRo</entry>
@@ -45,10 +43,12 @@
         <entry>action PreviousTab</entry>
         <entry>action NextTab</entry>
         <entry>wq</entry>
-        <entry>action FileStructurePopup</entry>
-        <entry>nohls</entry>
         <entry>action Annotate</entry>
         <entry>action Back</entry>
+        <entry>action Refactorings.QuickListPopupAction</entry>
+        <entry>nohls</entry>
+        <entry>action FileStructurePopup</entry>
+        <entry>action KJumpAction.Word0</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -116,7 +116,7 @@
         <mark key="[" line="31" column="52" />
       </file>
       <file name="$USER_HOME$/Docker/xyf-api-gateway/api/config/prod/params.php" timestamp="1592444389880" />
-      <file name="$USER_HOME$/Docker/shoufuyou-sms-system/lib/Models/Sms.php" timestamp="1592456599179">
+      <file name="$USER_HOME$/Docker/shoufuyou-sms-system/lib/Models/Sms.php" timestamp="1592457814919">
         <mark key="'" line="209" column="8" />
         <mark key="[" line="221" column="0" />
         <mark key="]" line="221" column="0" />
@@ -147,11 +147,15 @@
         <mark key="^" line="36" column="33" />
       </file>
       <file name="$USER_HOME$/Docker/xyf-api-gateway/common/config/prod/params.php" timestamp="1592446809225" />
-      <file name="$USER_HOME$/Docker/xinyongfei-app-api/log/webclient/20200617.log" timestamp="1592391444629">
-        <mark key="'" line="17" column="45" />
-      </file>
       <file name="$USER_HOME$/Docker/xyf-api-gateway/api/service/gateways/CreditGateway.php" timestamp="1592445029789">
         <mark key="'" line="70" column="29" />
+      </file>
+      <file name="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/FundMonitorCommand.php" timestamp="1592461101125">
+        <mark key="'" line="690" column="60" />
+        <mark key="[" line="690" column="60" />
+        <mark key="]" line="690" column="61" />
+        <mark key="." line="690" column="60" />
+        <mark key="^" line="690" column="61" />
       </file>
       <file name="$USER_HOME$/Docker/xyf-pay-system/api/controllers/PayController.php" timestamp="1592392751639">
         <mark key="'" line="34" column="46" />
@@ -205,14 +209,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="27" filename="$USER_HOME$/Docker/shoufuyou-fund-system/lib/Models/FundSource/Recommend/RecFundSource.php" />
-      <jump line="2644" column="4" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/BizSfyWebClient.php" />
-      <jump line="5168" column="38" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/BizSfyWebClient.php" />
-      <jump line="371" column="29" filename="$USER_HOME$/Docker/shoufuyou-php-lib/shoufuyou/Util/Env.php" />
-      <jump line="1" column="0" filename="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/FundMonitorCommand.php" />
-      <jump line="726" column="43" filename="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/FundMonitorCommand.php" />
-      <jump line="711" column="12" filename="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/FundMonitorCommand.php" />
-      <jump line="708" column="12" filename="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/FundMonitorCommand.php" />
       <jump line="702" column="64" filename="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/FundMonitorCommand.php" />
       <jump line="697" column="35" filename="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/FundMonitorCommand.php" />
       <jump line="687" column="61" filename="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/FundMonitorCommand.php" />
@@ -223,9 +219,7 @@
       <jump line="705" column="1" filename="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/FundMonitorCommand.php" />
       <jump line="693" column="25" filename="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/FundMonitorCommand.php" />
       <jump line="706" column="40" filename="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/FundMonitorCommand.php" />
-      <jump line="690" column="43" filename="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/FundMonitorCommand.php" />
       <jump line="698" column="24" filename="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/FundMonitorCommand.php" />
-      <jump line="717" column="16" filename="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/FundMonitorCommand.php" />
       <jump line="700" column="50" filename="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/FundMonitorCommand.php" />
       <jump line="41" column="4" filename="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/FundMonitorCommand.php" />
       <jump line="141" column="36" filename="$USER_HOME$/Docker/shoufuyou-notify/lib/Models/Utms/Yqg.php" />
@@ -305,6 +299,16 @@
       <jump line="244" column="12" filename="$USER_HOME$/Docker/shoufuyou-sms-system/lib/Models/Sms.php" />
       <jump line="226" column="16" filename="$USER_HOME$/Docker/shoufuyou-sms-system/lib/Models/Sms.php" />
       <jump line="209" column="8" filename="$USER_HOME$/Docker/shoufuyou-sms-system/lib/Models/Sms.php" />
+      <jump line="89" column="18" filename="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/FundMonitorCommand.php" />
+      <jump line="712" column="25" filename="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/FundMonitorCommand.php" />
+      <jump line="688" column="61" filename="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/FundMonitorCommand.php" />
+      <jump line="98" column="19" filename="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/FundMonitorCommand.php" />
+      <jump line="68" column="13" filename="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/FundMonitorCommand.php" />
+      <jump line="515" column="13" filename="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/FundMonitorCommand.php" />
+      <jump line="728" column="0" filename="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/FundMonitorCommand.php" />
+      <jump line="723" column="92" filename="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/FundMonitorCommand.php" />
+      <jump line="717" column="0" filename="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/FundMonitorCommand.php" />
+      <jump line="690" column="60" filename="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/FundMonitorCommand.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -312,8 +316,8 @@
       <register name="a" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoJHJlZGlzVmFsdWVbJ3RlbXBsYXRlX2lkJ10gPT0gJ3Ntc3RwbDYzODMyOCcgJiYgZGF0ZSgnWS1tLWQnKT09ICcyMDIwLTA2LTE4JykgewogICAgICAgICAgICAgICAgLy8g5Li05pe25o6S6Zmk6ZSZ6K+v562+5ZCN5Lu75YqhCiAgICAgICAgICAgICAgICBMb2c6OnNtcyhbCiAgICAgICAgICAgICAgICAgICAgJ21vYmlsZScgPT4gJHJlZGlzVmFsdWVbJ21vYmlsZSddLAogICAgICAgICAgICAgICAgICAgICd0ZW1wbGF0ZV9pZCcgPT4gJHJlZGlzVmFsdWVbJ3RlbXBsYXRlX2lkJ10sCiAgICAgICAgICAgICAgICAgICAgJ21lc3NhZ2UnID0+ICfkuLTml7bmjpLpmaTplJnor6/nrb7lkI3ku7vliqEnCiAgICAgICAgICAgICAgICBdKTsKICAgICAgICAgICAgICAgIGNvbnRpbnVlOwogICAgICAgICAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -328,16 +332,16 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">J3RlbXBsYXRlX2lkJyA9PiA=</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>credit</text>
       </register>
-      <register name="0" type="4">
-        <text>临时排除错误签名任务</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJHRoaXMtPnNtc0RlbGl2ZXJ5UmF0ZU1vbml0b3IoKTsgLy/liY3kuIDml6Xnn63kv6HpgIHovr7njofnm5HmjqcK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoJHJlZGlzVmFsdWVbJ3RlbXBsYXRlX2lkJ10gPT0gJ3Ntc3RwbDYzODMyOCcgJiYgZGF0ZSgnWS1tLWQnKT09ICcyMDIwLTA2LTE4JykgewogICAgICAgICAgICAgICAgLy8g5Li05pe25o6S6Zmk6ZSZ6K+v562+5ZCN5Lu75YqhCiAgICAgICAgICAgICAgICBMb2c6OnNtcyhbCiAgICAgICAgICAgICAgICAgICAgJ21vYmlsZScgPT4gJHJlZGlzVmFsdWVbJ21vYmlsZSddLAogICAgICAgICAgICAgICAgICAgICd0ZW1wbGF0ZV9pZCcgPT4gJHJlZGlzVmFsdWVbJ3RlbXBsYXRlX2lkJ10sCiAgICAgICAgICAgICAgICAgICAgJ21lc3NhZ2UnID0+ICfkuLTml7bmjpLpmaTplJnor6/nrb7lkI3ku7vliqEnCiAgICAgICAgICAgICAgICBdKTsKICAgICAgICAgICAgICAgIGNvbnRpbnVlOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWNobyAkbWVzc2FnZTtkaWU7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -355,28 +359,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAndGltZScgPT4gXHRpbWUoKSAtICR0aW1lLAogICAgICAgICAgICAgICAgICAgICdhcHBfYWNjb3VudCcgPT4gJGFwcE5hbWUsCiAgICAgICAgICAgICAgICAgICAgJ2FwcF9wYXJhbXMnID0+IFsKICAgICAgICAgICAgICAgICAgICAgICAgJ2FwcCcgPT4gJHJlZGlzVmFsdWVbJ2FwcF9uYW1lJ10/PycnLAogICAgICAgICAgICAgICAgICAgICAgICAnaW5uZXJfYXBwJyA9PiAkaW5uZXJBcHAKICAgICAgICAgICAgICAgICAgICBdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWNobyAkbWVzc2FnZTtkaWU7Cg==</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnbWVzc2FnZScgPT4gJ3N0YXJ0IHNlbmQgc21zJywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoJHJlZGlzVmFsdWVbJ3RlbXBsYXRlX2lkJ10gPT0gJ3Ntc3RwbDYzODMyOCcgJiYgZGF0ZSgnWS1tLWQnKT09ICcyMDIwLTA2LTE4JykgewogICAgICAgICAgICAgICAgLy8g5Li05pe25o6S6Zmk6ZSZ6K+v562+5ZCN5Lu75YqhCiAgICAgICAgICAgICAgICBMb2c6OnNtcyhbCiAgICAgICAgICAgICAgICAgICAgJ21vYmlsZScgPT4gJHJlZGlzVmFsdWVbJ21vYmlsZSddLAogICAgICAgICAgICAgICAgICAgICd0ZW1wbGF0ZV9pZCcgPT4gJHJlZGlzVmFsdWVbJ3RlbXBsYXRlX2lkJ10sCiAgICAgICAgICAgICAgICAgICAgJ21lc3NhZ2UnID0+ICfkuLTml7bmjpLpmaTplJnor6/nrb7lkI3ku7vliqEnCiAgICAgICAgICAgICAgICBdKTsKICAgICAgICAgICAgICAgIGNvbnRpbnVlOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAndGltZScgPT4gXHRpbWUoKSAtICR0aW1lLAogICAgICAgICAgICAgICAgICAgICdhcHBfYWNjb3VudCcgPT4gJGFwcE5hbWUsCiAgICAgICAgICAgICAgICAgICAgJ2FwcF9wYXJhbXMnID0+IFsKICAgICAgICAgICAgICAgICAgICAgICAgJ2FwcCcgPT4gJHJlZGlzVmFsdWVbJ2FwcF9uYW1lJ10/PycnLAogICAgICAgICAgICAgICAgICAgICAgICAnaW5uZXJfYXBwJyA9PiAkaW5uZXJBcHAKICAgICAgICAgICAgICAgICAgICBdCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">JF9TRVJWRVJbJ1dFQl9FTlYnXT0gJ3Byb2QnOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnbWVzc2FnZScgPT4gJ3N0YXJ0IHNlbmQgc21zJywK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIF0sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFsK</text>
+        <text encoding="base64">JF9TRVJWRVJbJ1dFQl9FTlYnXT0gJ3Byb2QnOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -516,7 +520,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFsK</text>
       </register>
       <register name=":" type="4">
-        <text>action Back</text>
+        <text>action KJumpAction.Word0</text>
       </register>
     </registers>
   </component>
