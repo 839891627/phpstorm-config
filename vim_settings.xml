@@ -42,13 +42,13 @@
         <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>action RecentChangedFiles</entry>
         <entry>action Annotate</entry>
-        <entry>action SelectInProjectView</entry>
         <entry>action NextTab</entry>
         <entry>action GotoClass</entry>
         <entry>wq</entry>
         <entry>action Back</entry>
         <entry>action KJumpAction.Word0</entry>
         <entry>nohls</entry>
+        <entry>action SelectInProjectView</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -503,7 +503,7 @@
         <text encoding="base64">ICAgICAgICAkdGhpcy0+dmFsaWRhdGUoWwogICAgICAgICAgICAnZGF0YScgID0+IFsndHlwZScgPT4gJ3N0cmluZyddLAogICAgICAgIF0pOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>nohls</text>
+        <text>action SelectInProjectView</text>
       </register>
     </registers>
   </component>
