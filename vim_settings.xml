@@ -46,9 +46,9 @@
         <entry>action PreviousTab</entry>
         <entry>action NextTab</entry>
         <entry>wq</entry>
-        <entry>action Annotate</entry>
         <entry>action FileStructurePopup</entry>
         <entry>nohls</entry>
+        <entry>action Annotate</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -511,7 +511,7 @@
         <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+bWVzc2FnZSwyKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>nohls</text>
+        <text>action Annotate</text>
       </register>
     </registers>
   </component>
