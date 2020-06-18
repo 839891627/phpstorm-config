@@ -22,11 +22,11 @@
         <entry encoding="base64">XDxBUFBcPg==</entry>
         <entry encoding="base64">XDxET1dOTE9BRF9VUkxcPg==</entry>
         <entry encoding="base64">XDxVVE1fU09VUkNFXD4=</entry>
-        <entry encoding="base64">XDxwYXJhbXNcPg==</entry>
         <entry>credit</entry>
         <entry>report</entry>
         <entry>log</entry>
         <entry>上报</entry>
+        <entry encoding="base64">XDxwYXJhbXNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>action SurroundWith</entry>
@@ -46,9 +46,9 @@
         <entry>action GotoClass</entry>
         <entry>wq</entry>
         <entry>action NextTab</entry>
-        <entry>nohls</entry>
         <entry>action Back</entry>
         <entry>action Annotate</entry>
+        <entry>nohls</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -154,8 +154,10 @@
       <file name="/" timestamp="1592466139794">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Docker/xyf-api-gateway/api/service/gateways/CreditGateway.php" timestamp="1592465030516">
-        <mark key="'" line="83" column="4" />
+      <file name="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCard2019Service.php" timestamp="1592469714359">
+        <mark key="'" line="87" column="12" />
+        <mark key="[" line="143" column="31" />
+        <mark key="]" line="143" column="55" />
       </file>
       <file name="$USER_HOME$/Docker/xyf-api-gateway/logs/api/access/20200618.log" timestamp="1592465611106">
         <mark key="'" line="4" column="85" />
@@ -201,9 +203,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="42" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/VipCardV2Controller.php" />
-      <jump line="64" column="40" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/VipCardV2Controller.php" />
-      <jump line="115" column="27" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/VipCardV2Controller.php" />
       <jump line="148" column="52" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/VipCardV2Controller.php" />
       <jump line="165" column="16" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/VipCardV2Controller.php" />
       <jump line="217" column="16" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/VipCardV2Controller.php" />
@@ -301,6 +300,9 @@
       <jump line="249" column="31" filename="$USER_HOME$/Docker/shoufuyou-php-lib/shoufuyou/Service/XyfVipCardV2Service.php" />
       <jump line="295" column="22" filename="$USER_HOME$/Docker/shoufuyou-php-lib/shoufuyou/Util/Env.php" />
       <jump line="222" column="29" filename="$USER_HOME$/Docker/shoufuyou-notify/lib/Controllers/XyfVipCardV2Controller.php" />
+      <jump line="83" column="9" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCard2019Service.php" />
+      <jump line="143" column="32" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCard2019Service.php" />
+      <jump line="87" column="12" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCard2019Service.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -308,8 +310,8 @@
       <register name="a" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2FwcCcgPT4gRW52OjpnZXRBcHAoKSwK</text>
+      <register name="&quot;" type="4">
+        <text>$bankInfo['card_number'],</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -327,10 +329,10 @@
         <text>xyf_vip_card_notify</text>
       </register>
       <register name="/" type="4">
-        <text>上报</text>
+        <text encoding="base64">XDxwYXJhbXNcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkcGFyYW1zID0gJHRoaXMtPnJlcXVlc3QtPnBvc3QoKTsKICAgICAgICAkdGhpcy0+dmFsaWRhdGUoWwogICAgICAgICAgICAnZmlsZV90eXBlJyA9PiBbJ3R5cGUnID0+ICdzdHJpbmcnXSwKICAgICAgICAgICAgJ29yZGVyX2lkJyAgPT4gWyd0eXBlJyA9PiAnc3RyaW5nJ10sCiAgICAgICAgXSk7Cg==</text>
+      <register name="0" type="4">
+        <text>$bankInfo['card_number'],</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJ2FwcCcgPT4gRW52OjpnZXRBcHAoKSwK</text>
@@ -512,15 +514,15 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>action Annotate</text>
+        <text>nohls</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>上报</last-search>
+      <last-search encoding="base64">XDxwYXJhbXNcPg==</last-search>
       <last-offset />
-      <last-pattern>上报</last-pattern>
+      <last-pattern encoding="base64">XDxwYXJhbXNcPg==</last-pattern>
       <last-replace>inner_app</last-replace>
       <last-substitute encoding="base64">XDxjYXNoTG9hbk9yZGVyXD4=</last-substitute>
       <last-dir>1</last-dir>
