@@ -37,7 +37,6 @@
         <entry>action GotoClass</entry>
         <entry>action SelectInProjectView</entry>
         <entry>action FileStructurePopup</entry>
-        <entry>action Annotate</entry>
         <entry>action RecentChangedFiles</entry>
         <entry>action KJumpAction.Word0</entry>
         <entry>action CloseAllEditors</entry>
@@ -45,10 +44,11 @@
         <entry>vs</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gU3Vycm91bmRXaXRo</entry>
         <entry>action NextSplitter</entry>
-        <entry>wq</entry>
         <entry>action PreviousTab</entry>
         <entry>action NextTab</entry>
+        <entry>wq</entry>
         <entry>nohls</entry>
+        <entry>action Annotate</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -116,17 +116,17 @@
         <mark key="[" line="31" column="52" />
       </file>
       <file name="$USER_HOME$/Docker/xyf-api-gateway/api/config/prod/params.php" timestamp="1592444389880" />
-      <file name="$USER_HOME$/Docker/xyf-api-gateway/api/web/index.php" timestamp="1592445992918">
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/Docker/xyf-api-gateway/api/web/index.php" timestamp="1592447097331">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Docker/xyf-api-gateway/api/config/prod/main.php" timestamp="1592446959396">
-        <mark key="'" line="39" column="0" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+        <mark key="'" line="43" column="0" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/Docker/xyf-api-gateway/vendor/xyf/lib/src/helper/Env.php" timestamp="1592444892391">
         <mark key="[" line="66" column="0" />
@@ -308,7 +308,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIF0sCg==</text>
+        <text encoding="base64">JF9TRVJWRVJbJ1dFQl9FTlYnXT0gJ3Byb2QnOwo=</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -332,7 +332,7 @@
         <text encoding="base64">WwogICAgICAgICAgICAgICAgJ2VtYWlscycgPT4gYXJyYXlfY29sdW1uKCRhZGRyZXNzQm9vaywgJ2VtYWlsJyksCiAgICAgICAgICAgICAgICAnbW9iaWxlcycgPT4gYXJyYXlfY29sdW1uKCRhZGRyZXNzQm9vaywgJ21vYmlsZScpLAogICAgICAgICAgICAgICAgJ3N1YmplY3QnID0+ICRzdWJqZWN0LAogICAgICAgICAgICAgICAgJ2NvbnRlbnQnID0+ICRjb250ZW50LAogICAgICAgICAgICBd</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIF0sCg==</text>
+        <text encoding="base64">JF9TRVJWRVJbJ1dFQl9FTlYnXT0gJ3Byb2QnOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -350,28 +350,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIF0sCg==</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIF0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFsK</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIF0sCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkYWRkcmVzc0Jvb2ssWwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkYWRkcmVzc0Jvb2ssWwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJCkK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -505,13 +505,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+bWVzc2FnZSwyKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiRfU0VSVkVSWydXRUJfRU5WJ109ICdwcm9kJzsK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+bWVzc2FnZSwyKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>nohls</text>
+        <text>action Annotate</text>
       </register>
     </registers>
   </component>
