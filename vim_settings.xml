@@ -116,6 +116,13 @@
         <mark key="[" line="31" column="52" />
       </file>
       <file name="$USER_HOME$/Docker/xyf-api-gateway/api/config/prod/params.php" timestamp="1592444389880" />
+      <file name="$USER_HOME$/Docker/shoufuyou-sms-system/lib/Models/Sms.php" timestamp="1592455570518">
+        <mark key="'" line="209" column="8" />
+        <mark key="[" line="221" column="86" />
+        <mark key="]" line="221" column="87" />
+        <mark key="." line="221" column="87" />
+        <mark key="^" line="221" column="90" />
+      </file>
       <file name="$USER_HOME$/Docker/xyf-api-gateway/api/web/index.php" timestamp="1592447097331">
         <mark key="'" line="13" column="0" />
         <mark key="[" line="2" column="0" />
@@ -159,7 +166,6 @@
       <file name="$USER_HOME$/Docker/xyf-api-gateway/vendor/xyf/lib/src/helper/webClient/WebClient.php" timestamp="1592444707880">
         <mark key="'" line="34" column="44" />
       </file>
-      <file name="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/Models/CashLoanOrder.php" timestamp="1592389600228" />
       <file name="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" timestamp="1592448815282">
         <mark key="'" line="220" column="25" />
         <mark key="z" line="27" column="27" />
@@ -200,14 +206,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="107" column="59" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/CashPool/CashPoolInnerApp.php" />
-      <jump line="119" column="77" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/CashPool/CashPoolInnerApp.php" />
-      <jump line="114" column="0" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/CashPool/CashPoolInnerApp.php" />
-      <jump line="4" column="0" filename="$USER_HOME$/Docker/xinyongfei-app-api/public/index.php" />
-      <jump line="181" column="40" filename="$USER_HOME$/Docker/shoufuyou-fund-system/lib/Controllers/RouteController.php" />
-      <jump line="58" column="47" filename="$USER_HOME$/Docker/shoufuyou-fund-system/lib/Models/FundSource/FundSourceManage.php" />
-      <jump line="205" column="39" filename="$USER_HOME$/Docker/shoufuyou-fund-system/lib/Controllers/RouteController.php" />
-      <jump line="122" column="48" filename="$USER_HOME$/Docker/shoufuyou-fund-system/lib/Models/FundSource/FundRecommendManage.php" />
       <jump line="43" column="27" filename="$USER_HOME$/Docker/shoufuyou-fund-system/lib/Models/FundSource/Recommend/RecFundSource.php" />
       <jump line="2644" column="4" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/BizSfyWebClient.php" />
       <jump line="5168" column="38" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/BizSfyWebClient.php" />
@@ -300,6 +298,14 @@
       <jump line="46" column="54" filename="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/RouteController.php" />
       <jump line="47" column="68" filename="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/RouteController.php" />
       <jump line="358" column="33" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/VipCardV2Controller.php" />
+      <jump line="220" column="38" filename="$USER_HOME$/Docker/shoufuyou-sms-system/lib/Models/Sms.php" />
+      <jump line="260" column="16" filename="$USER_HOME$/Docker/shoufuyou-sms-system/lib/Models/Sms.php" />
+      <jump line="222" column="28" filename="$USER_HOME$/Docker/shoufuyou-sms-system/lib/Models/Sms.php" />
+      <jump line="250" column="12" filename="$USER_HOME$/Docker/shoufuyou-sms-system/lib/Models/Sms.php" />
+      <jump line="261" column="0" filename="$USER_HOME$/Docker/shoufuyou-sms-system/lib/Models/Sms.php" />
+      <jump line="244" column="12" filename="$USER_HOME$/Docker/shoufuyou-sms-system/lib/Models/Sms.php" />
+      <jump line="226" column="16" filename="$USER_HOME$/Docker/shoufuyou-sms-system/lib/Models/Sms.php" />
+      <jump line="209" column="8" filename="$USER_HOME$/Docker/shoufuyou-sms-system/lib/Models/Sms.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -308,7 +314,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>desc</text>
+        <text>临时排除错误签名任务</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -323,16 +329,16 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>desc</text>
+        <text encoding="base64">J3RlbXBsYXRlX2lkJyA9PiA=</text>
       </register>
       <register name="/" type="4">
         <text>credit</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">WwogICAgICAgICAgICAgICAgJ2VtYWlscycgPT4gYXJyYXlfY29sdW1uKCRhZGRyZXNzQm9vaywgJ2VtYWlsJyksCiAgICAgICAgICAgICAgICAnbW9iaWxlcycgPT4gYXJyYXlfY29sdW1uKCRhZGRyZXNzQm9vaywgJ21vYmlsZScpLAogICAgICAgICAgICAgICAgJ3N1YmplY3QnID0+ICRzdWJqZWN0LAogICAgICAgICAgICAgICAgJ2NvbnRlbnQnID0+ICRjb250ZW50LAogICAgICAgICAgICBd</text>
+        <text>临时排除错误签名任务</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">JF9TRVJWRVJbJ1dFQl9FTlYnXT0gJ3Byb2QnOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAndGltZScgPT4gXHRpbWUoKSAtICR0aW1lLAogICAgICAgICAgICAgICAgICAgICdhcHBfYWNjb3VudCcgPT4gJGFwcE5hbWUsCiAgICAgICAgICAgICAgICAgICAgJ2FwcF9wYXJhbXMnID0+IFsKICAgICAgICAgICAgICAgICAgICAgICAgJ2FwcCcgPT4gJHJlZGlzVmFsdWVbJ2FwcF9uYW1lJ10/PycnLAogICAgICAgICAgICAgICAgICAgICAgICAnaW5uZXJfYXBwJyA9PiAkaW5uZXJBcHAKICAgICAgICAgICAgICAgICAgICBdCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -350,28 +356,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIF0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnbWVzc2FnZScgPT4gJ3N0YXJ0IHNlbmQgc21zJywK</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIF0sCg==</text>
+        <text encoding="base64">JF9TRVJWRVJbJ1dFQl9FTlYnXT0gJ3Byb2QnOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIF0sCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkYWRkcmVzc0Jvb2ssWwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIF0sCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -505,10 +511,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+bWVzc2FnZSwyKTsK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkYWRkcmVzc0Jvb2ssWwo=</text>
       </register>
       <register name=":" type="4">
         <text>action Annotate</text>
