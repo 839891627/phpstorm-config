@@ -41,14 +41,14 @@
         <entry>action CloseAllEditors</entry>
         <entry>action PreviousTab</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
-        <entry>action SelectInProjectView</entry>
         <entry>action RecentChangedFiles</entry>
         <entry>action GotoClass</entry>
+        <entry>action Annotate</entry>
+        <entry>action SelectInProjectView</entry>
+        <entry>action Back</entry>
+        <entry>nohls</entry>
         <entry>wq</entry>
         <entry>action NextTab</entry>
-        <entry>action Back</entry>
-        <entry>action Annotate</entry>
-        <entry>nohls</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -113,14 +113,8 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Docker/xyf-api-gateway/common/config/main.php" timestamp="1592465857616" />
-      <file name="$USER_HOME$/Docker/xyf-api-gateway/common/helper/Validator.php" timestamp="1592465293476">
-        <mark key="'" line="27" column="27" />
-      </file>
       <file name="/a.dummy" timestamp="1592465919478">
         <mark key="[" line="0" column="1" />
-      </file>
-      <file name="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/BaseController.php" timestamp="1592465262787">
-        <mark key="'" line="41" column="23" />
       </file>
       <file name="$USER_HOME$/Docker/shoufuyou-php-lib/shoufuyou/Service/XyfVipCardV2Service.php" timestamp="1592468383687">
         <mark key="[" line="248" column="0" />
@@ -134,11 +128,18 @@
         <mark key="^" line="14" column="5" />
         <mark key="." line="14" column="4" />
       </file>
-      <file name="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/Before/OcrController.php" timestamp="1592465243614">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="30" column="11" />
-        <mark key="." line="36" column="32" />
-        <mark key="^" line="36" column="33" />
+      <file name="$USER_HOME$/Docker/xyf-api-gateway/ua_api/modules/ppd/facade/async/Async.php" timestamp="1592472317710">
+        <mark key="'" line="238" column="13" />
+        <mark key="[" line="272" column="0" />
+        <mark key="]" line="273" column="24" />
+        <mark key="^" line="273" column="24" />
+        <mark key="." line="273" column="23" />
+      </file>
+      <file name="$USER_HOME$/Docker/dnmp/config/nginx/conf.d/xyf-api-gateway.conf" timestamp="1592472339379">
+        <mark key="[" line="30" column="35" />
+        <mark key="]" line="30" column="36" />
+        <mark key="." line="30" column="35" />
+        <mark key="^" line="30" column="36" />
       </file>
       <file name="$USER_HOME$/Docker/xyf-api-gateway/common/logging/ErrorReportLog.php" timestamp="1592465880488">
         <mark key="[" line="22" column="29" />
@@ -165,6 +166,17 @@
       <file name="$USER_HOME$/Docker/shoufuyou-php-lib/shoufuyou/Util/Env.php" timestamp="1592468221190">
         <mark key="'" line="295" column="22" />
       </file>
+      <file name="$USER_HOME$/Docker/xyf-api-gateway/ua_api/modules/ppd/facade/common/PPDai.php" timestamp="1592472449927">
+        <mark key="'" line="96" column="19" />
+      </file>
+      <file name="$USER_HOME$/Docker/xyf-api-gateway/ua_api/web/index.php" timestamp="1592472523101">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Docker/xyf-api-gateway/ua_api/modules/ppd/controllers/AsyncController.php" timestamp="1592472419817">
+        <mark key="'" line="27" column="33" />
+      </file>
       <file name="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" timestamp="1592468375234">
         <mark key="'" line="220" column="25" />
         <mark key="z" line="27" column="27" />
@@ -173,22 +185,8 @@
         <mark key="." line="589" column="49" />
         <mark key="^" line="589" column="50" />
       </file>
-      <file name="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/AppController.php" timestamp="1592466623148">
-        <mark key="'" line="105" column="22" />
-        <mark key="[" line="103" column="31" />
-        <mark key="]" line="103" column="31" />
-        <mark key="^" line="103" column="36" />
-        <mark key="." line="103" column="31" />
-      </file>
       <file name="$USER_HOME$/Docker/xyf-api-gateway/api/config/local/main.php" timestamp="1592465363131">
         <mark key="[" line="19" column="38" />
-      </file>
-      <file name="$USER_HOME$/Docker/xyf-api-gateway/api/helper/HttpClient.php" timestamp="1592465036288">
-        <mark key="'" line="5" column="19" />
-        <mark key="[" line="63" column="42" />
-        <mark key="]" line="63" column="44" />
-        <mark key="." line="63" column="43" />
-        <mark key="^" line="63" column="44" />
       </file>
       <file name="$USER_HOME$/Docker/xyf-api-gateway/api/helper/RequestEnv.php" timestamp="1592466694118">
         <mark key="[" line="22" column="19" />
@@ -196,17 +194,8 @@
         <mark key="^" line="22" column="22" />
         <mark key="." line="22" column="19" />
       </file>
-      <file name="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/AppController.php" timestamp="1592465116797">
-        <mark key="'" line="17" column="26" />
-        <mark key="[" line="227" column="0" />
-        <mark key="]" line="227" column="167" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="148" column="52" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/VipCardV2Controller.php" />
-      <jump line="165" column="16" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/VipCardV2Controller.php" />
-      <jump line="217" column="16" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/VipCardV2Controller.php" />
-      <jump line="42" column="30" filename="$USER_HOME$/Docker/xyf-api-gateway/vendor/symfony/http-foundation/ExpressionRequestMatcher.php" />
       <jump line="132" column="6" filename="$USER_HOME$/Docker/xyf-api-gateway/api/service/gateways/CreditGateway.php" />
       <jump line="12" column="6" filename="$USER_HOME$/Docker/xyf-api-gateway/api/service/gateways/HelperTrait.php" />
       <jump line="130" column="0" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/VipCardV2Controller.php" />
@@ -303,6 +292,10 @@
       <jump line="83" column="9" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCard2019Service.php" />
       <jump line="143" column="32" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCard2019Service.php" />
       <jump line="87" column="12" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCard2019Service.php" />
+      <jump line="222" column="18" filename="$USER_HOME$/Docker/xyf-api-gateway/ua_api/modules/ppd/facade/async/Async.php" />
+      <jump line="238" column="13" filename="$USER_HOME$/Docker/xyf-api-gateway/ua_api/modules/ppd/facade/async/Async.php" />
+      <jump line="27" column="33" filename="$USER_HOME$/Docker/xyf-api-gateway/ua_api/modules/ppd/controllers/AsyncController.php" />
+      <jump line="96" column="19" filename="$USER_HOME$/Docker/xyf-api-gateway/ua_api/modules/ppd/facade/common/PPDai.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -310,8 +303,8 @@
       <register name="a" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>$bankInfo['card_number'],</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZWNobyAkd2ViRW52O2RpZTsK</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -326,7 +319,7 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>xyf_vip_card_notify</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXJhbXNcPg==</text>
@@ -335,7 +328,7 @@
         <text>$bankInfo['card_number'],</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2FwcCcgPT4gRW52OjpnZXRBcHAoKSwK</text>
+        <text encoding="base64">ZWNobyAkd2ViRW52O2RpZTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -353,28 +346,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBFbnYK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2FwcCcgPT4gRW52OjpnZXRBcHAoKSwK</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkcGFyYW1zID0gJHRoaXMtPnJlcXVlc3QtPnBvc3QoKTsK</text>
+        <text encoding="base64">ICAgICAgICBFbnYK</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+dmFsaWRhdGUoWwogICAgICAgICAgICAnZGF0YScgID0+IFsndHlwZScgPT4gJ3N0cmluZyddLAogICAgICAgIF0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAkcGFyYW1zID0gJHRoaXMtPnJlcXVlc3QtPnBvc3QoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2ZpbGVfdHlwZScgPT4gWyd0eXBlJyA9PiAnc3RyaW5nJ10sCg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+dmFsaWRhdGUoWwogICAgICAgICAgICAnZGF0YScgID0+IFsndHlwZScgPT4gJ3N0cmluZyddLAogICAgICAgIF0pOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2ZpbGVfdHlwZScgPT4gWyd0eXBlJyA9PiAnc3RyaW5nJ10sCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZihpc3NldCgpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -508,13 +501,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZihpc3NldCgpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>nohls</text>
+        <text>action NextTab</text>
       </register>
     </registers>
   </component>
