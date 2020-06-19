@@ -34,7 +34,6 @@
         <entry>action Annotate</entry>
         <entry>action OpenEditorInOppositeTabGroup</entry>
         <entry>.nohls</entry>
-        <entry>action CloseAllEditors</entry>
         <entry>action KJumpAction.Line</entry>
         <entry>vs</entry>
         <entry>action NextSplitter</entry>
@@ -49,6 +48,7 @@
         <entry>action NextTab</entry>
         <entry>action RecentChangedFiles</entry>
         <entry>nohls</entry>
+        <entry>action CloseAllEditors</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -152,12 +152,11 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/Docker/xyf-middleground-system/common/unit/CodeMessage.php" timestamp="1592544264297">
-        <mark key="'" line="54" column="38" />
-        <mark key="[" line="54" column="28" />
-        <mark key="]" line="54" column="28" />
-        <mark key="." line="54" column="28" />
-        <mark key="^" line="54" column="34" />
+      <file name="$USER_HOME$/Docker/xyf-middleground-system/common/unit/CodeMessage.php" timestamp="1592544306881">
+        <mark key="'" line="10" column="13" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
       </file>
       <file name="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" timestamp="1592538383042">
         <mark key="'" line="220" column="25" />
@@ -192,9 +191,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="222" column="18" filename="$USER_HOME$/Docker/xyf-api-gateway/ua_api/modules/ppd/facade/async/Async.php" />
-      <jump line="238" column="13" filename="$USER_HOME$/Docker/xyf-api-gateway/ua_api/modules/ppd/facade/async/Async.php" />
-      <jump line="96" column="19" filename="$USER_HOME$/Docker/xyf-api-gateway/ua_api/modules/ppd/facade/common/PPDai.php" />
       <jump line="26" column="40" filename="$USER_HOME$/Docker/xyf-api-gateway/ua_api/modules/ppd/facade/async/Async.php" />
       <jump line="92" column="12" filename="$USER_HOME$/Docker/xyf-api-gateway/ua_api/modules/ppd/facade/common/PPDai.php" />
       <jump line="18" column="22" filename="$USER_HOME$/Docker/xyf-api-gateway/ua_api/modules/ppd/controllers/AsyncController.php" />
@@ -292,6 +288,9 @@
       <jump line="32" column="28" filename="$USER_HOME$/Docker/xyf-api-gateway/vendor/xyf/lib/src/helper/CodeMessage.php" />
       <jump line="33" column="9" filename="$USER_HOME$/Docker/xyf-api-gateway/vendor/xyf/lib/src/helper/CodeMessage.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Docker/xyf-api-gateway/vendor/xyf/lib/src/helper/CodeMessage.php" />
+      <jump line="44" column="14" filename="$USER_HOME$/Docker/xyf-middleground-system/common/unit/CodeMessage.php" />
+      <jump line="11" column="12" filename="$USER_HOME$/Docker/xyf-middleground-system/common/unit/CodeMessage.php" />
+      <jump line="10" column="13" filename="$USER_HOME$/Docker/xyf-middleground-system/common/unit/CodeMessage.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -299,8 +298,8 @@
       <register name="a" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>Respon</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -324,7 +323,7 @@
         <text encoding="base64">ICAgICAgICAkdGhpcy0+c3VjY2VzcyhbCiAgICAgICAgICAgICd0b2tlbicgPT4gJHRva2VuLAogICAgICAgICAgICAnbW9iaWxlJyA9PiAkbW9iaWxlLAogICAgICAgICAgICAndXNlcklkJyA9PiAkdXNlcklkLAogICAgICAgIF0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3Rva2VuJyA9PiAkdG9rZW4sCiAgICAgICAgICAgICdtb2JpbGUnID0+ICRtb2JpbGUsCiAgICAgICAgICAgICd1c2VySWQnID0+ICR1c2VySWQs</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -342,25 +341,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+c3VjY2VzcyhbCiAgICAgICAgICAgICd0b2tlbicgPT4gJHRva2VuLAogICAgICAgICAgICAnbW9iaWxlJyA9PiAkbW9iaWxlLAogICAgICAgICAgICAndXNlcklkJyA9PiAkdXNlcklkLAogICAgICAgIF0pOwogICAgICAgICRtb2JpbGUgPSB0cmltKFlpaTo6JGFwcC0+cmVxdWVzdC0+Z2V0Qm9keVBhcmFtKCdtb2JpbGUnLCBudWxsKSk7CiAgICAgICAgaWYgKGVtcHR5KCRtb2JpbGUpKSB0aHJvdyBuZXcgXEV4Y2VwdGlvbign5Y+C5pWw5pyJ6K+vJywgNDAwMDA1KTsKCiAgICAgICAgJGFwcE5hbWUgPSB0cmltKFlpaTo6JGFwcC0+cmVxdWVzdC0+Z2V0Qm9keVBhcmFtKCdhcHBOYW1lJywgbnVsbCkpOwoKICAgICAgICAkY2FjaGVLZXkgPSBSZWRpc0hlbHBlcjo6Z2V0Snd0S2V5KCRtb2JpbGUsICRhcHBOYW1lKTsKCiAgICAgICAgJGNhY2hlVmFsdWUgPSBZaWk6OiRhcHAtPnJlZGlzLT5nZXQoJGNhY2hlS2V5KTsKICAgICAgICAkY2FjaGVWYWx1ZSA9IEpzb246OmRlY29kZSgkY2FjaGVWYWx1ZSk7CgogICAgICAgIGlmICghZW1wdHkoJGNhY2hlVmFsdWUpICYmIGlzc2V0KCRjYWNoZVZhbHVlWyd0b2tlbiddKSAmJiBpc3NldCgkY2FjaGVWYWx1ZVsnY3JlZGl0VXNlcklkJ10pKSB7CiAgICAgICAgICAgICR0b2tlbiA9ICRjYWNoZVZhbHVlWyd0b2tlbiddOwogICAgICAgICAgICAkdXNlcklkID0gJGNhY2hlVmFsdWVbJ2NyZWRpdFVzZXJJZCddOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICR1c2VySW5mbyA9IFVzZXJTZXJ2aWNlOjpsb2dpbk9yUmVnaXN0ZXIoJG1vYmlsZSwgJGFwcE5hbWUpOwogICAgICAgICAgICAkdG9rZW4gPSBKd3RIZWxwZXI6OmdlbmVyYXRlVG9rZW4oJG1vYmlsZSwgJGFwcE5hbWUsICR1c2VySW5mbyk7CiAgICAgICAgICAgICR1c2VySWQgPSAkdXNlckluZm9bJ2lkJ10gPz8gMDsKICAgICAgICB9CgogICAgICAgICR0aGlzLT5zdWNjZXNzKFsKICAgICAgICAgICAgJ3Rva2VuJyA9PiAkdG9rZW4sCiAgICAgICAgICAgICdtb2JpbGUnID0+ICRtb2JpbGUsCiAgICAgICAgICAgICd1c2VySWQnID0+ICR1c2VySWQsCiAgICAgICAgXSk7</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkcmVzcG9uc2UtPmZvcm1hdCA9ICAgICAgICAkcmVzcG9uc2UtPmZvcm1hdCA9IFJlc3BvbnNlOjpGT1JNQVRfSlNPTjsK</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+c3VjY2VzcyhbXSk7Cg==</text>
+        <text encoding="base64">dXNlIGh0dHBcQ2xpZW50XFJlc3BvbnNlOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICRzcWw7ZGllOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3Rva2VuJyA9PiAkdG9rZW4sCiAgICAgICAgICAgICdtb2JpbGUnID0+ICRtb2JpbGUsCiAgICAgICAgICAgICd1c2VySWQnID0+ICR1c2VySWQs</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgd2hlcmUgZC50eXBlPTQgYW5kIHVzZXJfaWQ9JyAuICR1c2VyWydpZCddIC4gJyBhbmQgYmVnaW5fdGltZTw9IicgLiBkYXRlKCdZLW0tZCBIOmk6cycpIC4gJyIgYW5kIGVuZF90aW1lID49IicgLiBkYXRlKCdZLW0tZCBIOmk6cycpIC4gJyIgYW5kIHN0YXR1cyA9IDEgb3JkZXIgYnkgdi5pZCBkZXNjIGxpbWl0IDEnOwo=</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+c3VjY2VzcyhbCiAgICAgICAgICAgICd0b2tlbicgPT4gJHRva2VuLAogICAgICAgICAgICAnbW9iaWxlJyA9PiAkbW9iaWxlLAogICAgICAgICAgICAndXNlcklkJyA9PiAkdXNlcklkLAogICAgICAgIF0pOwogICAgICAgICRtb2JpbGUgPSB0cmltKFlpaTo6JGFwcC0+cmVxdWVzdC0+Z2V0Qm9keVBhcmFtKCdtb2JpbGUnLCBudWxsKSk7CiAgICAgICAgaWYgKGVtcHR5KCRtb2JpbGUpKSB0aHJvdyBuZXcgXEV4Y2VwdGlvbign5Y+C5pWw5pyJ6K+vJywgNDAwMDA1KTsKCiAgICAgICAgJGFwcE5hbWUgPSB0cmltKFlpaTo6JGFwcC0+cmVxdWVzdC0+Z2V0Qm9keVBhcmFtKCdhcHBOYW1lJywgbnVsbCkpOwoKICAgICAgICAkY2FjaGVLZXkgPSBSZWRpc0hlbHBlcjo6Z2V0Snd0S2V5KCRtb2JpbGUsICRhcHBOYW1lKTsKCiAgICAgICAgJGNhY2hlVmFsdWUgPSBZaWk6OiRhcHAtPnJlZGlzLT5nZXQoJGNhY2hlS2V5KTsKICAgICAgICAkY2FjaGVWYWx1ZSA9IEpzb246OmRlY29kZSgkY2FjaGVWYWx1ZSk7CgogICAgICAgIGlmICghZW1wdHkoJGNhY2hlVmFsdWUpICYmIGlzc2V0KCRjYWNoZVZhbHVlWyd0b2tlbiddKSAmJiBpc3NldCgkY2FjaGVWYWx1ZVsnY3JlZGl0VXNlcklkJ10pKSB7CiAgICAgICAgICAgICR0b2tlbiA9ICRjYWNoZVZhbHVlWyd0b2tlbiddOwogICAgICAgICAgICAkdXNlcklkID0gJGNhY2hlVmFsdWVbJ2NyZWRpdFVzZXJJZCddOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICR1c2VySW5mbyA9IFVzZXJTZXJ2aWNlOjpsb2dpbk9yUmVnaXN0ZXIoJG1vYmlsZSwgJGFwcE5hbWUpOwogICAgICAgICAgICAkdG9rZW4gPSBKd3RIZWxwZXI6OmdlbmVyYXRlVG9rZW4oJG1vYmlsZSwgJGFwcE5hbWUsICR1c2VySW5mbyk7CiAgICAgICAgICAgICR1c2VySWQgPSAkdXNlckluZm9bJ2lkJ10gPz8gMDsKICAgICAgICB9CgogICAgICAgICR0aGlzLT5zdWNjZXNzKFsKICAgICAgICAgICAgJ3Rva2VuJyA9PiAkdG9rZW4sCiAgICAgICAgICAgICdtb2JpbGUnID0+ICRtb2JpbGUsCiAgICAgICAgICAgICd1c2VySWQnID0+ICR1c2VySWQsCiAgICAgICAgXSk7</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -497,13 +496,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkcmV0ID0gXFlpaTo6JGFwcC0+ZGItPmNyZWF0ZUNvbW1hbmQoJHNxbCktPnF1ZXJ5T25lKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+c3VjY2VzcyhbXSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICRzcWw7ZGllOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>nohls</text>
+        <text>action CloseAllEditors</text>
       </register>
     </registers>
   </component>
