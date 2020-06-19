@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxwZXJpb2RMaW1pdEFtb3VudFw+</entry>
-        <entry encoding="base64">XDxkZWxpdmVyZWRcPg==</entry>
         <entry>delivered</entry>
         <entry encoding="base64">XDxBUFBcPg==</entry>
         <entry encoding="base64">XDxET1dOTE9BRF9VUkxcPg==</entry>
@@ -27,6 +25,8 @@
         <entry encoding="base64">XDxlbmNyeXB0XD4=</entry>
         <entry encoding="base64">XDxiYW5rX2NhcmRfbm9cPg==</entry>
         <entry>bank_card_no</entry>
+        <entry encoding="base64">XDxkYXRhX2NlbnRlcl9kb21haW5cPg==</entry>
+        <entry>data_center</entry>
       </history-search>
       <history-cmd>
         <entry>action Refactorings.QuickListPopupAction</entry>
@@ -180,12 +180,9 @@
       <file name="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/SlCash/SlOverdueConfirm.php" timestamp="1592549557904">
         <mark key="'" line="38" column="53" />
       </file>
-      <file name="$USER_HOME$/Docker/xinyongfei-app-api/config/env.php" timestamp="1592550068605">
-        <mark key="'" line="158" column="0" />
-        <mark key="[" line="342" column="0" />
-        <mark key="]" line="342" column="0" />
+      <file name="$USER_HOME$/Docker/xinyongfei-app-api/config/env.php" timestamp="1592551482531">
+        <mark key="'" line="0" column="0" />
         <mark key="^" line="340" column="6" />
-        <mark key="." line="342" column="0" />
       </file>
       <file name="$USER_HOME$/Docker/xyf-api-gateway/console/controllers/PpdQueueController.php" timestamp="1592548528157">
         <mark key="'" line="0" column="0" />
@@ -198,7 +195,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="13" filename="$USER_HOME$/Docker/xyf-api-gateway/console/controllers/CashOutQueueController.php" />
       <jump line="142" column="15" filename="$USER_HOME$/Docker/xyf-api-gateway/console/controllers/PpdQueueController.php" />
       <jump line="20" column="25" filename="$USER_HOME$/Docker/xyf-api-gateway/console/config/local/ppd.php" />
       <jump line="18" column="0" filename="$USER_HOME$/Docker/xyf-api-gateway/api/config/local/main.php" />
@@ -283,11 +279,8 @@
       <jump line="319" column="63" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/CashLoan/MzCash/MzCashLoanOrder.php" />
       <jump line="6" column="37" filename="$USER_HOME$/Docker/xinyongfei-app-api/config/env.php" />
       <jump line="25" column="17" filename="$USER_HOME$/Docker/xinyongfei-app-api/config/env.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Docker/xinyongfei-app-api/config/env.php" />
       <jump line="156" column="15" filename="$USER_HOME$/Docker/xinyongfei-app-api/config/env.php" />
       <jump line="344" column="0" filename="$USER_HOME$/Docker/xinyongfei-app-api/config/env.php" />
-      <jump line="342" column="17" filename="$USER_HOME$/Docker/xinyongfei-app-api/config/env.php" />
-      <jump line="158" column="0" filename="$USER_HOME$/Docker/xinyongfei-app-api/config/env.php" />
       <jump line="368" column="71" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCard2019Service.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCard2019Service.php" />
       <jump line="86" column="13" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCard2019Service.php" />
@@ -298,6 +291,10 @@
       <jump line="28" column="46" filename="$USER_HOME$/Docker/shoufuyou-notify/lib/Controllers/XyfVipCard2019Controller.php" />
       <jump line="8" column="20" filename="$USER_HOME$/Docker/shoufuyou-notify/lib/Controllers/XyfVipCard2019Controller.php" />
       <jump line="70" column="51" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCard2019Service.php" />
+      <jump line="342" column="0" filename="$USER_HOME$/Docker/xinyongfei-app-api/config/env.php" />
+      <jump line="36" column="19" filename="$USER_HOME$/Docker/xinyongfei-app-api/config/env.php" />
+      <jump line="158" column="9" filename="$USER_HOME$/Docker/xinyongfei-app-api/config/env.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Docker/xinyongfei-app-api/config/env.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -324,7 +321,7 @@
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>bank_card_no</text>
+        <text>data_center</text>
       </register>
       <register name="0" type="4">
         <text>bank_card_protyle</text>
@@ -515,13 +512,13 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>bank_card_no</last-search>
+      <last-search>data_center</last-search>
       <last-offset />
-      <last-pattern>bank_card_no</last-pattern>
+      <last-pattern>data_center</last-pattern>
       <last-replace>inner_app</last-replace>
       <last-substitute encoding="base64">XDxjYXNoTG9hbk9yZGVyXD4=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
