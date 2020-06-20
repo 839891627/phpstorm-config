@@ -29,15 +29,12 @@
         <entry encoding="base64">XDxwcGRcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>action ShowBookmarks</entry>
         <entry>action Forward</entry>
         <entry>.nohls</entry>
         <entry>action Annotate</entry>
-        <entry>action FileStructurePopup</entry>
         <entry>action KJumpAction.Word0</entry>
         <entry>action SelectInProjectView</entry>
         <entry>action PreviousTab</entry>
-        <entry>action Back</entry>
         <entry>wq</entry>
         <entry>vs</entry>
         <entry>action RecentChangedFiles</entry>
@@ -49,6 +46,9 @@
         <entry>nohls</entry>
         <entry>action CloseAllEditors</entry>
         <entry>action GotoClass</entry>
+        <entry>action FindInPath</entry>
+        <entry>action FileStructurePopup</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -126,12 +126,6 @@
         <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Docker/xyf-api-gateway/ua_api/config/test/jqns.php" timestamp="1592636048063" />
-      <file name="$USER_HOME$/Docker/xyf-sms-center/common/facade/Sms.php" timestamp="1592631800113">
-        <mark key="'" line="33" column="33" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-      </file>
       <file name="$USER_HOME$/Docker/xyf-api-gateway/ua_api/modules/ppd/facade/async/Async.php" timestamp="1592635164267">
         <mark key="'" line="252" column="16" />
       </file>
@@ -175,6 +169,9 @@
         <mark key="[" line="20" column="0" />
         <mark key="]" line="43" column="5" />
       </file>
+      <file name="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/GoldController.php" timestamp="1592641393234">
+        <mark key="'" line="99" column="38" />
+      </file>
       <file name="$USER_HOME$/Docker/xyf-api-gateway/ua_api/config/local/jqns.php" timestamp="1592636051056">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -210,7 +207,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="41" filename="$USER_HOME$/Docker/dnmp/config/php/php71.ini" />
       <jump line="30" column="25" filename="$USER_HOME$/Docker/xyf-sms-center/common/facade/Sms.php" />
       <jump line="38" column="29" filename="$USER_HOME$/Docker/xyf-sms-center/common/facade/Sms.php" />
       <jump line="90" column="18" filename="$USER_HOME$/Docker/xyf-sms-center/common/models/message/TemplateSms.php" />
@@ -310,6 +306,7 @@
       <jump line="93" column="36" filename="$USER_HOME$/Docker/xyf-api-gateway/console/controllers/PpdQueueController.php" />
       <jump line="38" column="4" filename="$USER_HOME$/Docker/xyf-api-gateway/console/controllers/PpdQueueController.php" />
       <jump line="1167" column="36" filename="$USER_HOME$/Docker/xyf-api-gateway/logs/console/web_client/20200620.log" />
+      <jump line="99" column="38" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/GoldController.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -521,7 +518,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoClass</text>
+        <text>action Back</text>
       </register>
     </registers>
   </component>
