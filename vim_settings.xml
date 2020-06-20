@@ -47,8 +47,8 @@
         <entry>action FileStructurePopup</entry>
         <entry>wq</entry>
         <entry>action KJumpAction.Word0</entry>
-        <entry>action Back</entry>
         <entry>action Annotate</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -118,8 +118,8 @@
       <file name="$USER_HOME$/Docker/xyf-common-sms/common/services/sms/BizLogic/AddTaskHelper.php" timestamp="1592624462941">
         <mark key="'" line="45" column="23" />
       </file>
-      <file name="$USER_HOME$/Docker/xyf-sms-center/common/facade/Sms.php" timestamp="1592624991730">
-        <mark key="'" line="33" column="29" />
+      <file name="$USER_HOME$/Docker/xyf-sms-center/common/facade/Sms.php" timestamp="1592631800113">
+        <mark key="'" line="33" column="33" />
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
@@ -289,7 +289,6 @@
       <jump line="33" column="29" filename="$USER_HOME$/Docker/xyf-sms-center/api/controllers/SmsController.php" />
       <jump line="85" column="20" filename="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/Sms.php" />
       <jump line="42" column="45" filename="$USER_HOME$/Docker/xyf-sms-center/common/facade/Sms.php" />
-      <jump line="33" column="29" filename="$USER_HOME$/Docker/xyf-sms-center/common/facade/Sms.php" />
       <jump line="51" column="32" filename="$USER_HOME$/Docker/xyf-sms-center/common/models/message/TemplateSms.php" />
       <jump line="86" column="35" filename="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/Sms.php" />
       <jump line="533" column="60" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
@@ -298,6 +297,7 @@
       <jump line="172" column="21" filename="$USER_HOME$/Docker/shoufuyou-notify/lib/Controllers/XyfVipCardV2Controller.php" />
       <jump line="203" column="43" filename="$USER_HOME$/Docker/shoufuyou-notify/lib/Controllers/XyfVipCardV2Controller.php" />
       <jump line="160" column="28" filename="$USER_HOME$/Docker/shoufuyou-php-lib/shoufuyou/Table/XyfVipCard2019Service.php" />
+      <jump line="33" column="33" filename="$USER_HOME$/Docker/xyf-sms-center/common/facade/Sms.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -509,7 +509,7 @@
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Annotate</text>
+        <text>action Back</text>
       </register>
     </registers>
   </component>
