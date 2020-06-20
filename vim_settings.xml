@@ -30,7 +30,6 @@
       </history-search>
       <history-cmd>
         <entry>action ShowBookmarks</entry>
-        <entry>action GotoClass</entry>
         <entry>action Forward</entry>
         <entry>.nohls</entry>
         <entry>action Annotate</entry>
@@ -49,6 +48,7 @@
         <entry>action NextTab</entry>
         <entry>nohls</entry>
         <entry>action CloseAllEditors</entry>
+        <entry>action GotoClass</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -521,7 +521,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action CloseAllEditors</text>
+        <text>action GotoClass</text>
       </register>
     </registers>
   </component>
