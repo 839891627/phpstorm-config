@@ -120,15 +120,15 @@
       <file name="$USER_HOME$/Docker/xyf-api-gateway/ua_api/modules/jqns/controllers/AsyncController.php" timestamp="1592635495999">
         <mark key="'" line="34" column="35" />
       </file>
+      <file name="$USER_HOME$/Docker/shoufuyou-sms-system/lib/Models/Sms.php" timestamp="1592646946080">
+        <mark key="'" line="47" column="52" />
+      </file>
       <file name="$USER_HOME$/Docker/xyf-api-gateway/console/config/local/main.php" timestamp="1592636753594">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="24" column="34" />
         <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Docker/xyf-api-gateway/ua_api/config/test/jqns.php" timestamp="1592636048063" />
-      <file name="$USER_HOME$/Docker/xyf-api-gateway/ua_api/modules/ppd/facade/async/Async.php" timestamp="1592635164267">
-        <mark key="'" line="252" column="16" />
-      </file>
       <file name="$USER_HOME$/Docker/xyf-api-gateway/console/config/test/jqns.php" timestamp="1592636821796">
         <mark key="'" line="20" column="15" />
         <mark key="[" line="48" column="0" />
@@ -169,8 +169,11 @@
         <mark key="[" line="20" column="0" />
         <mark key="]" line="43" column="5" />
       </file>
-      <file name="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/GoldController.php" timestamp="1592641393234">
+      <file name="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/GoldController.php" timestamp="1592642054699">
         <mark key="'" line="99" column="38" />
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="106" column="0" />
+        <mark key="." line="106" column="0" />
       </file>
       <file name="$USER_HOME$/Docker/xyf-api-gateway/ua_api/config/local/jqns.php" timestamp="1592636051056">
         <mark key="[" line="14" column="0" />
@@ -207,7 +210,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="25" filename="$USER_HOME$/Docker/xyf-sms-center/common/facade/Sms.php" />
       <jump line="38" column="29" filename="$USER_HOME$/Docker/xyf-sms-center/common/facade/Sms.php" />
       <jump line="90" column="18" filename="$USER_HOME$/Docker/xyf-sms-center/common/models/message/TemplateSms.php" />
       <jump line="100" column="20" filename="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/Sms.php" />
@@ -307,6 +309,7 @@
       <jump line="38" column="4" filename="$USER_HOME$/Docker/xyf-api-gateway/console/controllers/PpdQueueController.php" />
       <jump line="1167" column="36" filename="$USER_HOME$/Docker/xyf-api-gateway/logs/console/web_client/20200620.log" />
       <jump line="99" column="38" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/GoldController.php" />
+      <jump line="47" column="52" filename="$USER_HOME$/Docker/shoufuyou-sms-system/lib/Models/Sms.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -315,7 +318,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBbCiAgICAgICAgICAgICduYW1lJyAgID0+ICflvKDmib/og5wnLAogICAgICAgICAgICAnZW1haWwnICA9PiAnY2hlbmdzaGVuZy56aGFuZ0B4aW5mZWkuY29tJywKICAgICAgICAgICAgJ21vYmlsZScgPT4gJzE4ODAxNzczMzM4JywKICAgICAgICBdLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIOWNoeWPt++8mnh4eCDljaHlr4bvvJp4eHgK</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -339,7 +342,7 @@
         <text encoding="base64">ICAgICAgICBbCiAgICAgICAgICAgICduYW1lJyAgID0+ICflvKDmib/og5wnLAogICAgICAgICAgICAnZW1haWwnICA9PiAnY2hlbmdzaGVuZy56aGFuZ0B4aW5mZWkuY29tJywKICAgICAgICAgICAgJ21vYmlsZScgPT4gJzE4ODAxNzczMzM4JywKICAgICAgICBdLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQ29tbW9uU21zOjppbnN0YW5jZSgpLT5zZW5kRXJyb3JOb3RpZnkoJ+WAn+mSseiDveaJi+aOqOmAgei/mOasvuiuoeWIkuWksei0pScsICRlLT5nZXRNZXNzYWdlKCkgLiAiXHJcbiIgLiAkZS0+Z2V0VHJhY2VBc1N0cmluZygpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIOWNoeWPt++8mnh4eCDljaHlr4bvvJp4eHgK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -357,28 +360,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQ29tbW9uU21zOjppbnN0YW5jZSgpLT5zZW5kRXJyb3JOb3RpZnkoJ+WAn+mSseiDveaJi+aOqOmAgei/mOasvuiuoeWIkuWksei0pScsICRlLT5nZXRNZXNzYWdlKCkgLiAiXHJcbiIgLiAkZS0+Z2V0VHJhY2VBc1N0cmluZygpLAo=</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQ29tbW9uU21zOjppbnN0YW5jZSgpLT5zZW5kRXJyb3JOb3RpZnkoJ+WAn+mSseiDveaJi+aOqOmAgei/mOasvuiuoeWIkuWksei0pScsICRlLT5nZXRNZXNzYWdlKCkgLiAiXHJcbiIgLiAkZS0+Z2V0VHJhY2VBc1N0cmluZygpLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gY2F0Y2ggKFN0YWxlT2JqZWN0RXhjZXB0aW9uICRlKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQ29tbW9uU21zOjppbnN0YW5jZSgpLT5zZW5kRXJyb3JOb3RpZnkoJ+WAn+mSseiDveaJi+aOqOmAgei/mOasvuiuoeWIkuWksei0pScsICRlLT5nZXRNZXNzYWdlKCkgLiAiXHJcbiIgLiAkZS0+Z2V0VHJhY2VBc1N0cmluZygpLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZWNobyAnYWFhJyAuIFBIUF9FT0w7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gY2F0Y2ggKFN0YWxlT2JqZWN0RXhjZXB0aW9uICRlKSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8gaWYgKHRpbWUoKSAtICRsYXN0RXJyb3JOb3RpZnkgPiA2MCAqIDYwICogMjQpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZWNobyAnYWFhJyAuIFBIUF9FT0w7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8gaWYgKHRpbWUoKSAtICRsYXN0RXJyb3JOb3RpZnkgPiA2MCAqIDYwICogMjQpIHsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -512,10 +515,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICRub3RpZnlDb3VudCsrOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICRub3RpZnlDb3VudCsrOwo=</text>
       </register>
       <register name=":" type="4">
         <text>action Back</text>
