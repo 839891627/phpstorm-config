@@ -41,13 +41,13 @@
         <entry>action Forward</entry>
         <entry>action RecentChangedFiles</entry>
         <entry>action CloseAllEditors</entry>
-        <entry>action KJumpAction.Word0</entry>
-        <entry>action SelectInProjectView</entry>
         <entry>.nohls</entry>
-        <entry>action NextTab</entry>
-        <entry>wq</entry>
         <entry>action PreviousTab</entry>
+        <entry>wq</entry>
+        <entry>action NextTab</entry>
+        <entry>action SelectInProjectView</entry>
         <entry>nohls</entry>
+        <entry>action KJumpAction.Word0</entry>
         <entry>action Back</entry>
       </history-cmd>
       <history-expr />
@@ -112,46 +112,54 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/After/OrderController.php" timestamp="1592619127975">
-        <mark key="'" line="32" column="0" />
-        <mark key="[" line="15" column="7" />
-        <mark key="]" line="17" column="54" />
-        <mark key="." line="17" column="53" />
-        <mark key="^" line="17" column="54" />
+      <file name="$USER_HOME$/Docker/xyf-common-sms/common/services/sms/BizLogic/AddTaskHelper.php" timestamp="1592624462941">
+        <mark key="'" line="45" column="23" />
       </file>
-      <file name="$USER_HOME$/Docker/xyf-sms-center/common/facade/Sms.php" timestamp="1592623252930">
-        <mark key="'" line="42" column="45" />
+      <file name="$USER_HOME$/Docker/xyf-sms-center/common/facade/Sms.php" timestamp="1592624991730">
+        <mark key="'" line="33" column="29" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/Before/OcrController.php" timestamp="1592618627429">
-        <mark key="'" line="25" column="0" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="37" column="9" />
-      </file>
-      <file name="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/Limit.php" timestamp="1592619891633">
-        <mark key="'" line="55" column="28" />
-      </file>
-      <file name="$USER_HOME$/Docker/xyf-api-gateway/logs/api/web_client/20200620.log" timestamp="1592619056419" />
-      <file name="$USER_HOME$/Docker/xyf-sms-center/common/config/local/redis.php" timestamp="1592621109789">
-        <mark key="[" line="12" column="23" />
-        <mark key="]" line="12" column="23" />
-        <mark key="." line="12" column="23" />
-        <mark key="^" line="12" column="27" />
+      <file name="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/Limit.php" timestamp="1592623669604">
+        <mark key="'" line="32" column="20" />
       </file>
       <file name="$USER_HOME$/Docker/dnmp/logs/nginx/error.log" timestamp="1592620692996">
         <mark key="'" line="13" column="27" />
-      </file>
-      <file name="$USER_HOME$/Docker/xyf-sms-center/api/controllers/SmsController.php" timestamp="1592621132373">
-        <mark key="'" line="33" column="25" />
-        <mark key="[" line="23" column="39" />
-        <mark key="]" line="23" column="39" />
-        <mark key="." line="23" column="39" />
-        <mark key="^" line="23" column="38" />
       </file>
       <file name="$USER_HOME$/Docker/xyf-sms-center/common/config/local/params.php" timestamp="1592622914567">
         <mark key="[" line="10" column="34" />
         <mark key="]" line="10" column="35" />
         <mark key="." line="10" column="35" />
         <mark key="^" line="10" column="36" />
+      </file>
+      <file name="$USER_HOME$/Docker/xyf-sms-center/common/config/local/bootstrap.php" timestamp="1592623563586">
+        <mark key="[" line="1" column="55" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="2" column="68" />
+      </file>
+      <file name="$USER_HOME$/Docker/xyf-sms-center/common/config/local/db.php" timestamp="1592621024213">
+        <mark key="[" line="11" column="29" />
+        <mark key="]" line="11" column="54" />
+        <mark key="." line="11" column="53" />
+        <mark key="^" line="11" column="54" />
+      </file>
+      <file name="$USER_HOME$/Docker/xyf-common-sms/common/services/sms/BizLogic/DoTaskHelper.php" timestamp="1592624091655">
+        <mark key="'" line="74" column="28" />
+      </file>
+      <file name="$USER_HOME$/Docker/xyf-sms-center/common/config/local/redis.php" timestamp="1592621109789">
+        <mark key="[" line="12" column="23" />
+        <mark key="]" line="12" column="23" />
+        <mark key="." line="12" column="23" />
+        <mark key="^" line="12" column="27" />
+      </file>
+      <file name="$USER_HOME$/Docker/xyf-sms-center/api/controllers/SmsController.php" timestamp="1592624583736">
+        <mark key="'" line="33" column="29" />
+        <mark key="[" line="23" column="39" />
+        <mark key="]" line="23" column="39" />
+        <mark key="." line="23" column="39" />
+        <mark key="^" line="23" column="38" />
       </file>
       <file name="$USER_HOME$/Docker/xyf-sms-center/common/filters/RequestFilter.php" timestamp="1592619583502">
         <mark key="'" line="106" column="41" />
@@ -165,23 +173,17 @@
         <mark key="." line="4" column="41" />
         <mark key="^" line="4" column="42" />
       </file>
-      <file name="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/Sms.php" timestamp="1592623517726">
-        <mark key="'" line="101" column="20" />
-      </file>
-      <file name="$USER_HOME$/Docker/xyf-sms-center/common/config/local/db.php" timestamp="1592621024213">
-        <mark key="[" line="11" column="29" />
-        <mark key="]" line="11" column="54" />
-        <mark key="." line="11" column="53" />
-        <mark key="^" line="11" column="54" />
+      <file name="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/Sms.php" timestamp="1592625012101">
+        <mark key="'" line="86" column="35" />
       </file>
       <file name="$USER_HOME$/Docker/xyf-sms-center/api/config/main.php" timestamp="1592619458341">
         <mark key="'" line="15" column="41" />
       </file>
-      <file name="/PHP Console" timestamp="1592622983854">
+      <file name="/PHP Console" timestamp="1592623704254">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Docker/xyf-sms-center/common/models/message/TemplateSms.php" timestamp="1592623512599">
-        <mark key="'" line="90" column="18" />
+      <file name="$USER_HOME$/Docker/xyf-sms-center/common/models/message/TemplateSms.php" timestamp="1592625000289">
+        <mark key="'" line="51" column="32" />
       </file>
       <file name="$USER_HOME$/Docker/credit/fxd_api/services/FxdBankCardService.php" timestamp="1592620275578">
         <mark key="'" line="40" column="0" />
@@ -190,22 +192,11 @@
         <mark key="." line="70" column="0" />
         <mark key="^" line="70" column="21" />
       </file>
-      <file name="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/RouteController.php" timestamp="1592618582653">
-        <mark key="'" line="111" column="28" />
-        <mark key="[" line="112" column="9" />
-        <mark key="]" line="112" column="10" />
-        <mark key="." line="112" column="9" />
-        <mark key="^" line="112" column="10" />
+      <file name="$USER_HOME$/Docker/xyf-common-sms/common/services/sms/XyfSms.php" timestamp="1592624095135">
+        <mark key="'" line="44" column="26" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="6" filename="$USER_HOME$/Docker/credit/fxd_api/models/FxdBankCard.php" />
-      <jump line="19" column="40" filename="$USER_HOME$/Docker/credit/fxd_api/models/FxdBankCard.php" />
-      <jump line="44" column="33" filename="$USER_HOME$/Docker/credit/fxd_api/services/fxdApi.php" />
-      <jump line="41" column="24" filename="$USER_HOME$/Docker/credit/fxd_api/services/SfyWebService.php" />
-      <jump line="25" column="0" filename="$USER_HOME$/Docker/credit/fxd_api/services/SfyWebService.php" />
-      <jump line="36" column="21" filename="$USER_HOME$/Docker/xinyongfei-app-api/config/env.php" />
-      <jump line="48" column="0" filename="$USER_HOME$/Docker/credit/fxd_api/services/SfyWebService.php" />
       <jump line="68" column="0" filename="$USER_HOME$/Docker/credit/fxd_api/services/SfyWebService.php" />
       <jump line="51" column="0" filename="$USER_HOME$/Docker/credit/fxd_api/services/SfyWebService.php" />
       <jump line="61" column="0" filename="$USER_HOME$/Docker/credit/fxd_api/services/SfyWebService.php" />
@@ -269,36 +260,43 @@
       <jump line="28" column="0" filename="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/After/OrderController.php" />
       <jump line="15" column="41" filename="$USER_HOME$/Docker/xyf-sms-center/api/config/main.php" />
       <jump line="106" column="41" filename="$USER_HOME$/Docker/xyf-sms-center/common/filters/RequestFilter.php" />
-      <jump line="25" column="26" filename="$USER_HOME$/Docker/xyf-sms-center/common/models/message/TemplateSms.php" />
       <jump line="33" column="15" filename="$USER_HOME$/Docker/xyf-sms-center/common/models/message/TemplateSms.php" />
       <jump line="44" column="0" filename="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/Sms.php" />
-      <jump line="42" column="27" filename="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/Sms.php" />
-      <jump line="32" column="26" filename="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/Limit.php" />
       <jump line="49" column="20" filename="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/Limit.php" />
       <jump line="71" column="44" filename="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/Limit.php" />
       <jump line="55" column="28" filename="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/Limit.php" />
       <jump line="32" column="32" filename="$USER_HOME$/Docker/xyf-sms-center/api/controllers/SmsController.php" />
-      <jump line="36" column="18" filename="$USER_HOME$/Docker/xyf-sms-center/common/models/message/TemplateSms.php" />
-      <jump line="33" column="29" filename="$USER_HOME$/Docker/xyf-sms-center/common/facade/Sms.php" />
-      <jump line="51" column="32" filename="$USER_HOME$/Docker/xyf-sms-center/common/models/message/TemplateSms.php" />
-      <jump line="86" column="35" filename="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/Sms.php" />
-      <jump line="85" column="25" filename="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/Sms.php" />
-      <jump line="87" column="26" filename="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/Sms.php" />
       <jump line="39" column="37" filename="$USER_HOME$/Docker/xyf-sms-center/common/facade/Sms.php" />
       <jump line="40" column="37" filename="$USER_HOME$/Docker/xyf-sms-center/common/facade/Sms.php" />
       <jump line="40" column="0" filename="$USER_HOME$/Docker/credit/fxd_api/services/FxdBankCardService.php" />
       <jump line="44" column="19" filename="$USER_HOME$/Docker/xyf-sms-center/common/facade/Sms.php" />
       <jump line="13" column="27" filename="$USER_HOME$/Docker/dnmp/logs/nginx/error.log" />
       <jump line="11" column="28" filename="$USER_HOME$/Docker/xyf-sms-center/api/controllers/SmsController.php" />
-      <jump line="33" column="25" filename="$USER_HOME$/Docker/xyf-sms-center/api/controllers/SmsController.php" />
       <jump line="23" column="41" filename="$USER_HOME$/Docker/dnmp/config/php/php71.ini" />
       <jump line="30" column="25" filename="$USER_HOME$/Docker/xyf-sms-center/common/facade/Sms.php" />
-      <jump line="29" column="29" filename="$USER_HOME$/Docker/xyf-sms-center/common/facade/Sms.php" />
       <jump line="38" column="29" filename="$USER_HOME$/Docker/xyf-sms-center/common/facade/Sms.php" />
-      <jump line="42" column="45" filename="$USER_HOME$/Docker/xyf-sms-center/common/facade/Sms.php" />
       <jump line="90" column="18" filename="$USER_HOME$/Docker/xyf-sms-center/common/models/message/TemplateSms.php" />
       <jump line="100" column="20" filename="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/Sms.php" />
       <jump line="101" column="20" filename="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/Sms.php" />
+      <jump line="36" column="18" filename="$USER_HOME$/Docker/xyf-sms-center/common/models/message/TemplateSms.php" />
+      <jump line="42" column="30" filename="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/Sms.php" />
+      <jump line="32" column="20" filename="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/Limit.php" />
+      <jump line="29" column="29" filename="$USER_HOME$/Docker/xyf-sms-center/common/facade/Sms.php" />
+      <jump line="25" column="26" filename="$USER_HOME$/Docker/xyf-sms-center/common/models/message/TemplateSms.php" />
+      <jump line="29" column="25" filename="$USER_HOME$/Docker/xyf-common-sms/common/services/sms/BizLogic/AddTaskHelper.php" />
+      <jump line="45" column="23" filename="$USER_HOME$/Docker/xyf-common-sms/common/services/sms/BizLogic/AddTaskHelper.php" />
+      <jump line="45" column="37" filename="$USER_HOME$/Docker/xyf-common-sms/common/services/sms/BizLogic/DoTaskHelper.php" />
+      <jump line="123" column="69" filename="$USER_HOME$/Docker/xyf-common-sms/common/services/sms/BizLogic/DoTaskHelper.php" />
+      <jump line="56" column="37" filename="$USER_HOME$/Docker/xyf-common-sms/common/services/sms/BizLogic/DoTaskHelper.php" />
+      <jump line="74" column="28" filename="$USER_HOME$/Docker/xyf-common-sms/common/services/sms/BizLogic/DoTaskHelper.php" />
+      <jump line="44" column="26" filename="$USER_HOME$/Docker/xyf-common-sms/common/services/sms/XyfSms.php" />
+      <jump line="87" column="25" filename="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/Sms.php" />
+      <jump line="33" column="29" filename="$USER_HOME$/Docker/xyf-sms-center/api/controllers/SmsController.php" />
+      <jump line="85" column="20" filename="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/Sms.php" />
+      <jump line="42" column="45" filename="$USER_HOME$/Docker/xyf-sms-center/common/facade/Sms.php" />
+      <jump line="33" column="29" filename="$USER_HOME$/Docker/xyf-sms-center/common/facade/Sms.php" />
+      <jump line="51" column="32" filename="$USER_HOME$/Docker/xyf-sms-center/common/models/message/TemplateSms.php" />
+      <jump line="86" column="35" filename="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/Sms.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -306,8 +304,8 @@
       <register name="a" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>127.0.0.1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgkbWVzc2FnZSk7Cg==</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -331,7 +329,7 @@
         <text>guest</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBbCiAgICAgICAgICAgICdob3N0JyA9PiAnMTkyLjE2OC4wLjM2JywKICAgICAgICAgICAgJ3BvcnQnID0+IDU2NzIsCiAgICAgICAgICAgICd1c2VyJyA9PiAndGVzdF94eWZfdXNlcicsCiAgICAgICAgICAgICdwYXNzd29yZCcgPT4gJzEyMzQ1NicsCiAgICAgICAgICAgICd2aG9zdCcgPT4gJ3Rlc3RfeHlmX3F1ZXVlJywKICAgICAgICBdLAo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkbWVzc2FnZSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -349,28 +347,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgc2VydmVyX25hbWUgc21zLWNlbnRlci50ZXN0OwogICByb290ICAgICAgICAvdmFyL3d3dy94eWYtc21zLWNlbnRlci9jcmVkaXRfYXBpL3dlYjsKCg==</text>
+        <text encoding="base64">ICAgICAgICBbCiAgICAgICAgICAgICdob3N0JyA9PiAnMTkyLjE2OC4wLjM2JywKICAgICAgICAgICAgJ3BvcnQnID0+IDU2NzIsCiAgICAgICAgICAgICd1c2VyJyA9PiAndGVzdF94eWZfdXNlcicsCiAgICAgICAgICAgICdwYXNzd29yZCcgPT4gJzEyMzQ1NicsCiAgICAgICAgICAgICd2aG9zdCcgPT4gJ3Rlc3RfeHlmX3F1ZXVlJywKICAgICAgICBdLAo=</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgc2VydmVyX25hbWUgc21zLWNlbnRlci50ZXN0OwogICByb290ICAgICAgICAvdmFyL3d3dy94eWYtc21zLWNlbnRlci9jcmVkaXRfYXBpL3dlYjsKCg==</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHJldCA9IGpzb25fZGVjb2RlKCd7CiAgICAgICAgInN0YXR1cyI6NDAwMDAyLAogICAgICAgICJtZXNzYWdlIjoi6K+35YWI5r+A5rS7IiwKICAgICAgICAicmVzcG9uc2UiOm51bGwKICAgIH0nLDEpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPnJhd1Jlc3BvbnNlKCRyZXQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHJldCA9IGpzb25fZGVjb2RlKCd7CiAgICAgICAgInN0YXR1cyI6NDAwMDAyLAogICAgICAgICJtZXNzYWdlIjoi6K+35YWI5r+A5rS7IiwKICAgICAgICAicmVzcG9uc2UiOm51bGwKICAgIH0nLDEpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoJHJldFsnc3RhdHVzJ10gPT0gJzQwMDAwMicpIHsKICAgICAgICAgICAgLy8g6K+35YWI5r+A5rS75aSE55CGCiAgICAgICAgICAgIHJldHVybiAkdGhpcy0+c3VjY2VzcyhbXSk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPnJhd1Jlc3BvbnNlKCRyZXQpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoJHJldFsnc3RhdHVzJ10gPT0gJzQwMDAwMicpIHsKICAgICAgICAgICAgLy8g6K+35YWI5r+A5rS75aSE55CGCiAgICAgICAgICAgIHJldHVybiAkdGhpcy0+c3VjY2VzcyhbXSk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -504,10 +502,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>action Back</text>
