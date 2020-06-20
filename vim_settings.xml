@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxwYXJhbXNcPg==</entry>
         <entry encoding="base64">XDxPU1w+</entry>
         <entry encoding="base64">XDxkb3dubG9hZFVybFw+</entry>
         <entry encoding="base64">XDx4eWZQcml2YXRlS2V5XD4=</entry>
@@ -27,6 +26,7 @@
         <entry encoding="base64">XDxjYXJkX25vXD4=</entry>
         <entry encoding="base64">XDxkYXRhX2NlbnRlcl9kb21haW5cPg==</entry>
         <entry>check</entry>
+        <entry>after</entry>
       </history-search>
       <history-cmd>
         <entry>action Forward</entry>
@@ -38,17 +38,17 @@
         <entry>action Annotate</entry>
         <entry>action GotoClass</entry>
         <entry>action FileStructurePopup</entry>
-        <entry>action Back</entry>
-        <entry>action PreviousTab</entry>
-        <entry>vs</entry>
-        <entry>wq</entry>
-        <entry>action NextTab</entry>
-        <entry>action NextSplitter</entry>
         <entry>action KJumpAction.Word0</entry>
         <entry>action SelectInProjectView</entry>
-        <entry>action CloseAllEditors</entry>
-        <entry>nohls</entry>
         <entry>action RecentChangedFiles</entry>
+        <entry>action CloseAllEditors</entry>
+        <entry>vs</entry>
+        <entry>wq</entry>
+        <entry>action PreviousTab</entry>
+        <entry>action NextSplitter</entry>
+        <entry>action NextTab</entry>
+        <entry>action Back</entry>
+        <entry>nohls</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -112,6 +112,19 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/After/OrderController.php" timestamp="1592619127975">
+        <mark key="'" line="32" column="0" />
+        <mark key="[" line="15" column="7" />
+        <mark key="]" line="17" column="54" />
+        <mark key="." line="17" column="53" />
+        <mark key="^" line="17" column="54" />
+      </file>
+      <file name="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/Before/OcrController.php" timestamp="1592618627429">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="37" column="9" />
+      </file>
+      <file name="$USER_HOME$/Docker/xyf-api-gateway/logs/api/web_client/20200620.log" timestamp="1592619056419" />
       <file name="$USER_HOME$/Docker/xyf-credit-system/common/models/order/CashLoanOrder.php" timestamp="1592556455641">
         <mark key="'" line="275" column="15" />
       </file>
@@ -131,7 +144,6 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="22" column="49" />
       </file>
-      <file name="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCard2019Service.php" timestamp="1592554792689" />
       <file name="$USER_HOME$/Docker/credit/common/config/dev/params.php" timestamp="1592558735959">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
@@ -148,10 +160,6 @@
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
-      </file>
-      <file name="$USER_HOME$/Docker/xinyongfei-app-api/config/env.php" timestamp="1592553833148">
-        <mark key="'" line="36" column="21" />
-        <mark key="^" line="340" column="6" />
       </file>
       <file name="$USER_HOME$/Docker/credit/fxd_api/services/jd_api/api2002.php" timestamp="1592556057105">
         <mark key="'" line="0" column="0" />
@@ -174,33 +182,14 @@
         <mark key="^" line="70" column="21" />
       </file>
       <file name="$USER_HOME$/Docker/shoufuyou-php-lib/shoufuyou/Util/Env.php" timestamp="1592556832457" />
-      <file name="$USER_HOME$/Docker/loanmarket/common/service/Loanmarket.php" timestamp="1592555695725">
-        <mark key="'" line="1259" column="29" />
-        <mark key="[" line="1120" column="40" />
-        <mark key="]" line="1108" column="12" />
-        <mark key="^" line="1108" column="12" />
-        <mark key="." line="1108" column="11" />
+      <file name="/Dummy.txt" timestamp="1592618510679">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Docker/credit/fxd_api/models/FxdBankCard.php" timestamp="1592558786805">
         <mark key="'" line="74" column="0" />
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/Docker/loanmarket/console/controllers/ToolController.php" timestamp="1592555384971">
-        <mark key="'" line="69" column="55" />
-        <mark key="[" line="69" column="75" />
-        <mark key="]" line="69" column="94" />
-        <mark key="^" line="69" column="94" />
-        <mark key="." line="69" column="93" />
-      </file>
-      <file name="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" timestamp="1592554949902">
-        <mark key="'" line="353" column="13" />
-        <mark key="z" line="27" column="27" />
-        <mark key="[" line="533" column="0" />
-        <mark key="]" line="533" column="99" />
-        <mark key="." line="533" column="0" />
-        <mark key="^" line="530" column="76" />
       </file>
       <file name="$USER_HOME$/Docker/xyf-api-gateway/ua_api/modules/ppd/Bootstrap.php" timestamp="1592562821667" />
       <file name="$USER_HOME$/Docker/credit/common/config/prod/params.php" timestamp="1592558714160">
@@ -216,18 +205,15 @@
         <mark key="." line="84" column="0" />
         <mark key="^" line="80" column="30" />
       </file>
+      <file name="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/RouteController.php" timestamp="1592618582653">
+        <mark key="'" line="111" column="28" />
+        <mark key="[" line="112" column="9" />
+        <mark key="]" line="112" column="10" />
+        <mark key="." line="112" column="9" />
+        <mark key="^" line="112" column="10" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="20" filename="$USER_HOME$/Docker/shoufuyou-notify/lib/Controllers/XyfVipCard2019Controller.php" />
-      <jump line="342" column="0" filename="$USER_HOME$/Docker/xinyongfei-app-api/config/env.php" />
-      <jump line="158" column="9" filename="$USER_HOME$/Docker/xinyongfei-app-api/config/env.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Docker/xinyongfei-app-api/config/env.php" />
-      <jump line="365" column="34" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
-      <jump line="430" column="26" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
-      <jump line="67" column="26" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
-      <jump line="24" column="31" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
-      <jump line="26" column="6" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCard2019Service.php" />
-      <jump line="70" column="51" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCard2019Service.php" />
       <jump line="76" column="51" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
       <jump line="417" column="13" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Docker/shoufuyou-notify/lib/Controllers/XyfVipCardV2Controller.php" />
@@ -318,6 +304,16 @@
       <jump line="456" column="35" filename="$USER_HOME$/Docker/credit/fxd_api/controllers/LoanFrontController.php" />
       <jump line="449" column="40" filename="$USER_HOME$/Docker/credit/fxd_api/controllers/LoanFrontController.php" />
       <jump line="76" column="0" filename="$USER_HOME$/Docker/credit/fxd_api/models/FxdBankCard.php" />
+      <jump line="20" column="6" filename="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/RouteController.php" />
+      <jump line="108" column="53" filename="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/RouteController.php" />
+      <jump line="111" column="28" filename="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/RouteController.php" />
+      <jump line="25" column="0" filename="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/Before/OcrController.php" />
+      <jump line="16" column="73" filename="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/After/OrderController.php" />
+      <jump line="18" column="26" filename="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/After/OrderController.php" />
+      <jump line="20" column="26" filename="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/After/OrderController.php" />
+      <jump line="25" column="32" filename="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/After/OrderController.php" />
+      <jump line="19" column="0" filename="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/After/OrderController.php" />
+      <jump line="28" column="0" filename="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/After/OrderController.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -341,13 +337,13 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>test-D0Ujo6bTtABiF4C2</text>
+        <text>before.credit.uploadChallengeFile</text>
       </register>
       <register name="/" type="4">
-        <text>check</text>
+        <text>after</text>
       </register>
-      <register name="0" type="4">
-        <text>// 运维那边自动发版会覆盖</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAkdGhpcy0+c3VjY2VzcyhbXSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -368,25 +364,25 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIGZ4ZF9hcGlcc2VydmljZXNcU2Z5V2ViU2VydmljZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHJldCA9IGpzb25fZGVjb2RlKCd7CiAgICAgICAgInN0YXR1cyI6NDAwMDAyLAogICAgICAgICJtZXNzYWdlIjoi6K+35YWI5r+A5rS7IiwKICAgICAgICAicmVzcG9uc2UiOm51bGwKICAgIH0nLDEpCg==</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPnJhd1Jlc3BvbnNlKCRyZXQpOwo=</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIF0sCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoJHJldFsnc3RhdHVzJ10gPT0gJzQwMDAwMicpIHsKICAgICAgICAgICAgLy8g6K+35YWI5r+A5rS75aSE55CGCiAgICAgICAgICAgIHJldHVybiAkdGhpcy0+c3VjY2VzcyhbXSk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAndXNlcl9taWRkbGUnID0+ICdodHRwOi8vZGV2LWFwaS1taWRkbGVncm91bmQueGlueW9uZ2ZlaS5jbicsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -523,25 +519,25 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIF0sCg==</text>
+        <text encoding="base64">ICAgICAgICAkcGFyYW1zID0gJHRoaXMtPnJlcXVlc3QtPnBvc3QoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+dmFsaWRhdGUoWwogICAgICAgICAgICAnZmlsZV90eXBlJyA9PiBbJ3R5cGUnID0+ICdzdHJpbmcnXSwKICAgICAgICAgICAgJ29yZGVyX2lkJyAgPT4gWyd0eXBlJyA9PiAnc3RyaW5nJ10sCiAgICAgICAgXSk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action RecentChangedFiles</text>
+        <text>nohls</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>check</last-search>
+      <last-search>after</last-search>
       <last-offset />
-      <last-pattern>check</last-pattern>
+      <last-pattern>after</last-pattern>
       <last-replace>inner_app</last-replace>
       <last-substitute encoding="base64">XDxjYXNoTG9hbk9yZGVyXD4=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
