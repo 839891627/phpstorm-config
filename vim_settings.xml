@@ -40,15 +40,15 @@
         <entry>action OpenEditorInOppositeTabGroup</entry>
         <entry>action Annotate</entry>
         <entry>vs</entry>
-        <entry>action NextTab</entry>
-        <entry>action PreviousTab</entry>
-        <entry>action FileStructurePopup</entry>
         <entry>action RenameElement</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
-        <entry>action Back</entry>
         <entry>action NextSplitter</entry>
-        <entry>wq</entry>
+        <entry>action FileStructurePopup</entry>
+        <entry>action PreviousTab</entry>
+        <entry>action Back</entry>
         <entry>nohls</entry>
+        <entry>wq</entry>
+        <entry>action NextTab</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -127,12 +127,12 @@
         <mark key="[" line="0" column="5" />
       </file>
       <file name="$USER_HOME$/Docker/xyf-api-gateway/ua_api/config/test/jqns.php" timestamp="1592811231073" />
-      <file name="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/Before/OcrController.php" timestamp="1592814138613">
-        <mark key="'" line="34" column="42" />
-        <mark key="[" line="33" column="41" />
-        <mark key="]" line="33" column="55" />
-        <mark key="." line="33" column="54" />
-        <mark key="^" line="33" column="55" />
+      <file name="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/Before/OcrController.php" timestamp="1592815367065">
+        <mark key="'" line="32" column="77" />
+        <mark key="[" line="32" column="89" />
+        <mark key="]" line="32" column="90" />
+        <mark key="." line="32" column="89" />
+        <mark key="^" line="32" column="90" />
       </file>
       <file name="$USER_HOME$/Docker/xyf-api-gateway/ua_api/config/local/jqns.php" timestamp="1592811289634">
         <mark key="[" line="13" column="48" />
@@ -143,10 +143,11 @@
       <file name="/" timestamp="1592808389064">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Docker/xyf-api-gateway/api/service/gateways/CreditGateway.php" timestamp="1592814328377">
-        <mark key="'" line="67" column="22" />
+      <file name="$USER_HOME$/Docker/xyf-api-gateway/api/service/gateways/CreditGateway.php" timestamp="1592815380280">
+        <mark key="'" line="37" column="13" />
         <mark key="[" line="145" column="0" />
         <mark key="]" line="145" column="0" />
+        <mark key="^" line="172" column="21" />
         <mark key="." line="145" column="0" />
       </file>
       <file name="$USER_HOME$/Docker/xyf-api-gateway/console/config/prod/ppd.php" timestamp="1592812583671">
@@ -203,7 +204,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="9" filename="$USER_HOME$/Docker/xyf-api-gateway/console/controllers/PpdQueueController.php" />
       <jump line="43" column="13" filename="$USER_HOME$/Docker/xyf-api-gateway/console/controllers/PpdQueueController.php" />
       <jump line="48" column="41" filename="$USER_HOME$/Docker/xyf-api-gateway/console/controllers/PpdQueueController.php" />
       <jump line="49" column="30" filename="$USER_HOME$/Docker/xyf-api-gateway/console/controllers/PpdQueueController.php" />
@@ -290,7 +290,6 @@
       <jump line="108" column="4" filename="$USER_HOME$/Docker/xyf-api-gateway/ua_api/service/gateways/CreditGateway.php" />
       <jump line="53" column="22" filename="$USER_HOME$/Docker/xyf-api-gateway/console/config/prod/ppd.php" />
       <jump line="147" column="12" filename="$USER_HOME$/Docker/xyf-api-gateway/ua_api/service/gateways/CreditGateway.php" />
-      <jump line="32" column="80" filename="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/Before/OcrController.php" />
       <jump line="64" column="15" filename="$USER_HOME$/Docker/xyf-api-gateway/api/service/gateways/CreditGateway.php" />
       <jump line="70" column="32" filename="$USER_HOME$/Docker/xyf-api-gateway/api/service/gateways/CreditGateway.php" />
       <jump line="142" column="23" filename="$USER_HOME$/Docker/xyf-api-gateway/api/helper/HttpClient.php" />
@@ -299,10 +298,12 @@
       <jump line="1" column="0" filename="$USER_HOME$/Docker/xyf-api-gateway/api/service/gateways/CreditGateway.php" />
       <jump line="176" column="70" filename="$USER_HOME$/Docker/xyf-api-gateway/api/helper/HttpClient.php" />
       <jump line="161" column="22" filename="$USER_HOME$/Docker/xyf-api-gateway/api/service/gateways/CreditGateway.php" />
-      <jump line="37" column="12" filename="$USER_HOME$/Docker/xyf-api-gateway/api/service/gateways/CreditGateway.php" />
       <jump line="34" column="42" filename="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/Before/OcrController.php" />
       <jump line="4" column="0" filename="$USER_HOME$/Docker/xinyongfei-app-api/public/index.php" />
       <jump line="67" column="22" filename="$USER_HOME$/Docker/xyf-api-gateway/api/service/gateways/CreditGateway.php" />
+      <jump line="137" column="4" filename="$USER_HOME$/Docker/xyf-api-gateway/api/service/gateways/CreditGateway.php" />
+      <jump line="37" column="13" filename="$USER_HOME$/Docker/xyf-api-gateway/api/service/gateways/CreditGateway.php" />
+      <jump line="32" column="77" filename="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/Before/OcrController.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -326,13 +327,13 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>protected</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0aW1lb3V0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRjb250ZXh0ID0ganNvbl9kZWNvZGUoJGpvYlsnY29udGV4dCddLCB0cnVlKTsK</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICog6K6+572u6LaF5pe25pe26ZW/CiAgICAgKiBAcmV0dXJuIGludAogICAgICovCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gJ2h0dHA6Ly9hcHAtYXBpLnRlc3QnOwo=</text>
@@ -353,28 +354,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHJldCA9ICRjcmVkaXRHYXRld2F5LT5kb1JlcXVlc3QoJHBhcmFtcywgIWVtcHR5KCRfRklMRVMpKTsK</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+dGltZW91dCA9IDEwOwo=</text>
+        <text encoding="base64">CiAgICAgICAgICAgICRjcmVkaXRHYXRld2F5LT50aW1lb3V0ID0gMTU7IC8vIOiuvue9ruatpOaOpeWPo+i2heaXtjE156eSCg==</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBbCiAgICAgICAgICAgICduYW1lJyAgID0+ICfmm7nph5Hkuq4nLAogICAgICAgICAgICAnZW1haWwnICA9PiAnYXJ2aW4uY2FvQHhpbmZlaS5jbicsCiAgICAgICAgICAgICdtb2JpbGUnID0+ICcxMzA2Mjc2NTE3NScsCiAgICAgICAgXSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGNyZWRpdEdhdGV3YXkgPSBuZXcgQ3JlZGl0R2F0ZXdheSgnYmVmb3JlLmNyZWRpdC51cGxvYWRDaGFsbGVuZ2VGaWxlJyktPnNldFQ7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJ2h0dHA6Ly9hcHAtYXBpLnRlc3QnOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICd1cmwnICAgICAgID0+ICdodHRwOi8vMTE2LjI0Ny4xMDUuMTk0OjE4MTE5L2xvYW4vYXBpJywK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+dGltZW91dCA9IDEwOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -508,13 +509,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCRyZWNvcmRbJ3BheV90eXBlJ10gPSBYeWZWaXBDYXJkVjJTZXJ2aWNlOjpQQVlfTUVUSE9EX0JBTkspIHsK</text>
+        <text encoding="base64">ICAgICAgICBbCiAgICAgICAgICAgICduYW1lJyAgID0+ICfmm7nph5Hkuq4nLAogICAgICAgICAgICAnZW1haWwnICA9PiAnYXJ2aW4uY2FvQHhpbmZlaS5jbicsCiAgICAgICAgICAgICdtb2JpbGUnID0+ICcxMzA2Mjc2NTE3NScsCiAgICAgICAgXSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBbCiAgICAgICAgICAgICAgICAgICAgJ3Jlc3VsdCcgICAgID0+ICRwYXlTdGF0dXNNYXBbJHJlY29yZFsnc3RhdHVzJ11dID8/ICcnLCAvLyDkv53mjIHlkozmlK/ku5jlkIzmraXov5Tlm57nmoTnu5PmnoTkuIDoh7QKICAgICAgICAgICAgICAgICAgICAnYW1vdW50JyAgICAgPT4gJHJlY29yZFsnYW1vdW50J10sCiAgICAgICAgICAgICAgICAgICAgJ21ldGhvZCcgICAgID0+ICfpk7booYzku6PmiaMnLAogICAgICAgICAgICAgICAgICAgICdiYW5rX2NhcmQnICA9PiAkcmVjb3JkWydiYW5rX25hbWUnXSAuIHN1YnN0cigkcmVjb3JkWydiYW5rX2NhcmRfbm8nXSwgLTQpLAogICAgICAgICAgICAgICAgICAgICdwYXlfdGltZScgICA9PiAkcmVjb3JkWydwYXlfdGltZSddLAogICAgICAgICAgICAgICAgICAgICdtZXNzYWdlJyAgICA9PiAkcmVjb3JkWydtZXNzYWdlJ10sCiAgICAgICAgICAgICAgICAgICAgJ3N0YXJ0X3RpbWUnID0+IGlzc2V0KCRjYXJkUmV0KSA/IGRhdGUoJ1ktbS1kJywgc3RydG90aW1lKCRjYXJkUmV0WydiZWdpbl90aW1lJ10pKSA6ICcnLAogICAgICAgICAgICAgICAgICAgICdlbmRfdGltZScgICA9PiBpc3NldCgkY2FyZFJldCkgPyBkYXRlKCdZLW0tZCcsIHN0cnRvdGltZSgkY2FyZFJldFsnZW5kX3RpbWUnXSkpIDogJycsCiAgICAgICAgICAgICAgICBdOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>nohls</text>
+        <text>action NextTab</text>
       </register>
     </registers>
   </component>
