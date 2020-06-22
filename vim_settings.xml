@@ -167,13 +167,13 @@
         <mark key="." line="73" column="22" />
         <mark key="^" line="94" column="134" />
       </file>
-      <file name="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" timestamp="1592807245842">
-        <mark key="'" line="573" column="0" />
+      <file name="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" timestamp="1592807297971">
+        <mark key="'" line="530" column="106" />
         <mark key="z" line="27" column="27" />
-        <mark key="[" line="573" column="0" />
-        <mark key="]" line="573" column="0" />
-        <mark key="." line="573" column="0" />
-        <mark key="^" line="563" column="12" />
+        <mark key="[" line="558" column="55" />
+        <mark key="]" line="557" column="80" />
+        <mark key="." line="557" column="79" />
+        <mark key="^" line="557" column="80" />
       </file>
       <file name="$USER_HOME$/Docker/xyf-api-gateway/console/config/local/jqns.php" timestamp="1592637987411" />
       <file name="$USER_HOME$/Docker/loanmarket/common/unit/HttpClient.php" timestamp="1592802766101">
@@ -197,8 +197,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="15" filename="$USER_HOME$/Docker/xyf-api-gateway/console/controllers/JqnsQueueController.php" />
-      <jump line="23" column="25" filename="$USER_HOME$/Docker/xyf-api-gateway/console/config/local/ppd.php" />
       <jump line="12" column="0" filename="$USER_HOME$/Docker/xyf-api-gateway/console/config/prod/jqns.php" />
       <jump line="20" column="15" filename="$USER_HOME$/Docker/xyf-api-gateway/console/config/test/jqns.php" />
       <jump line="24" column="5" filename="$USER_HOME$/Docker/xyf-api-gateway/console/config/test/ppd.php" />
@@ -297,6 +295,8 @@
       <jump line="574" column="11" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
       <jump line="568" column="16" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
       <jump line="573" column="0" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
+      <jump line="557" column="59" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
+      <jump line="530" column="106" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -304,8 +304,8 @@
       <register name="a" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -320,13 +320,13 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>} else</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqdWppdXBlaVw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoJGNhcmRUeXBlID09IHNlbGY6OkNBUkRfVFlQRV9ZRUFSKXsKICAgICAgICAgICAgICAgICRzcWwgLj0gIiBhbmQgYy5pc195ZWFyPTEiOwogICAgICAgICAgICB9Cg==</text>
+      <register name="0" type="4">
+        <text>date('Y-m-d', strtotime($cardRet['begin_time'])) : '',</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
