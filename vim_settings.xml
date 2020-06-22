@@ -7,9 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>bank_card_no</entry>
-        <entry>data_center</entry>
-        <entry encoding="base64">XDx4eWZfcGF5X3JlY29yZFw+</entry>
         <entry encoding="base64">XDxnZXRMYXN0UGF5UmVjb3JkVjJcPg==</entry>
         <entry>card_no</entry>
         <entry>data_ce</entry>
@@ -27,9 +24,11 @@
         <entry encoding="base64">XDxWSVBfQ0FSRF9ERVRBSUxfVFlQRV9DT1VQT05cPg==</entry>
         <entry encoding="base64">XDxjYXJkVHlwZVw+</entry>
         <entry encoding="base64">XDxnZXRGaW5hbmNpYWxDb25maWdcPg==</entry>
+        <entry>&quot;</entry>
+        <entry encoding="base64">XDxwb3N0SnNvblw+</entry>
+        <entry>post</entry>
       </history-search>
       <history-cmd>
-        <entry>action Forward</entry>
         <entry>.nohls</entry>
         <entry>action Annotate</entry>
         <entry>action SelectInProjectView</entry>
@@ -41,12 +40,13 @@
         <entry>action FindInPath</entry>
         <entry>action FileStructurePopup</entry>
         <entry>wq</entry>
-        <entry>action GotoClass</entry>
         <entry>action NextTab</entry>
         <entry>vs</entry>
         <entry>action KJumpAction.Word0</entry>
         <entry>action PreviousTab</entry>
         <entry>action NextSplitter</entry>
+        <entry>action GotoClass</entry>
+        <entry encoding="base64">JzwsJz5zLyIvL2c=</entry>
         <entry>action Back</entry>
         <entry>nohls</entry>
       </history-cmd>
@@ -175,23 +175,9 @@
         <mark key="]" line="106" column="0" />
         <mark key="." line="106" column="0" />
       </file>
-      <file name="$USER_HOME$/Docker/xyf-api-gateway/ua_api/config/local/jqns.php" timestamp="1592636051056">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
-      <file name="$USER_HOME$/Docker/xyf-api-gateway/console/config/local/ppd.php" timestamp="1592636633965">
-        <mark key="'" line="23" column="25" />
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
-      </file>
       <file name="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/BizSfyWebClient.php" timestamp="1592792865489" />
       <file name="$USER_HOME$/Docker/xyf-api-gateway/api/service/gateways/CreditGateway.php" timestamp="1592798307244">
         <mark key="'" line="167" column="26" />
-      </file>
-      <file name="$USER_HOME$/Docker/xyf-api-gateway/common/logging/EmailTarget.php" timestamp="1592636711905">
-        <mark key="'" line="14" column="13" />
       </file>
       <file name="$USER_HOME$/Docker/xyf-api-gateway/console/config/local/jqns.php" timestamp="1592637987411" />
       <file name="$USER_HOME$/Docker/xyf-api-gateway/console/config/prod/ppd.php" timestamp="1592637982254">
@@ -199,6 +185,16 @@
         <mark key="[" line="57" column="0" />
         <mark key="]" line="61" column="10" />
         <mark key="." line="57" column="0" />
+      </file>
+      <file name="$USER_HOME$/Docker/loanmarket/common/unit/HttpClient.php" timestamp="1592802766101">
+        <mark key="[" line="44" column="5" />
+      </file>
+      <file name="$USER_HOME$/Docker/loanmarket/common/service/unionlogin/strategies/ActiveStrategy.php" timestamp="1592803658078">
+        <mark key="'" line="99" column="0" />
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="68" column="78" />
+        <mark key="^" line="68" column="17" />
+        <mark key="." line="68" column="15" />
       </file>
       <file name="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/VipCardV2Controller.php" timestamp="1592798082575">
         <mark key="'" line="125" column="0" />
@@ -211,9 +207,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="5" filename="$USER_HOME$/Docker/xyf-api-gateway/console/controllers/JqnsQueueController.php" />
-      <jump line="59" column="20" filename="$USER_HOME$/Docker/xyf-api-gateway/console/controllers/JqnsQueueController.php" />
-      <jump line="34" column="35" filename="$USER_HOME$/Docker/xyf-api-gateway/ua_api/modules/jqns/controllers/AsyncController.php" />
       <jump line="193" column="32" filename="$USER_HOME$/Docker/xyf-api-gateway/ua_api/modules/jqns/facade/async/Notify.php" />
       <jump line="100" column="8" filename="$USER_HOME$/Docker/xyf-api-gateway/console/controllers/JqnsQueueController.php" />
       <jump line="102" column="0" filename="$USER_HOME$/Docker/xyf-api-gateway/console/controllers/JqnsQueueController.php" />
@@ -311,6 +304,9 @@
       <jump line="139" column="78" filename="$USER_HOME$/Docker/shoufuyou-php-lib/shoufuyou/Service/XyfVipCardV2Service.php" />
       <jump line="47" column="6" filename="$USER_HOME$/Docker/xyf-api-gateway/api/service/gateways/CreditGateway.php" />
       <jump line="167" column="26" filename="$USER_HOME$/Docker/xyf-api-gateway/api/service/gateways/CreditGateway.php" />
+      <jump line="45" column="22" filename="$USER_HOME$/Docker/loanmarket/common/unit/HttpClient.php" />
+      <jump line="49" column="29" filename="$USER_HOME$/Docker/loanmarket/common/service/unionlogin/strategies/ActiveStrategy.php" />
+      <jump line="97" column="0" filename="$USER_HOME$/Docker/loanmarket/common/service/unionlogin/strategies/ActiveStrategy.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -318,8 +314,8 @@
       <register name="a" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRyZXRbJ3BheV9zdGF0dXMnXSA9ICdzdWNjZXNzJzsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">JHJlc3VsdFsnY29kZSddID09PSAnMDAwMCcgJiYgJHJlc3VsdFsnYnVzaW5lc3NDb2RlJ10gPT09ICcwMDEn</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -337,10 +333,10 @@
         <text>]</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRGaW5hbmNpYWxDb25maWdcPg==</text>
+        <text>post</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRyZXQgPSBWaXBDYXJkVjJTZXJ2aWNlOjpiYW5rUGF5KCRjYXJkVHlwZSk7Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">JHJlc3VsdFsnY29kZSddID09PSAnMDAwMCcgJiYgJHJlc3VsdFsnYnVzaW5lc3NDb2RlJ10gPT09ICcwMDEn</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICRyZXRbJ3BheV9zdGF0dXMnXSA9ICdzdWNjZXNzJzsK</text>
@@ -528,11 +524,11 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxnZXRGaW5hbmNpYWxDb25maWdcPg==</last-search>
+      <last-search>post</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRGaW5hbmNpYWxDb25maWdcPg==</last-pattern>
-      <last-replace>inner_app</last-replace>
-      <last-substitute encoding="base64">XDxjYXNoTG9hbk9yZGVyXD4=</last-substitute>
+      <last-pattern>post</last-pattern>
+      <last-replace />
+      <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
