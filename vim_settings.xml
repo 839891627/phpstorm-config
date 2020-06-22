@@ -32,7 +32,6 @@
         <entry>action Forward</entry>
         <entry>.nohls</entry>
         <entry>action Annotate</entry>
-        <entry>action KJumpAction.Word0</entry>
         <entry>action SelectInProjectView</entry>
         <entry>action PreviousTab</entry>
         <entry>wq</entry>
@@ -43,12 +42,13 @@
         <entry>action OpenEditorInOppositeTabGroup</entry>
         <entry>action NextSplitter</entry>
         <entry>action NextTab</entry>
-        <entry>nohls</entry>
         <entry>action CloseAllEditors</entry>
         <entry>action GotoClass</entry>
         <entry>action FindInPath</entry>
-        <entry>action FileStructurePopup</entry>
         <entry>action Back</entry>
+        <entry>action FileStructurePopup</entry>
+        <entry>action KJumpAction.Word0</entry>
+        <entry>nohls</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -117,9 +117,6 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Docker/xyf-api-gateway/ua_api/modules/jqns/controllers/AsyncController.php" timestamp="1592635495999">
-        <mark key="'" line="34" column="35" />
-      </file>
       <file name="$USER_HOME$/Docker/shoufuyou-sms-system/lib/Models/Sms.php" timestamp="1592646946080">
         <mark key="'" line="47" column="52" />
       </file>
@@ -164,6 +161,14 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="29" column="33" />
       </file>
+      <file name="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" timestamp="1592792849736">
+        <mark key="'" line="83" column="56" />
+        <mark key="z" line="27" column="27" />
+        <mark key="[" line="533" column="0" />
+        <mark key="]" line="533" column="99" />
+        <mark key="." line="533" column="0" />
+        <mark key="^" line="530" column="76" />
+      </file>
       <file name="$USER_HOME$/Docker/xyf-api-gateway/common/logging/WebClientLog.php" timestamp="1592635706716">
         <mark key="'" line="20" column="6" />
         <mark key="[" line="20" column="0" />
@@ -186,6 +191,7 @@
         <mark key="]" line="51" column="0" />
         <mark key="." line="51" column="0" />
       </file>
+      <file name="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/BizSfyWebClient.php" timestamp="1592792865489" />
       <file name="$USER_HOME$/Docker/xyf-api-gateway/ua_api/modules/jqns/facade/async/Notify.php" timestamp="1592635638554">
         <mark key="'" line="193" column="32" />
         <mark key="[" line="184" column="50" />
@@ -203,14 +209,8 @@
         <mark key="]" line="61" column="10" />
         <mark key="." line="57" column="0" />
       </file>
-      <file name="$USER_HOME$/Docker/xyf-api-gateway/ua_api/modules/jqns/facade/common/Jqns.php" timestamp="1592635481704">
-        <mark key="'" line="94" column="72" />
-        <mark key="[" line="180" column="0" />
-        <mark key="]" line="202" column="5" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="29" filename="$USER_HOME$/Docker/xyf-sms-center/common/facade/Sms.php" />
       <jump line="90" column="18" filename="$USER_HOME$/Docker/xyf-sms-center/common/models/message/TemplateSms.php" />
       <jump line="100" column="20" filename="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/Sms.php" />
       <jump line="101" column="20" filename="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/Sms.php" />
@@ -310,6 +310,7 @@
       <jump line="1167" column="36" filename="$USER_HOME$/Docker/xyf-api-gateway/logs/console/web_client/20200620.log" />
       <jump line="99" column="38" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/GoldController.php" />
       <jump line="47" column="52" filename="$USER_HOME$/Docker/shoufuyou-sms-system/lib/Models/Sms.php" />
+      <jump line="83" column="56" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -521,7 +522,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICRub3RpZnlDb3VudCsrOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Back</text>
+        <text>nohls</text>
       </register>
     </registers>
   </component>
