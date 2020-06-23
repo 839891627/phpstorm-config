@@ -35,7 +35,6 @@
         <entry encoding="base64">JzwsJz5zLyIvL2c=</entry>
         <entry>.nohls</entry>
         <entry>action KJumpAction.Line</entry>
-        <entry>action KJumpAction.Word0</entry>
         <entry>action OpenEditorInOppositeTabGroup</entry>
         <entry>action Annotate</entry>
         <entry>vs</entry>
@@ -47,6 +46,7 @@
         <entry>wq</entry>
         <entry>action NextTab</entry>
         <entry>action SelectInProjectView</entry>
+        <entry>action KJumpAction.Word0</entry>
         <entry>nohls</entry>
         <entry>action Back</entry>
       </history-cmd>
@@ -112,6 +112,31 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Docker/xyf-api-gateway/ua_api/modules/jqns/controllers/BaseController.php" timestamp="1592887286061">
+        <mark key="'" line="78" column="0" />
+        <mark key="[" line="78" column="322" />
+        <mark key="]" line="78" column="322" />
+        <mark key="^" line="78" column="1224" />
+        <mark key="." line="78" column="322" />
+      </file>
+      <file name="$USER_HOME$/Docker/xinyongfei-app-api/public/index.php" timestamp="1592872768693">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Docker/xyf-api-gateway/ua_api/modules/ppd/facade/async/Async.php" timestamp="1592879421948">
+        <mark key="'" line="280" column="29" />
+      </file>
+      <file name="$USER_HOME$/Docker/xyf-api-gateway/logs/console/web_client/20200620.log" timestamp="1592883876333" />
+      <file name="$USER_HOME$/Docker/xyf-api-gateway/common/models/ua_api/CashOutOrderRegModel.php" timestamp="1592887320669" />
+      <file name="$USER_HOME$/Docker/xyf-api-gateway/console/controllers/JqnsQueueController.php" timestamp="1592811363708">
+        <mark key="'" line="86" column="13" />
+        <mark key="[" line="59" column="51" />
+        <mark key="]" line="57" column="62" />
+        <mark key="." line="59" column="28" />
+        <mark key="^" line="59" column="29" />
+      </file>
       <file name="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/Before/OcrController.php" timestamp="1592815367065">
         <mark key="'" line="32" column="77" />
         <mark key="[" line="32" column="89" />
@@ -122,13 +147,7 @@
       <file name="$USER_HOME$/Docker/xyf-api-gateway/console/controllers/PpdQueueController.php" timestamp="1592881814807">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Docker/shoufuyou-php-lib/shoufuyou/Service/XyfVipCardV2Service.php" timestamp="1592806277224">
-        <mark key="'" line="189" column="50" />
-        <mark key="[" line="187" column="0" />
-        <mark key="]" line="187" column="0" />
-        <mark key="." line="187" column="0" />
-        <mark key="^" line="180" column="349" />
-      </file>
+      <file name="$USER_HOME$/Docker/xyf-api-gateway/common/tables/ua_api/CashOutOrderRegTable.php" timestamp="1592887349976" />
       <file name="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" timestamp="1592807297971">
         <mark key="'" line="530" column="106" />
         <mark key="z" line="27" column="27" />
@@ -153,15 +172,6 @@
         <mark key="^" line="172" column="21" />
         <mark key="." line="145" column="0" />
       </file>
-      <file name="$USER_HOME$/Docker/xyf-union-backend/common/services/LayoutManageService.php" timestamp="1592806798317">
-        <mark key="'" line="101" column="53" />
-      </file>
-      <file name="$USER_HOME$/Docker/xinyongfei-app-api/public/index.php" timestamp="1592872768693">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/Docker/xyf-api-gateway/console/config/prod/ppd.php" timestamp="1592812583671">
         <mark key="'" line="53" column="22" />
         <mark key="[" line="57" column="0" />
@@ -177,9 +187,6 @@
       <file name="$USER_HOME$/Docker/xyf-api-gateway/ua_api/modules/jqns/facade/async/Notify.php" timestamp="1592881023435">
         <mark key="'" line="193" column="35" />
       </file>
-      <file name="$USER_HOME$/Docker/xyf-api-gateway/ua_api/modules/ppd/facade/async/Async.php" timestamp="1592879421948">
-        <mark key="'" line="280" column="29" />
-      </file>
       <file name="$USER_HOME$/Docker/xyf-api-gateway/api/helper/HttpClient.php" timestamp="1592814063987">
         <mark key="'" line="176" column="70" />
       </file>
@@ -193,20 +200,8 @@
         <mark key="." line="197" column="1" />
         <mark key="^" line="197" column="2" />
       </file>
-      <file name="$USER_HOME$/Docker/xyf-api-gateway/logs/console/web_client/20200620.log" timestamp="1592883876333" />
-      <file name="$USER_HOME$/Docker/xyf-api-gateway/console/controllers/JqnsQueueController.php" timestamp="1592811363708">
-        <mark key="'" line="86" column="13" />
-        <mark key="[" line="59" column="51" />
-        <mark key="]" line="57" column="62" />
-        <mark key="." line="59" column="28" />
-        <mark key="^" line="59" column="29" />
-      </file>
-      <file name="$USER_HOME$/Docker/xyf-union-backend/api/modules/api/controllers/LayoutManageController.php" timestamp="1592806778970">
-        <mark key="'" line="29" column="50" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="58" filename="$USER_HOME$/Docker/xyf-api-gateway/console/controllers/PpdQueueController.php" />
       <jump line="47" column="0" filename="$USER_HOME$/Docker/xyf-api-gateway/console/controllers/JqnsQueueController.php" />
       <jump line="74" column="44" filename="$USER_HOME$/Docker/xyf-api-gateway/console/controllers/JqnsQueueController.php" />
       <jump line="60" column="36" filename="$USER_HOME$/Docker/xyf-api-gateway/console/controllers/JqnsQueueController.php" />
@@ -306,6 +301,7 @@
       <jump line="193" column="35" filename="$USER_HOME$/Docker/xyf-api-gateway/ua_api/modules/jqns/facade/async/Notify.php" />
       <jump line="152" column="21" filename="$USER_HOME$/Docker/xyf-api-gateway/console/controllers/PpdQueueController.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Docker/xyf-api-gateway/console/controllers/PpdQueueController.php" />
+      <jump line="78" column="0" filename="$USER_HOME$/Docker/xyf-api-gateway/ua_api/modules/jqns/controllers/BaseController.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -313,8 +309,8 @@
       <register name="a" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">c2xlZXAoNjApOwo=</text>
+      <register name="&quot;" type="4">
+        <text>{&quot;app_id&quot;:&quot;xinyongfei&quot;,&quot;biz_data&quot;:&quot;{\&quot;order_no\&quot;:\&quot;BG2CI81A89B\&quot;,\&quot;status_type\&quot;:\&quot;pre_loan\&quot;}&quot;,&quot;timestamp&quot;:1592884538,&quot;sign&quot;:&quot;n0s0XkjjGg\/\/hY+lR+4O+HihqqrGzjYkqTnfwH\/67zkzSPd\/1wl4kxraZPcR4o9KaQy\/qMNkfT6m8SE1BX4fwirNxk2F3Rejg0RNW+anQ39cGFmi\/EC+I4+QEH+U0USltnuBOBbbJiMFNE\/uEJ+O4vDaHj3+fGZ2CEKGaVxYqE8u6kyz\/tcLYi0CEuoI\/oAMsNA5nQTNdrBYeqbWMnGuRqtHEutqB3M4AyAQeHo33yiddw+ppp6FfPE1I8Q9UahO4CF+BQ0IAbj0w\/fHnqL2zZh7uT4G3swjC2J2+4AdIBp+BcqYPJ7iQ7el8OGib5hvjx76BxpNTW8amodtTi6jvg==&quot;}</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -329,7 +325,7 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text>{&quot;app_id&quot;:&quot;xinyongfei&quot;,&quot;biz_data&quot;:&quot;{\&quot;order_no\&quot;:\&quot;BG2CI81A89B\&quot;,\&quot;status_type\&quot;:\&quot;pre_loan\&quot;}&quot;,&quot;timestamp&quot;:1592884538,&quot;sign&quot;:&quot;n0s0XkjjGg\/\/hY+lR+4O+HihqqrGzjYkqTnfwH\/67zkzSPd\/1wl4kxraZPcR4o9KaQy\/qMNkfT6m8SE1BX4fwirNxk2F3Rejg0RNW+anQ39cGFmi\/EC+I4+QEH+U0USltnuBOBbbJiMFNE\/uEJ+O4vDaHj3+fGZ2CEKGaVxYqE8u6kyz\/tcLYi0CEuoI\/oAMsNA5nQTNdrBYeqbWMnGuRqtHEutqB3M4AyAQeHo33yiddw+ppp6FfPE1I8Q9UahO4CF+BQ0IAbj0w\/fHnqL2zZh7uT4G3swjC2J2+4AdIBp+BcqYPJ7iQ7el8OGib5hvjx76BxpNTW8amodtTi6jvg==&quot;}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxub3RpZnlcPg==</text>
@@ -529,7 +525,7 @@
       <last-replace />
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
