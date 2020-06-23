@@ -31,7 +31,6 @@
       <history-cmd>
         <entry>action CloseAllEditors</entry>
         <entry>action FindInPath</entry>
-        <entry>action GotoClass</entry>
         <entry encoding="base64">JzwsJz5zLyIvL2c=</entry>
         <entry>.nohls</entry>
         <entry>action KJumpAction.Line</entry>
@@ -41,7 +40,6 @@
         <entry>action RenameElement</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>action NextSplitter</entry>
-        <entry>action FileStructurePopup</entry>
         <entry>action PreviousTab</entry>
         <entry>wq</entry>
         <entry>action NextTab</entry>
@@ -49,6 +47,8 @@
         <entry>action KJumpAction.Word0</entry>
         <entry>nohls</entry>
         <entry>action Back</entry>
+        <entry>action GotoClass</entry>
+        <entry>action FileStructurePopup</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -193,12 +193,8 @@
       <file name="$USER_HOME$/Docker/xyf-api-gateway/ua_api/service/gateways/CreditGateway.php" timestamp="1592813679355">
         <mark key="'" line="147" column="12" />
       </file>
-      <file name="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/VipCardV2Controller.php" timestamp="1592807106387">
-        <mark key="'" line="247" column="36" />
-        <mark key="[" line="195" column="33" />
-        <mark key="]" line="197" column="2" />
-        <mark key="." line="197" column="1" />
-        <mark key="^" line="197" column="2" />
+      <file name="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCard2019Service.php" timestamp="1592889465602">
+        <mark key="c" line="363" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -513,7 +509,7 @@
         <text encoding="base64">ICAgICAgICBbCiAgICAgICAgICAgICduYW1lJyAgID0+ICfmm7nph5Hkuq4nLAogICAgICAgICAgICAnZW1haWwnICA9PiAnYXJ2aW4uY2FvQHhpbmZlaS5jbicsCiAgICAgICAgICAgICdtb2JpbGUnID0+ICcxMzA2Mjc2NTE3NScsCiAgICAgICAgXSwK</text>
       </register>
       <register name=":" type="4">
-        <text>action Back</text>
+        <text>action FileStructurePopup</text>
       </register>
     </registers>
   </component>
