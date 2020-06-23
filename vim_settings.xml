@@ -44,11 +44,11 @@
         <entry>action NextSplitter</entry>
         <entry>action FileStructurePopup</entry>
         <entry>action PreviousTab</entry>
-        <entry>action Back</entry>
         <entry>wq</entry>
         <entry>action NextTab</entry>
-        <entry>nohls</entry>
         <entry>action SelectInProjectView</entry>
+        <entry>nohls</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -171,6 +171,9 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
+      <file name="$USER_HOME$/Docker/xyf-api-gateway/ua_api/modules/jqns/facade/async/Notify.php" timestamp="1592881023435">
+        <mark key="'" line="193" column="35" />
+      </file>
       <file name="$USER_HOME$/Docker/loanmarket/common/unit/HttpClient.php" timestamp="1592802766101">
         <mark key="[" line="44" column="5" />
       </file>
@@ -208,7 +211,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="41" filename="$USER_HOME$/Docker/xyf-api-gateway/console/controllers/PpdQueueController.php" />
       <jump line="49" column="30" filename="$USER_HOME$/Docker/xyf-api-gateway/console/controllers/PpdQueueController.php" />
       <jump line="50" column="28" filename="$USER_HOME$/Docker/xyf-api-gateway/console/controllers/PpdQueueController.php" />
       <jump line="51" column="58" filename="$USER_HOME$/Docker/xyf-api-gateway/console/controllers/PpdQueueController.php" />
@@ -308,6 +310,7 @@
       <jump line="37" column="13" filename="$USER_HOME$/Docker/xyf-api-gateway/api/service/gateways/CreditGateway.php" />
       <jump line="32" column="77" filename="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/Before/OcrController.php" />
       <jump line="280" column="29" filename="$USER_HOME$/Docker/xyf-api-gateway/ua_api/modules/ppd/facade/async/Async.php" />
+      <jump line="193" column="35" filename="$USER_HOME$/Docker/xyf-api-gateway/ua_api/modules/jqns/facade/async/Notify.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -519,7 +522,7 @@
         <text encoding="base64">ICAgICAgICBbCiAgICAgICAgICAgICduYW1lJyAgID0+ICfmm7nph5Hkuq4nLAogICAgICAgICAgICAnZW1haWwnICA9PiAnYXJ2aW4uY2FvQHhpbmZlaS5jbicsCiAgICAgICAgICAgICdtb2JpbGUnID0+ICcxMzA2Mjc2NTE3NScsCiAgICAgICAgXSwK</text>
       </register>
       <register name=":" type="4">
-        <text>action SelectInProjectView</text>
+        <text>action Back</text>
       </register>
     </registers>
   </component>
