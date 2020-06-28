@@ -43,12 +43,12 @@
         <entry>action RecentChangedFiles</entry>
         <entry>action NextTab</entry>
         <entry>wq</entry>
-        <entry>action KJumpAction.Word0</entry>
         <entry>action GotoClass</entry>
         <entry>action PreviousTab</entry>
-        <entry>nohls</entry>
         <entry>action FileStructurePopup</entry>
+        <entry>action KJumpAction.Word0</entry>
         <entry>action Back</entry>
+        <entry>nohls</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -140,13 +140,6 @@
         <mark key="^" line="2" column="16" />
       </file>
       <file name="$USER_HOME$/Docker/xyf-api-gateway/console/config/local/main.php" timestamp="1593323530486" />
-      <file name="$USER_HOME$/Docker/xyf-api-gateway/ua_api/modules/ppd/facade/async/Async.php" timestamp="1593321657612">
-        <mark key="'" line="280" column="29" />
-        <mark key="[" line="275" column="72" />
-        <mark key="]" line="275" column="73" />
-        <mark key="^" line="275" column="73" />
-        <mark key="." line="275" column="72" />
-      </file>
       <file name="$USER_HOME$/Docker/xyf-api-gateway/common/services/SfyWebService.php" timestamp="1593322739207">
         <mark key="'" line="25" column="0" />
         <mark key="[" line="74" column="0" />
@@ -170,12 +163,15 @@
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="29" />
       </file>
-      <file name="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" timestamp="1593326790942">
+      <file name="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" timestamp="1593327530515">
         <mark key="'" line="335" column="36" />
-        <mark key="[" line="335" column="74" />
-        <mark key="]" line="335" column="55" />
-        <mark key="." line="335" column="54" />
-        <mark key="^" line="335" column="55" />
+        <mark key="[" line="335" column="71" />
+        <mark key="]" line="335" column="49" />
+        <mark key="." line="335" column="49" />
+        <mark key="^" line="335" column="50" />
+      </file>
+      <file name="$USER_HOME$/Docker/xyf-pay-system/common/thirdParty/h5ali/H5AliService.php" timestamp="1593327017014">
+        <mark key="'" line="128" column="34" />
       </file>
       <file name="$USER_HOME$/Docker/xinyongfei-app-api/config/env.test.template.php" timestamp="1593325676826">
         <mark key="[" line="14" column="28" />
@@ -207,7 +203,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="568" column="16" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
       <jump line="573" column="0" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
       <jump line="557" column="59" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
       <jump line="530" column="106" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
@@ -307,6 +302,7 @@
       <jump line="27" column="13" filename="$USER_HOME$/Docker/shoufuyou-php-lib/shoufuyou/Service/XyfVipCardV2Service.php" />
       <jump line="33" column="13" filename="$USER_HOME$/Docker/shoufuyou-php-lib/shoufuyou/Service/XyfVipCardV2Service.php" />
       <jump line="335" column="36" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
+      <jump line="128" column="34" filename="$USER_HOME$/Docker/xyf-pay-system/common/thirdParty/h5ali/H5AliService.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -314,8 +310,8 @@
       <register name="a" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbm90aWZ5X2RvbWFpbgo=</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -330,7 +326,7 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcmljZVw+</text>
@@ -518,7 +514,7 @@
         <text encoding="base64">ICAgICAgICAgICAgaWYoaXNzZXQoKSkK</text>
       </register>
       <register name=":" type="4">
-        <text>action Back</text>
+        <text>nohls</text>
       </register>
     </registers>
   </component>
