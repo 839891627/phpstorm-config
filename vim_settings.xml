@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxkYXRhX2NlbnRlcl9kb21haW5cPg==</entry>
         <entry>check</entry>
         <entry>after</entry>
         <entry>is_dele</entry>
@@ -27,6 +26,7 @@
         <entry>timeout</entry>
         <entry encoding="base64">XDx0aW1lb3V0XD4=</entry>
         <entry encoding="base64">XDxub3RpZnlcPg==</entry>
+        <entry>notify</entry>
       </history-search>
       <history-cmd>
         <entry>action FindInPath</entry>
@@ -144,6 +144,9 @@
         <mark key="." line="13" column="48" />
         <mark key="^" line="13" column="49" />
       </file>
+      <file name="$USER_HOME$/Docker/xinyongfei-app-api/config/env.php" timestamp="1593314660006">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="/" timestamp="1592808389064">
         <mark key="[" line="0" column="0" />
       </file>
@@ -199,9 +202,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="4" filename="$USER_HOME$/Docker/xyf-api-gateway/console/controllers/PpdQueueController.php" />
-      <jump line="1167" column="36" filename="$USER_HOME$/Docker/xyf-api-gateway/logs/console/web_client/20200620.log" />
-      <jump line="99" column="38" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/GoldController.php" />
       <jump line="47" column="52" filename="$USER_HOME$/Docker/shoufuyou-sms-system/lib/Models/Sms.php" />
       <jump line="83" column="56" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
       <jump line="145" column="41" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/VipCardV2Controller.php" />
@@ -299,6 +299,9 @@
       <jump line="108" column="32" filename="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/AppController.php" />
       <jump line="631" column="22" filename="$USER_HOME$/Docker/xyf-api-gateway/vendor/yiisoft/yii2/web/Request.php" />
       <jump line="121" column="0" filename="$USER_HOME$/Docker/xyf-api-gateway/console/controllers/JqnsQueueController.php" />
+      <jump line="23" column="35" filename="$USER_HOME$/Docker/xinyongfei-app-api/config/env.php" />
+      <jump line="162" column="13" filename="$USER_HOME$/Docker/xinyongfei-app-api/config/env.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Docker/xinyongfei-app-api/config/env.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -325,7 +328,7 @@
         <text>手</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxub3RpZnlcPg==</text>
+        <text>notify</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJGxhc3RFcnJvck5vdGlmeSA9IHRpbWUoKTsKICAgICAgICAgICAgICAgICAgICAgICAgJG5vdGlmeUNvdW50Kys7Cg==</text>
@@ -516,13 +519,13 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxub3RpZnlcPg==</last-search>
+      <last-search>notify</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxub3RpZnlcPg==</last-pattern>
+      <last-pattern>notify</last-pattern>
       <last-replace />
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
