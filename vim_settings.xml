@@ -41,14 +41,14 @@
         <entry>action NextTab</entry>
         <entry>action SelectInProjectView</entry>
         <entry>action KJumpAction.Word0</entry>
-        <entry>action FileStructurePopup</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>action Forward</entry>
-        <entry>action Back</entry>
         <entry>vs</entry>
         <entry>action NextSplitter</entry>
-        <entry>action GotoClass</entry>
         <entry>nohls</entry>
+        <entry>action FileStructurePopup</entry>
+        <entry>action Back</entry>
+        <entry>action GotoClass</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -131,6 +131,9 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
+      <file name="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/GoldController.php" timestamp="1593315484504">
+        <mark key="'" line="97" column="17" />
+      </file>
       <file name="$USER_HOME$/Docker/xyf-api-gateway/ua_api/modules/jqns/controllers/BaseController.php" timestamp="1592887286061">
         <mark key="'" line="78" column="0" />
         <mark key="[" line="78" column="322" />
@@ -146,9 +149,6 @@
       </file>
       <file name="$USER_HOME$/Docker/xinyongfei-app-api/config/env.php" timestamp="1593314660006">
         <mark key="'" line="0" column="0" />
-      </file>
-      <file name="/" timestamp="1592808389064">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Docker/xyf-api-gateway/api/service/gateways/CreditGateway.php" timestamp="1592815380280">
         <mark key="'" line="37" column="13" />
@@ -187,6 +187,9 @@
       <file name="$USER_HOME$/Docker/xyf-api-gateway/ua_api/service/gateways/CreditGateway.php" timestamp="1592813679355">
         <mark key="'" line="147" column="12" />
       </file>
+      <file name="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/VipCardV2Controller.php" timestamp="1593314730060">
+        <mark key="'" line="155" column="54" />
+      </file>
       <file name="$USER_HOME$/Docker/xyf-api-gateway/vendor/yiisoft/yii2/web/Request.php" timestamp="1592991364553">
         <mark key="'" line="631" column="22" />
       </file>
@@ -202,8 +205,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="52" filename="$USER_HOME$/Docker/shoufuyou-sms-system/lib/Models/Sms.php" />
-      <jump line="83" column="56" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
       <jump line="145" column="41" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/VipCardV2Controller.php" />
       <jump line="74" column="109" filename="$USER_HOME$/Docker/shoufuyou-php-lib/shoufuyou/Service/XyfVipCardV2Service.php" />
       <jump line="178" column="28" filename="$USER_HOME$/Docker/shoufuyou-php-lib/shoufuyou/Service/XyfVipCardV2Service.php" />
@@ -302,6 +303,8 @@
       <jump line="23" column="35" filename="$USER_HOME$/Docker/xinyongfei-app-api/config/env.php" />
       <jump line="162" column="13" filename="$USER_HOME$/Docker/xinyongfei-app-api/config/env.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Docker/xinyongfei-app-api/config/env.php" />
+      <jump line="155" column="54" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/VipCardV2Controller.php" />
+      <jump line="97" column="17" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/GoldController.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -513,7 +516,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>nohls</text>
+        <text>action GotoClass</text>
       </register>
     </registers>
   </component>
@@ -525,7 +528,7 @@
       <last-replace />
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
