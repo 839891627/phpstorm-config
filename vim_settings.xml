@@ -144,6 +144,13 @@
         <mark key="^" line="20" column="36" />
       </file>
       <file name="$USER_HOME$/Docker/xyf-api-gateway/console/config/local/main.php" timestamp="1593323530486" />
+      <file name="$USER_HOME$/Docker/xyf-api-gateway/common/services/SfyWebService.php" timestamp="1593336057593">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
+        <mark key="^" line="34" column="56" />
+      </file>
       <file name="$USER_HOME$/Docker/xyf-api-gateway/common/config/local/params.php" timestamp="1593334565325">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -152,7 +159,7 @@
       <file name="$USER_HOME$/Docker/xyf-api-gateway/console/controllers/JqnsQueueController.php" timestamp="1593334313634">
         <mark key="'" line="59" column="42" />
       </file>
-      <file name="$USER_HOME$/Docker/xyf-api-gateway/common/config/prod/params.php" timestamp="1593334645205">
+      <file name="$USER_HOME$/Docker/xyf-api-gateway/common/config/prod/params.php" timestamp="1593336042888">
         <mark key="[" line="6" column="41" />
         <mark key="]" line="6" column="54" />
         <mark key="." line="6" column="53" />
@@ -172,12 +179,6 @@
         <mark key="[" line="14" column="28" />
         <mark key="]" line="14" column="28" />
         <mark key="." line="14" column="28" />
-      </file>
-      <file name="$USER_HOME$/Docker/xyf-api-gateway/console/config/local/jqns.php" timestamp="1593323523235">
-        <mark key="'" line="11" column="7" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/Docker/xyf-pay-system/README.md" timestamp="1593324442625" />
       <file name="$USER_HOME$/Docker/xyf-api-gateway/common/config/test/params.php" timestamp="1593334571990">
@@ -307,8 +308,8 @@
       <register name="a" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>data_center_key</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ2tleScgICAgICAgICAgICAgICA9PiBcWWlpOjokYXBwLT5wYXJhbXNbJ2RhdGFfY2VudGVyX2tleSddLAo=</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -328,11 +329,11 @@
       <register name="/" type="4">
         <text encoding="base64">XDxyZWNvcmRcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>data_center_key</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ2tleScgICAgICAgICAgPT4gXFlpaTo6JGFwcC0+cGFyYW1zWydzZWNyZXQnXVsnZGF0YV9jZW50ZXJfa2V5J10sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2tleScgICAgICAgICAgICAgICA9PiBcWWlpOjokYXBwLT5wYXJhbXNbJ2RhdGFfY2VudGVyX2tleSddLAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -350,28 +351,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIF0sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIF0sCg==</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIF0sCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIF0sCg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIF0sCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -505,10 +506,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHVzZSBIdHRwQ2xpZW50Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
