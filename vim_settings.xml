@@ -38,7 +38,6 @@
         <entry>action RenameElement</entry>
         <entry>action PreviousTab</entry>
         <entry>action KJumpAction.Word0</entry>
-        <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>action Forward</entry>
         <entry>vs</entry>
         <entry>action NextSplitter</entry>
@@ -48,6 +47,7 @@
         <entry>action Back</entry>
         <entry>wq</entry>
         <entry>action NextTab</entry>
+        <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>nohls</entry>
       </history-cmd>
       <history-expr />
@@ -119,12 +119,12 @@
         <mark key="." line="32" column="89" />
         <mark key="^" line="32" column="90" />
       </file>
-      <file name="$USER_HOME$/Docker/xyf-api-gateway/console/controllers/PpdQueueController.php" timestamp="1593317687864">
-        <mark key="'" line="70" column="39" />
-        <mark key="[" line="71" column="102" />
-        <mark key="]" line="72" column="19" />
-        <mark key="." line="72" column="18" />
-        <mark key="^" line="72" column="19" />
+      <file name="$USER_HOME$/Docker/xyf-api-gateway/console/controllers/PpdQueueController.php" timestamp="1593317810471">
+        <mark key="'" line="72" column="31" />
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
+        <mark key="^" line="71" column="47" />
       </file>
       <file name="$USER_HOME$/Docker/xyf-middleground-system/api/modules/user/controllers/RightController.php" timestamp="1593309791930">
         <mark key="[" line="41" column="0" />
@@ -200,8 +200,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="114" column="49" filename="$USER_HOME$/Docker/shoufuyou-php-lib/shoufuyou/Service/XyfVipCardV2Service.php" />
-      <jump line="182" column="48" filename="$USER_HOME$/Docker/shoufuyou-php-lib/shoufuyou/Service/XyfVipCardV2Service.php" />
       <jump line="200" column="8" filename="$USER_HOME$/Docker/shoufuyou-php-lib/shoufuyou/Service/XyfVipCardV2Service.php" />
       <jump line="201" column="0" filename="$USER_HOME$/Docker/shoufuyou-php-lib/shoufuyou/Service/XyfVipCardV2Service.php" />
       <jump line="196" column="60" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/VipCardV2Controller.php" />
@@ -300,6 +298,8 @@
       <jump line="124" column="43" filename="$USER_HOME$/Docker/xyf-api-gateway/console/controllers/JqnsQueueController.php" />
       <jump line="134" column="12" filename="$USER_HOME$/Docker/xyf-api-gateway/console/controllers/JqnsQueueController.php" />
       <jump line="70" column="39" filename="$USER_HOME$/Docker/xyf-api-gateway/console/controllers/PpdQueueController.php" />
+      <jump line="71" column="63" filename="$USER_HOME$/Docker/xyf-api-gateway/console/controllers/PpdQueueController.php" />
+      <jump line="73" column="31" filename="$USER_HOME$/Docker/xyf-api-gateway/console/controllers/PpdQueueController.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -307,8 +307,8 @@
       <register name="a" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>:</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJG9yZGVyTm9zKTsK</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -323,7 +323,7 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>notify</text>
@@ -332,7 +332,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICRvcmRlck5vID0ganNvbl9kZWNvZGUoJG9yZGVyLT5jb250ZXh0LCB0cnVlKVsnYml6X2RhdGEnXVsnb3JkZXJfbm8nXTsKICAgICAgICAgICAgICAgICRvcmRlci0+b3JkZXJfbm8gPSAkb3JkZXJObzsKICAgICAgICAgICAgICAgICRvcmRlci0+c2F2ZSgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJGpvYnMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJG9yZGVyTm9zKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -350,28 +350,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJGpvYnMpOwo=</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRvcmRlck5vKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVjaG8gJAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRvcmRlck5vKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVjaG8gJAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICRzcWw7ZGllOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -505,10 +505,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJGxhc3RFcnJvck5vdGlmeSA9IHRpbWUoKTsK</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICRzcWw7ZGllOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c2xlZXAoNjApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJGxhc3RFcnJvck5vdGlmeSA9IHRpbWUoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>nohls</text>
