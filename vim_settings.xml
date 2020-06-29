@@ -45,10 +45,10 @@
         <entry>action KJumpAction.Word0</entry>
         <entry>wq</entry>
         <entry>action NextSplitter</entry>
+        <entry>action PreviousTab</entry>
+        <entry>nohls</entry>
         <entry>action Back</entry>
         <entry>action NextTab</entry>
-        <entry>nohls</entry>
-        <entry>action PreviousTab</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -124,8 +124,12 @@
         <mark key="^" line="2" column="36" />
       </file>
       <file name="$USER_HOME$/Docker/xyf-common-sms/common/services/sms/BizLogic/DoTaskHelper.php" timestamp="1593346050349" />
-      <file name="$USER_HOME$/Docker/xyf-sms-center/common/facade/Sms.php" timestamp="1593345644181">
-        <mark key="'" line="68" column="98" />
+      <file name="$USER_HOME$/Docker/xyf-api-gateway/ua_api/modules/ppd/facade/async/Async.php" timestamp="1593393817502">
+        <mark key="'" line="271" column="27" />
+        <mark key="[" line="275" column="72" />
+        <mark key="]" line="275" column="73" />
+        <mark key="^" line="275" column="73" />
+        <mark key="." line="275" column="72" />
       </file>
       <file name="$USER_HOME$/Docker/xyf-middleware-system/common/models/SmsRecord.php" timestamp="1593346676675">
         <mark key="'" line="32" column="6" />
@@ -138,9 +142,6 @@
         <mark key="." line="34" column="33" />
         <mark key="^" line="34" column="34" />
       </file>
-      <file name="$USER_HOME$/Docker/xyf-sms-center/api/controllers/SmsController.php" timestamp="1593345832955">
-        <mark key="'" line="33" column="35" />
-      </file>
       <file name="$USER_HOME$/Docker/xyf-sms-center/common/config/local/params.php" timestamp="1593346994166">
         <mark key="'" line="14" column="25" />
         <mark key="[" line="24" column="30" />
@@ -152,11 +153,11 @@
       <file name="$USER_HOME$/Docker/xyf-sms-center/common/models/BaseData.php" timestamp="1593346548686">
         <mark key="'" line="41" column="45" />
       </file>
-      <file name="$USER_HOME$/Docker/xyf-sms-center/console/controllers/LpSmsController.php" timestamp="1593345640157">
-        <mark key="'" line="27" column="34" />
-      </file>
       <file name="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/channel/AChannel.php" timestamp="1593347140338">
         <mark key="'" line="13" column="34" />
+      </file>
+      <file name="$USER_HOME$/Docker/xyf-api-gateway/composer.json" timestamp="1593394554603">
+        <mark key="'" line="0" column="6943" />
       </file>
       <file name="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/Sms.php" timestamp="1593347138411">
         <mark key="'" line="100" column="48" />
@@ -182,27 +183,24 @@
         <mark key="^" line="10" column="33" />
         <mark key="." line="75" column="0" />
       </file>
+      <file name="$USER_HOME$/Docker/xyf-api-gateway/console/controllers/JqnsQueueController.php" timestamp="1593394127020">
+        <mark key="'" line="132" column="39" />
+      </file>
       <file name="$USER_HOME$/Docker/xyf-common-sms/common/config/test/params.php" timestamp="1593346634847">
         <mark key="'" line="27" column="13" />
+      </file>
+      <file name="$USER_HOME$/Docker/xyf-api-gateway/ua_api/modules/jqns/facade/async/Notify.php" timestamp="1593393804132">
+        <mark key="'" line="186" column="29" />
+        <mark key="[" line="184" column="56" />
+        <mark key="]" line="184" column="74" />
+        <mark key="^" line="184" column="74" />
+        <mark key="." line="184" column="73" />
       </file>
       <file name="$USER_HOME$/Docker/xyf-api-gateway/api/helper/HttpClient.php" timestamp="1593346821658">
         <mark key="'" line="171" column="7" />
       </file>
-      <file name="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/VipCardV2Controller.php" timestamp="1593343343616">
-        <mark key="p" line="326" column="0" />
-        <mark key="'" line="252" column="52" />
-        <mark key="[" line="152" column="85" />
-        <mark key="]" line="152" column="85" />
-        <mark key="." line="152" column="85" />
-        <mark key="^" line="250" column="19" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="48" filename="$USER_HOME$/Docker/shoufuyou-php-lib/shoufuyou/Table/XyfVipCard2019Service.php" />
-      <jump line="672" column="156" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
-      <jump line="552" column="25" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
-      <jump line="11" column="0" filename="$USER_HOME$/Docker/shoufuyou-notify/lib/Controllers/XyfVipCardV2Controller.php" />
-      <jump line="193" column="46" filename="$USER_HOME$/Docker/shoufuyou-notify/lib/Controllers/XyfVipCardV2Controller.php" />
       <jump line="96" column="4" filename="$USER_HOME$/Docker/shoufuyou-php-lib/shoufuyou/Service/XyfVipCardV2Service.php" />
       <jump line="163" column="9" filename="$USER_HOME$/Docker/shoufuyou-php-lib/shoufuyou/Service/XyfVipCardV2Service.php" />
       <jump line="101" column="26" filename="$USER_HOME$/Docker/shoufuyou-php-lib/shoufuyou/Service/XyfVipCardV2Service.php" />
@@ -298,6 +296,11 @@
       <jump line="98" column="15" filename="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/Sms.php" />
       <jump line="100" column="48" filename="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/Sms.php" />
       <jump line="13" column="34" filename="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/channel/AChannel.php" />
+      <jump line="186" column="29" filename="$USER_HOME$/Docker/xyf-api-gateway/ua_api/modules/jqns/facade/async/Notify.php" />
+      <jump line="275" column="97" filename="$USER_HOME$/Docker/xyf-api-gateway/ua_api/modules/ppd/facade/async/Async.php" />
+      <jump line="271" column="27" filename="$USER_HOME$/Docker/xyf-api-gateway/ua_api/modules/ppd/facade/async/Async.php" />
+      <jump line="132" column="39" filename="$USER_HOME$/Docker/xyf-api-gateway/console/controllers/JqnsQueueController.php" />
+      <jump line="0" column="6943" filename="$USER_HOME$/Docker/xyf-api-gateway/composer.json" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -509,7 +512,7 @@
         <text encoding="base64">ICAgICAqIEB0aHJvd3MgUmVxdWVzdEV4Y2VwdGlvbgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action PreviousTab</text>
+        <text>action NextTab</text>
       </register>
     </registers>
   </component>
