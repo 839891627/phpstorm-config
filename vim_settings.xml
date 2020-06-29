@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>check</entry>
-        <entry encoding="base64">XDxtZXNzYWdlXD4=</entry>
         <entry encoding="base64">XDxiaXpUeXBlXD4=</entry>
         <entry encoding="base64">XDxtc2dcPg==</entry>
         <entry encoding="base64">XDxTbXNSZWNvcmRcPg==</entry>
@@ -27,28 +25,30 @@
         <entry encoding="base64">XDxjaGFubmVsXD4=</entry>
         <entry encoding="base64">XDxqc29uX2RlY29kZVw+</entry>
         <entry encoding="base64">XDxnZXRTaWduXD4=</entry>
+        <entry encoding="base64">XDxWSVBfQ0FSRF9ERVRBSUxfVFlQRV9SRVBPUlRcPg==</entry>
+        <entry encoding="base64">XDxnZXRHb2xkRXF1aXR5RGF0YVw+</entry>
       </history-search>
       <history-cmd>
-        <entry>.,.+88nohls</entry>
-        <entry>action Forward</entry>
         <entry>action FindUsages</entry>
-        <entry>action FileStructurePopup</entry>
         <entry>action CloseAllEditors</entry>
-        <entry>action RecentChangedFiles</entry>
-        <entry>vs</entry>
-        <entry>action Annotate</entry>
-        <entry>action OpenEditorInOppositeTabGroup</entry>
         <entry>action RenameElement</entry>
-        <entry>action GotoClass</entry>
-        <entry>action PreviousTab</entry>
         <entry>action SelectInProjectView</entry>
+        <entry>action Refactorings.QuickListPopupAction</entry>
+        <entry>action FindInPath</entry>
+        <entry>action GotoAction</entry>
+        <entry>action RecentChangedFiles</entry>
+        <entry>action NextTab</entry>
+        <entry>action Annotate</entry>
+        <entry>action PreviousTab</entry>
+        <entry>action Back</entry>
+        <entry>vs</entry>
+        <entry>action OpenEditorInOppositeTabGroup</entry>
         <entry>action KJumpAction.Word0</entry>
         <entry>action NextSplitter</entry>
-        <entry>action Refactorings.QuickListPopupAction</entry>
-        <entry>wq</entry>
-        <entry>action NextTab</entry>
-        <entry>action Back</entry>
+        <entry>action GotoClass</entry>
+        <entry>action FileStructurePopup</entry>
         <entry>nohls</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -112,18 +112,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1593409933505">
-        <mark key="[" line="0" column="15" />
-        <mark key="]" line="0" column="9" />
-        <mark key="." line="0" column="9" />
-      </file>
-      <file name="$USER_HOME$/Docker/xyf-sms-center/common/facade/Sms.php" timestamp="1593409321383">
-        <mark key="'" line="95" column="48" />
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="94" column="0" />
-        <mark key="^" line="98" column="1" />
-        <mark key="." line="94" column="0" />
-      </file>
+      <file name="$USER_HOME$/Docker/shoufuyou-php-lib/hyperframework/hyperframework/lib/Common/Config.php" timestamp="1593415130122" />
       <file name="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/channel/YunfengVoice.php" timestamp="1593410835938">
         <mark key="'" line="88" column="4" />
         <mark key="[" line="19" column="0" />
@@ -134,8 +123,12 @@
       <file name="$USER_HOME$/Docker/shoufuyou-sms-system/service/Voice/Yf/YfApi.php" timestamp="1593410476366">
         <mark key="'" line="38" column="21" />
       </file>
-      <file name="$USER_HOME$/Docker/xyf-common-sms/common/services/sms/Gateways/TonglianGateway.php" timestamp="1593408597145">
-        <mark key="'" line="11" column="33" />
+      <file name="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/Gold.php" timestamp="1593415258223">
+        <mark key="'" line="31" column="27" />
+        <mark key="[" line="46" column="26" />
+        <mark key="]" line="46" column="31" />
+        <mark key="." line="46" column="30" />
+        <mark key="^" line="46" column="31" />
       </file>
       <file name="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/channel/yunfeng/YunfengVoice.php" timestamp="1593411680202">
         <mark key="[" line="74" column="26" />
@@ -143,23 +136,31 @@
         <mark key="." line="71" column="9" />
         <mark key="^" line="71" column="10" />
       </file>
-      <file name="$USER_HOME$/Docker/xyf-middleground-system/common/services/sms/YunFengSms.php" timestamp="1593409808110">
-        <mark key="'" line="102" column="21" />
-      </file>
-      <file name="$USER_HOME$/Docker/xyf-middleground-system/common/services/sms/YunFengVoiceSms.php" timestamp="1593409866340">
-        <mark key="'" line="48" column="15" />
+      <file name="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" timestamp="1593413217368">
+        <mark key="'" line="281" column="20" />
+        <mark key="[" line="668" column="0" />
+        <mark key="]" line="668" column="0" />
+        <mark key="^" line="663" column="23" />
+        <mark key="." line="668" column="0" />
       </file>
       <file name="$USER_HOME$/Docker/xyf-sms-center/logs/app/20200629.log" timestamp="1593411340494">
         <mark key="'" line="25" column="23" />
       </file>
+      <file name="$USER_HOME$/.ideavimrc" timestamp="1593412485424">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="2" />
+        <mark key="^" line="40" column="2" />
+        <mark key="." line="40" column="1" />
+      </file>
       <file name="$USER_HOME$/Docker/xyf-sms-center/logs/biz/20200629.log" timestamp="1593411339224">
         <mark key="'" line="24" column="334" />
       </file>
-      <file name="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/wrappers/ReportWrapper.php" timestamp="1593409032079">
-        <mark key="'" line="17" column="0" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/Docker/shoufuyou-php-lib/shoufuyou/Service/XyfVipCardV2Service.php" timestamp="1593414900171">
+        <mark key="'" line="159" column="16" />
+        <mark key="[" line="156" column="0" />
+        <mark key="]" line="156" column="56" />
+        <mark key="^" line="119" column="37" />
+        <mark key="." line="156" column="0" />
       </file>
       <file name="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/channel/Yunfeng.php" timestamp="1593411072174">
         <mark key="'" line="130" column="34" />
@@ -169,16 +170,16 @@
         <mark key="^" line="130" column="54" />
       </file>
       <file name="$USER_HOME$/Docker/shoufuyou-sms-system/service/Voice/Yf/YfConfig.php" timestamp="1593410316539" />
-      <file name="$USER_HOME$/Docker/xyf-middleware-system/common/services/smsQuery/YunFengSmsQuery.php" timestamp="1593409712181">
-        <mark key="'" line="18" column="8" />
+      <file name="$USER_HOME$/Docker/xinyongfei-app-api/log/pay_client/20200622.log" timestamp="1593415078366" />
+      <file name="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/GoldController.php" timestamp="1593415264210">
+        <mark key="'" line="51" column="58" />
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
+        <mark key="^" line="45" column="58" />
       </file>
       <file name="$USER_HOME$/Docker/xyf-sms-center/logs/web_client/20200629.log" timestamp="1593411623705" />
-      <file name="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/channel/AChannel.php" timestamp="1593409089361">
-        <mark key="'" line="25" column="70" />
-        <mark key="[" line="25" column="59" />
-        <mark key="]" line="25" column="59" />
-        <mark key="." line="25" column="59" />
-      </file>
+      <file name="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/BizSfyWebClient.php" timestamp="1593415148968" />
       <file name="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/Sms.php" timestamp="1593411013274">
         <mark key="'" line="139" column="31" />
         <mark key="[" line="150" column="0" />
@@ -199,20 +200,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="219" column="0" filename="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/channel/HttpClient.php" />
-      <jump line="22" column="15" filename="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/channel/HttpClient.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/channel/HttpClient.php" />
-      <jump line="4" column="0" filename="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/channel/HttpClient.php" />
-      <jump line="21" column="0" filename="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/channel/HttpClient.php" />
-      <jump line="38" column="0" filename="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/channel/HttpClient.php" />
-      <jump line="53" column="0" filename="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/channel/HttpClient.php" />
-      <jump line="118" column="0" filename="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/channel/HttpClient.php" />
-      <jump line="135" column="0" filename="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/channel/HttpClient.php" />
-      <jump line="150" column="0" filename="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/channel/HttpClient.php" />
-      <jump line="10" column="2" filename="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/channel/AChannel.php" />
-      <jump line="10" column="2" filename="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/channel/HttpClient.php" />
-      <jump line="2" column="221" filename="$USER_HOME$/Docker/xyf-sms-center/logs/biz/20200629.log" />
-      <jump line="143" column="4" filename="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/channel/Yunfeng.php" />
       <jump line="105" column="5" filename="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/channel/Yunfeng.php" />
       <jump line="1" column="532" filename="$USER_HOME$/Docker/xyf-sms-center/logs/biz/20200629.log" />
       <jump line="99" column="24" filename="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/Sms.php" />
@@ -299,6 +286,20 @@
       <jump line="130" column="34" filename="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/channel/Yunfeng.php" />
       <jump line="24" column="334" filename="$USER_HOME$/Docker/xyf-sms-center/logs/biz/20200629.log" />
       <jump line="25" column="23" filename="$USER_HOME$/Docker/xyf-sms-center/logs/app/20200629.log" />
+      <jump line="29" column="56" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/GoldController.php" />
+      <jump line="34" column="56" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/GoldController.php" />
+      <jump line="263" column="81" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
+      <jump line="281" column="20" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
+      <jump line="212" column="27" filename="$USER_HOME$/Docker/shoufuyou-php-lib/shoufuyou/Service/XyfVipCardV2Service.php" />
+      <jump line="13" column="0" filename="$USER_HOME$/Docker/shoufuyou-php-lib/shoufuyou/Service/XyfVipCardV2Service.php" />
+      <jump line="129" column="51" filename="$USER_HOME$/Docker/shoufuyou-php-lib/shoufuyou/Service/XyfVipCardV2Service.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Docker/shoufuyou-php-lib/shoufuyou/Service/XyfVipCardV2Service.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/GoldController.php" />
+      <jump line="43" column="31" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/GoldController.php" />
+      <jump line="190" column="8" filename="$USER_HOME$/Docker/shoufuyou-php-lib/shoufuyou/Service/XyfVipCardV2Service.php" />
+      <jump line="159" column="16" filename="$USER_HOME$/Docker/shoufuyou-php-lib/shoufuyou/Service/XyfVipCardV2Service.php" />
+      <jump line="31" column="27" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/Gold.php" />
+      <jump line="51" column="58" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/GoldController.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -306,8 +307,8 @@
       <register name="a" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>z</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBlY2hvIDI7ZGllOwo=</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -322,16 +323,16 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>z</text>
+        <text>type</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRTaWduXD4=</text>
+        <text encoding="base64">XDxnZXRHb2xkRXF1aXR5RGF0YVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkd3JhcFJldCA9IG5ldyBXcmFwcGVyKCk7CiAgICAgICAgJHdyYXBSZXQtPnNldE1lc3NhZ2UoJHJldFsnZXJyb3JDb2RlJ10pLT5zZXRDb2RlKCRyZXRbJ2Vycm9yQ29kZSddKTsKCiAgICAgICAgaWYgKCRyZXQgPT09IGZhbHNlIHx8ICRyZXRbJ2Vycm9yQ29kZSddICE9PSAnMDAwMDAwJykgewogICAgICAgICAgICAkd3JhcFJldC0+c2V0U3VjY2VzcyhmYWxzZSk7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgJHdyYXBSZXQtPnNldFN1Y2Nlc3ModHJ1ZSktPnNldEFnZW50SWQoJGFnZW50SWQpOwogICAgICAgIH0KCiAgICAgICAgcmV0dXJuICR3cmFwUmV0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICdjb250ZW50cycgPT4gICRjb25maWdbJ2lkJ10K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlY2hvIDI7ZGllOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -349,28 +350,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDph43lhpkK</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICRzcWwuUEhQX0VPTDsK</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcGFyZW50OjpnZXROYW1lKCk7IC8vIFRPRE86IENoYW5nZSB0aGUgYXV0b2dlbmVyYXRlZCBzdHViCg==</text>
+        <text encoding="base64">ICAgICAgICBlY2hvIDI7ZGllOwo=</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkZ3JvdXAgPSAkdGVtcGxhdGUtPmdyb3VwOwo=</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICRzcWw7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGJvdWdodElkcyA9ICIoJyIuaW1wbG9kZSgiJywnIiwkYm91Z2h0SWRzKS4iJykiOwogICAgICAgICAgICAkc3FsIC49ICIgYW5kIGNoaWxkX2xheW91dF9uYW1lIGluICRib3VnaHRJZHMiOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHNxbCAuPSAiICBhbmQgdWdtLmlzX2RlbGV0ZWQgPSAxIGFuZCB1Z20uZmxhZyA9IDEgYW5kIHVnY2wuaXNfZGVsZXRlZCA9IDEgYW5kIHVnY2wuZmxhZyA9IDEiOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkZGF0YSk7ZGllOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -504,21 +505,21 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBJbXBsZW1lbnQgc2VuZCgpIG1ldGhvZC4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJGRldGFpbCwgJGRhdGFbJ215X2NhcmQnXSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWNobyAkc3FsO2RpZTsK</text>
       </register>
       <register name=":" type="4">
-        <text>nohls</text>
+        <text>wq</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxnZXRTaWduXD4=</last-search>
+      <last-search encoding="base64">XDxnZXRHb2xkRXF1aXR5RGF0YVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRTaWduXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRHb2xkRXF1aXR5RGF0YVw+</last-pattern>
       <last-replace />
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
