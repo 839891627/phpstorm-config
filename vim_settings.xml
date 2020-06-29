@@ -39,16 +39,16 @@
         <entry>action FileStructurePopup</entry>
         <entry>action Forward</entry>
         <entry>vs</entry>
-        <entry>action RecentChangedFiles</entry>
         <entry>action OpenEditorInOppositeTabGroup</entry>
-        <entry>action SelectInProjectView</entry>
         <entry>action KJumpAction.Word0</entry>
         <entry>wq</entry>
         <entry>action NextSplitter</entry>
         <entry>action PreviousTab</entry>
-        <entry>nohls</entry>
         <entry>action Back</entry>
         <entry>action NextTab</entry>
+        <entry>action SelectInProjectView</entry>
+        <entry>nohls</entry>
+        <entry>action RecentChangedFiles</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -112,7 +112,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Docker/xyf-sms-center/common/tables/SmsTemplateConfig.php" timestamp="1593346561048" />
       <file name="/a.dummy" timestamp="1593346944532">
         <mark key="[" line="0" column="0" />
       </file>
@@ -123,13 +122,15 @@
         <mark key="." line="2" column="35" />
         <mark key="^" line="2" column="36" />
       </file>
-      <file name="$USER_HOME$/Docker/xyf-common-sms/common/services/sms/BizLogic/DoTaskHelper.php" timestamp="1593346050349" />
       <file name="$USER_HOME$/Docker/xyf-api-gateway/ua_api/modules/ppd/facade/async/Async.php" timestamp="1593393817502">
         <mark key="'" line="271" column="27" />
         <mark key="[" line="275" column="72" />
         <mark key="]" line="275" column="73" />
         <mark key="^" line="275" column="73" />
         <mark key="." line="275" column="72" />
+      </file>
+      <file name="$USER_HOME$/Docker/xyf-api-gateway/logs/console/web_client/20200629.log" timestamp="1593395325999">
+        <mark key="'" line="7" column="52" />
       </file>
       <file name="$USER_HOME$/Docker/xyf-middleware-system/common/models/SmsRecord.php" timestamp="1593346676675">
         <mark key="'" line="32" column="6" />
@@ -150,8 +151,8 @@
         <mark key="^" line="24" column="37" />
       </file>
       <file name="$USER_HOME$/Docker/shoufuyou-sms-system/config/env.php" timestamp="1593347219054" />
-      <file name="$USER_HOME$/Docker/xyf-sms-center/common/models/BaseData.php" timestamp="1593346548686">
-        <mark key="'" line="41" column="45" />
+      <file name="$USER_HOME$/Docker/xyf-api-gateway/common/models/ua_api/CashOutQueueModel.php" timestamp="1593395683664">
+        <mark key="'" line="10" column="20" />
       </file>
       <file name="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/channel/AChannel.php" timestamp="1593347140338">
         <mark key="'" line="13" column="34" />
@@ -166,15 +167,11 @@
         <mark key="." line="98" column="14" />
         <mark key="^" line="98" column="15" />
       </file>
+      <file name="$USER_HOME$/Docker/xyf-api-gateway/logs/jqns/access/20200629.log" timestamp="1593395593851">
+        <mark key="'" line="0" column="2813" />
+      </file>
       <file name="/PHP Console" timestamp="1593347098628">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Docker/xyf-sms-center/common/models/message/TemplateSms.php" timestamp="1593346259554">
-        <mark key="'" line="90" column="24" />
-        <mark key="[" line="90" column="0" />
-        <mark key="]" line="90" column="0" />
-        <mark key="^" line="88" column="35" />
-        <mark key="." line="90" column="0" />
       </file>
       <file name="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/channel/YunFengSms.php" timestamp="1593346787508">
         <mark key="'" line="154" column="12" />
@@ -183,11 +180,22 @@
         <mark key="^" line="10" column="33" />
         <mark key="." line="75" column="0" />
       </file>
-      <file name="$USER_HOME$/Docker/xyf-api-gateway/console/controllers/JqnsQueueController.php" timestamp="1593394127020">
-        <mark key="'" line="132" column="39" />
+      <file name="$USER_HOME$/Docker/xyf-api-gateway/console/controllers/JqnsQueueController.php" timestamp="1593395804065">
+        <mark key="'" line="57" column="36" />
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="^" line="78" column="43" />
+        <mark key="." line="78" column="0" />
       </file>
       <file name="$USER_HOME$/Docker/xyf-common-sms/common/config/test/params.php" timestamp="1593346634847">
         <mark key="'" line="27" column="13" />
+      </file>
+      <file name="$USER_HOME$/Docker/xyf-api-gateway/console/controllers/PpdQueueController.php" timestamp="1593395812454">
+        <mark key="'" line="161" column="25" />
+        <mark key="[" line="78" column="62" />
+        <mark key="]" line="83" column="0" />
+        <mark key="^" line="83" column="0" />
+        <mark key="." line="83" column="0" />
       </file>
       <file name="$USER_HOME$/Docker/xyf-api-gateway/ua_api/modules/jqns/facade/async/Notify.php" timestamp="1593393804132">
         <mark key="'" line="186" column="29" />
@@ -201,12 +209,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="96" column="4" filename="$USER_HOME$/Docker/shoufuyou-php-lib/shoufuyou/Service/XyfVipCardV2Service.php" />
-      <jump line="163" column="9" filename="$USER_HOME$/Docker/shoufuyou-php-lib/shoufuyou/Service/XyfVipCardV2Service.php" />
-      <jump line="101" column="26" filename="$USER_HOME$/Docker/shoufuyou-php-lib/shoufuyou/Service/XyfVipCardV2Service.php" />
-      <jump line="157" column="0" filename="$USER_HOME$/Docker/shoufuyou-php-lib/shoufuyou/Service/XyfVipCardV2Service.php" />
-      <jump line="183" column="24" filename="$USER_HOME$/Docker/shoufuyou-notify/lib/Controllers/XyfVipCardV2Controller.php" />
-      <jump line="21" column="19" filename="$USER_HOME$/Docker/shoufuyou-notify/lib/Router.php" />
       <jump line="37" column="6" filename="$USER_HOME$/Docker/shoufuyou-notify/lib/Controllers/XyfVipCardV2Controller.php" />
       <jump line="205" column="37" filename="$USER_HOME$/Docker/shoufuyou-notify/lib/Controllers/XyfVipCardV2Controller.php" />
       <jump line="206" column="15" filename="$USER_HOME$/Docker/shoufuyou-notify/lib/Controllers/XyfVipCardV2Controller.php" />
@@ -301,6 +303,12 @@
       <jump line="271" column="27" filename="$USER_HOME$/Docker/xyf-api-gateway/ua_api/modules/ppd/facade/async/Async.php" />
       <jump line="132" column="39" filename="$USER_HOME$/Docker/xyf-api-gateway/console/controllers/JqnsQueueController.php" />
       <jump line="0" column="6943" filename="$USER_HOME$/Docker/xyf-api-gateway/composer.json" />
+      <jump line="115" column="33" filename="$USER_HOME$/Docker/xyf-api-gateway/console/controllers/JqnsQueueController.php" />
+      <jump line="7" column="52" filename="$USER_HOME$/Docker/xyf-api-gateway/logs/console/web_client/20200629.log" />
+      <jump line="0" column="2813" filename="$USER_HOME$/Docker/xyf-api-gateway/logs/jqns/access/20200629.log" />
+      <jump line="99" column="46" filename="$USER_HOME$/Docker/xyf-api-gateway/console/controllers/JqnsQueueController.php" />
+      <jump line="63" column="0" filename="$USER_HOME$/Docker/xyf-api-gateway/console/controllers/JqnsQueueController.php" />
+      <jump line="57" column="36" filename="$USER_HOME$/Docker/xyf-api-gateway/console/controllers/JqnsQueueController.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -308,8 +316,8 @@
       <register name="a" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">YXBwQ29uZmlnLT5zbXNfc2lnbmF0dXJlID8/ICcnOw==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkam9iLT5kZWFsX3RpbWUgPSAKICAgICAgICAgICAgICAgICAgICAgICAgZGF0ZSgnWS1tLWQgSDppOnMnKTsKICAgICAgICAgICAgICAgICAgICAkam9iLT5yZW1hcmsgPSAnJzsKICAgICAgICAgICAgICAgICAgICAkam9iLT5zdGF0dXMgPSBDYXNoT3V0UXVldWVNb2RlbDo6U1RBVFVTX0ZBSUw7CiAgICAgICAgICAgICAgICAgICAgJGpvYi0+dXBkYXRlKCk7Cg==</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -324,16 +332,16 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YXBwQ29uZmlnLT5zbXNfc2lnbmF0dXJlID8/ICcnOw==</text>
+        <text>$res['msg'] ?? '';</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxXZWJDbGllbnRMb2dcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>channel_dispatch</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJGpvYi0+ZGVhbF90aW1lID0gZGF0ZSgnWS1tLWQgSDppOnMnKTsKICAgICAgICAgICAgICAgICAgICAgICAgJGpvYi0+cmVtYXJrID0gJHJlc1snbXNnJ10gPz8gJyc7CiAgICAgICAgICAgICAgICAgICAgICAgICRqb2ItPnN0YXR1cyA9IENhc2hPdXRRdWV1ZU1vZGVsOjpTVEFUVVNfRkFJTDsKICAgICAgICAgICAgICAgICAgICAgICAgJGpvYi0+dXBkYXRlKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkam9iLT5kZWFsX3RpbWUgPSAKICAgICAgICAgICAgICAgICAgICAgICAgZGF0ZSgnWS1tLWQgSDppOnMnKTsKICAgICAgICAgICAgICAgICAgICAkam9iLT5yZW1hcmsgPSAnJzsKICAgICAgICAgICAgICAgICAgICAkam9iLT5zdGF0dXMgPSBDYXNoT3V0UXVldWVNb2RlbDo6U1RBVFVTX0ZBSUw7CiAgICAgICAgICAgICAgICAgICAgJGpvYi0+dXBkYXRlKCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -351,28 +359,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkY2hhbm5lbCA9IFxZaWk6OiRhcHAtPnBhcmFtc1snc21zJ11bJ2NoYW5uZWxfZGlzcGF0Y2gnXVskdGhpcy0+dGVtcGxhdGUtPmdyb3VwXTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlIGFwaVxleGNlcHRpb25cUmVxdWVzdEV4Y2VwdGlvbjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJHF1ZXVlLT5jb250ZXh0ID0ganNvbl9lbmNvZGUoJGNvbnRleHQpOwo=</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAqIEB0aHJvd3MgUmVxdWVzdEV4Y2VwdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkY29udGV4dCA9IGpzb25fZGVjb2RlKCRxdWV1ZS0+Y29udGV4dCwgdHJ1ZSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAqIEB0aHJvd3MgUmVxdWVzdEV4Y2VwdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvcmVhY2ggKCRxdWV1ZXMgYXMgJiRxdWV1ZSkgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqIEB0aHJvd3MgUmVxdWVzdEV4Y2VwdGlvbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqIEB0aHJvd3MgUmVxdWVzdEV4Y2VwdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICAkY2hhbm5lbCA9IFxZaWk6OiRhcHAtPnBhcmFtc1snc21zJ11bJ2NoYW5uZWxfZGlzcGF0Y2gnXVskdGhpcy0+dGVtcGxhdGUtPmdyb3VwXTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -506,13 +514,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNlIGNvbW1vblxsb2dnaW5nXFdlYkNsaWVudExvZzsK</text>
+        <text encoding="base64">dXNlIGFwaVxleGNlcHRpb25cUmVxdWVzdEV4Y2VwdGlvbjsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAqIEB0aHJvd3MgUmVxdWVzdEV4Y2VwdGlvbgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action NextTab</text>
+        <text>action RecentChangedFiles</text>
       </register>
     </registers>
   </component>
