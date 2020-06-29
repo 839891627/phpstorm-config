@@ -45,10 +45,10 @@
         <entry>action NextSplitter</entry>
         <entry>action PreviousTab</entry>
         <entry>action Back</entry>
-        <entry>action NextTab</entry>
         <entry>action SelectInProjectView</entry>
-        <entry>nohls</entry>
         <entry>action RecentChangedFiles</entry>
+        <entry>action NextTab</entry>
+        <entry>nohls</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -180,12 +180,11 @@
         <mark key="^" line="10" column="33" />
         <mark key="." line="75" column="0" />
       </file>
-      <file name="$USER_HOME$/Docker/xyf-api-gateway/console/controllers/JqnsQueueController.php" timestamp="1593395804065">
-        <mark key="'" line="57" column="36" />
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="0" />
-        <mark key="^" line="78" column="43" />
-        <mark key="." line="78" column="0" />
+      <file name="$USER_HOME$/Docker/xyf-api-gateway/console/controllers/JqnsQueueController.php" timestamp="1593397069065">
+        <mark key="'" line="147" column="0" />
+        <mark key="[" line="169" column="89" />
+        <mark key="]" line="175" column="0" />
+        <mark key="." line="175" column="0" />
       </file>
       <file name="$USER_HOME$/Docker/xyf-common-sms/common/config/test/params.php" timestamp="1593346634847">
         <mark key="'" line="27" column="13" />
@@ -209,8 +208,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="6" filename="$USER_HOME$/Docker/shoufuyou-notify/lib/Controllers/XyfVipCardV2Controller.php" />
-      <jump line="205" column="37" filename="$USER_HOME$/Docker/shoufuyou-notify/lib/Controllers/XyfVipCardV2Controller.php" />
       <jump line="206" column="15" filename="$USER_HOME$/Docker/shoufuyou-notify/lib/Controllers/XyfVipCardV2Controller.php" />
       <jump line="209" column="55" filename="$USER_HOME$/Docker/shoufuyou-notify/lib/Controllers/XyfVipCardV2Controller.php" />
       <jump line="75" column="42" filename="$USER_HOME$/Docker/shoufuyou-notify/lib/Controllers/XyfVipCardV2Controller.php" />
@@ -309,6 +306,8 @@
       <jump line="99" column="46" filename="$USER_HOME$/Docker/xyf-api-gateway/console/controllers/JqnsQueueController.php" />
       <jump line="63" column="0" filename="$USER_HOME$/Docker/xyf-api-gateway/console/controllers/JqnsQueueController.php" />
       <jump line="57" column="36" filename="$USER_HOME$/Docker/xyf-api-gateway/console/controllers/JqnsQueueController.php" />
+      <jump line="61" column="64" filename="$USER_HOME$/Docker/xyf-api-gateway/console/controllers/JqnsQueueController.php" />
+      <jump line="147" column="0" filename="$USER_HOME$/Docker/xyf-api-gateway/console/controllers/JqnsQueueController.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -317,7 +316,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkam9iLT5kZWFsX3RpbWUgPSAKICAgICAgICAgICAgICAgICAgICAgICAgZGF0ZSgnWS1tLWQgSDppOnMnKTsKICAgICAgICAgICAgICAgICAgICAkam9iLT5yZW1hcmsgPSAnJzsKICAgICAgICAgICAgICAgICAgICAkam9iLT5zdGF0dXMgPSBDYXNoT3V0UXVldWVNb2RlbDo6U1RBVFVTX0ZBSUw7CiAgICAgICAgICAgICAgICAgICAgJGpvYi0+dXBkYXRlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICflpITnkIblrozmiJA6JyAuIGNvdW50KCRvcmRlcnMpIC4gUEhQX0VPTDsK</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -332,16 +331,16 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>$res['msg'] ?? '';</text>
+        <text>!</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxXZWJDbGllbnRMb2dcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJGpvYi0+ZGVhbF90aW1lID0gZGF0ZSgnWS1tLWQgSDppOnMnKTsKICAgICAgICAgICAgICAgICAgICAgICAgJGpvYi0+cmVtYXJrID0gJHJlc1snbXNnJ10gPz8gJyc7CiAgICAgICAgICAgICAgICAgICAgICAgICRqb2ItPnN0YXR1cyA9IENhc2hPdXRRdWV1ZU1vZGVsOjpTVEFUVVNfRkFJTDsKICAgICAgICAgICAgICAgICAgICAgICAgJGpvYi0+dXBkYXRlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGNvbnRleHRbJ2Jpel9kYXRhJ11bJ2JhbmtfY2FyZCddID0gCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkam9iLT5kZWFsX3RpbWUgPSAKICAgICAgICAgICAgICAgICAgICAgICAgZGF0ZSgnWS1tLWQgSDppOnMnKTsKICAgICAgICAgICAgICAgICAgICAkam9iLT5yZW1hcmsgPSAnJzsKICAgICAgICAgICAgICAgICAgICAkam9iLT5zdGF0dXMgPSBDYXNoT3V0UXVldWVNb2RlbDo6U1RBVFVTX0ZBSUw7CiAgICAgICAgICAgICAgICAgICAgJGpvYi0+dXBkYXRlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICflpITnkIblrozmiJA6JyAuIGNvdW50KCRvcmRlcnMpIC4gUEhQX0VPTDsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -359,28 +358,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgdW5zZXQoJGNvbnRleHRbJ2Jpel9kYXRhJ11bJyddKTsK</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJHF1ZXVlLT5jb250ZXh0ID0ganNvbl9lbmNvZGUoJGNvbnRleHQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJG9yZGVyLT5jb250ZXh0ID0ganNvbl9lbmNvZGUoJGNvbnRleHQpOwo=</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkY29udGV4dCA9IGpzb25fZGVjb2RlKCRxdWV1ZS0+Y29udGV4dCwgdHJ1ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJG9yZGVyLT5zYXZlKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvcmVhY2ggKCRxdWV1ZXMgYXMgJiRxdWV1ZSkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGNvbnRleHRbJ2Jpel9kYXRhJ11bJ2JhbmtfY2FyZCddID0gJGNvbnRleHRbJ2Jpel9kYXRhJ11bJ2JhbmtfY2FyZF9ubyddOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkY2hhbm5lbCA9IFxZaWk6OiRhcHAtPnBhcmFtc1snc21zJ11bJ2NoYW5uZWxfZGlzcGF0Y2gnXVskdGhpcy0+dGVtcGxhdGUtPmdyb3VwXTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkam9iLT5kZWFsX3RpbWUgPSAKICAgICAgICAgICAgICAgICAgICAgICAgZGF0ZSgnWS1tLWQgSDppOnMnKTsKICAgICAgICAgICAgICAgICAgICAkam9iLT5yZW1hcmsgPSAnJzsKICAgICAgICAgICAgICAgICAgICAkam9iLT5zdGF0dXMgPSBDYXNoT3V0UXVldWVNb2RlbDo6U1RBVFVTX0ZBSUw7CiAgICAgICAgICAgICAgICAgICAgJGpvYi0+dXBkYXRlKCk7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -514,13 +513,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dXNlIGFwaVxleGNlcHRpb25cUmVxdWVzdEV4Y2VwdGlvbjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqIEB0aHJvd3MgUmVxdWVzdEV4Y2VwdGlvbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJHF1ZXVlLT5jb250ZXh0ID0ganNvbl9lbmNvZGUoJGNvbnRleHQpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action RecentChangedFiles</text>
+        <text>nohls</text>
       </register>
     </registers>
   </component>
