@@ -34,7 +34,6 @@
         <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>action FindInPath</entry>
         <entry>action GotoAction</entry>
-        <entry>action RecentChangedFiles</entry>
         <entry>action Annotate</entry>
         <entry>action PreviousTab</entry>
         <entry>vs</entry>
@@ -49,6 +48,7 @@
         <entry>action ShowBookmarks</entry>
         <entry>action Back</entry>
         <entry>nohls</entry>
+        <entry>action RecentChangedFiles</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -120,21 +120,21 @@
         <mark key="^" line="275" column="73" />
         <mark key="." line="275" column="72" />
       </file>
-      <file name="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/channel/YunfengVoice.php" timestamp="1593410835938">
-        <mark key="'" line="88" column="4" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="71" column="48" />
-      </file>
-      <file name="$USER_HOME$/Docker/shoufuyou-sms-system/service/Voice/Yf/YfApi.php" timestamp="1593410476366">
-        <mark key="'" line="38" column="21" />
+      <file name="$USER_HOME$/Docker/xyf-sms-center/common/facade/Sms.php" timestamp="1593418503030">
+        <mark key="'" line="96" column="48" />
+        <mark key="[" line="94" column="50" />
+        <mark key="]" line="94" column="48" />
+        <mark key="^" line="94" column="17" />
+        <mark key="." line="94" column="17" />
       </file>
       <file name="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/Gold.php" timestamp="1593417153383">
         <mark key="'" line="31" column="27" />
         <mark key="[" line="42" column="0" />
         <mark key="]" line="46" column="48" />
         <mark key="." line="42" column="0" />
+      </file>
+      <file name="$USER_HOME$/Docker/xyf-sms-center/console/controllers/LpSmsController.php" timestamp="1593418491379">
+        <mark key="'" line="38" column="39" />
       </file>
       <file name="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/channel/yunfeng/YunfengVoice.php" timestamp="1593411680202">
         <mark key="[" line="74" column="26" />
@@ -231,7 +231,6 @@
       <jump line="9" column="0" filename="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/wrappers/BatchReportWrapper.php" />
       <jump line="75" column="0" filename="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/AppController.php" />
       <jump line="150" column="8" filename="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/RouteController.php" />
-      <jump line="38" column="39" filename="$USER_HOME$/Docker/xyf-sms-center/console/controllers/LpSmsController.php" />
       <jump line="127" column="4" filename="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/channel/Yunfeng.php" />
       <jump line="149" column="41" filename="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/channel/Yunfeng.php" />
       <jump line="156" column="56" filename="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/channel/Yunfeng.php" />
@@ -311,6 +310,7 @@
       <jump line="123" column="20" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/VipCardV2Controller.php" />
       <jump line="275" column="41" filename="$USER_HOME$/Docker/xyf-api-gateway/ua_api/modules/ppd/facade/async/Async.php" />
       <jump line="108" column="26" filename="$USER_HOME$/Docker/xyf-api-gateway/console/controllers/JqnsQueueController.php" />
+      <jump line="38" column="39" filename="$USER_HOME$/Docker/xyf-sms-center/console/controllers/LpSmsController.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -318,8 +318,8 @@
       <register name="a" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoJHllYXJfdHlwZSA9PSAxKSB7CiAgICAgICAgICAgICRzcWwgLj0gIiBhbmQgdWdjbC5pc19oYWxmX3llYXIgPSAxIjsKICAgICAgICB9CiAgICAgICAgaWYgKCR5ZWFyX3R5cGUgPT0gMikgewogICAgICAgICAgICAkc3FsIC49ICIgYW5kIHVnY2wuaXNfeWVhciA9IDEiOwogICAgICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>AChannel::getChannelAliasList()</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -339,8 +339,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRHb2xkRXF1aXR5RGF0YVw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRwYXJhbXNbJ21vYmlsZSddID0gQ3JlZGl0VXNlcjo6Z2V0Q3VycmVudE1vYmlsZSgpOwogICAgICAgICAgICAgICAgJHBhcmFtc1sndmVyaWZpY2F0aW9uX2NvZGUnXSA9ICR0aGlzLT5pc3NldG9yKCRfUE9TVFsndmVyaWZpY2F0aW9uX2NvZGUnXSwgJycpOwoKICAgICAgICAgICAgICAgICRyZXF1aXJlZFBhcmFtcyA9IFsKICAgICAgICAgICAgICAgICAgICAnbW9iaWxlJyAgICAgICAgICAgID0+ICfmiYvmnLrlj7cnLAogICAgICAgICAgICAgICAgICAgICd2ZXJpZmljYXRpb25fY29kZScgPT4gJ+mqjOivgeeggScsCiAgICAgICAgICAgICAgICBdOwoKICAgICAgICAgICAgICAgICRjaGVja1BhcmFtc1Jlc3VsdCA9IFV0aWw6OmNoZWNrUmVxdWlyZWRQYXJhbXMoJHJlcXVpcmVkUGFyYW1zLCAkcGFyYW1zKTsKICAgICAgICAgICAgICAgIGlmICgkY2hlY2tQYXJhbXNSZXN1bHQgIT09IHRydWUpIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gJGNoZWNrUGFyYW1zUmVzdWx0OwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgJHJldCA9IENyZWRpdFVzZXI6OmNvbmZpcm1WZXJpZmljYXRpb25Db2RlKCRwYXJhbXNbJ21vYmlsZSddLCAkcGFyYW1zWyd2ZXJpZmljYXRpb25fY29kZSddKTsKICAgICAgICAgICAgICAgIGlmICgkcmV0Wydjb2RlJ10gIT0gJzAwMDAwMCcpIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gJHJldDsKICAgICAgICAgICAgICAgIH0K</text>
+      <register name="0" type="4">
+        <text>AChannel::getChannelAliasList()</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoJHllYXJfdHlwZSA9PSAxKSB7CiAgICAgICAgICAgICRzcWwgLj0gIiBhbmQgdWdjbC5pc19oYWxmX3llYXIgPSAxIjsKICAgICAgICB9CiAgICAgICAgaWYgKCR5ZWFyX3R5cGUgPT0gMikgewogICAgICAgICAgICAkc3FsIC49ICIgYW5kIHVnY2wuaXNfeWVhciA9IDEiOwogICAgICAgIH0K</text>
@@ -522,7 +522,7 @@
         <text encoding="base64">ICAgICAgICBlY2hvIDI7ZGllOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>nohls</text>
+        <text>action RecentChangedFiles</text>
       </register>
     </registers>
   </component>
