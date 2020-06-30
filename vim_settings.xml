@@ -44,11 +44,11 @@
         <entry>action ToggleBookmark</entry>
         <entry>action Back</entry>
         <entry>action PreviousTab</entry>
-        <entry>action NextTab</entry>
-        <entry>nohls</entry>
         <entry>vs</entry>
-        <entry>action FileStructurePopup</entry>
         <entry>action NextSplitter</entry>
+        <entry>action NextTab</entry>
+        <entry>action FileStructurePopup</entry>
+        <entry>nohls</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -202,12 +202,11 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" timestamp="1593510294429">
-        <mark key="'" line="484" column="12" />
-        <mark key="[" line="557" column="37" />
-        <mark key="]" line="557" column="40" />
-        <mark key="." line="557" column="39" />
-        <mark key="^" line="557" column="40" />
+      <file name="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" timestamp="1593512052233">
+        <mark key="'" line="533" column="231" />
+        <mark key="[" line="532" column="65" />
+        <mark key="]" line="533" column="0" />
+        <mark key="." line="533" column="0" />
       </file>
       <file name="$USER_HOME$/Docker/xyf-sms-center/common/config/dev/params.php" timestamp="1593505533981">
         <mark key="'" line="21" column="27" />
@@ -218,8 +217,8 @@
       <file name="$USER_HOME$/Docker/xyf-middleware-system/common/unit/HttpClient.php" timestamp="1593506201820">
         <mark key="'" line="71" column="5" />
       </file>
-      <file name="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/VipCardV2Controller.php" timestamp="1593510287950">
-        <mark key="'" line="309" column="41" />
+      <file name="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/VipCardV2Controller.php" timestamp="1593511683411">
+        <mark key="'" line="252" column="36" />
         <mark key="[" line="319" column="0" />
         <mark key="]" line="325" column="21" />
         <mark key="." line="319" column="0" />
@@ -227,7 +226,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="42" filename="$USER_HOME$/Docker/xyf-sms-center/common/facade/Config.php" />
       <jump line="12" column="44" filename="$USER_HOME$/Docker/xyf-sms-center/common/helper/config/Config.php" />
       <jump line="107" column="30" filename="$USER_HOME$/Docker/xyf-sms-center/common/facade/Config.php" />
       <jump line="106" column="40" filename="$USER_HOME$/Docker/xyf-sms-center/common/filters/RequestFilter.php" />
@@ -313,7 +311,6 @@
       <jump line="106" column="27" filename="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/XyfSmsRetryController.php" />
       <jump line="104" column="39" filename="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/XyfSmsRetryController.php" />
       <jump line="192" column="27" filename="$USER_HOME$/Docker/xyf-middleware-system/common/models/SmsRetryRecord.php" />
-      <jump line="252" column="36" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/VipCardV2Controller.php" />
       <jump line="534" column="21" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
       <jump line="576" column="8" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
       <jump line="535" column="70" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
@@ -327,6 +324,8 @@
       <jump line="202" column="13" filename="$USER_HOME$/Docker/shoufuyou-notify/lib/Controllers/XyfVipCardV2Controller.php" />
       <jump line="63" column="42" filename="$USER_HOME$/Docker/shoufuyou-notify/lib/Controllers/XyfVipCardV2Controller.php" />
       <jump line="69" column="0" filename="$USER_HOME$/Docker/shoufuyou-notify/lib/Controllers/XyfVipCardV2Controller.php" />
+      <jump line="252" column="36" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/VipCardV2Controller.php" />
+      <jump line="533" column="231" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -335,7 +334,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBdLCBbJ2lkJywgJ3N0YXR1cycsICd1c2VyX2lkJywgJ2Jpel9kYXRhJywgJ2Jpel9vcmRlcl9ubycsICdhbW91bnQnXSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICRzcWw7ZGllOwo=</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -350,7 +349,7 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>CreditUser::getCurrentId()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWNvcmRcPg==</text>
@@ -359,7 +358,7 @@
         <text encoding="base64">ICAgICAgICBdLCBbJ2lkJywgJ3N0YXR1cycsICd1c2VyX2lkJywgJ2Jpel9kYXRhJywgJ2Jpel9vcmRlcl9ubycsICdhbW91bnQnLCAncGF5X3R5cGUnXSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBdLCBbJ2lkJywgJ3N0YXR1cycsICd1c2VyX2lkJywgJ2Jpel9kYXRhJywgJ2Jpel9vcmRlcl9ubycsICdhbW91bnQnXSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICRzcWw7ZGllOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -377,28 +376,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBdLCBbJ2lkJywgJ3N0YXR1cycsICd1c2VyX2lkJywgJ2Jpel9kYXRhJywgJ2Jpel9vcmRlcl9ubycsICdhbW91bnQnXSk7Cg==</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlY2hvIDI7ZGllOwo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICRzcWw7ZGllOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlY2hvIDI7ZGllOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJHNtcy0+c2VuZCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICRzcWw7ZGllOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJHNtcy0+c2VuZCgpCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -532,13 +531,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgpCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action NextSplitter</text>
+        <text>nohls</text>
       </register>
     </registers>
   </component>
