@@ -39,16 +39,16 @@
         <entry>action TabList</entry>
         <entry>action GotoAction</entry>
         <entry>.,.+183nohls</entry>
-        <entry>action PreviousTab</entry>
         <entry>vs</entry>
         <entry>action Back</entry>
         <entry>action NextSplitter</entry>
-        <entry>action FileStructurePopup</entry>
         <entry>action SelectInProjectView</entry>
-        <entry>action NextTab</entry>
         <entry>wq</entry>
-        <entry>action KJumpAction.Word0</entry>
         <entry>nohls</entry>
+        <entry>action NextTab</entry>
+        <entry>action PreviousTab</entry>
+        <entry>action FileStructurePopup</entry>
+        <entry>action KJumpAction.Word0</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -164,8 +164,8 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" timestamp="1593488988950">
-        <mark key="'" line="323" column="27" />
+      <file name="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" timestamp="1593495919480">
+        <mark key="'" line="529" column="27" />
         <mark key="[" line="332" column="26" />
         <mark key="]" line="332" column="35" />
         <mark key="^" line="332" column="35" />
@@ -178,12 +178,12 @@
         <mark key="'" line="7032" column="27" />
       </file>
       <file name="$USER_HOME$/.ideavimrc" timestamp="1593483258856" />
-      <file name="$USER_HOME$/Docker/xyf-sms-center/common/config/local/params.php" timestamp="1593494223985">
+      <file name="$USER_HOME$/Docker/xyf-sms-center/common/config/local/params.php" timestamp="1593495058864">
         <mark key="'" line="14" column="23" />
-        <mark key="[" line="29" column="30" />
-        <mark key="]" line="29" column="37" />
-        <mark key="^" line="29" column="37" />
-        <mark key="." line="29" column="36" />
+        <mark key="[" line="27" column="30" />
+        <mark key="]" line="27" column="30" />
+        <mark key="^" line="26" column="34" />
+        <mark key="." line="27" column="30" />
       </file>
       <file name="$USER_HOME$/Docker/xyf-sms-center/common/config/dev/params.php" timestamp="1593424595657">
         <mark key="'" line="21" column="27" />
@@ -191,8 +191,8 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/VipCardV2Controller.php" timestamp="1593486609407">
-        <mark key="'" line="308" column="41" />
+      <file name="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/VipCardV2Controller.php" timestamp="1593495917745">
+        <mark key="'" line="252" column="36" />
         <mark key="[" line="312" column="126" />
         <mark key="]" line="312" column="126" />
         <mark key="." line="312" column="126" />
@@ -203,7 +203,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="180" column="34" filename="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/channel/Emay.php" />
       <jump line="187" column="22" filename="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/channel/Emay.php" />
       <jump line="27" column="0" filename="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/channel/Emay.php" />
       <jump line="205" column="4" filename="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/channel/Emay.php" />
@@ -256,7 +255,6 @@
       <jump line="1" column="0" filename="$USER_HOME$/Docker/xyf-api-gateway/logs/ppd/access/20200629.log" />
       <jump line="0" column="1553" filename="$USER_HOME$/Docker/xyf-api-gateway/logs/ppd/access/20200629.log" />
       <jump line="250" column="44" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/VipCardV2Controller.php" />
-      <jump line="252" column="39" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/VipCardV2Controller.php" />
       <jump line="309" column="53" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/VipCardV2Controller.php" />
       <jump line="388" column="8" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
       <jump line="266" column="4" filename="$USER_HOME$/Docker/shoufuyou-php-lib/shoufuyou/Service/XyfVipCardV2Service.php" />
@@ -303,6 +301,8 @@
       <jump line="27" column="43" filename="$USER_HOME$/Docker/xyf-sms-center/console/controllers/LpSmsController.php" />
       <jump line="68" column="98" filename="$USER_HOME$/Docker/xyf-sms-center/common/facade/Sms.php" />
       <jump line="85" column="36" filename="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/channel/Yunfeng.php" />
+      <jump line="252" column="36" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/VipCardV2Controller.php" />
+      <jump line="529" column="27" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -310,8 +310,8 @@
       <register name="a" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyX2R1bXAoJG1zZyk7cmV0dXJuOwo=</text>
+      <register name="&quot;" type="4">
+        <text>yunfeng</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -326,7 +326,7 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>emay</text>
+        <text>yunfeng</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwbmFtZVw+</text>
@@ -514,7 +514,7 @@
         <text encoding="base64">ICAgICAgICB2YXJfZHVtcCgkcGFyYW1zKTtkaWU7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>nohls</text>
+        <text>action KJumpAction.Word0</text>
       </register>
     </registers>
   </component>
