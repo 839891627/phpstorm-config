@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxnYXRld2F5XD4=</entry>
         <entry encoding="base64">XDxCYXRjaFJlcG9ydFdyYXBwZXJcPg==</entry>
         <entry encoding="base64">XDxjaGFubmVsTmFtZVw+</entry>
         <entry encoding="base64">XDxjaGFubmVsXD4=</entry>
@@ -27,9 +26,9 @@
         <entry>ret</entry>
         <entry encoding="base64">XDxwbmFtZVw+</entry>
         <entry>-</entry>
+        <entry encoding="base64">XDxyZWNvcmRcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>sort</entry>
         <entry>TabList</entry>
         <entry>action TabList</entry>
         <entry>action GotoAction</entry>
@@ -38,17 +37,18 @@
         <entry>action FileStructurePopup</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>action SelectInProjectView</entry>
-        <entry>action PreviousTab</entry>
         <entry>.nohls</entry>
         <entry>action RecentChangedFiles</entry>
         <entry>action KJumpAction.Word0</entry>
         <entry>vs</entry>
         <entry>wq</entry>
-        <entry>action NextTab</entry>
         <entry>action Annotate</entry>
         <entry>action NextSplitter</entry>
-        <entry>nohls</entry>
+        <entry>action ToggleBookmark</entry>
         <entry>action Back</entry>
+        <entry>action PreviousTab</entry>
+        <entry>action NextTab</entry>
+        <entry>nohls</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -112,13 +112,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/channel/Yunfeng.php" timestamp="1593504184037">
-        <mark key="'" line="85" column="36" />
-        <mark key="[" line="98" column="10" />
-        <mark key="]" line="99" column="0" />
-        <mark key="." line="99" column="0" />
-        <mark key="^" line="99" column="0" />
-      </file>
       <file name="$USER_HOME$/Docker/xyf-sms-center/common/config/test/params.php" timestamp="1593505518030">
         <mark key="'" line="18" column="26" />
         <mark key="[" line="30" column="0" />
@@ -173,11 +166,6 @@
         <mark key="." line="11" column="6" />
         <mark key="^" line="11" column="8" />
       </file>
-      <file name="$USER_HOME$/Docker/xyf-sms-center/api/web/index.php" timestamp="1593504644007">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/Docker/xyf-sms-center/console/controllers/LpSmsController.php" timestamp="1593505935315">
         <mark key="'" line="27" column="29" />
       </file>
@@ -210,6 +198,13 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
+      <file name="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" timestamp="1593509565542">
+        <mark key="'" line="587" column="8" />
+        <mark key="[" line="557" column="37" />
+        <mark key="]" line="557" column="40" />
+        <mark key="." line="557" column="39" />
+        <mark key="^" line="557" column="40" />
+      </file>
       <file name="$USER_HOME$/Docker/xyf-sms-center/common/config/dev/params.php" timestamp="1593505533981">
         <mark key="'" line="21" column="27" />
         <mark key="[" line="30" column="0" />
@@ -219,17 +214,19 @@
       <file name="$USER_HOME$/Docker/xyf-middleware-system/common/unit/HttpClient.php" timestamp="1593506201820">
         <mark key="'" line="71" column="5" />
       </file>
+      <file name="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/VipCardV2Controller.php" timestamp="1593509511023">
+        <mark key="'" line="252" column="36" />
+        <mark key="[" line="248" column="15" />
+        <mark key="]" line="248" column="44" />
+        <mark key="." line="312" column="126" />
+        <mark key="^" line="312" column="113" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="167" column="18" filename="$USER_HOME$/Docker/shoufuyou-notify/lib/Controllers/XyfVipCardV2Controller.php" />
-      <jump line="7" column="0" filename="$USER_HOME$/Docker/shoufuyou-notify/lib/Controllers/XyfVipCardV2Controller.php" />
-      <jump line="29" column="0" filename="$USER_HOME$/Docker/shoufuyou-notify/lib/Controllers/XyfVipCardV2Controller.php" />
-      <jump line="323" column="27" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
       <jump line="29" column="35" filename="$USER_HOME$/Docker/xyf-sms-center/common/config/local/params.php" />
       <jump line="14" column="23" filename="$USER_HOME$/Docker/xyf-sms-center/common/config/local/params.php" />
       <jump line="92" column="20" filename="$USER_HOME$/Docker/xyf-sms-center/common/facade/Sms.php" />
       <jump line="85" column="36" filename="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/channel/Yunfeng.php" />
-      <jump line="252" column="36" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/VipCardV2Controller.php" />
       <jump line="529" column="27" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
       <jump line="2" column="780" filename="$USER_HOME$/Docker/xyf-sms-center/logs/web_client/20200630.log" />
       <jump line="13" column="27" filename="$USER_HOME$/Docker/xyf-sms-center/api/controllers/BaseController.php" />
@@ -321,6 +318,11 @@
       <jump line="106" column="27" filename="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/XyfSmsRetryController.php" />
       <jump line="104" column="39" filename="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/XyfSmsRetryController.php" />
       <jump line="192" column="27" filename="$USER_HOME$/Docker/xyf-middleware-system/common/models/SmsRetryRecord.php" />
+      <jump line="252" column="36" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/VipCardV2Controller.php" />
+      <jump line="534" column="21" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
+      <jump line="576" column="8" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
+      <jump line="535" column="70" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
+      <jump line="587" column="8" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -328,8 +330,8 @@
       <register name="a" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJHNtcy0+c2VuZCgpCg==</text>
+      <register name="&quot;" type="4">
+        <text>银行代扣</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -344,16 +346,16 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>new SmsService(SmsService::formatClassName($val));</text>
+        <text>银行代扣</text>
       </register>
       <register name="/" type="4">
-        <text>-</text>
+        <text encoding="base64">XDxyZWNvcmRcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJHNtcyA9IG5ldyBTbXNTZXJ2aWNlKFNtc1NlcnZpY2U6OmZvcm1hdENsYXNzTmFtZSgkdmFsKSk7Cg==</text>
+      <register name="0" type="4">
+        <text>XyfVipCardV2Service::CARD_NAME</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJHNtcy0+c2VuZCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlY2hvIDI7ZGllOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -371,28 +373,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICRzcWw7ZGllOwo=</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJHNtcy0+c2VuZCgpCg==</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgpCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgyKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAnbm90aWZ5JyAgICAgID0+IFsnbmFtZScgPT4gJ+mAmuefpSddLAogICAgICAgICdub3RpZnlfY29kZScgPT4gWyduYW1lJyA9PiAn55+t5L+h6aqM6K+B56CBJ10sCiAgICAgICAgJ3ZvaWNlX2NvZGUnICA9PiBbJ25hbWUnID0+ICfor63pn7Ppqozor4HnoIEnXSwKICAgIF07CgogICAgLyoqIEB2YXIgVGVtcGxhdGVTbXMgKi8KICAgIHB1YmxpYyAkbXNnOwogICAgLyoqIEB2YXIgVGVtcGxhdGUgKi8KICAgIHB1YmxpYyAkdGVtcGxhdGU7CiAgICAvKiogQHZhciBBQ2hhbm5lbCAqLwogICAgcHVibGljICRjaGFubmVsOwogICAgLyoqCiAgICAgKiBAdmFyIG1peGVkfHN0cmluZwogICAgICovCiAgICBwdWJsaWMgJGNoYW5uZWxOYW1lOwoKICAgIC8qKgogICAgICog5Y+R6YCB6aKR546H6ZmQ5Yi25qOA5p+lCiAgICAgKiBAdGhyb3dzIFx5aWlcYmFzZVxFeGNlcHRpb24KICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIHNlbmRMaW1pdENoZWNrKCkKICAgIHsKICAgICAgICBMaW1pdDo6aW5zdGFuY2UoKS0+Y2hlY2soJHRoaXMtPm1zZyk7CiAgICB9CgogICAgLyoqCiAgICAgKiDljLnphY3mqKHmnb8KICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIG1hdGNoVGVtcGxhdGUoKQogICAgewogICAgICAgICR0aGlzLT50ZW1wbGF0ZSA9IG5ldyBUZW1wbGF0ZSgkdGhpcy0+bXNnKTsKICAgIH0KCiAgICAvKioKICAgICAqIOWMuemFjemAmumBkwogICAgICogQHBhcmFtIHN0cmluZyAkY2hhbm5lbCDmjIflrprpgJrpgZPvvIzkuLrnqbrkuI3mjIflrpoKICAgICAqIEB0aHJvd3MgRXhjZXB0aW9uCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBtYXRjaENoYW5uZWwoJGNoYW5uZWwgPSAnJykKICAgIHsKICAgICAgICBpZiAoISRjaGFubmVsKSB7CiAgICAgICAgICAgICRjaGFubmVsID0gXFlpaTo6JGFwcC0+cGFyYW1zWydzbXMnXVsnY2hhbm5lbF9kaXNwYXRjaCddWyR0aGlzLT50ZW1wbGF0ZS0+Z3JvdXBdOwogICAgICAgIH0KICAgICAgICAkY2xzTmFtZSA9ICdjb21tb25cXG1vZGVsc1xcc21zXFxjaGFubmVsXFwnIC4gdWNmaXJzdCgkY2hhbm5lbCk7CiAgICAgICAgaWYgKCFjbGFzc19leGlzdHMoJGNsc05hbWUpKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBFeGNlcHRpb24oJGNoYW5uZWwgLiAn5a+55bqU57G75LiN5a2Y5ZyoJyk7CiAgICAgICAgfQogICAgICAgICR0aGlzLT5jaGFubmVsTmFtZSA9IHN0cnRvbG93ZXIoJGNoYW5uZWwpOwogICAgICAgICR0aGlzLT5jaGFubmVsID0gbmV3ICRjbHNOYW1lOwogICAgfQoKCiAgICAvKioKICAgICAqIOiOt+WPluS4muWKoeexu+WeiwogICAgICogQHRocm93cyBFeGNlcHRpb24KICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGdldEJpelR5cGUoKQogICAgewogICAgICAgICR0ZW1wbGF0ZVNtcyA9ICR0aGlzLT5tc2c7CiAgICAgICAgJGFwcFRlbXBsYXRlS2V5ID0gUmVkaXM6OmdldEFwcFRwbEtleSgkdGVtcGxhdGVTbXMtPmFwcCwgJHRlbXBsYXRlU21zLT50ZW1wbGF0ZV9pZCk7CiAgICAgICAgJHRlbXBsYXRlID0gUmVkaXM6OmdldE9yU2V0KCRhcHBUZW1wbGF0ZUtleSwgZnVuY3Rpb24gKCkgdXNlICgkdGVtcGxhdGVTbXMpIHsKICAgICAgICAgICAgJHRlbXBsYXRlID0gU21zVGVtcGxhdGVDb25maWc6OmZpbmQoKS0+d2hlcmUoWwogICAgICAgICAgICAgICAgJ3RlbXBsYXRlX2lkJyA9PiAkdGVtcGxhdGVTbXMtPnRlbXBsYXRlX2lkLAogICAgICAgICAgICAgICAgJ2FwcCcgICAgICAgICA9PiAkdGVtcGxhdGVTbXMtPmFwcCwKICAgICAgICAgICAgXSktPmFzQXJyYXkoKS0+b25lKCk7CiAgICAgICAgICAgIGlmICghJHRlbXBsYXRlKSB7CiAgICAgICAgICAgICAgICB0aHJvdyBuZXcgXEV4Y2VwdGlvbign5pyq5om+5Yiw5qih5p2/JyAuIGpzb25fZW5jb2RlKCR0ZW1wbGF0ZVNtcykpOwogICAgICAgICAgICB9CgogICAgICAgICAgICByZXR1cm4gJHRlbXBsYXRlOwogICAgICAgIH0sIDYwICogNjApOwoKICAgICAgICAkYml6VHlwZSA9ICR0ZW1wbGF0ZVsnZ3JvdXAnXTsKICAgICAgICBpZiAoIWlzc2V0KFNtczo6JGJpelR5cGVNYXBbJGJpelR5cGVdKSkgewogICAgICAgICAgICB0aHJvdyBuZXcgRXhjZXB0aW9uKCfkuJrliqHnsbvlnovkuI3lkIjms5U6JyAuICRiaXpUeXBlKTsKICAgICAgICB9CgogICAgICAgIHJldHVybiAkYml6VHlwZTsKICAgIH0KCgogICAgLyoqCiAgICAgKiDlj5HpgIHnn63kv6EKICAgICAqIEB0aHJvd3MgXEV4Y2VwdGlvbgogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gc2VuZCgpCiAgICB7CiAgICAgICAgJHRoaXMtPm1hdGNoVGVtcGxhdGUoKTsKICAgICAgICAkdGhpcy0+bWF0Y2hDaGFubmVsKCk7CgogICAgICAgIGRkKDIpOwogICAgICAgIC8vIDEuIOWIneWni+WMluWPkemAgeiusOW9lQogICAgICAgICRyZWNvcmQgPSBuZXcgU21zUmVjb3JkKCk7CiAgICAgICAgJHJlY29yZC0+bW9iaWxlID0gJHRoaXMtPm1zZy0+bW9iaWxlOwogICAgICAgICRyZWNvcmQtPmNvbnRlbnQgPSAkdGhpcy0+dGVtcGxhdGUtPnRlbXBsYXRlOwogICAgICAgICRyZWNvcmQtPmNyZWF0ZWRfdGltZSA9IGRhdGUoJ1ktbS1kIEg6aTpzJyk7CiAgICAgICAgJHJlY29yZC0+dGVtcGxhdGVfaWQgPSAkdGhpcy0+dGVtcGxhdGUtPnRlbXBsYXRlX2lkOwogICAgICAgICRyZWNvcmQtPmdyb3VwID0gJHRoaXMtPnRlbXBsYXRlLT5ncm91cDsKICAgICAgICAkcmVjb3JkLT5hZ2VudCA9ICR0aGlzLT5jaGFubmVsTmFtZTsKICAgICAgICAkcmVjb3JkLT5hcHAgPSAkdGhpcy0+bXNnLT5hcHA7CiAgICAgICAgJHJlY29yZC0+aW5uZXJfYXBwID0gJHRoaXMtPm1zZy0+aW5uZXJfYXBwOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -529,18 +531,18 @@
         <text encoding="base64">ICAgICAgICBkZCgyKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgyKTsK</text>
+        <text encoding="base64">ICAgICAgICAnbm90aWZ5JyAgICAgID0+IFsnbmFtZScgPT4gJ+mAmuefpSddLAogICAgICAgICdub3RpZnlfY29kZScgPT4gWyduYW1lJyA9PiAn55+t5L+h6aqM6K+B56CBJ10sCiAgICAgICAgJ3ZvaWNlX2NvZGUnICA9PiBbJ25hbWUnID0+ICfor63pn7Ppqozor4HnoIEnXSwKICAgIF07CgogICAgLyoqIEB2YXIgVGVtcGxhdGVTbXMgKi8KICAgIHB1YmxpYyAkbXNnOwogICAgLyoqIEB2YXIgVGVtcGxhdGUgKi8KICAgIHB1YmxpYyAkdGVtcGxhdGU7CiAgICAvKiogQHZhciBBQ2hhbm5lbCAqLwogICAgcHVibGljICRjaGFubmVsOwogICAgLyoqCiAgICAgKiBAdmFyIG1peGVkfHN0cmluZwogICAgICovCiAgICBwdWJsaWMgJGNoYW5uZWxOYW1lOwoKICAgIC8qKgogICAgICog5Y+R6YCB6aKR546H6ZmQ5Yi25qOA5p+lCiAgICAgKiBAdGhyb3dzIFx5aWlcYmFzZVxFeGNlcHRpb24KICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIHNlbmRMaW1pdENoZWNrKCkKICAgIHsKICAgICAgICBMaW1pdDo6aW5zdGFuY2UoKS0+Y2hlY2soJHRoaXMtPm1zZyk7CiAgICB9CgogICAgLyoqCiAgICAgKiDljLnphY3mqKHmnb8KICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIG1hdGNoVGVtcGxhdGUoKQogICAgewogICAgICAgICR0aGlzLT50ZW1wbGF0ZSA9IG5ldyBUZW1wbGF0ZSgkdGhpcy0+bXNnKTsKICAgIH0KCiAgICAvKioKICAgICAqIOWMuemFjemAmumBkwogICAgICogQHBhcmFtIHN0cmluZyAkY2hhbm5lbCDmjIflrprpgJrpgZPvvIzkuLrnqbrkuI3mjIflrpoKICAgICAqIEB0aHJvd3MgRXhjZXB0aW9uCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBtYXRjaENoYW5uZWwoJGNoYW5uZWwgPSAnJykKICAgIHsKICAgICAgICBpZiAoISRjaGFubmVsKSB7CiAgICAgICAgICAgICRjaGFubmVsID0gXFlpaTo6JGFwcC0+cGFyYW1zWydzbXMnXVsnY2hhbm5lbF9kaXNwYXRjaCddWyR0aGlzLT50ZW1wbGF0ZS0+Z3JvdXBdOwogICAgICAgIH0KICAgICAgICAkY2xzTmFtZSA9ICdjb21tb25cXG1vZGVsc1xcc21zXFxjaGFubmVsXFwnIC4gdWNmaXJzdCgkY2hhbm5lbCk7CiAgICAgICAgaWYgKCFjbGFzc19leGlzdHMoJGNsc05hbWUpKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBFeGNlcHRpb24oJGNoYW5uZWwgLiAn5a+55bqU57G75LiN5a2Y5ZyoJyk7CiAgICAgICAgfQogICAgICAgICR0aGlzLT5jaGFubmVsTmFtZSA9IHN0cnRvbG93ZXIoJGNoYW5uZWwpOwogICAgICAgICR0aGlzLT5jaGFubmVsID0gbmV3ICRjbHNOYW1lOwogICAgfQoKCiAgICAvKioKICAgICAqIOiOt+WPluS4muWKoeexu+WeiwogICAgICogQHRocm93cyBFeGNlcHRpb24KICAgICAqLwogICAgcHVibGljIGZ1bmN0aW9uIGdldEJpelR5cGUoKQogICAgewogICAgICAgICR0ZW1wbGF0ZVNtcyA9ICR0aGlzLT5tc2c7CiAgICAgICAgJGFwcFRlbXBsYXRlS2V5ID0gUmVkaXM6OmdldEFwcFRwbEtleSgkdGVtcGxhdGVTbXMtPmFwcCwgJHRlbXBsYXRlU21zLT50ZW1wbGF0ZV9pZCk7CiAgICAgICAgJHRlbXBsYXRlID0gUmVkaXM6OmdldE9yU2V0KCRhcHBUZW1wbGF0ZUtleSwgZnVuY3Rpb24gKCkgdXNlICgkdGVtcGxhdGVTbXMpIHsKICAgICAgICAgICAgJHRlbXBsYXRlID0gU21zVGVtcGxhdGVDb25maWc6OmZpbmQoKS0+d2hlcmUoWwogICAgICAgICAgICAgICAgJ3RlbXBsYXRlX2lkJyA9PiAkdGVtcGxhdGVTbXMtPnRlbXBsYXRlX2lkLAogICAgICAgICAgICAgICAgJ2FwcCcgICAgICAgICA9PiAkdGVtcGxhdGVTbXMtPmFwcCwKICAgICAgICAgICAgXSktPmFzQXJyYXkoKS0+b25lKCk7CiAgICAgICAgICAgIGlmICghJHRlbXBsYXRlKSB7CiAgICAgICAgICAgICAgICB0aHJvdyBuZXcgXEV4Y2VwdGlvbign5pyq5om+5Yiw5qih5p2/JyAuIGpzb25fZW5jb2RlKCR0ZW1wbGF0ZVNtcykpOwogICAgICAgICAgICB9CgogICAgICAgICAgICByZXR1cm4gJHRlbXBsYXRlOwogICAgICAgIH0sIDYwICogNjApOwoKICAgICAgICAkYml6VHlwZSA9ICR0ZW1wbGF0ZVsnZ3JvdXAnXTsKICAgICAgICBpZiAoIWlzc2V0KFNtczo6JGJpelR5cGVNYXBbJGJpelR5cGVdKSkgewogICAgICAgICAgICB0aHJvdyBuZXcgRXhjZXB0aW9uKCfkuJrliqHnsbvlnovkuI3lkIjms5U6JyAuICRiaXpUeXBlKTsKICAgICAgICB9CgogICAgICAgIHJldHVybiAkYml6VHlwZTsKICAgIH0KCgogICAgLyoqCiAgICAgKiDlj5HpgIHnn63kv6EKICAgICAqIEB0aHJvd3MgXEV4Y2VwdGlvbgogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gc2VuZCgpCiAgICB7CiAgICAgICAgJHRoaXMtPm1hdGNoVGVtcGxhdGUoKTsKICAgICAgICAkdGhpcy0+bWF0Y2hDaGFubmVsKCk7CgogICAgICAgIGRkKDIpOwogICAgICAgIC8vIDEuIOWIneWni+WMluWPkemAgeiusOW9lQogICAgICAgICRyZWNvcmQgPSBuZXcgU21zUmVjb3JkKCk7CiAgICAgICAgJHJlY29yZC0+bW9iaWxlID0gJHRoaXMtPm1zZy0+bW9iaWxlOwogICAgICAgICRyZWNvcmQtPmNvbnRlbnQgPSAkdGhpcy0+dGVtcGxhdGUtPnRlbXBsYXRlOwogICAgICAgICRyZWNvcmQtPmNyZWF0ZWRfdGltZSA9IGRhdGUoJ1ktbS1kIEg6aTpzJyk7CiAgICAgICAgJHJlY29yZC0+dGVtcGxhdGVfaWQgPSAkdGhpcy0+dGVtcGxhdGUtPnRlbXBsYXRlX2lkOwogICAgICAgICRyZWNvcmQtPmdyb3VwID0gJHRoaXMtPnRlbXBsYXRlLT5ncm91cDsKICAgICAgICAkcmVjb3JkLT5hZ2VudCA9ICR0aGlzLT5jaGFubmVsTmFtZTsKICAgICAgICAkcmVjb3JkLT5hcHAgPSAkdGhpcy0+bXNnLT5hcHA7CiAgICAgICAgJHJlY29yZC0+aW5uZXJfYXBwID0gJHRoaXMtPm1zZy0+aW5uZXJfYXBwOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Back</text>
+        <text>nohls</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>-</last-search>
+      <last-search encoding="base64">XDxyZWNvcmRcPg==</last-search>
       <last-offset />
-      <last-pattern>-</last-pattern>
+      <last-pattern encoding="base64">XDxyZWNvcmRcPg==</last-pattern>
       <last-replace>_</last-replace>
       <last-substitute>-</last-substitute>
       <last-dir>1</last-dir>
