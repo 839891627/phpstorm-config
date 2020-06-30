@@ -46,8 +46,8 @@
         <entry>vs</entry>
         <entry>action NextSplitter</entry>
         <entry>action NextTab</entry>
-        <entry>action FileStructurePopup</entry>
         <entry>nohls</entry>
+        <entry>action FileStructurePopup</entry>
         <entry>action Back</entry>
       </history-cmd>
       <history-expr />
@@ -128,6 +128,9 @@
       <file name="$USER_HOME$/Docker/xyf-sms-center/common/facade/Sms.php" timestamp="1593505937944">
         <mark key="'" line="68" column="98" />
       </file>
+      <file name="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/GoldController.php" timestamp="1593515182369">
+        <mark key="'" line="32" column="39" />
+      </file>
       <file name="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/Template.php" timestamp="1593505956515">
         <mark key="'" line="26" column="20" />
         <mark key="[" line="43" column="22" />
@@ -149,19 +152,11 @@
         <mark key="[" line="348" column="0" />
         <mark key="]" line="348" column="32" />
       </file>
-      <file name="$USER_HOME$/Docker/xyf-sms-center/common/config/local/params.php" timestamp="1593505514091">
-        <mark key="'" line="18" column="33" />
-        <mark key="[" line="21" column="25" />
-        <mark key="]" line="21" column="30" />
-        <mark key="." line="21" column="29" />
-        <mark key="^" line="21" column="30" />
-      </file>
-      <file name="$USER_HOME$/Docker/xyf-sms-center/common/helper/redis/Redis.php" timestamp="1593505091097">
-        <mark key="'" line="68" column="4" />
-        <mark key="[" line="83" column="7" />
-        <mark key="]" line="84" column="16" />
-        <mark key="^" line="84" column="16" />
-        <mark key="." line="84" column="15" />
+      <file name="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/Gold.php" timestamp="1593515196704">
+        <mark key="[" line="79" column="85" />
+        <mark key="]" line="79" column="85" />
+        <mark key="^" line="79" column="86" />
+        <mark key="." line="79" column="85" />
       </file>
       <file name="$USER_HOME$/Docker/xyf-middleware-system/common/services/sms/SmsService.php" timestamp="1593506870466">
         <mark key="'" line="114" column="12" />
@@ -201,11 +196,12 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" timestamp="1593512052233">
+      <file name="$USER_HOME$/Docker/xinyongfei-app-api/lib/Models/VipCardV2Service.php" timestamp="1593515150855">
         <mark key="'" line="533" column="231" />
         <mark key="[" line="532" column="65" />
-        <mark key="]" line="533" column="0" />
-        <mark key="." line="533" column="0" />
+        <mark key="]" line="530" column="5" />
+        <mark key="." line="530" column="4" />
+        <mark key="^" line="530" column="5" />
       </file>
       <file name="$USER_HOME$/Docker/xyf-sms-center/common/config/dev/params.php" timestamp="1593505533981">
         <mark key="'" line="21" column="27" />
@@ -225,8 +221,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="106" column="40" filename="$USER_HOME$/Docker/xyf-sms-center/common/filters/RequestFilter.php" />
-      <jump line="407" column="80" filename="$USER_HOME$/Docker/xyf-credit-system/common/helper/webclient/XyfWebClient.php" />
       <jump line="643" column="40" filename="$USER_HOME$/Docker/xyf-credit-system/common/facade/Config.php" />
       <jump line="12" column="37" filename="$USER_HOME$/Docker/xyf-sms-center/common/config/local/params.php" />
       <jump line="25" column="33" filename="$USER_HOME$/Docker/xyf-sms-center/common/config/local/params.php" />
@@ -325,6 +319,8 @@
       <jump line="123" column="56" filename="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/XyfSmsRetryController.php" />
       <jump line="94" column="6" filename="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/XyfSmsRetryController.php" />
       <jump line="52" column="45" filename="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/XyfSmsRetryController.php" />
+      <jump line="104" column="41" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/GoldController.php" />
+      <jump line="32" column="39" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/GoldController.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -332,8 +328,8 @@
       <register name="a" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB5dW5mZW5nCg==</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -348,7 +344,7 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>CreditUser::getCurrentId()</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWNvcmRcPg==</text>
