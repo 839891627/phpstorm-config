@@ -72,7 +72,6 @@
   <action id="FileChooser.GotoModule" />
   <action id="FileChooser.GotoProject" />
   <action id="FileChooser.NewFolder" />
-  <action id="FileStructurePopup" />
   <action id="FindInPath">
     <keyboard-shortcut first-keystroke="shift ctrl f" />
   </action>
@@ -117,6 +116,10 @@
   </action>
   <action id="RunClass" />
   <action id="RunDashboard.Run" />
+  <action id="ShowContent">
+    <keyboard-shortcut first-keystroke="ctrl down" />
+    <keyboard-shortcut first-keystroke="shift ctrl n" />
+  </action>
   <action id="StepOver" />
   <action id="TypeHierarchy" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
