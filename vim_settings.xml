@@ -47,8 +47,8 @@
         <entry>action PreviousTab</entry>
         <entry>action NextTab</entry>
         <entry>action SelectInProjectView</entry>
-        <entry>nohls</entry>
         <entry>action Back</entry>
+        <entry>nohls</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -141,8 +141,8 @@
       <file name="$USER_HOME$/Docker/xyf-common-sms/common/services/sms/BizLogic/DoTaskHelper.php" timestamp="1593590437281">
         <mark key="'" line="74" column="28" />
       </file>
-      <file name="$USER_HOME$/Docker/xyf-sms-center/common/facade/Sms.php" timestamp="1593587626873">
-        <mark key="'" line="68" column="98" />
+      <file name="$USER_HOME$/Docker/xyf-sms-center/common/facade/Sms.php" timestamp="1593590975792">
+        <mark key="'" line="86" column="4" />
         <mark key="[" line="95" column="0" />
         <mark key="]" line="95" column="69" />
         <mark key="." line="94" column="0" />
@@ -196,7 +196,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="426" column="41" filename="$USER_HOME$/Docker/credit/fxd_api/controllers/LoanFrontController.php" />
       <jump line="21" column="20" filename="$USER_HOME$/Docker/xyf-middleware-system/common/services/sms/SmsService.php" />
       <jump line="120" column="8" filename="$USER_HOME$/Docker/xyf-middleware-system/common/services/sms/SmsService.php" />
       <jump line="221" column="38" filename="$USER_HOME$/Docker/xyf-middleware-system/common/services/sms/SmsService.php" />
@@ -296,6 +295,7 @@
       <jump line="76" column="8" filename="$USER_HOME$/Docker/xyf-common-sms/common/services/sms/Gateways/ChuangruiyunGateway.php" />
       <jump line="89" column="20" filename="$USER_HOME$/Docker/xyf-common-sms/common/services/sms/Gateways/ChuangruiyunGateway.php" />
       <jump line="88" column="26" filename="$USER_HOME$/Docker/xyf-common-sms/common/services/sms/Gateways/ChuangruiyunGateway.php" />
+      <jump line="86" column="4" filename="$USER_HOME$/Docker/xyf-sms-center/common/facade/Sms.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -507,7 +507,7 @@
         <text encoding="base64">ICAgICJsb2NhbF9kZWJ1Z19zd2l0Y2giID0+ICdvbicsCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Back</text>
+        <text>nohls</text>
       </register>
     </registers>
   </component>
