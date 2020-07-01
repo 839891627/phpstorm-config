@@ -39,7 +39,6 @@
         <entry>action PreviousTab</entry>
         <entry>action KJumpAction.Word0</entry>
         <entry>vs</entry>
-        <entry>wq</entry>
         <entry>action NextTab</entry>
         <entry>action Back</entry>
         <entry>action RenameElement</entry>
@@ -48,6 +47,7 @@
         <entry>.nohls</entry>
         <entry>action SelectInProjectView</entry>
         <entry>action FileStructurePopup</entry>
+        <entry>wq</entry>
         <entry>nohls</entry>
       </history-cmd>
       <history-expr />
@@ -158,9 +158,7 @@
       <file name="$USER_HOME$/Docker/credit/fxd_api/controllers/LoanMiddleController.php" timestamp="1593567940469">
         <mark key="'" line="451" column="0" />
       </file>
-      <file name="$USER_HOME$/Docker/credit/fxd_api/services/FxdBankCardService.php" timestamp="1593572975411">
-        <mark key="'" line="13" column="20" />
-      </file>
+      <file name="$USER_HOME$/Docker/credit/fxd_api/services/FxdBankCardService.php" timestamp="1593573059348" />
       <file name="/Dummy.txt" timestamp="1593570243712">
         <mark key="[" line="0" column="0" />
       </file>
@@ -190,16 +188,14 @@
         <mark key="." line="8" column="20" />
         <mark key="^" line="8" column="76" />
       </file>
-      <file name="$USER_HOME$/Docker/credit/console/controllers/FxdTaskController.php" timestamp="1593572907176">
-        <mark key="'" line="33" column="0" />
-        <mark key="[" line="4242" column="36" />
-        <mark key="]" line="4243" column="28" />
-        <mark key="^" line="4243" column="28" />
-        <mark key="." line="4243" column="27" />
+      <file name="$USER_HOME$/Docker/credit/console/controllers/FxdTaskController.php" timestamp="1593573284261">
+        <mark key="[" line="16318" column="9" />
+        <mark key="]" line="16318" column="0" />
+        <mark key="^" line="16317" column="31" />
+        <mark key="." line="16318" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="20" filename="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/Limit.php" />
       <jump line="49" column="20" filename="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/Limit.php" />
       <jump line="71" column="61" filename="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/Limit.php" />
       <jump line="109" column="27" filename="$USER_HOME$/Docker/xyf-sms-center/common/facade/Config.php" />
@@ -299,6 +295,7 @@
       <jump line="270" column="31" filename="$USER_HOME$/Docker/shoufuyou-php-lib/shoufuyou/Service/XyfVipCardV2Service.php" />
       <jump line="33" column="0" filename="$USER_HOME$/Docker/credit/console/controllers/FxdTaskController.php" />
       <jump line="13" column="20" filename="$USER_HOME$/Docker/credit/fxd_api/services/FxdBankCardService.php" />
+      <jump line="16315" column="0" filename="$USER_HOME$/Docker/credit/console/controllers/FxdTaskController.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -306,8 +303,8 @@
       <register name="a" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>bank_card</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -322,16 +319,16 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>bank_card</text>
+        <text>cardNo</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWNvcmRcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHJlY29yZC0+YmFua19jYXJkID0gJyc7Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">U2Z5V2ViU2VydmljZTo6Z2V0QmFua0NhcmRQcm90eWxlKCRyZWNvcmQtPmNhcmRfbm8p</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -349,28 +346,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoU2Z5V2ViU2VydmljZTo6Z2V0QmFua0NhcmRQcm90eWxlKCRyZWNvcmQtPmNhcmRfbm8pKTsK</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IFNmeVdlYlNlcnZpY2U6OmdldEJhbmtDYXJkUHJvdHlsZSgkY2FyZE5vKTsK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -504,10 +501,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZCgkcmV0KTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>nohls</text>
