@@ -35,7 +35,6 @@
         <entry>action ToggleBookmark</entry>
         <entry>.nohls</entry>
         <entry>action RecentChangedFiles</entry>
-        <entry>action CloseAllEditors</entry>
         <entry>action FileStructurePopup</entry>
         <entry>action OpenEditorInOppositeTabGroup</entry>
         <entry>action RenameElement</entry>
@@ -45,10 +44,11 @@
         <entry>action NextTab</entry>
         <entry>wq</entry>
         <entry>action Back</entry>
-        <entry>action SelectInProjectView</entry>
-        <entry>nohls</entry>
         <entry>action KJumpAction.Word0</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
+        <entry>action SelectInProjectView</entry>
+        <entry>nohls</entry>
+        <entry>action CloseAllEditors</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -141,7 +141,6 @@
         <mark key="^" line="102" column="8" />
         <mark key="." line="102" column="7" />
       </file>
-      <file name="$USER_HOME$/Docker/xyf-common-sms/common/services/sms/demo.php" timestamp="1593596358873" />
       <file name="$USER_HOME$/Docker/dnmp/logs/nginx/error.log" timestamp="1593596986243">
         <mark key="'" line="28" column="56" />
       </file>
@@ -194,11 +193,19 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/Docker/xyf-common-sms/common/services/sms/Message.php" timestamp="1593596437873">
-        <mark key="'" line="172" column="0" />
-        <mark key="[" line="159" column="0" />
-        <mark key="]" line="159" column="0" />
-        <mark key="." line="159" column="0" />
+      <file name="$USER_HOME$/Docker/xyf-middleground-system/api/modules/user/controllers/RightController.php" timestamp="1593601123149">
+        <mark key="'" line="37" column="19" />
+        <mark key="[" line="44" column="8" />
+        <mark key="]" line="44" column="15" />
+        <mark key="." line="44" column="14" />
+        <mark key="^" line="44" column="15" />
+      </file>
+      <file name="$USER_HOME$/Docker/xyf-middleground-system/common/unit/CodeMessage.php" timestamp="1593601291741">
+        <mark key="'" line="61" column="24" />
+        <mark key="[" line="61" column="25" />
+        <mark key="]" line="61" column="28" />
+        <mark key="^" line="61" column="28" />
+        <mark key="." line="61" column="27" />
       </file>
       <file name="$USER_HOME$/Docker/xyf-common-sms/common/config/local/params.php" timestamp="1593597140699">
         <mark key="'" line="28" column="8" />
@@ -211,8 +218,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="0" filename="$USER_HOME$/Docker/xyf-common-sms/common/services/sms/HttpClient.php" />
-      <jump line="62" column="0" filename="$USER_HOME$/Docker/xyf-common-sms/common/services/sms/HttpClient.php" />
       <jump line="3" column="19" filename="$USER_HOME$/Docker/xyf-common-sms/common/services/sms/HttpClient.php" />
       <jump line="25" column="41" filename="$USER_HOME$/Docker/xyf-common-sms/common/services/sms/Gateways/ChuangruiyunGateway.php" />
       <jump line="67" column="31" filename="$USER_HOME$/Docker/xyf-common-sms/common/services/sms/Gateways/Cl253Gateway.php" />
@@ -311,6 +316,8 @@
       <jump line="4" column="0" filename="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/HttpClient.php" />
       <jump line="30" column="25" filename="$USER_HOME$/Docker/xyf-sms-center/common/facade/Sms.php" />
       <jump line="36" column="20" filename="$USER_HOME$/Docker/xyf-sms-center/common/models/message/TemplateSms.php" />
+      <jump line="36" column="19" filename="$USER_HOME$/Docker/xyf-middleground-system/api/modules/user/controllers/RightController.php" />
+      <jump line="61" column="24" filename="$USER_HOME$/Docker/xyf-middleground-system/common/unit/CodeMessage.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -319,7 +326,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIGNvbW1vblxtb2RlbHNcc21zXGNoYW5uZWxcQ1VSTEZpbGU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAobmV3IFF1ZXJ5KCkpLT5mcm9tJycK</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -343,7 +350,7 @@
         <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBzZW5kKE1lc3NhZ2UgJG1lc3NhZ2UpOiBXcmFwcGVyCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIGNvbW1vblxtb2RlbHNcc21zXGNoYW5uZWxcQ1VSTEZpbGU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAobmV3IFF1ZXJ5KCkpLT5mcm9tJycK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -361,28 +368,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIGNvbW1vblxtb2RlbHNcc21zXGNoYW5uZWxcQ1VSTEZpbGU7Cg==</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAieWlpc29mdC95aWkyLWRlYnVnIjogIn4yLjAuMCIsCiAgICAgICAgInlpaXNvZnQveWlpMi1naWkiOiAifjIuMC4wIiwKICAgICAgICAieWlpc29mdC95aWkyLWZha2VyIjogIn4yLjAuMCIsCiAgICAgICAgImNvZGVjZXB0aW9uL2Jhc2UiOiAiXjIuMi4zIiwKICAgICAgICAiY29kZWNlcHRpb24vdmVyaWZ5IjogIn4wLjMuMSIsCiAgICAgICAgInN5bWZvbnkvdmFyLWR1bXBlciI6ICJeNC4zIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAieWlpc29mdC95aWkyLWRlYnVnIjogIn4yLjAuMCIsCiAgICAgICAgInlpaXNvZnQveWlpMi1naWkiOiAifjIuMC4wIiwKICAgICAgICAieWlpc29mdC95aWkyLWZha2VyIjogIn4yLjAuMCIsCiAgICAgICAgImNvZGVjZXB0aW9uL2Jhc2UiOiAiXjIuMi4zIiwKICAgICAgICAiY29kZWNlcHRpb24vdmVyaWZ5IjogIn4wLjMuMSIsCiAgICAgICAgInN5bWZvbnkvdmFyLWR1bXBlciI6ICJeNC4zIgo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICAgICAgICAgICAgJ2hvc3QnICAgICA9PiAnMTIzLjU2LjIyNS4yNTMnLAogICAgICAgICAgICAncG9ydCcgICAgID0+IDU2NzIsCiAgICAgICAgICAgICd1c2VyJyAgICAgPT4gJ2Rldl94eWZfdXNlcicsCiAgICAgICAgICAgICdwYXNzd29yZCcgPT4gJzEyMzQ1NicsCiAgICAgICAgICAgICd2aG9zdCcgICAgPT4gJ2Rldl94eWZfcXVldWUnLA==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBbCiAgICAgICAgICAgICdob3N0JyAgICAgPT4gJzM5LjEwNS4xLjUwJywKICAgICAgICAgICAgJ3BvcnQnICAgICA9PiA1NjcyLAogICAgICAgICAgICAndXNlcicgICAgID0+ICdkZXZfeHlmX3VzZXInLAogICAgICAgICAgICAncGFzc3dvcmQnID0+ICcxMjM0NTYnLAogICAgICAgICAgICAndmhvc3QnICAgID0+ICdkZXZfeHlmX3F1ZXVlJywKICAgICAgICBdLAo=</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJyZXBvc2l0b3JpZXMiOiBbCiAgICAgICAgewogICAgICAgICAgICAidHlwZSI6ICJjb21wb3NlciIsCiAgICAgICAgICAgICJ1cmwiOiAiaHR0cHM6Ly9hc3NldC1wYWNrYWdpc3Qub3JnIgogICAgICAgIH0KICAgIF0K</text>
+        <text encoding="base64">ICAgICAgICBbCiAgICAgICAgICAgICdob3N0JyAgICAgPT4gJzM5LjEwNS4xLjUwJywKICAgICAgICAgICAgJ3BvcnQnICAgICA9PiA1NjcyLAogICAgICAgICAgICAndXNlcicgICAgID0+ICdkZXZfeHlmX3VzZXInLAogICAgICAgICAgICAncGFzc3dvcmQnID0+ICcxMjM0NTYnLAogICAgICAgICAgICAndmhvc3QnICAgID0+ICdkZXZfeHlmX3F1ZXVlJywKICAgICAgICBdLAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -516,13 +523,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICJyZXBvc2l0b3JpZXMiOiBbCiAgICAgICAgewogICAgICAgICAgICAidHlwZSI6ICJjb21wb3NlciIsCiAgICAgICAgICAgICJ1cmwiOiAiaHR0cHM6Ly9hc3NldC1wYWNrYWdpc3Qub3JnIgogICAgICAgIH0KICAgIF0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2dhdGV3YXknID0+ICRnYXRld2F5LAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Refactorings.QuickListPopupAction</text>
+        <text>action CloseAllEditors</text>
       </register>
     </registers>
   </component>
@@ -534,7 +541,7 @@
       <last-replace>_</last-replace>
       <last-substitute>-</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
