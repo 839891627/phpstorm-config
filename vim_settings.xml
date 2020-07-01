@@ -45,10 +45,10 @@
         <entry>action KJumpAction.Word0</entry>
         <entry>action CloseAllEditors</entry>
         <entry>vs</entry>
-        <entry>action Back</entry>
         <entry>action NextSplitter</entry>
         <entry>wq</entry>
         <entry>nohls</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -130,7 +130,11 @@
       <file name="$USER_HOME$/Docker/xyf-sms-center/common/facade/Sms.php" timestamp="1593583599898">
         <mark key="'" line="95" column="56" />
       </file>
-      <file name="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/Before/OcrController.php" timestamp="1593584754915" />
+      <file name="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/Before/OcrController.php" timestamp="1593585573052">
+        <mark key="[" line="32" column="88" />
+        <mark key="]" line="32" column="88" />
+        <mark key="." line="32" column="88" />
+      </file>
       <file name="$USER_HOME$/Docker/xyf-sms-center/logs/web_client/20200701.log" timestamp="1593582631120" />
       <file name="$USER_HOME$/Docker/xyf-sms-center/common/logging/EmailTarget.php" timestamp="1593582253556">
         <mark key="'" line="77" column="40" />
@@ -153,6 +157,9 @@
         <mark key="]" line="17" column="32" />
         <mark key="." line="17" column="31" />
         <mark key="^" line="17" column="32" />
+      </file>
+      <file name="$USER_HOME$/Docker/xyf-api-gateway/ua_api/modules/jqns/facade/before/Income.php" timestamp="1593585184730">
+        <mark key="'" line="266" column="47" />
       </file>
       <file name="$USER_HOME$/Docker/xyf-sms-center/common/helper/Env.php" timestamp="1593582259181">
         <mark key="'" line="153" column="46" />
@@ -192,17 +199,8 @@
         <mark key="." line="587" column="174" />
       </file>
       <file name="$USER_HOME$/Docker/xyf-sms-center/logs/debug/20200701.log" timestamp="1593582364617" />
-      <file name="$USER_HOME$/Docker/xyf-sms-center/common/facade/Config.php" timestamp="1593581865724">
-        <mark key="'" line="132" column="45" />
-        <mark key="[" line="90" column="54" />
-        <mark key="]" line="90" column="60" />
-        <mark key="." line="90" column="54" />
-        <mark key="^" line="90" column="69" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="205" column="0" filename="$USER_HOME$/Docker/xyf-middleware-system/common/services/sms/SmsService.php" />
-      <jump line="11" column="5" filename="$USER_HOME$/Docker/xyf-middleware-system/common/services/sms/SmsService.php" />
       <jump line="119" column="12" filename="$USER_HOME$/Docker/xyf-middleware-system/common/services/sms/SmsService.php" />
       <jump line="147" column="8" filename="$USER_HOME$/Docker/xyf-middleware-system/common/services/sms/SmsService.php" />
       <jump line="113" column="35" filename="$USER_HOME$/Docker/xyf-middleware-system/console/controllers/XyfSmsRetryController.php" />
@@ -301,6 +299,8 @@
       <jump line="14" column="0" filename="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/wrappers/ReportWrapper.php" />
       <jump line="170" column="16" filename="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/Sms.php" />
       <jump line="196" column="29" filename="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/Sms.php" />
+      <jump line="73" column="30" filename="$USER_HOME$/Docker/xyf-api-gateway/ua_api/modules/jqns/facade/before/Income.php" />
+      <jump line="266" column="47" filename="$USER_HOME$/Docker/xyf-api-gateway/ua_api/modules/jqns/facade/before/Income.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -309,7 +309,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>on</text>
+        <text>5</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -324,7 +324,7 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>on</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWNvcmRcPg==</text>
@@ -514,7 +514,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>nohls</text>
+        <text>action Back</text>
       </register>
     </registers>
   </component>
