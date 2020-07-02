@@ -43,12 +43,12 @@
         <entry>action NextTab</entry>
         <entry>action OpenEditorInOppositeTabGroup</entry>
         <entry>action NextSplitter</entry>
-        <entry>action SelectInProjectView</entry>
         <entry>action CloseAllEditors</entry>
         <entry>action RecentChangedFiles</entry>
         <entry>action Back</entry>
         <entry>wq</entry>
         <entry>nohls</entry>
+        <entry>action SelectInProjectView</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -193,9 +193,6 @@
         <mark key="]" line="8" column="41" />
         <mark key="^" line="8" column="50" />
         <mark key="." line="8" column="41" />
-      </file>
-      <file name="$USER_HOME$/Docker/xyf-common-sms/api/controllers/SmsController.php" timestamp="1593672944603">
-        <mark key="'" line="44" column="26" />
       </file>
     </filemarks>
     <jumps>
@@ -510,7 +507,7 @@
         <text encoding="base64">ICAgICAgICBkZCgkd2FpdFJlY29yZHMpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>nohls</text>
+        <text>action SelectInProjectView</text>
       </register>
     </registers>
   </component>
