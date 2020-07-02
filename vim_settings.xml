@@ -29,8 +29,6 @@
         <entry encoding="base64">XDx3YWl0X251bVw+</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLy0vXy9n</entry>
-        <entry>action ToggleBookmark</entry>
         <entry>.nohls</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>action FileStructurePopup</entry>
@@ -41,14 +39,16 @@
         <entry>action NextTab</entry>
         <entry>action OpenEditorInOppositeTabGroup</entry>
         <entry>action NextSplitter</entry>
-        <entry>action CloseAllEditors</entry>
         <entry>action RecentChangedFiles</entry>
-        <entry>wq</entry>
         <entry>action SelectInProjectView</entry>
-        <entry>nohls</entry>
         <entry>action Annotate</entry>
         <entry>action KJumpAction.Word0</entry>
         <entry>action Back</entry>
+        <entry>nohls</entry>
+        <entry>wq</entry>
+        <entry>action CloseAllEditors</entry>
+        <entry>source ~/.ideavimrc</entry>
+        <entry>action KJumpAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -107,6 +107,12 @@
       <shortcut-conflict owner="vim">
         <text>shift ctrl pressed SEMICOLON</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>meta pressed L</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>meta pressed H</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
@@ -129,18 +135,24 @@
       <file name="$USER_HOME$/Docker/xyf-sms-center/common/facade/Sms.php" timestamp="1593676454301">
         <mark key="'" line="33" column="31" />
       </file>
-      <file name="$USER_HOME$/Docker/xyf-middleware-system/logs/console/query-sms/20200702.log" timestamp="1593675073048">
-        <mark key="'" line="16" column="36" />
-      </file>
-      <file name="$USER_HOME$/Docker/xyf-middleware-system/common/models/SmsRecord.php" timestamp="1593673794830">
-        <mark key="'" line="27" column="6" />
-        <mark key="]" line="51" column="52" />
-      </file>
-      <file name="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/SendYuyinCuishouCommand.php" timestamp="1593680421414">
+      <file name="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/SendYuyinCuishouCommand.php" timestamp="1593687110946">
         <mark key="'" line="106" column="13" />
+        <mark key="[" line="175" column="54" />
+        <mark key="]" line="175" column="4" />
+        <mark key="^" line="175" column="4" />
+        <mark key="." line="175" column="3" />
+      </file>
+      <file name="/" timestamp="1593687685434">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Docker/xyf-sms-center/api/controllers/SmsController.php" timestamp="1593676029233">
         <mark key="'" line="33" column="33" />
+      </file>
+      <file name="$USER_HOME$/Docker/xyf-api-gateway/ua_api/modules/jqns/facade/common/Jqns.php" timestamp="1593687706605">
+        <mark key="[" line="116" column="32" />
+        <mark key="]" line="116" column="23" />
+        <mark key="^" line="116" column="23" />
+        <mark key="." line="116" column="22" />
       </file>
       <file name="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/channel/Emay.php" timestamp="1593676237349">
         <mark key="'" line="86" column="52" />
@@ -181,16 +193,15 @@
       <file name="$USER_HOME$/Docker/shoufuyou-php-lib/shoufuyou/Util/HuiyuSms.php" timestamp="1593680388102">
         <mark key="'" line="153" column="30" />
       </file>
+      <file name="$USER_HOME$/.ideavimrc" timestamp="1593687194621">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+      </file>
       <file name="$USER_HOME$/Docker/loanmarket/common/service/unionlogin/strategies/ActiveStrategy.php" timestamp="1593681167112">
         <mark key="[" line="59" column="0" />
         <mark key="]" line="59" column="0" />
         <mark key="." line="59" column="0" />
-      </file>
-      <file name="$USER_HOME$/Docker/xyf-middleware-system/common/config/local/params.php" timestamp="1593675241799">
-        <mark key="[" line="8" column="41" />
-        <mark key="]" line="8" column="41" />
-        <mark key="^" line="8" column="50" />
-        <mark key="." line="8" column="41" />
       </file>
     </filemarks>
     <jumps>
@@ -302,7 +313,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHJlc3VsdCA9IGpzb25fZGVjb2RlKCd7ImNvZGUiOiIwMDAwIiwibXNnIjoi5paw55So5oi3ISIsImJ1c2luZXNzQ29kZSI6IjAwMSIsImRhdGEiOm51bGx9JywgMSk7Cg==</text>
+        <text encoding="base64">bm1hcCA8TS1sPiA8RXNjPkEKbm1hcCA8TS1oPiA8RXNjPkkK</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -317,16 +328,16 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3YWl0X251bVw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZmluZWQoJ1lJSV9ERUJVRycpIG9yIGRlZmluZSgnWUlJX0RFQlVHJywgdHJ1ZSk7CiAgICBkZWZpbmVkKCdZSUlfRU5WJykgb3IgZGVmaW5lKCdZSUlfRU5WJywgJ2RldicpOwo=</text>
+      <register name="0" type="4">
+        <text>nnoremap</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHJlc3VsdCA9IGpzb25fZGVjb2RlKCd7ImNvZGUiOiIwMDAwIiwibXNnIjoi5paw55So5oi3ISIsImJ1c2luZXNzQ29kZSI6IjAwMSIsImRhdGEiOm51bGx9JywgMSk7Cg==</text>
+        <text encoding="base64">bm1hcCA8TS1sPiA8RXNjPkEKbm1hcCA8TS1oPiA8RXNjPkkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -344,28 +355,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">JHdlYkVudiA9ICdwcm9kJzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHJlc3VsdCA9IGpzb25fZGVjb2RlKCd7ImNvZGUiOiIwMDAwIiwibXNnIjoi5paw55So5oi3ISIsImJ1c2luZXNzQ29kZSI6IjAwMSIsImRhdGEiOm51bGx9JywgMSk7Cg==</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkZXhjZXB0aW9uLT5nZXRNZXNzYWdlKCksJGUtPmdldEZpKTsK</text>
+        <text encoding="base64">JHdlYkVudiA9ICdwcm9kJzsK</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZO+8iO+8ie+/pWUtPgo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkZXhjZXB0aW9uLT5nZXRNZXNzYWdlKCksJGUtPmdldEZpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">JHdlYkVudiA9ICdwcm9kJzsK</text>
+        <text encoding="base64">ICAgICAgICBkZO+8iO+8ie+/pWUtPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkc21zUmVjb3JkQ29udGVudCk7Cg==</text>
+        <text encoding="base64">JHdlYkVudiA9ICdwcm9kJzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkd2FpdFJlY29yZHMpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkc21zUmVjb3JkQ29udGVudCk7Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -499,13 +510,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBlaG8gCg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkd2FpdFJlY29yZHMpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICRzbXNSZWNvcmRDb250ZW50O2RpZTsK</text>
+        <text encoding="base64">ICAgICAgICBlaG8gCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Back</text>
+        <text>action KJumpAction</text>
       </register>
     </registers>
   </component>

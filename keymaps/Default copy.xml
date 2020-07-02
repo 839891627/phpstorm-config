@@ -45,17 +45,12 @@
   <action id="EditorIndentSelection" />
   <action id="EditorLeft">
     <keyboard-shortcut first-keystroke="left" />
-    <keyboard-shortcut first-keystroke="ctrl h" />
   </action>
   <action id="EditorLineEnd">
     <keyboard-shortcut first-keystroke="meta l" />
   </action>
   <action id="EditorLineStart">
     <keyboard-shortcut first-keystroke="meta h" />
-  </action>
-  <action id="EditorRight">
-    <keyboard-shortcut first-keystroke="right" />
-    <keyboard-shortcut first-keystroke="ctrl l" />
   </action>
   <action id="EditorToggleCase">
     <keyboard-shortcut first-keystroke="shift ctrl u" />
