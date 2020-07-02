@@ -35,20 +35,20 @@
         <entry>action ToggleBookmark</entry>
         <entry>.nohls</entry>
         <entry>action RecentChangedFiles</entry>
-        <entry>action FileStructurePopup</entry>
         <entry>action OpenEditorInOppositeTabGroup</entry>
         <entry>action RenameElement</entry>
         <entry>vs</entry>
         <entry>action PreviousTab</entry>
         <entry>action NextSplitter</entry>
-        <entry>action NextTab</entry>
-        <entry>wq</entry>
         <entry>action Back</entry>
         <entry>action KJumpAction.Word0</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
         <entry>action SelectInProjectView</entry>
-        <entry>nohls</entry>
         <entry>action CloseAllEditors</entry>
+        <entry>action FileStructurePopup</entry>
+        <entry>action NextTab</entry>
+        <entry>wq</entry>
+        <entry>nohls</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -112,81 +112,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Docker/xyf-common-sms/common/services/sms/BizLogic/AddTaskHelper.php" timestamp="1593600091910">
-        <mark key="'" line="44" column="25" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-      </file>
-      <file name="$USER_HOME$/Docker/xyf-common-sms/common/services/sms/BizLogic/DoTaskHelper.php" timestamp="1593600365874">
-        <mark key="'" line="110" column="20" />
-        <mark key="[" line="101" column="7" />
-        <mark key="]" line="101" column="13" />
-        <mark key="." line="101" column="12" />
-        <mark key="^" line="101" column="13" />
-      </file>
-      <file name="$USER_HOME$/Docker/xyf-sms-center/common/facade/Sms.php" timestamp="1593600566156">
-        <mark key="'" line="30" column="25" />
-        <mark key="[" line="95" column="0" />
-        <mark key="]" line="95" column="69" />
-        <mark key="." line="94" column="0" />
-      </file>
-      <file name="$USER_HOME$/Docker/xyf-common-sms/common/config/local/bootstrap.php" timestamp="1593596906120">
-        <mark key="[" line="1" column="52" />
-      </file>
-      <file name="$USER_HOME$/Docker/xyf-common-sms/common/services/sms/Gateways/YunfengGateway.php" timestamp="1593596580833">
-        <mark key="'" line="100" column="42" />
-        <mark key="[" line="101" column="9" />
-        <mark key="]" line="102" column="8" />
-        <mark key="^" line="102" column="8" />
-        <mark key="." line="102" column="7" />
-      </file>
-      <file name="$USER_HOME$/Docker/dnmp/logs/nginx/error.log" timestamp="1593596986243">
-        <mark key="'" line="28" column="56" />
-      </file>
-      <file name="$USER_HOME$/Docker/xyf-sms-center/common/config/local/params.php" timestamp="1593597293865">
-        <mark key="[" line="17" column="29" />
-        <mark key="]" line="17" column="32" />
-        <mark key="." line="17" column="31" />
-        <mark key="^" line="17" column="32" />
-      </file>
-      <file name="$USER_HOME$/Docker/dnmp/config/nginx/conf.d/xyf-common-sms.conf" timestamp="1593596764678">
-        <mark key="[" line="4" column="28" />
-        <mark key="]" line="4" column="38" />
-        <mark key="." line="4" column="37" />
-        <mark key="^" line="4" column="38" />
-      </file>
-      <file name="$USER_HOME$/Docker/xyf-common-sms/composer.json" timestamp="1593597490839">
-        <mark key="[" line="14" column="26" />
-        <mark key="]" line="14" column="26" />
-        <mark key="." line="14" column="26" />
-      </file>
-      <file name="$USER_HOME$/Docker/xyf-sms-center/common/config/local/bootstrap.php" timestamp="1593597132127" />
-      <file name="$USER_HOME$/Docker/xyf-sms-center/common/models/message/TemplateSms.php" timestamp="1593600571177">
-        <mark key="'" line="36" column="20" />
-        <mark key="[" line="23" column="29" />
-        <mark key="]" line="23" column="32" />
-        <mark key="." line="23" column="31" />
-        <mark key="^" line="23" column="32" />
-      </file>
-      <file name="$USER_HOME$/Docker/xyf-common-sms/common/services/sms/Gateways/yunfeng/YunfengVoice.php" timestamp="1593596460888">
-        <mark key="'" line="81" column="46" />
-        <mark key="[" line="67" column="28" />
-        <mark key="]" line="67" column="54" />
-        <mark key="." line="67" column="53" />
-        <mark key="^" line="67" column="54" />
-      </file>
-      <file name="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/HttpClient.php" timestamp="1593600433010">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="82" column="30" />
-      </file>
       <file name="/Dummy.txt" timestamp="1593600438933">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Docker/xyf-sms-center/composer.json" timestamp="1593597392982" />
       <file name="$USER_HOME$/Docker/xyf-common-sms/common/services/sms/XyfSms.php" timestamp="1593599996660">
         <mark key="'" line="45" column="23" />
         <mark key="[" line="22" column="0" />
@@ -207,18 +135,84 @@
         <mark key="^" line="61" column="28" />
         <mark key="." line="61" column="27" />
       </file>
+      <file name="$USER_HOME$/Docker/xyf-common-sms/common/services/sms/BizLogic/AddTaskHelper.php" timestamp="1593600091910">
+        <mark key="'" line="44" column="25" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+      </file>
+      <file name="$USER_HOME$/Docker/dnmp/logs/nginx/error.log" timestamp="1593596986243">
+        <mark key="'" line="28" column="56" />
+      </file>
+      <file name="$USER_HOME$/Docker/xinyongfei-app-api/public/index.php" timestamp="1593655600842">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Docker/xyf-common-sms/common/services/sms/BizLogic/DoTaskHelper.php" timestamp="1593600365874">
+        <mark key="'" line="110" column="20" />
+        <mark key="[" line="101" column="7" />
+        <mark key="]" line="101" column="13" />
+        <mark key="." line="101" column="12" />
+        <mark key="^" line="101" column="13" />
+      </file>
+      <file name="$USER_HOME$/Docker/xyf-sms-center/common/facade/Sms.php" timestamp="1593600566156">
+        <mark key="'" line="30" column="25" />
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="95" column="69" />
+        <mark key="." line="94" column="0" />
+      </file>
+      <file name="$USER_HOME$/Docker/xyf-sms-center/common/config/local/params.php" timestamp="1593597293865">
+        <mark key="[" line="17" column="29" />
+        <mark key="]" line="17" column="32" />
+        <mark key="." line="17" column="31" />
+        <mark key="^" line="17" column="32" />
+      </file>
+      <file name="$USER_HOME$/Docker/xyf-sms-center/common/models/message/TemplateSms.php" timestamp="1593600571177">
+        <mark key="'" line="36" column="20" />
+        <mark key="[" line="23" column="29" />
+        <mark key="]" line="23" column="32" />
+        <mark key="." line="23" column="31" />
+        <mark key="^" line="23" column="32" />
+      </file>
+      <file name="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/HttpClient.php" timestamp="1593600433010">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="82" column="30" />
+      </file>
+      <file name="$USER_HOME$/Docker/dnmp/config/nginx/conf.d/xyf-common-sms.conf" timestamp="1593596764678">
+        <mark key="[" line="4" column="28" />
+        <mark key="]" line="4" column="38" />
+        <mark key="." line="4" column="37" />
+        <mark key="^" line="4" column="38" />
+      </file>
       <file name="$USER_HOME$/Docker/xyf-common-sms/common/config/local/params.php" timestamp="1593597140699">
         <mark key="'" line="28" column="8" />
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/Docker/xyf-common-sms/composer.json" timestamp="1593597490839">
+        <mark key="[" line="14" column="26" />
+        <mark key="]" line="14" column="26" />
+        <mark key="." line="14" column="26" />
+      </file>
       <file name="$USER_HOME$/Docker/xyf-common-sms/common/helpers/QueueHelper.php" timestamp="1593599750649">
         <mark key="'" line="80" column="34" />
       </file>
+      <file name="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/AppController.php" timestamp="1593655609068">
+        <mark key="[" line="138" column="0" />
+        <mark key="]" line="138" column="0" />
+        <mark key="." line="138" column="0" />
+      </file>
+      <file name="$USER_HOME$/Docker/xyf-common-sms/common/config/local/bootstrap.php" timestamp="1593596906120">
+        <mark key="[" line="1" column="52" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="19" filename="$USER_HOME$/Docker/xyf-common-sms/common/services/sms/HttpClient.php" />
       <jump line="25" column="41" filename="$USER_HOME$/Docker/xyf-common-sms/common/services/sms/Gateways/ChuangruiyunGateway.php" />
       <jump line="67" column="31" filename="$USER_HOME$/Docker/xyf-common-sms/common/services/sms/Gateways/Cl253Gateway.php" />
       <jump line="118" column="37" filename="$USER_HOME$/Docker/xyf-common-sms/common/services/sms/Gateways/Cl253Gateway.php" />
@@ -318,6 +312,7 @@
       <jump line="36" column="20" filename="$USER_HOME$/Docker/xyf-sms-center/common/models/message/TemplateSms.php" />
       <jump line="36" column="19" filename="$USER_HOME$/Docker/xyf-middleground-system/api/modules/user/controllers/RightController.php" />
       <jump line="61" column="24" filename="$USER_HOME$/Docker/xyf-middleground-system/common/unit/CodeMessage.php" />
+      <jump line="4" column="0" filename="$USER_HOME$/Docker/xinyongfei-app-api/public/index.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -326,7 +321,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAobmV3IFF1ZXJ5KCkpLT5mcm9tJycK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -341,7 +336,7 @@
         <text>j,</text>
       </register>
       <register name="-" type="4">
-        <text>获取默认网关以及使用的账号</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDVVJMRmlsZVw+</text>
@@ -350,7 +345,7 @@
         <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBzZW5kKE1lc3NhZ2UgJG1lc3NhZ2UpOiBXcmFwcGVyCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAobmV3IFF1ZXJ5KCkpLT5mcm9tJycK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -368,28 +363,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIGNvbW1vblxtb2RlbHNcc21zXGNoYW5uZWxcQ1VSTEZpbGU7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWZpbmUoJ0InLCB0aW1lKCkpOwogICAgICAgIGVjaG8gQiAtQTtkaWU7Cg==</text>
       </register>
       <register name="r" type="4">
         <text>'</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmaW5lKCdBJywgdGltZSgpKTsK</text>
       </register>
       <register name="s" type="4">
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAieWlpc29mdC95aWkyLWRlYnVnIjogIn4yLjAuMCIsCiAgICAgICAgInlpaXNvZnQveWlpMi1naWkiOiAifjIuMC4wIiwKICAgICAgICAieWlpc29mdC95aWkyLWZha2VyIjogIn4yLjAuMCIsCiAgICAgICAgImNvZGVjZXB0aW9uL2Jhc2UiOiAiXjIuMi4zIiwKICAgICAgICAiY29kZWNlcHRpb24vdmVyaWZ5IjogIn4wLjMuMSIsCiAgICAgICAgInN5bWZvbnkvdmFyLWR1bXBlciI6ICJeNC4zIgo=</text>
+        <text encoding="base64">JGEgPSAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAobmV3IFF1ZXJ5KCkpLT5mcm9tJycK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgJ2hvc3QnICAgICA9PiAnMTIzLjU2LjIyNS4yNTMnLAogICAgICAgICAgICAncG9ydCcgICAgID0+IDU2NzIsCiAgICAgICAgICAgICd1c2VyJyAgICAgPT4gJ2Rldl94eWZfdXNlcicsCiAgICAgICAgICAgICdwYXNzd29yZCcgPT4gJzEyMzQ1NicsCiAgICAgICAgICAgICd2aG9zdCcgICAgPT4gJ2Rldl94eWZfcXVldWUnLA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">dXNlIGNvbW1vblxtb2RlbHNcc21zXGNoYW5uZWxcQ1VSTEZpbGU7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBbCiAgICAgICAgICAgICdob3N0JyAgICAgPT4gJzM5LjEwNS4xLjUwJywKICAgICAgICAgICAgJ3BvcnQnICAgICA9PiA1NjcyLAogICAgICAgICAgICAndXNlcicgICAgID0+ICdkZXZfeHlmX3VzZXInLAogICAgICAgICAgICAncGFzc3dvcmQnID0+ICcxMjM0NTYnLAogICAgICAgICAgICAndmhvc3QnICAgID0+ICdkZXZfeHlmX3F1ZXVlJywKICAgICAgICBdLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -523,13 +518,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJyZXBvc2l0b3JpZXMiOiBbCiAgICAgICAgewogICAgICAgICAgICAidHlwZSI6ICJjb21wb3NlciIsCiAgICAgICAgICAgICJ1cmwiOiAiaHR0cHM6Ly9hc3NldC1wYWNrYWdpc3Qub3JnIgogICAgICAgIH0KICAgIF0K</text>
+        <text encoding="base64">ICAgICAgICAieWlpc29mdC95aWkyLWRlYnVnIjogIn4yLjAuMCIsCiAgICAgICAgInlpaXNvZnQveWlpMi1naWkiOiAifjIuMC4wIiwKICAgICAgICAieWlpc29mdC95aWkyLWZha2VyIjogIn4yLjAuMCIsCiAgICAgICAgImNvZGVjZXB0aW9uL2Jhc2UiOiAiXjIuMi4zIiwKICAgICAgICAiY29kZWNlcHRpb24vdmVyaWZ5IjogIn4wLjMuMSIsCiAgICAgICAgInN5bWZvbnkvdmFyLWR1bXBlciI6ICJeNC4zIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action CloseAllEditors</text>
+        <text>nohls</text>
       </register>
     </registers>
   </component>
