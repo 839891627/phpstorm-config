@@ -43,12 +43,12 @@
         <entry>.action SelectInProjectView</entry>
         <entry>action NextTab</entry>
         <entry>wq</entry>
-        <entry>nohls</entry>
         <entry>action RenameElement</entry>
         <entry>action KJumpAction.Word0</entry>
         <entry>action SelectInProjectView</entry>
         <entry>action Back</entry>
         <entry>action Annotate</entry>
+        <entry>nohls</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -118,6 +118,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Docker/xyf-sms-center/common/tables/SmsRecordBatch.php" timestamp="1594102095760">
+        <mark key="'" line="14" column="6" />
+        <mark key="[" line="27" column="49" />
+        <mark key="]" line="27" column="54" />
+        <mark key="." line="27" column="53" />
+        <mark key="^" line="27" column="54" />
+      </file>
       <file name="$USER_HOME$/Docker/xyf-sms-center/console/controllers/LpSmsController.php" timestamp="1594103097697">
         <mark key="'" line="57" column="90" />
         <mark key="[" line="57" column="12" />
@@ -131,6 +138,20 @@
         <mark key="]" line="38" column="43" />
         <mark key="^" line="38" column="43" />
         <mark key="." line="38" column="42" />
+      </file>
+      <file name="$USER_HOME$/Docker/xyf-sms-center/common/tables/SmsRecord.php" timestamp="1594102459744">
+        <mark key="'" line="44" column="24" />
+        <mark key="[" line="106" column="28" />
+        <mark key="]" line="106" column="32" />
+        <mark key="." line="106" column="31" />
+        <mark key="^" line="106" column="32" />
+      </file>
+      <file name="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/voice/VoiceSms.php" timestamp="1594102240850">
+        <mark key="'" line="60" column="77" />
+        <mark key="[" line="40" column="90" />
+        <mark key="]" line="40" column="106" />
+        <mark key="." line="40" column="105" />
+        <mark key="^" line="40" column="106" />
       </file>
       <file name="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/Sms.php" timestamp="1594102795575">
         <mark key="'" line="127" column="45" />
@@ -162,12 +183,27 @@
         <mark key="^" line="148" column="119" />
         <mark key="." line="148" column="118" />
       </file>
+      <file name="$USER_HOME$/Docker/xyf-sms-center/api/controllers/SmsController.php" timestamp="1594102254537">
+        <mark key="'" line="37" column="34" />
+        <mark key="[" line="90" column="61" />
+        <mark key="]" line="90" column="86" />
+        <mark key="." line="90" column="85" />
+        <mark key="^" line="90" column="86" />
+      </file>
+      <file name="$USER_HOME$/Docker/xyf-credit-system/vendor/xyf/lib/src/helper/Time.php" timestamp="1594103620463">
+        <mark key="[" line="145" column="0" />
+        <mark key="]" line="145" column="0" />
+        <mark key="." line="145" column="0" />
+      </file>
       <file name="$USER_HOME$/Docker/xyf-sms-center/common/models/message/TemplateSms.php" timestamp="1594103194389">
         <mark key="'" line="41" column="12" />
         <mark key="[" line="25" column="32" />
         <mark key="]" line="25" column="32" />
         <mark key="." line="25" column="32" />
         <mark key="^" line="25" column="38" />
+      </file>
+      <file name="$USER_HOME$/Docker/xyf-sms-center/logs/error/20200707.log" timestamp="1594102562778">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/SmsReportCallback.php" timestamp="1594103123534">
         <mark key="'" line="125" column="0" />
@@ -182,43 +218,6 @@
         <mark key="]" line="185" column="57" />
         <mark key="^" line="185" column="57" />
         <mark key="." line="185" column="56" />
-      </file>
-      <file name="$USER_HOME$/Docker/xyf-sms-center/common/tables/SmsRecordBatch.php" timestamp="1594102095760">
-        <mark key="'" line="14" column="6" />
-        <mark key="[" line="27" column="49" />
-        <mark key="]" line="27" column="54" />
-        <mark key="." line="27" column="53" />
-        <mark key="^" line="27" column="54" />
-      </file>
-      <file name="$USER_HOME$/Docker/xyf-sms-center/common/tables/SmsRecord.php" timestamp="1594102459744">
-        <mark key="'" line="44" column="24" />
-        <mark key="[" line="106" column="28" />
-        <mark key="]" line="106" column="32" />
-        <mark key="." line="106" column="31" />
-        <mark key="^" line="106" column="32" />
-      </file>
-      <file name="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/voice/VoiceSms.php" timestamp="1594102240850">
-        <mark key="'" line="60" column="77" />
-        <mark key="[" line="40" column="90" />
-        <mark key="]" line="40" column="106" />
-        <mark key="." line="40" column="105" />
-        <mark key="^" line="40" column="106" />
-      </file>
-      <file name="$USER_HOME$/Docker/xyf-middleware-system/common/services/smsQuery/ChuangRuiYunSmsQuery.php" timestamp="1594106195611" />
-      <file name="$USER_HOME$/Docker/xyf-sms-center/api/controllers/SmsController.php" timestamp="1594102254537">
-        <mark key="'" line="37" column="34" />
-        <mark key="[" line="90" column="61" />
-        <mark key="]" line="90" column="86" />
-        <mark key="." line="90" column="85" />
-        <mark key="^" line="90" column="86" />
-      </file>
-      <file name="$USER_HOME$/Docker/xyf-credit-system/vendor/xyf/lib/src/helper/Time.php" timestamp="1594103620463">
-        <mark key="[" line="145" column="0" />
-        <mark key="]" line="145" column="0" />
-        <mark key="." line="145" column="0" />
-      </file>
-      <file name="$USER_HOME$/Docker/xyf-sms-center/logs/error/20200707.log" timestamp="1594102562778">
-        <mark key="'" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -536,7 +535,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action Annotate</text>
+        <text>nohls</text>
       </register>
     </registers>
   </component>
