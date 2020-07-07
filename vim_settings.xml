@@ -40,15 +40,15 @@
         <entry>.action SelectInProjectView</entry>
         <entry>action RenameElement</entry>
         <entry>action KJumpAction.Word0</entry>
-        <entry>action SelectInProjectView</entry>
         <entry>action Annotate</entry>
-        <entry>action Back</entry>
         <entry>vs</entry>
         <entry>action NextSplitter</entry>
         <entry>action PreviousTab</entry>
         <entry>nohls</entry>
         <entry>action NextTab</entry>
         <entry>wq</entry>
+        <entry>action SelectInProjectView</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -149,13 +149,6 @@
       <file name="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/BaseController.php" timestamp="1594109399700">
         <mark key="'" line="50" column="30" />
       </file>
-      <file name="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/voice/VoiceSms.php" timestamp="1594102240850">
-        <mark key="'" line="60" column="77" />
-        <mark key="[" line="40" column="90" />
-        <mark key="]" line="40" column="106" />
-        <mark key="." line="40" column="105" />
-        <mark key="^" line="40" column="106" />
-      </file>
       <file name="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/Sms.php" timestamp="1594102795575">
         <mark key="'" line="127" column="45" />
         <mark key="[" line="131" column="74" />
@@ -192,13 +185,6 @@
         <mark key="^" line="148" column="119" />
         <mark key="." line="148" column="118" />
       </file>
-      <file name="$USER_HOME$/Docker/xyf-sms-center/api/controllers/SmsController.php" timestamp="1594102254537">
-        <mark key="'" line="37" column="34" />
-        <mark key="[" line="90" column="61" />
-        <mark key="]" line="90" column="86" />
-        <mark key="." line="90" column="85" />
-        <mark key="^" line="90" column="86" />
-      </file>
       <file name="$USER_HOME$/Docker/xyf-credit-system/vendor/xyf/lib/src/helper/Time.php" timestamp="1594103620463">
         <mark key="[" line="145" column="0" />
         <mark key="]" line="145" column="0" />
@@ -221,6 +207,9 @@
         <mark key="^" line="108" column="13" />
         <mark key="." line="131" column="0" />
       </file>
+      <file name="$USER_HOME$/Docker/shoufuyou-service/lib/Models/BankCash/BankCashWebClient.php" timestamp="1594110906961">
+        <mark key="'" line="59" column="50" />
+      </file>
       <file name="$USER_HOME$/Docker/xyf-middleware-system/common/services/sms/ChuangRuiYunSms.php" timestamp="1594105897515">
         <mark key="'" line="180" column="16" />
         <mark key="[" line="185" column="56" />
@@ -230,8 +219,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="127" column="52" filename="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/SmsReportCallback.php" />
-      <jump line="31" column="13" filename="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/Sms.php" />
       <jump line="74" column="5" filename="$USER_HOME$/Docker/xyf-sms-center/common/models/message/TemplateSms.php" />
       <jump line="88" column="16" filename="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/Sms.php" />
       <jump line="118" column="29" filename="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/Sms.php" />
@@ -330,6 +317,8 @@
       <jump line="152" column="323" filename="$USER_HOME$/Docker/xyf-api-gateway/ua_api/modules/jqns/controllers/AfterController.php" />
       <jump line="172" column="78" filename="$USER_HOME$/Docker/xyf-api-gateway/ua_api/modules/jqns/facade/async/Notify.php" />
       <jump line="50" column="30" filename="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/BaseController.php" />
+      <jump line="23" column="35" filename="$USER_HOME$/Docker/shoufuyou-service/lib/Models/BankCash/BankCashWebClient.php" />
+      <jump line="59" column="50" filename="$USER_HOME$/Docker/shoufuyou-service/lib/Models/BankCash/BankCashWebClient.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -544,7 +533,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ2Ftb3VudCcgICAgICAgICA9PiAkdmFsdWVbJ3Nob3VsZF9wYXlfcHJpbmNpcGFsX2ZlZSddICsgJHZhbHVlWydzaG91bGRfcGF5X2ludGVyZXN0X2ZlZSddICsgJHZhbHVlWydzaG91bGRfcGF5X292ZXJkdWVfZmVlJ10gKyAkdmFsdWVbJ3Nob3VsZF9wYXlfYWZ0ZXJfbG9hbl9mZWUnXSArICR2YWx1ZVsnc2hvdWxkX3BheV9wbGF0Zm9ybV9mZWUnXSwK</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>action Back</text>
       </register>
     </registers>
   </component>
