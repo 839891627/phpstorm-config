@@ -32,7 +32,6 @@
         <entry>source ~/.ideavimrc</entry>
         <entry>action KJumpAction</entry>
         <entry>action Annotate</entry>
-        <entry>action Forward</entry>
         <entry>action CloseAllEditors</entry>
         <entry>action FileStructurePopup</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gU3Vycm91bmRXaXRo</entry>
@@ -42,13 +41,14 @@
         <entry>vs</entry>
         <entry>action OpenEditorInOppositeTabGroup</entry>
         <entry>action NextSplitter</entry>
-        <entry>action Back</entry>
         <entry>action NextTab</entry>
         <entry>action PreviousTab</entry>
         <entry>action KJumpAction.Word0</entry>
-        <entry>action SelectInProjectView</entry>
         <entry>nohls</entry>
         <entry>wq</entry>
+        <entry>action SelectInProjectView</entry>
+        <entry>action Forward</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -118,7 +118,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Docker/xyf-sms-center/console/controllers/LpSmsController.php" timestamp="1594093370566">
+      <file name="$USER_HOME$/Docker/xyf-sms-center/console/controllers/LpSmsController.php" timestamp="1594094438725">
         <mark key="'" line="57" column="90" />
         <mark key="[" line="57" column="59" />
         <mark key="]" line="57" column="70" />
@@ -141,8 +141,8 @@
         <mark key="]" line="83" column="0" />
         <mark key="." line="83" column="0" />
       </file>
-      <file name="$USER_HOME$/Docker/xyf-sms-center/common/service/SmsVoiceRecordService.php" timestamp="1594094345189">
-        <mark key="'" line="23" column="22" />
+      <file name="$USER_HOME$/Docker/xyf-sms-center/common/service/SmsVoiceRecordService.php" timestamp="1594094391693">
+        <mark key="'" line="31" column="32" />
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
         <mark key="^" line="24" column="33" />
@@ -171,11 +171,12 @@
         <mark key="." line="24" column="32" />
         <mark key="^" line="24" column="33" />
       </file>
-      <file name="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/SmsReportCallback.php" timestamp="1594094094159">
-        <mark key="'" line="128" column="44" />
-        <mark key="[" line="123" column="0" />
-        <mark key="]" line="123" column="0" />
-        <mark key="." line="123" column="0" />
+      <file name="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/SmsReportCallback.php" timestamp="1594094451152">
+        <mark key="'" line="110" column="4" />
+        <mark key="[" line="133" column="63" />
+        <mark key="]" line="133" column="63" />
+        <mark key="." line="133" column="62" />
+        <mark key="^" line="133" column="63" />
       </file>
       <file name="$USER_HOME$/Docker/xyf-sms-center/common/tables/SmsRecordBatch.php" timestamp="1594091915660">
         <mark key="'" line="14" column="6" />
@@ -220,7 +221,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="0" filename="$USER_HOME$/Docker/xyf-sms-center/console/controllers/LpSmsController.php" />
       <jump line="59" column="42" filename="$USER_HOME$/Docker/xyf-sms-center/console/controllers/LpSmsController.php" />
       <jump line="212" column="4" filename="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/Sms.php" />
       <jump line="11" column="42" filename="$USER_HOME$/Docker/xyf-sms-center/logs/biz/20200706.log" />
@@ -263,7 +263,6 @@
       <jump line="86" column="18" filename="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/SmsReportCallback.php" />
       <jump line="79" column="20" filename="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/SmsReportCallback.php" />
       <jump line="30" column="23" filename="$USER_HOME$/Docker/xyf-sms-center/api/controllers/SmsNotifyController.php" />
-      <jump line="31" column="36" filename="$USER_HOME$/Docker/xyf-sms-center/common/service/SmsVoiceRecordService.php" />
       <jump line="40" column="12" filename="$USER_HOME$/Docker/xyf-sms-center/api/controllers/SmsController.php" />
       <jump line="27" column="32" filename="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/voice/VoiceSms.php" />
       <jump line="32" column="32" filename="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/voice/VoiceSms.php" />
@@ -305,7 +304,6 @@
       <jump line="12" column="19" filename="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/Sms.php" />
       <jump line="131" column="31" filename="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/Sms.php" />
       <jump line="95" column="33" filename="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/voice/VoiceSms.php" />
-      <jump line="57" column="90" filename="$USER_HOME$/Docker/xyf-sms-center/console/controllers/LpSmsController.php" />
       <jump line="120" column="42" filename="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/SmsReportCallback.php" />
       <jump line="31" column="38" filename="$USER_HOME$/Docker/xyf-sms-center/common/tables/SmsRecord.php" />
       <jump line="103" column="10" filename="$USER_HOME$/Docker/xyf-sms-center/common/tables/SmsRecord.php" />
@@ -320,6 +318,9 @@
       <jump line="78" column="28" filename="$USER_HOME$/Docker/xyf-sms-center/common/tables/SmsVoiceRecord.php" />
       <jump line="102" column="29" filename="$USER_HOME$/Docker/xyf-sms-center/common/tables/SmsRecord.php" />
       <jump line="23" column="22" filename="$USER_HOME$/Docker/xyf-sms-center/common/service/SmsVoiceRecordService.php" />
+      <jump line="31" column="32" filename="$USER_HOME$/Docker/xyf-sms-center/common/service/SmsVoiceRecordService.php" />
+      <jump line="57" column="90" filename="$USER_HOME$/Docker/xyf-sms-center/console/controllers/LpSmsController.php" />
+      <jump line="110" column="4" filename="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/SmsReportCallback.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -328,7 +329,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcmVjb3JkKTsK</text>
       </register>
       <register name="c" type="4">
         <text>近</text>
@@ -352,7 +353,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnYmF0Y2hfbnVtJyA9PiAkcmVjb3JkLT5nZXRCYXRjaE51bSgpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcmVjb3JkKTsK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -382,19 +383,19 @@
         <text>&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlY2hvIDI7ZGllOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJG5vdGlmeURhdGE9IFtdOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlY2hvIDI7ZGllOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5ewoKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJG5vdGlmeURhdGE9IFtdOwo=</text>
       </register>
       <register name="v" type="4">
         <text>,</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJHJlY29yZC0+Z2V0QmF0Y2hOdW0oKSk7CiAgICAgICAgICAgIH1jYXRjaCAoIFxFeGNlcHRpb24gJGUpewogICAgICAgICAgICAgICAgZWNobyAkZS0+Z2V0TWVzc2FnZSgpO2RpZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5ewoKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -528,13 +529,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJHJlY29yZC0+Z2V0QmF0Y2hOdW0oKSk7CiAgICAgICAgICAgIH1jYXRjaCAoIFxFeGNlcHRpb24gJGUpewogICAgICAgICAgICAgICAgZWNobyAkZS0+Z2V0TWVzc2FnZSgpO2RpZTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJGJvZHkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>action Back</text>
       </register>
     </registers>
   </component>
