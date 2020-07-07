@@ -45,10 +45,10 @@
         <entry>action KJumpAction.Word0</entry>
         <entry>action NextSplitter</entry>
         <entry>action Annotate</entry>
-        <entry>action Back</entry>
         <entry>wq</entry>
         <entry>action CloseAllEditors</entry>
         <entry>nohls</entry>
+        <entry>action Back</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -118,7 +118,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Docker/shoufuyou-service/lib/Controllers/ZyController.php" timestamp="1594112626558">
+      <file name="$USER_HOME$/Docker/shoufuyou-service/lib/Controllers/ZyController.php" timestamp="1594118751957">
         <mark key="'" line="28" column="24" />
       </file>
       <file name="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/ZyCash/Params/StatusQueryParams.php" timestamp="1594117177237">
@@ -153,9 +153,6 @@
         <mark key="." line="65" column="0" />
         <mark key="^" line="63" column="22" />
       </file>
-      <file name="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" timestamp="1594112082627">
-        <mark key="'" line="23" column="38" />
-      </file>
       <file name="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/CashLoan/BankCash/Params/CreditApplyParams.php" timestamp="1594115638921">
         <mark key="'" line="102" column="4" />
         <mark key="[" line="4" column="0" />
@@ -175,6 +172,9 @@
       </file>
       <file name="/Dummy.txt" timestamp="1594117421761">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Docker/shoufuyou-service/lib/Models/BankCash.php" timestamp="1594118806154">
+        <mark key="'" line="44" column="22" />
       </file>
       <file name="$USER_HOME$/Docker/shoufuyou-service/lib/Models/SlCash/SlWebClient.php" timestamp="1594112875596">
         <mark key="'" line="52" column="27" />
@@ -222,7 +222,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="34" filename="$USER_HOME$/Docker/xyf-sms-center/api/controllers/SmsController.php" />
       <jump line="29" column="31" filename="$USER_HOME$/Docker/xyf-sms-center/common/facade/Sms.php" />
       <jump line="13" column="11" filename="$USER_HOME$/Docker/xyf-sms-center/common/service/SmsRecordBatchService.php" />
       <jump line="8" column="36" filename="$USER_HOME$/Docker/xyf-sms-center/common/service/SmsRecordBatchService.php" />
@@ -268,7 +267,6 @@
       <jump line="156" column="26" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" />
       <jump line="233" column="0" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/XlCash/XlCashLoanOrder.php" />
       <jump line="23" column="38" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" />
-      <jump line="28" column="24" filename="$USER_HOME$/Docker/shoufuyou-service/lib/Controllers/ZyController.php" />
       <jump line="30" column="36" filename="$USER_HOME$/Docker/shoufuyou-service/lib/Models/ZyCash/ZyApi.php" />
       <jump line="82" column="65" filename="$USER_HOME$/Docker/shoufuyou-service/lib/Models/ZyCash/ZyApi.php" />
       <jump line="59" column="0" filename="$USER_HOME$/Docker/shoufuyou-service/lib/Models/SlCash/SlConfig.php" />
@@ -322,6 +320,8 @@
       <jump line="236" column="13" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/ZyCash/Params/ActivationParams.php" />
       <jump line="210" column="34" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/ZyCash/Params/SyncFileParams.php" />
       <jump line="17" column="0" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/ZyCash/Params/CreditApplyParams.php" />
+      <jump line="28" column="24" filename="$USER_HOME$/Docker/shoufuyou-service/lib/Controllers/ZyController.php" />
+      <jump line="44" column="22" filename="$USER_HOME$/Docker/shoufuyou-service/lib/Models/BankCash.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -536,7 +536,7 @@
         <text encoding="base64">ICAgICAgICByZXR1cm4gcGFyZW50OjpnZXRDaGVja1BhcmFtcygpOyAvLyBUT0RPOiBDaGFuZ2UgdGhlIGF1dG9nZW5lcmF0ZWQgc3R1Ygo=</text>
       </register>
       <register name=":" type="4">
-        <text>nohls</text>
+        <text>action Back</text>
       </register>
     </registers>
   </component>
