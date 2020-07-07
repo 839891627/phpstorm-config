@@ -118,13 +118,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Docker/xyf-sms-center/common/tables/SmsRecordBatch.php" timestamp="1594102095760">
-        <mark key="'" line="14" column="6" />
-        <mark key="[" line="27" column="49" />
-        <mark key="]" line="27" column="54" />
-        <mark key="." line="27" column="53" />
-        <mark key="^" line="27" column="54" />
-      </file>
       <file name="$USER_HOME$/Docker/xyf-api-gateway/ua_api/modules/jqns/controllers/AfterController.php" timestamp="1594108961891">
         <mark key="'" line="152" column="323" />
         <mark key="[" line="42" column="0" />
@@ -152,6 +145,9 @@
         <mark key="]" line="106" column="32" />
         <mark key="." line="106" column="31" />
         <mark key="^" line="106" column="32" />
+      </file>
+      <file name="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/BaseController.php" timestamp="1594109399700">
+        <mark key="'" line="50" column="30" />
       </file>
       <file name="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/voice/VoiceSms.php" timestamp="1594102240850">
         <mark key="'" line="60" column="77" />
@@ -234,7 +230,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="30" filename="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/SmsReportCallback.php" />
       <jump line="127" column="52" filename="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/SmsReportCallback.php" />
       <jump line="31" column="13" filename="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/Sms.php" />
       <jump line="74" column="5" filename="$USER_HOME$/Docker/xyf-sms-center/common/models/message/TemplateSms.php" />
@@ -334,6 +329,7 @@
       <jump line="155" column="334" filename="$USER_HOME$/Docker/xyf-api-gateway/ua_api/modules/jqns/controllers/AfterController.php" />
       <jump line="152" column="323" filename="$USER_HOME$/Docker/xyf-api-gateway/ua_api/modules/jqns/controllers/AfterController.php" />
       <jump line="172" column="78" filename="$USER_HOME$/Docker/xyf-api-gateway/ua_api/modules/jqns/facade/async/Notify.php" />
+      <jump line="50" column="30" filename="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/BaseController.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
