@@ -35,7 +35,6 @@
         <entry>action FindUsages</entry>
         <entry>action PreviousTab</entry>
         <entry>sp</entry>
-        <entry>action FileStructurePopup</entry>
         <entry>action OpenEditorInOppositeTabGroup</entry>
         <entry>action RenameElement</entry>
         <entry>action Refactorings.QuickListPopupAction</entry>
@@ -47,8 +46,9 @@
         <entry>action Annotate</entry>
         <entry>wq</entry>
         <entry>action CloseAllEditors</entry>
-        <entry>nohls</entry>
         <entry>action Back</entry>
+        <entry>action FileStructurePopup</entry>
+        <entry>nohls</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -195,11 +195,6 @@
         <mark key="." line="1" column="215" />
         <mark key="^" line="1" column="216" />
       </file>
-      <file name="$USER_HOME$/Docker/shoufuyou-service/data/ZyCash/zy_public_key_prod.pem" timestamp="1594112424558">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/ZyCash/Params/BaseInfoParams.php" timestamp="1594115826392">
         <mark key="'" line="1436" column="45" />
         <mark key="[" line="1450" column="0" />
@@ -217,12 +212,14 @@
         <mark key="^" line="222" column="18" />
         <mark key="." line="222" column="17" />
       </file>
+      <file name="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/VipCardV2Controller.php" timestamp="1594119779297">
+        <mark key="'" line="313" column="53" />
+      </file>
       <file name="$USER_HOME$/Docker/credit/fxd_api/services/FxdHelper.php" timestamp="1594112947378">
         <mark key="'" line="358" column="30" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="31" filename="$USER_HOME$/Docker/xyf-sms-center/common/facade/Sms.php" />
       <jump line="13" column="11" filename="$USER_HOME$/Docker/xyf-sms-center/common/service/SmsRecordBatchService.php" />
       <jump line="8" column="36" filename="$USER_HOME$/Docker/xyf-sms-center/common/service/SmsRecordBatchService.php" />
       <jump line="24" column="23" filename="$USER_HOME$/Docker/xyf-sms-center/common/tables/SmsRecord.php" />
@@ -322,6 +319,7 @@
       <jump line="17" column="0" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/ZyCash/Params/CreditApplyParams.php" />
       <jump line="28" column="24" filename="$USER_HOME$/Docker/shoufuyou-service/lib/Controllers/ZyController.php" />
       <jump line="44" column="22" filename="$USER_HOME$/Docker/shoufuyou-service/lib/Models/BankCash.php" />
+      <jump line="313" column="53" filename="$USER_HOME$/Docker/xinyongfei-app-api/lib/Controllers/VipCardV2Controller.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -536,7 +534,7 @@
         <text encoding="base64">ICAgICAgICByZXR1cm4gcGFyZW50OjpnZXRDaGVja1BhcmFtcygpOyAvLyBUT0RPOiBDaGFuZ2UgdGhlIGF1dG9nZW5lcmF0ZWQgc3R1Ygo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Back</text>
+        <text>nohls</text>
       </register>
     </registers>
   </component>
