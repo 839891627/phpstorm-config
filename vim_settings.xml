@@ -46,8 +46,8 @@
         <entry>action NextSplitter</entry>
         <entry>action Forward</entry>
         <entry>action Annotate</entry>
-        <entry>action Back</entry>
         <entry>action OpenEditorInOppositeTabGroup</entry>
+        <entry>action Back</entry>
         <entry>nohls</entry>
       </history-cmd>
       <history-expr />
@@ -178,6 +178,9 @@
       <file name="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/FundSourceFactory.php" timestamp="1594190081765">
         <mark key="'" line="25" column="27" />
       </file>
+      <file name="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/CashLoanOrder.php" timestamp="1594199518217">
+        <mark key="'" line="3152" column="35" />
+      </file>
       <file name="$USER_HOME$/Docker/xyf-sms-center/common/models/sms/SmsReportCallback.php" timestamp="1594197908644">
         <mark key="'" line="84" column="79" />
         <mark key="j" line="128" column="0" />
@@ -204,14 +207,11 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="14" column="36" />
       </file>
-      <file name="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/ZyCash/Params/ApplyCreditParams.php" timestamp="1594188419980">
-        <mark key="'" line="10" column="6" />
+      <file name="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/RequestCashLoanCommand.php" timestamp="1594199411543">
+        <mark key="'" line="78" column="35" />
       </file>
-      <file name="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/RequestCashLoanCommand.php" timestamp="1594199372032" />
     </filemarks>
     <jumps>
-      <jump line="1" column="1146" filename="$USER_HOME$/Docker/xyf-api-gateway/logs/api/web_client/20200708.log" />
-      <jump line="33" column="6" filename="$USER_HOME$/Docker/xyf-api-gateway/api/controllers/BaseController.php" />
       <jump line="49" column="5" filename="$USER_HOME$/Docker/xyf-api-gateway/api/helper/TokenHelper.php" />
       <jump line="22" column="65" filename="$USER_HOME$/Docker/xyf-api-gateway/api/helper/TokenHelper.php" />
       <jump line="53" column="34" filename="$USER_HOME$/Docker/xyf-api-gateway/api/service/gateways/CreditGateway.php" />
@@ -310,6 +310,8 @@
       <jump line="274" column="42" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" />
       <jump line="282" column="42" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" />
       <jump line="283" column="29" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/FundSource/BankCash/BankCashLoanOrder.php" />
+      <jump line="78" column="35" filename="$USER_HOME$/Docker/shoufuyou-task/lib/Subcommands/RequestCashLoanCommand.php" />
+      <jump line="3152" column="35" filename="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/CashLoanOrder.php" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
