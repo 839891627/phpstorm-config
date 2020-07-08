@@ -31,7 +31,6 @@
       <history-cmd>
         <entry>action FindUsages</entry>
         <entry>sp</entry>
-        <entry>action Annotate</entry>
         <entry>action RenameElement</entry>
         <entry>action FindInPath</entry>
         <entry>action KJumpAction</entry>
@@ -49,6 +48,7 @@
         <entry>nohls</entry>
         <entry>action Back</entry>
         <entry>action FileStructurePopup</entry>
+        <entry>action Annotate</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -521,7 +521,7 @@
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action FileStructurePopup</text>
+        <text>action Annotate</text>
       </register>
     </registers>
   </component>
