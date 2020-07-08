@@ -29,7 +29,6 @@
         <entry>service</entry>
       </history-search>
       <history-cmd>
-        <entry>sp</entry>
         <entry>action RenameElement</entry>
         <entry>action FindInPath</entry>
         <entry>action KJumpAction</entry>
@@ -39,7 +38,6 @@
         <entry>action NextTab</entry>
         <entry>action FileStructurePopup</entry>
         <entry>.nohls</entry>
-        <entry>action SelectInProjectView</entry>
         <entry>action CloseAllEditors</entry>
         <entry>action PreviousTab</entry>
         <entry>vs</entry>
@@ -49,6 +47,8 @@
         <entry>action OpenEditorInOppositeTabGroup</entry>
         <entry>action Back</entry>
         <entry>nohls</entry>
+        <entry>action RecentChangedFiles</entry>
+        <entry>action SelectInProjectView</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -161,7 +161,7 @@
         <mark key="]" line="331" column="0" />
         <mark key="." line="331" column="0" />
       </file>
-      <file name="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/CreditUser.php" timestamp="1594202290747">
+      <file name="$USER_HOME$/Docker/shoufuyou-php-lib/biz-common/Models/CreditUser.php" timestamp="1594202716419">
         <mark key="'" line="2260" column="11" />
         <mark key="[" line="2260" column="35" />
         <mark key="]" line="2260" column="35" />
@@ -526,7 +526,7 @@
         <text encoding="base64">ICAgICAgICAkcHJpdmF0ZUtleSA9IG9wZW5zc2xfcGtleV9nZXRfcHJpdmF0ZSgkcHJpdmF0ZUtleSk7CgogICAgICAgIHJldHVybiAob3BlbnNzbF9wcml2YXRlX2RlY3J5cHQoYmFzZTY0X2RlY29kZSgkZW5jcnlwdGVkKSwgJGRlY3J5cHRlZCwgJHByaXZhdGVLZXksIE9QRU5TU0xfUEtDUzFfUEFERElORykpID8gJGRlY3J5cHRlZCA6IG51bGw7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>nohls</text>
+        <text>action SelectInProjectView</text>
       </register>
     </registers>
   </component>
