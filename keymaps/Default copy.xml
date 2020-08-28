@@ -17,6 +17,7 @@
     <keyboard-shortcut first-keystroke="meta 3" />
   </action>
   <action id="BaseOnThisFunction" />
+  <action id="ChangesView.Move" />
   <action id="CloseContent" />
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="ctrl slash" />
@@ -117,12 +118,16 @@
     <keyboard-shortcut first-keystroke="shift ctrl n" />
   </action>
   <action id="StepOver" />
+  <action id="ToggleFullScreen">
+    <keyboard-shortcut first-keystroke="shift meta m" />
+  </action>
   <action id="ToggleZenMode">
     <keyboard-shortcut first-keystroke="meta m" />
   </action>
   <action id="TypeHierarchy" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
   <action id="Vcs.Log.FocusTextFilter" />
+  <action id="Vcs.MoveChangedLinesToChangelist" />
   <action id="Vcs.ReformatCommitMessage" />
   <action id="tasks.goto" />
 </keymap>
