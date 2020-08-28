@@ -81,6 +81,7 @@
   <action id="Macro.格式化代码">
     <keyboard-shortcut first-keystroke="ctrl meta l" />
   </action>
+  <action id="MinimizeCurrentWindow" />
   <action id="NewElement" />
   <action id="NewElementSamePlace" />
   <action id="NewScratchFile" />
@@ -116,6 +117,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl n" />
   </action>
   <action id="StepOver" />
+  <action id="ToggleZenMode">
+    <keyboard-shortcut first-keystroke="meta m" />
+  </action>
   <action id="TypeHierarchy" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
   <action id="Vcs.Log.FocusTextFilter" />
