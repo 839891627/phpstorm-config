@@ -50,9 +50,7 @@
   <action id="EditorLineEnd">
     <keyboard-shortcut first-keystroke="meta l" />
   </action>
-  <action id="EditorLineStart">
-    <keyboard-shortcut first-keystroke="meta h" />
-  </action>
+  <action id="EditorLineStart" />
   <action id="EditorToggleCase">
     <keyboard-shortcut first-keystroke="shift ctrl u" />
   </action>
@@ -120,9 +118,6 @@
   <action id="StepOver" />
   <action id="ToggleFullScreen">
     <keyboard-shortcut first-keystroke="shift meta m" />
-  </action>
-  <action id="ToggleZenMode">
-    <keyboard-shortcut first-keystroke="meta m" />
   </action>
   <action id="TypeHierarchy" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
