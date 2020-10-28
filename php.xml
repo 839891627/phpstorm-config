@@ -10,7 +10,7 @@
         <remote_data INTERPRETER_PATH="php" HELPERS_PATH="/opt/.phpstorm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" DOCKER_ACCOUNT_NAME="Docker" DOCKER_COMPOSE_SERVICE_NAME="php71" DOCKER_REMOTE_PROJECT_PATH="/opt/project">
           <type_data command="EXEC" />
           <dockerComposeConfigurationPaths>
-            <item value="$USER_HOME$/Docker/dnmp/docker-compose.yml" />
+            <item value="$USER_HOME$/php/dnmp/docker-compose.yml" />
           </dockerComposeConfigurationPaths>
           <envs />
         </remote_data>
