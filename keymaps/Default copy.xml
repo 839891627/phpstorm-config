@@ -1,4 +1,5 @@
 <keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
+  <action id="ActivateCommitToolWindow" />
   <action id="ActivateDockerToolWindow">
     <keyboard-shortcut first-keystroke="meta 5" />
   </action>
@@ -6,9 +7,15 @@
   <action id="ActivateFindToolWindow">
     <keyboard-shortcut first-keystroke="meta 5" />
   </action>
+  <action id="ActivateProblemsViewToolWindow">
+    <keyboard-shortcut first-keystroke="meta 9" />
+  </action>
   <action id="ActivateRunToolWindow" />
   <action id="ActivateStructureToolWindow">
     <keyboard-shortcut first-keystroke="meta 4" />
+  </action>
+  <action id="ActivateTODOToolWindow">
+    <keyboard-shortcut first-keystroke="meta 0" />
   </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="meta 2" />
