@@ -1,14 +1,9 @@
 <application>
-  <component name="PhpCodeSniffer">
-    <phpcs_settings>
-      <phpcs_by_interpreter interpreter_id="54ad9839-56ba-4b6f-a083-5627583ab720" standards="MySource;PEAR;PSR1;PSR12;PSR2;Squiz;Zend" tool_path="/root/.composer/vendor/squizlabs/php_codesniffer/bin/phpcbf" timeout="30000" />
-    </phpcs_settings>
-  </component>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter id="54ad9839-56ba-4b6f-a083-5627583ab720" name="php72" home="docker-compose://DATA" debugger_id="php.debugger.XDebug">
+      <interpreter id="b310122e-bae8-478e-a6ac-b5cc31a04aee" name="php72" home="docker-compose://DATA" debugger_id="php.debugger.XDebug">
         <remote_data INTERPRETER_PATH="php" HELPERS_PATH="/opt/.phpstorm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" DOCKER_ACCOUNT_NAME="Docker" DOCKER_COMPOSE_SERVICE_NAME="php72" DOCKER_REMOTE_PROJECT_PATH="/opt/project">
-          <type_data command="EXEC" />
+          <type_data command="RUN" />
           <dockerComposeConfigurationPaths>
             <item value="$USER_HOME$/php/dnmp/docker-compose.yml" />
           </dockerComposeConfigurationPaths>
@@ -27,7 +22,7 @@
             <configuration_option name="include_path" value=".:/usr/local/lib/php" />
           </configuration_options>
           <debuggers>
-            <debugger_info debugger="xdebug" debugger_version="2.8.0">
+            <debugger_info debugger="xdebug" debugger_version="3.0.1">
               <debug_extensions />
             </debugger_info>
           </debuggers>
