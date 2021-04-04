@@ -1,20 +1,20 @@
 <application>
-  <component name="FileTypeManager" version="18">
+  <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="test" type="AUTO_DETECTED" />
       <mapping ext="wxss" type="CSS" />
       <mapping ext="lakebook" type="DTD" />
-      <mapping pattern="xinfei" type="PLAIN_TEXT" />
-      <mapping pattern="command" type="PLAIN_TEXT" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <mapping pattern="curl-arm" type="PLAIN_TEXT" />
       <mapping pattern="easyswoole" type="PLAIN_TEXT" />
-      <mapping pattern="hosts" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="DOckerfile" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
-      <mapping pattern=".nginx" type="PLAIN_TEXT" />
       <mapping pattern="fastcgi_params" type="PLAIN_TEXT" />
       <mapping pattern="mynginx/Dockerfile" type="PLAIN_TEXT" />
+      <mapping pattern="xinfei" type="PLAIN_TEXT" />
+      <mapping pattern="command" type="PLAIN_TEXT" />
+      <mapping pattern="hosts" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".nginx" type="PLAIN_TEXT" />
       <mapping pattern=".env.develop" type="PLAIN_TEXT" />
       <mapping pattern=".env.ci" type="PLAIN_TEXT" />
       <mapping pattern=".fish" type="PLAIN_TEXT" />
@@ -38,12 +38,13 @@
       <mapping ext="aml" type="PLAIN_TEXT" />
       <mapping ext="java" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
+      <mapping ext="wxml" type="Vue.js" />
+      <mapping ext="wpy" type="Vue.js" />
       <mapping ext="plist" type="XML" />
       <removed_mapping ext="http" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
-      <mapping ext="wpy" type="Vue.js" />
-      <mapping ext="wxml" type="Vue.js" />
       <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping pattern="test" type="AUTO_DETECTED" />
     </extensionMap>
   </component>
 </application>
