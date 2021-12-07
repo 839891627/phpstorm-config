@@ -25,6 +25,7 @@
   <action id="ActivateVersionControlToolWindow">
     <keyboard-shortcut first-keystroke="meta 3" />
   </action>
+  <action id="Back" />
   <action id="BaseOnThisFunction" />
   <action id="ChangesView.Move" />
   <action id="CloseContent" />
@@ -73,12 +74,14 @@
   <action id="ExpandLiveTemplateCustom">
     <keyboard-shortcut first-keystroke="tab" />
   </action>
+  <action id="ExportToTextFile" />
   <action id="FileChooser.GotoModule" />
   <action id="FileChooser.GotoProject" />
   <action id="FileChooser.NewFolder" />
   <action id="FindInPath">
     <keyboard-shortcut first-keystroke="shift ctrl f" />
   </action>
+  <action id="Forward" />
   <action id="Generate">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
@@ -103,6 +106,7 @@
   <action id="NextTemplateVariable">
     <keyboard-shortcut first-keystroke="enter" />
   </action>
+  <action id="OverrideMethods" />
   <action id="PrevParameter" />
   <action id="PrevTemplateParameter" />
   <action id="PreviousTemplateVariable" />
@@ -133,6 +137,7 @@
   <action id="TypeHierarchy" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
   <action id="UsageFiltering.Imports" />
+  <action id="UsageGrouping.FlattenModules" />
   <action id="Vcs.Log.FocusTextFilter" />
   <action id="Vcs.MoveChangedLinesToChangelist" />
   <action id="Vcs.ReformatCommitMessage" />
