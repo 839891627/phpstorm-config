@@ -1,5 +1,7 @@
 <keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
+  <action id="ActivateBookmarksToolWindow" />
   <action id="ActivateCommitToolWindow" />
+  <action id="ActivateDebugToolWindow" />
   <action id="ActivateDockerToolWindow">
     <keyboard-shortcut first-keystroke="meta 5" />
   </action>
