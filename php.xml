@@ -1,10 +1,7 @@
 <application>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter id="76e0b4f1-b58e-43b5-95bf-0c5cc0bee796" name="php72" home="docker-compose://DATA" debugger_id="php.debugger.XDebug">
-        <configuration_options>
-          <configuration_option name="xdebug.client_host" value="host.docker.internal" />
-        </configuration_options>
+      <interpreter id="2f0eb0a3-d8d2-42b9-a095-3a58fd9f1cbe" name="php72" home="docker-compose://DATA" debugger_id="php.debugger.XDebug">
         <remote_data INTERPRETER_PATH="php" HELPERS_PATH="/opt/.phpstorm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" DOCKER_ACCOUNT_NAME="Docker" DOCKER_COMPOSE_SERVICE_NAME="php72" DOCKER_REMOTE_PROJECT_PATH="/opt/project">
           <type_data command="EXEC" />
           <dockerComposeConfigurationPaths>
@@ -25,7 +22,7 @@
             <configuration_option name="include_path" value=".:/usr/local/lib/php" />
           </configuration_options>
           <debuggers>
-            <debugger_info debugger="xdebug" debugger_version="2.8.0">
+            <debugger_info debugger="xdebug" debugger_version="3.0.1">
               <debug_extensions />
             </debugger_info>
           </debuggers>
