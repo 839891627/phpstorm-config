@@ -1,7 +1,9 @@
 <keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
   <action id="ActivateBookmarksToolWindow" />
   <action id="ActivateCommitToolWindow" />
-  <action id="ActivateDebugToolWindow" />
+  <action id="ActivateDebugToolWindow">
+    <keyboard-shortcut first-keystroke="meta 8" />
+  </action>
   <action id="ActivateDockerToolWindow">
     <keyboard-shortcut first-keystroke="meta 5" />
   </action>
@@ -13,6 +15,7 @@
     <keyboard-shortcut first-keystroke="meta 9" />
   </action>
   <action id="ActivateRunToolWindow" />
+  <action id="ActivateServicesToolWindow" />
   <action id="ActivateStructureToolWindow">
     <keyboard-shortcut first-keystroke="meta 4" />
   </action>
